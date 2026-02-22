@@ -1,4 +1,4 @@
-.PHONY: dev down seed ingest
+.PHONY: dev down backend-dev frontend-dev ingest
 
 dev:
 	docker compose up --build
@@ -6,8 +6,11 @@ dev:
 down:
 	docker compose down -v
 
-seed:
-	docker compose run --rm backend python scripts/seed_sources.py
+backend-dev:
+	uvicorn backend.app.main:app --reload --host 127.0.0.1 --port 8000
+
+frontend-dev:
+	cd frontend && npm run dev
 
 ingest:
-	curl -X POST http://localhost:8000/ingest/run
+	curl -X POST http://127.0.0.1:8000/ingest/run

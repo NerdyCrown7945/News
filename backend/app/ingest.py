@@ -1,102 +1,187 @@
 from __future__ import annotations
 
+import hashlib
 import json
-from datetime import datetime, timezone
+import re
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from typing import Any
+from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
+from urllib.request import Request, urlopen
 
 import feedparser
 from dateutil import parser as dt_parser
-from sqlalchemy.orm import Session
 
-from .dedupe import canonicalize_url, normalize_title, similar_title
-from .models import Article, Source
-from .summarize import RuleBasedSummarizer, Summarizer
+from .db import execute, fetch_all, fetch_one, get_conn, init_db
+from .llm import summarize_and_translate
 
-DEFAULT_SOURCES_PATH = Path(__file__).resolve().parents[1] / "sources.json"
+SOURCES_PATH = Path(__file__).resolve().parents[1] / "sources.json"
+TITLE_SIM_THRESHOLD = 0.9
 
 
-def parse_published(entry) -> datetime | None:
+def canonicalize_url(url: str) -> str:
+    parsed = urlparse((url or "").strip())
+    clean_qs = [
+        (k, v)
+        for k, v in parse_qsl(parsed.query, keep_blank_values=True)
+        if not k.lower().startswith("utm_")
+    ]
+    return urlunparse((parsed.scheme.lower(), parsed.netloc.lower(), parsed.path, "", urlencode(clean_qs), ""))
+
+
+def normalize_title(title: str) -> str:
+    cleaned = re.sub(r"[^a-z0-9\s]", " ", (title or "").lower())
+    return re.sub(r"\s+", " ", cleaned).strip()
+
+
+def title_similarity(a: str, b: str) -> float:
+    aw = set(a.split())
+    bw = set(b.split())
+    if not aw or not bw:
+        return 0.0
+    inter = len(aw & bw)
+    union = len(aw | bw)
+    return inter / union if union else 0.0
+
+
+def parse_published(entry: Any) -> str:
     value = entry.get("published") or entry.get("updated") or entry.get("pubDate")
     if not value:
-        return datetime.now(timezone.utc)
+        return datetime.now(timezone.utc).isoformat()
     try:
         dt = dt_parser.parse(value)
         if not dt.tzinfo:
             dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc)
+        return dt.astimezone(timezone.utc).isoformat()
     except Exception:
-        return datetime.now(timezone.utc)
+        return datetime.now(timezone.utc).isoformat()
 
 
-def ensure_sources(db: Session, sources_path: Path = DEFAULT_SOURCES_PATH) -> int:
-    if db.query(Source).count() > 0:
+def extract_content(url: str, fallback: str) -> str:
+    try:
+        req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urlopen(req, timeout=8) as resp:
+            html = resp.read(300000).decode("utf-8", errors="ignore")
+        text = re.sub(r"<script.*?</script>|<style.*?</style>", " ", html, flags=re.S | re.I)
+        text = re.sub(r"<[^>]+>", " ", text)
+        text = re.sub(r"\s+", " ", text).strip()
+        if len(text) > 200:
+            return text[:20000]
+    except Exception:
+        pass
+    return fallback.strip()
+
+
+def ensure_sources() -> int:
+    init_db()
+    sources_row = fetch_one("SELECT COUNT(*) AS cnt FROM sqlite_master WHERE type='table' AND name='sources'")
+    execute(
+        """
+        CREATE TABLE IF NOT EXISTS sources (
+          id INTEGER PRIMARY KEY AUTOINCREMENT,
+          name TEXT NOT NULL,
+          topic TEXT NOT NULL,
+          feed_url TEXT NOT NULL UNIQUE,
+          enabled INTEGER NOT NULL DEFAULT 1
+        )
+        """
+    )
+    count = fetch_one("SELECT COUNT(*) AS cnt FROM sources")
+    if count and count["cnt"] > 0:
         return 0
 
-    raw = json.loads(sources_path.read_text(encoding="utf-8"))
+    rows = json.loads(SOURCES_PATH.read_text(encoding="utf-8"))
+    inserted = 0
+    with get_conn() as conn:
+        for row in rows:
+            conn.execute(
+                "INSERT OR IGNORE INTO sources(name, topic, feed_url, enabled) VALUES (?, ?, ?, ?)",
+                (row["name"], row["topic"], row["feed_url"], 1 if row.get("enabled", True) else 0),
+            )
+            inserted += 1
+        conn.commit()
+    return inserted
+
+
+def run_ingest() -> dict[str, int]:
+    init_db()
+    ensure_sources()
     created = 0
-    for row in raw:
-        db.add(
-            Source(
-                name=row["name"],
-                feed_url=row["feed_url"],
-                topic=row["topic"],
-                enabled=row.get("enabled", True),
-            )
-        )
-        created += 1
+    skipped = 0
+    with get_conn() as conn:
+        sources = conn.execute("SELECT name, topic, feed_url FROM sources WHERE enabled = 1").fetchall()
+        recent_titles = [r["title"] for r in conn.execute("SELECT title FROM articles ORDER BY fetched_at DESC LIMIT 500").fetchall()]
 
-    db.commit()
-    return created
+        for source in sources:
+            parsed = feedparser.parse(source["feed_url"])
+            entries = list(parsed.entries)
+            if not entries:
+                entries = [{
+                    "link": source["feed_url"],
+                    "title": f"{source['name']} latest update",
+                    "summary": f"Unable to fetch RSS content now. Placeholder item for {source['name']}.",
+                    "published": datetime.now(timezone.utc).isoformat(),
+                }]
+            for entry in entries:
+                url = (entry.get("link") or "").strip()
+                if not url:
+                    continue
+                canonical = canonicalize_url(url)
+                if conn.execute("SELECT 1 FROM articles WHERE url_canonical = ?", (canonical,)).fetchone():
+                    skipped += 1
+                    continue
 
+                title = (entry.get("title") or "(untitled)").strip()
+                title_norm = normalize_title(title)
+                if any(title_similarity(title_norm, normalize_title(old)) >= TITLE_SIM_THRESHOLD for old in recent_titles[-100:]):
+                    skipped += 1
+                    continue
 
-def run_ingest(db: Session, summarizer: Summarizer | None = None) -> dict:
-    summarizer = summarizer or RuleBasedSummarizer()
-    ensure_sources(db)
+                snippet = (entry.get("summary") or entry.get("description") or "").strip()
+                content = extract_content(url, snippet)
+                lang = (entry.get("language") or parsed.feed.get("language") or "unknown")[:20]
+                published_at = parse_published(entry)
+                fetched_at = datetime.now(timezone.utc).isoformat()
+                aid = hashlib.sha1(f"{canonical}|{published_at}|{title}".encode("utf-8")).hexdigest()[:20]
 
-    sources = db.query(Source).filter(Source.enabled.is_(True)).all()
-    accepted_titles: list[str] = []
-    created, skipped = 0, 0
+                article = {
+                    "title": title,
+                    "snippet": snippet,
+                    "content_text": content,
+                }
+                title_ko, one_liner, lines, points, tags = summarize_and_translate(article)
 
-    for source in sources:
-        parsed = feedparser.parse(source.feed_url)
-        for entry in parsed.entries:
-            url = entry.get("link")
-            if not url:
-                continue
-
-            canonical = canonicalize_url(url)
-            exists = db.query(Article).filter(Article.url_canonical == canonical).first()
-            if exists:
-                skipped += 1
-                continue
-
-            title = (entry.get("title") or "(untitled)").strip()
-            title_norm = normalize_title(title)
-            if any(similar_title(title_norm, old) for old in accepted_titles):
-                skipped += 1
-                continue
-
-            snippet = (entry.get("summary") or entry.get("description") or "").strip()
-            summary_json = summarizer.summarize(snippet, title)
-
-            db.add(
-                Article(
-                    source_id=source.id,
-                    title=title[:500],
-                    url=url,
-                    url_canonical=canonical[:2000],
-                    published_at=parse_published(entry),
-                    snippet=snippet,
-                    content_text=snippet,
-                    summary_json=summary_json,
+                conn.execute(
+                    """
+                    INSERT OR REPLACE INTO articles (
+                        id, title, title_ko, url, url_canonical, source, topic,
+                        published_at, fetched_at, snippet, content_text,
+                        summary_one_liner_ko, summary_lines_ko, key_points_ko,
+                        tags, lang, cluster_id
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    (
+                        aid,
+                        title,
+                        title_ko,
+                        url,
+                        canonical,
+                        source["name"],
+                        source["topic"],
+                        published_at,
+                        fetched_at,
+                        snippet,
+                        content,
+                        one_liner,
+                        json.dumps(lines, ensure_ascii=False),
+                        json.dumps(points, ensure_ascii=False),
+                        json.dumps(tags, ensure_ascii=False),
+                        lang,
+                        None,
+                    ),
                 )
-            )
-            accepted_titles.append(title_norm)
-            created += 1
+                recent_titles.append(title)
+                created += 1
+        conn.commit()
 
-    db.commit()
-    return {
-        "fetched_sources": len(sources),
-        "created_articles": created,
-        "skipped_duplicates": skipped,
-    }
+    return {"fetched_sources": len(sources), "created_articles": created, "skipped_duplicates": skipped}

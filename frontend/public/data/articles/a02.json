@@ -1,0 +1,35 @@
+{
+  "id": "a02",
+  "title": "New multimodal model improves low-light medical scans",
+  "source": "ResearchWire",
+  "topic": "ai",
+  "published_at": "2026-02-22T04:00:00Z",
+  "importance": 71,
+  "one_liner": "New multimodal model improves low-light medical scans — early results suggest near-term deployment impact.",
+  "url": "https://example.com/articles/a02",
+  "summary_lines": [
+    "New multimodal model improves low-light medical scans 관련 발표가 현지 시간 기준으로 공개됐다.",
+    "초기 지표에서는 비용 대비 성능 개선과 운영 안정성 향상이 함께 관찰됐다.",
+    "업계는 표준화와 검증 체계가 뒤따를 경우 상용 전환 속도가 빨라질 것으로 본다.",
+    "다만 공급망·규제·보안 리스크를 줄이기 위한 후속 작업이 필요하다는 지적도 있다."
+  ],
+  "key_points": [
+    "핵심 기술 지표가 기존 대비 개선됨",
+    "단기 PoC에서 실제 운영 적용 가능성 확인",
+    "규제/신뢰성 검증이 다음 확산 단계의 관건"
+  ],
+  "related": [
+    {
+      "id": "a01",
+      "title": "Open-source AI agent reaches enterprise pilot stage",
+      "source": "TechBrief",
+      "published_at": "2026-02-22T12:00:00Z"
+    },
+    {
+      "id": "a03",
+      "title": "Chip startup unveils 2nm inference accelerator",
+      "source": "Global Science",
+      "published_at": "2026-02-21T20:00:00Z"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-name: Build & Deploy
+name: Deploy Next.js to GitHub Pages
 
 on:
   push:
@@ -10,33 +10,44 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: "npm"
+          cache-dependency-path: frontend/package-lock.json
 
-      - name: Install
+      - name: Install dependencies
         run: npm install
-        working-directory: frontend
 
-      - name: Build
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Next.js
         run: npm run build
-        working-directory: frontend
+        env:
+          # 프로젝트 Pages(/News) 경로용
+          NEXT_PUBLIC_BASE_PATH: /News
 
-      - name: Export
-        run: npm run export
-        working-directory: frontend
-
-      - name: Upload
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: frontend/out
+          path: frontend/.next
 
   deploy:
     needs: build
@@ -44,7 +55,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4

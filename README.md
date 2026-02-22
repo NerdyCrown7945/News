@@ -1,91 +1,58 @@
-# AI & Science/Tech News Digest
+# News MVP (Local-First)
 
-RSS 기반으로 뉴스를 수집/요약해 **정적 프론트 데이터(`frontend/public/data`)**와 **모바일/Flutter용 백엔드 API(FastAPI)**를 함께 운영하는 프로젝트입니다.
+AI/과학기술 RSS를 수집하고, SQLite에 저장하고, 한국어 더미 요약을 제공하는 로컬 MVP입니다.
 
-## 아키텍처 목표
+## 현재 구조
+- `backend/` FastAPI + SQLite(`backend/data/news.db`)
+- `frontend/` Next.js UI (백엔드 API 호출)
+- `backend/sources.json` RSS 소스(토픽: `ai`, `scitech`)
 
-- **현재 배포 프론트**: GitHub Pages(정적) → `public/data` JSON을 직접 읽음
-- **장기 모바일 연동**: FastAPI 백엔드가 동일 데이터를 API로 제공
-- 즉, 지금은 **빌드 타임 정적 데이터 생성은 유지**하면서, 로컬/서버에서는 **API 엔드포인트도 병행 제공**합니다.
-
-## Backend API (FastAPI)
-
-구현된 엔드포인트:
-
+## 백엔드 기능
 - `GET /health`
-- `GET /feed?topic=ai&range=24h`
+- `POST /ingest/run` RSS 수집 실행
+- `GET /feed?topic=ai|scitech|all&range=24h|7d|30d&query=...&tags=...&sort=new`
 - `GET /article/{id}`
-- (운영/개발용) `POST /ingest/run`
+- `GET /search?query=...&from=YYYY-MM-DD&to=YYYY-MM-DD&topic=...`
 
-### 모듈 구조
+수집 파이프라인:
+- RSS 파싱(feedparser)
+- URL canonicalization(utm 제거)
+- 본문 추출(urllib 기반 간단 추출, 실패 시 snippet fallback)
+- 중복 제거(url_canonical + 제목 유사도)
+- 규칙 기반 요약/번역 더미(`backend/app/llm.py`)
 
-- `backend/app/api.py`: FastAPI 라우트
-- `backend/app/ingest.py`: RSS 수집/정제 파이프라인 실행
-- `backend/app/dedupe.py`: URL/제목 중복 제거 유틸
-- `backend/app/summarize.py`: 요약 인터페이스 + 규칙 기반 더미 요약기
-- `backend/app/store.py`: SQLite 저장소/DB 초기화
+## Windows 기준 로컬 실행
 
-기본 DB는 `backend/data.db`(SQLite)입니다.
-
-## 로컬 실행 방법
-
-```bash
+### 1) Python venv + 백엔드 의존성 설치
+```powershell
+python -m venv .venv
+.\.venv\Scripts\activate
 pip install -r backend/requirements.txt
-uvicorn backend.app.main:app --reload --port 8000
 ```
 
-### 데이터 수집(로컬)
-
-초기 실행 후 소스가 없으면 `backend/sources.json`을 읽어 소스를 자동 생성합니다.
-
-```bash
-curl -X POST http://localhost:8000/ingest/run
+### 2) 백엔드 실행
+```powershell
+make backend-dev
 ```
 
-이후 API 호출:
-
-```bash
-curl "http://localhost:8000/feed?topic=ai&range=24h"
-curl "http://localhost:8000/article/1"
-curl "http://localhost:8000/health"
+### 3) 수집 실행
+```powershell
+make ingest
+# 또는
+curl -X POST http://127.0.0.1:8000/ingest/run
 ```
 
-## Flutter에서 호출 예시
-
-```dart
-final baseUrl = 'https://your-backend.example.com';
-
-// 피드
-final feedRes = await http.get(
-  Uri.parse('$baseUrl/feed?topic=ai&range=24h'),
-);
-
-// 기사 상세
-final articleRes = await http.get(
-  Uri.parse('$baseUrl/article/123'),
-);
+### 4) 프론트 실행
+```powershell
+cd frontend
+npm install
+# 선택: API 주소 변경
+# echo NEXT_PUBLIC_API_BASE=http://127.0.0.1:8000 > .env.local
+npm run dev
 ```
 
-## 배포 전략 (권장)
+브라우저: `http://127.0.0.1:3000/News/news`
 
-- **프론트엔드**: GitHub Pages 유지
-  - 기존처럼 `backend/scripts/generate_news_data.py`로 `frontend/public/data` 생성
-- **백엔드(FastAPI)**: Render / Railway / Fly.io 중 택1
-  - `uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT`
-  - 초기에는 SQLite로 시작 가능
-  - 트래픽 증가 시 Postgres로 전환(환경변수 `DATABASE_URL`)
-
-## 기존 Pages용 정적 데이터 생성 유지
-
-아래 스크립트는 그대로 유지됩니다.
-
-```bash
-python backend/scripts/generate_news_data.py --sources backend/sources.json --output frontend/public
-```
-
-생성물:
-
-- `frontend/public/data/feed.json`
-- `frontend/public/data/articles/{id}.json`
-
-즉, **GitHub Pages(정적 소비)**와 **모바일/API 소비**를 동시에 지원하는 구조입니다.
+## 비고
+- GitHub Pages 워크플로는 유지되며, 로컬 MVP는 API 기반으로 동작합니다.
+- 추후 `OPENAI_API_KEY`를 사용해 `backend/app/llm.py`의 TODO 지점을 실제 LLM 호출로 교체할 수 있습니다.

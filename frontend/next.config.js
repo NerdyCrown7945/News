@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // GitHub Pages의 /News 경로 지원
-  basePath: process.env.NEXT_PUBLIC_BASE_PATH || "",
-  assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH || "",
+  output: "export",
+  basePath: "/News",
+  assetPrefix: "/News/",
   images: { unoptimized: true },
 };
 

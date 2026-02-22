@@ -1,9 +1,44 @@
 const API_BASE = process.env.NEXT_PUBLIC_API_BASE || 'http://localhost:8000'
 
+type FeedItem = { id: number }
+
+async function getArticleIds() {
+  const topicRangePairs = [
+    { topic: 'ai', range: '24h' },
+    { topic: 'ai', range: '7d' },
+    { topic: 'scitech', range: '24h' },
+    { topic: 'scitech', range: '7d' },
+  ]
+
+  const feeds = await Promise.all(
+    topicRangePairs.map(async ({ topic, range }) => {
+      const res = await fetch(`${API_BASE}/feed?topic=${topic}&range=${range}`)
+      if (!res.ok) return [] as FeedItem[]
+      return (await res.json()) as FeedItem[]
+    }),
+  )
+
+  return Array.from(new Set(feeds.flat().map((item) => String(item.id))))
+}
+
+export async function generateStaticParams() {
+  try {
+    const ids = await getArticleIds()
+    if (!ids.length) return [{ id: 'preview' }]
+    return ids.map((id) => ({ id }))
+  } catch {
+    return [{ id: 'preview' }]
+  }
+}
+
 async function getArticle(id: string) {
-  const res = await fetch(`${API_BASE}/article/${id}`, { cache: 'no-store' })
-  if (!res.ok) return null
-  return res.json()
+  try {
+    const res = await fetch(`${API_BASE}/article/${id}`)
+    if (!res.ok) return null
+    return res.json()
+  } catch {
+    return null
+  }
 }
 
 export default async function ArticleDetail({ params }: { params: { id: string } }) {

@@ -2,7 +2,7 @@ from datetime import datetime
 from sqlalchemy import Boolean, DateTime, ForeignKey, Integer, String, Text, JSON
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
-from .database import Base
+from .store import Base
 
 
 class Source(Base):

@@ -1,20 +1,3 @@
-import os
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker, DeclarativeBase
+"""Backward-compatible imports for older scripts."""
 
-DATABASE_URL = os.getenv("DATABASE_URL", "postgresql+psycopg2://news:news@localhost:5432/news")
-
-engine = create_engine(DATABASE_URL, pool_pre_ping=True)
-SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)
-
-
-class Base(DeclarativeBase):
-    pass
-
-
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
+from .store import Base, DATABASE_URL, SessionLocal, engine, get_db, init_db

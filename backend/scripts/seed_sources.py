@@ -1,4 +1,4 @@
-from app.database import SessionLocal
+from app.store import SessionLocal, init_db
 from app.models import Source
 
 SOURCES = [
@@ -16,6 +16,7 @@ SOURCES = [
 
 
 def seed():
+    init_db()
     db = SessionLocal()
     try:
         for src in SOURCES:

@@ -1,0 +1,19 @@
+[
+  {"name":"OpenAI Blog","topic":"ai","feed_url":"https://openai.com/news/rss.xml","tags":["llm","research"],"enabled":true},
+  {"name":"Google AI Blog","topic":"ai","feed_url":"https://blog.google/technology/ai/rss/","tags":["ai","industry"],"enabled":true},
+  {"name":"DeepMind Blog","topic":"ai","feed_url":"https://deepmind.google/blog/rss.xml","tags":["research","deepmind"],"enabled":true},
+  {"name":"Anthropic News","topic":"ai","feed_url":"https://www.anthropic.com/news/rss.xml","tags":["safety","llm"],"enabled":true},
+  {"name":"NVIDIA Blog AI","topic":"ai","feed_url":"https://blogs.nvidia.com/blog/category/ai/feed/","tags":["gpu","ai"],"enabled":true},
+  {"name":"MIT News AI","topic":"ai","feed_url":"https://news.mit.edu/rss/topic/artificial-intelligence2","tags":["academia","mit"],"enabled":true},
+  {"name":"Meta AI Blog","topic":"ai","feed_url":"https://ai.meta.com/blog/rss/","tags":["open-source","meta"],"enabled":true},
+  {"name":"AWS ML Blog","topic":"ai","feed_url":"https://aws.amazon.com/blogs/machine-learning/feed/","tags":["cloud","ml"],"enabled":true},
+
+  {"name":"NASA Breaking News","topic":"scitech","feed_url":"https://www.nasa.gov/rss/dyn/breaking_news.rss","tags":["space","nasa"],"enabled":true},
+  {"name":"ESA Top News","topic":"scitech","feed_url":"https://www.esa.int/rssfeed/TopNews","tags":["space","esa"],"enabled":true},
+  {"name":"Nature News","topic":"scitech","feed_url":"https://www.nature.com/nature.rss","tags":["science","journal"],"enabled":true},
+  {"name":"ScienceDaily Tech","topic":"scitech","feed_url":"https://www.sciencedaily.com/rss/computers_math/computer_science.xml","tags":["research","computing"],"enabled":true},
+  {"name":"Ars Technica","topic":"scitech","feed_url":"http://feeds.arstechnica.com/arstechnica/index","tags":["tech","industry"],"enabled":true},
+  {"name":"TechCrunch","topic":"scitech","feed_url":"https://techcrunch.com/feed/","tags":["startup","tech"],"enabled":true},
+  {"name":"The Verge","topic":"scitech","feed_url":"https://www.theverge.com/rss/index.xml","tags":["consumer","tech"],"enabled":true},
+  {"name":"Wired","topic":"scitech","feed_url":"https://www.wired.com/feed/rss","tags":["innovation","tech"],"enabled":true}
+]

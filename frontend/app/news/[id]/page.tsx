@@ -6,11 +6,7 @@ import { notFound } from 'next/navigation'
 type ArticleDetail = {
   id: string
   title: string
-  source: string
-  topic: 'ai' | 'scitech'
-  published_at: string
   url: string
-  one_liner: string
   summary_lines: string[]
   key_points: string[]
   related: Array<{ id: string; title: string; source: string; published_at: string }>
@@ -46,16 +42,8 @@ export default async function ArticleDetailPage({ params }: { params: { id: stri
     <div className="mx-auto max-w-4xl px-4 py-6">
       <Link href="/news" className="text-sm text-blue-600">← Back to list</Link>
       <h1 className="mt-3 text-3xl font-bold text-gray-900">{article.title}</h1>
-      <p className="mt-2 text-sm text-gray-500">
-        {article.source} · {new Date(article.published_at).toLocaleString()}
-      </p>
 
       <section className="mt-6 rounded-xl border bg-white p-5 shadow-sm">
-        <h2 className="text-sm font-semibold uppercase tracking-wide text-gray-500">One-liner</h2>
-        <p className="mt-2 text-base text-gray-800">{article.one_liner}</p>
-      </section>
-
-      <section className="mt-4 rounded-xl border bg-white p-5 shadow-sm">
         <h2 className="text-sm font-semibold uppercase tracking-wide text-gray-500">Summary</h2>
         <div className="mt-2 space-y-2 text-sm leading-6 text-gray-700">
           {article.summary_lines.map((line, idx) => (

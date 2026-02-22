@@ -5,7 +5,7 @@ import { useEffect, useMemo, useState } from 'react'
 
 type TopicFilter = 'all' | 'ai' | 'scitech'
 type RangeFilter = '24h' | '7d' | '30d'
-type SortFilter = 'latest' | 'importance'
+type SortFilter = 'latest'
 
 type FeedItem = {
   id: string
@@ -13,7 +13,9 @@ type FeedItem = {
   source: string
   topic: 'ai' | 'scitech'
   published_at: string
-  importance: number
+  tags: string[]
+  url: string
+  cluster_id: string
   one_liner: string
 }
 
@@ -51,7 +53,6 @@ export default function NewsList() {
         return item.title.toLowerCase().includes(q) || item.one_liner.toLowerCase().includes(q)
       })
       .sort((a, b) => {
-        if (sortBy === 'importance') return b.importance - a.importance
         return new Date(b.published_at).getTime() - new Date(a.published_at).getTime()
       })
   }, [items, keyword, range, sortBy, topic])
@@ -107,7 +108,6 @@ export default function NewsList() {
             onChange={(e) => setSortBy(e.target.value as SortFilter)}
           >
             <option value="latest">최신순</option>
-            <option value="importance">중요도</option>
           </select>
         </div>
       </div>

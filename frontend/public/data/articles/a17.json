@@ -1,12 +1,6 @@
 {
   "id": "a17",
   "title": "Neural implant trial improves stroke rehabilitation",
-  "source": "TechBrief",
-  "topic": "scitech",
-  "published_at": "2026-02-17T04:00:00Z",
-  "importance": 91,
-  "one_liner": "Neural implant trial improves stroke rehabilitation — early results suggest near-term deployment impact.",
-  "url": "https://example.com/articles/a17",
   "summary_lines": [
     "Neural implant trial improves stroke rehabilitation 관련 발표가 현지 시간 기준으로 공개됐다.",
     "초기 지표에서는 비용 대비 성능 개선과 운영 안정성 향상이 함께 관찰됐다.",
@@ -18,6 +12,7 @@
     "단기 PoC에서 실제 운영 적용 가능성 확인",
     "규제/신뢰성 검증이 다음 확산 단계의 관건"
   ],
+  "url": "https://example.com/articles/a17",
   "related": [
     {
       "id": "a16",

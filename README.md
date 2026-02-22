@@ -1,123 +1,97 @@
-# AI & Science/Tech News Digest (MVP)
+# AI & Science/Tech News Digest
 
-FastAPI + Next.js 기반 뉴스 다이제스트 MVP입니다.
+RSS 기반으로 뉴스를 수집/요약해 `frontend/public/data` 정적 JSON을 생성하는 프로젝트입니다.
 
-## 리포지토리 구조
+## 핵심 동작
 
-```
-.
-├── backend
-│   ├── app
-│   │   ├── database.py
-│   │   ├── ingest.py
-│   │   ├── main.py
-│   │   ├── models.py
-│   │   ├── schemas.py
-│   │   └── summarizer.py
-│   ├── scripts
-│   │   └── seed_sources.py
-│   ├── Dockerfile
-│   └── requirements.txt
-├── frontend
-│   ├── app
-│   │   ├── news
-│   │   │   ├── [id]/page.tsx
-│   │   │   └── page.tsx
-│   │   ├── globals.css
-│   │   ├── layout.tsx
-│   │   └── page.tsx
-│   ├── components/NewsList.tsx
-│   ├── public/data
-│   │   ├── feed.json
-│   │   └── articles/{id}.json
-│   ├── Dockerfile
-│   └── package.json
-├── docker-compose.yml
-├── Makefile
-└── README.md
-```
+`backend/scripts/generate_news_data.py` 실행 시 아래를 자동 수행합니다.
 
-## 설치/실행
+1. `backend/sources.json`의 RSS 목록 로드 (`ai` / `scitech` topic 구분)
+2. 피드 파싱 + 네트워크 타임아웃/실패 내성 처리
+3. 중복 제거
+   - `url_canonical` 기준
+   - 제목 유사도(SequenceMatcher) 기준
+4. 규칙 기반 요약 생성
+   - 첫 문단
+   - 핵심 문장(길이/문장 분해 기반)
+   - LLM 확장용 인터페이스(`LLMSummarizerStub`) 유지
+5. 결과 저장
+   - `frontend/public/data/feed.json`
+   - `frontend/public/data/articles/{id}.json`
 
-### 1) 개발 실행
+## 실행 방법
+
 ```bash
-make dev
-```
-- Frontend: http://localhost:3000/News/news
-- Backend: http://localhost:8000/docs
-
-### 2) RSS 소스 시드 (예시 10개)
-```bash
-make seed
+pip install -r backend/requirements.txt
+python backend/scripts/generate_news_data.py --sources backend/sources.json --output frontend/public
 ```
 
-### 3) 수집 실행
-```bash
-curl -X POST http://localhost:8000/ingest/run
-```
-
-## 정적 데이터 스키마 (GitHub Pages export)
+## 출력 스키마
 
 ### `frontend/public/data/feed.json`
-`/news` 목록 화면에서 사용하는 배열 데이터.
 
 ```json
 [
   {
-    "id": "a01",
-    "title": "기사 제목",
-    "source": "매체명",
-    "topic": "ai",
-    "published_at": "2026-02-22T12:00:00Z",
-    "importance": 87,
-    "one_liner": "한 줄 요약"
+    "id": "string",
+    "title": "string",
+    "source": "string",
+    "published_at": "ISO8601",
+    "topic": "ai|scitech",
+    "one_liner": "string",
+    "tags": ["string"],
+    "url": "string",
+    "cluster_id": "string"
   }
 ]
 ```
 
-필드 설명:
-- `id` (string): 상세 JSON 파일명과 동일한 고유 ID
-- `topic` (`ai` | `scitech`)
-- `importance` (number): 중요도 정렬용 점수
-
 ### `frontend/public/data/articles/{id}.json`
-`/news/[id]` 상세 화면에서 사용하는 단일 객체 데이터.
 
 ```json
 {
-  "id": "a01",
-  "title": "기사 제목",
-  "source": "매체명",
-  "topic": "ai",
-  "published_at": "2026-02-22T12:00:00Z",
-  "url": "https://example.com/articles/a01",
-  "one_liner": "한 줄 요약",
-  "summary_lines": ["3~5줄 요약 1", "요약 2", "요약 3"],
-  "key_points": ["핵심 포인트 1", "핵심 포인트 2"],
+  "id": "string",
+  "title": "string",
+  "summary_lines": ["string"],
+  "key_points": ["string"],
+  "url": "string",
   "related": [
     {
-      "id": "a02",
-      "title": "연관 기사 제목",
-      "source": "매체명",
-      "published_at": "2026-02-22T08:00:00Z"
+      "id": "string",
+      "title": "string",
+      "source": "string",
+      "published_at": "ISO8601"
     }
   ]
 }
 ```
 
-## API
+## 소스 추가/수정 방법
 
-### POST `/ingest/run`
-모든 enabled RSS 소스를 가져와 새 기사를 저장합니다.
-- 중복 기준: `url_canonical`
-- 본문 추출: 현재 snippet 기반 (`TODO`로 확장 포인트 유지)
+초기 소스는 `backend/sources.json`에 16개가 들어 있습니다.
 
-### GET `/feed?topic=ai&range=24h`
-주제별 최신 기사 목록(요약 포함) 반환.
+각 항목 형식:
 
-### GET `/article/{id}`
-기사 상세(요약 + 원문 링크) 반환.
+```json
+{
+  "name": "매체명",
+  "topic": "ai",
+  "feed_url": "https://.../rss.xml",
+  "tags": ["llm", "research"],
+  "enabled": true
+}
+```
 
-## 요약기 전략
-- 현재: 규칙 기반(문장 3~5개 추출)
-- 추후: `LLMSummarizerStub` 인터페이스에 실제 LLM 호출 구현
+- `topic`은 반드시 `ai` 또는 `scitech`
+- `enabled: false`로 일시 비활성화 가능
+- 태그는 프론트 필터/표시 확장용 메타데이터
+
+## GitHub Actions 자동화
+
+- `.github/workflows/update-news-data.yml`
+  - 하루 2회(`0 */12 * * *`) + 수동 실행
+  - 데이터 생성 후 변경 사항이 있으면 자동 커밋/푸시
+- `.github/workflows/main.yml`
+  - GitHub Pages 정적 배포 워크플로우
+
+즉, 데이터 워크플로우가 JSON을 갱신해 푸시하면 Pages 배포 워크플로우가 후속 실행됩니다.

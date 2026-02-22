@@ -3,180 +3,220 @@
     "id": "a01",
     "title": "Open-source AI agent reaches enterprise pilot stage",
     "source": "TechBrief",
-    "topic": "ai",
     "published_at": "2026-02-22T12:00:00Z",
-    "importance": 89,
-    "one_liner": "Open-source AI agent reaches enterprise pilot stage — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "Open-source AI agent reaches enterprise pilot stage — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-0"
   },
   {
     "id": "a02",
     "title": "New multimodal model improves low-light medical scans",
     "source": "ResearchWire",
-    "topic": "ai",
     "published_at": "2026-02-22T04:00:00Z",
-    "importance": 71,
-    "one_liner": "New multimodal model improves low-light medical scans — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "New multimodal model improves low-light medical scans — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-0"
   },
   {
     "id": "a03",
     "title": "Chip startup unveils 2nm inference accelerator",
     "source": "Global Science",
-    "topic": "ai",
     "published_at": "2026-02-21T20:00:00Z",
-    "importance": 68,
-    "one_liner": "Chip startup unveils 2nm inference accelerator — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "Chip startup unveils 2nm inference accelerator — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-0"
   },
   {
     "id": "a04",
     "title": "Korean AI lab releases lightweight speech model",
     "source": "Future Daily",
-    "topic": "ai",
     "published_at": "2026-02-21T12:00:00Z",
-    "importance": 69,
-    "one_liner": "Korean AI lab releases lightweight speech model — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "Korean AI lab releases lightweight speech model — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-1"
   },
   {
     "id": "a05",
     "title": "Robotics stack adds safer warehouse navigation",
     "source": "TechBrief",
-    "topic": "ai",
     "published_at": "2026-02-21T04:00:00Z",
-    "importance": 61,
-    "one_liner": "Robotics stack adds safer warehouse navigation — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "Robotics stack adds safer warehouse navigation — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-1"
   },
   {
     "id": "a06",
     "title": "European regulators publish AI transparency checklist",
     "source": "ResearchWire",
-    "topic": "ai",
     "published_at": "2026-02-20T20:00:00Z",
-    "importance": 87,
-    "one_liner": "European regulators publish AI transparency checklist — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "European regulators publish AI transparency checklist — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-1"
   },
   {
     "id": "a07",
     "title": "Foundation model benchmark adds Korean reasoning set",
     "source": "Global Science",
-    "topic": "ai",
     "published_at": "2026-02-20T12:00:00Z",
-    "importance": 89,
-    "one_liner": "Foundation model benchmark adds Korean reasoning set — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "Foundation model benchmark adds Korean reasoning set — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-2"
   },
   {
     "id": "a08",
     "title": "Cloud provider launches budget LLM serving tier",
     "source": "Future Daily",
-    "topic": "ai",
     "published_at": "2026-02-20T04:00:00Z",
-    "importance": 94,
-    "one_liner": "Cloud provider launches budget LLM serving tier — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "Cloud provider launches budget LLM serving tier — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-2"
   },
   {
     "id": "a09",
     "title": "University team reduces hallucination in legal QA",
     "source": "TechBrief",
-    "topic": "ai",
     "published_at": "2026-02-19T20:00:00Z",
-    "importance": 80,
-    "one_liner": "University team reduces hallucination in legal QA — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "University team reduces hallucination in legal QA — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-2"
   },
   {
     "id": "a10",
     "title": "Edge AI camera detects defects in real time",
     "source": "ResearchWire",
-    "topic": "ai",
     "published_at": "2026-02-19T12:00:00Z",
-    "importance": 81,
-    "one_liner": "Edge AI camera detects defects in real time — early results suggest near-term deployment impact."
+    "topic": "ai",
+    "one_liner": "Edge AI camera detects defects in real time — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-3"
   },
   {
     "id": "a11",
     "title": "Battery chemistry breakthrough extends EV winter range",
     "source": "Global Science",
-    "topic": "scitech",
     "published_at": "2026-02-19T04:00:00Z",
-    "importance": 62,
-    "one_liner": "Battery chemistry breakthrough extends EV winter range — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "Battery chemistry breakthrough extends EV winter range — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-3"
   },
   {
     "id": "a12",
     "title": "Reusable rocket startup completes hot-fire milestone",
     "source": "Future Daily",
-    "topic": "scitech",
     "published_at": "2026-02-18T20:00:00Z",
-    "importance": 75,
-    "one_liner": "Reusable rocket startup completes hot-fire milestone — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "Reusable rocket startup completes hot-fire milestone — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-3"
   },
   {
     "id": "a13",
     "title": "Fusion project reports stable plasma record",
     "source": "TechBrief",
-    "topic": "scitech",
     "published_at": "2026-02-18T12:00:00Z",
-    "importance": 91,
-    "one_liner": "Fusion project reports stable plasma record — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "Fusion project reports stable plasma record — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-4"
   },
   {
     "id": "a14",
     "title": "Quantum network test links three city labs",
     "source": "ResearchWire",
-    "topic": "scitech",
     "published_at": "2026-02-18T04:00:00Z",
-    "importance": 82,
-    "one_liner": "Quantum network test links three city labs — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "Quantum network test links three city labs — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-4"
   },
   {
     "id": "a15",
     "title": "New biodegradable sensor tracks soil moisture",
     "source": "Global Science",
-    "topic": "scitech",
     "published_at": "2026-02-17T20:00:00Z",
-    "importance": 97,
-    "one_liner": "New biodegradable sensor tracks soil moisture — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "New biodegradable sensor tracks soil moisture — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-4"
   },
   {
     "id": "a16",
     "title": "Space telescope spots water signatures on exoplanet",
     "source": "Future Daily",
-    "topic": "scitech",
     "published_at": "2026-02-17T12:00:00Z",
-    "importance": 89,
-    "one_liner": "Space telescope spots water signatures on exoplanet — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "Space telescope spots water signatures on exoplanet — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-5"
   },
   {
     "id": "a17",
     "title": "Neural implant trial improves stroke rehabilitation",
     "source": "TechBrief",
-    "topic": "scitech",
     "published_at": "2026-02-17T04:00:00Z",
-    "importance": 91,
-    "one_liner": "Neural implant trial improves stroke rehabilitation — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "Neural implant trial improves stroke rehabilitation — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-5"
   },
   {
     "id": "a18",
     "title": "Ocean drone swarm maps microplastic hotspots",
     "source": "ResearchWire",
-    "topic": "scitech",
     "published_at": "2026-02-16T20:00:00Z",
-    "importance": 69,
-    "one_liner": "Ocean drone swarm maps microplastic hotspots — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "Ocean drone swarm maps microplastic hotspots — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-5"
   },
   {
     "id": "a19",
     "title": "3D-printed turbine blade passes stress testing",
     "source": "Global Science",
-    "topic": "scitech",
     "published_at": "2026-02-16T12:00:00Z",
-    "importance": 74,
-    "one_liner": "3D-printed turbine blade passes stress testing — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "3D-printed turbine blade passes stress testing — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-6"
   },
   {
     "id": "a20",
     "title": "CRISPR study targets rare metabolic disorder",
     "source": "Future Daily",
-    "topic": "scitech",
     "published_at": "2026-02-16T04:00:00Z",
-    "importance": 87,
-    "one_liner": "CRISPR study targets rare metabolic disorder — early results suggest near-term deployment impact."
+    "topic": "scitech",
+    "one_liner": "CRISPR study targets rare metabolic disorder — early results suggest near-term deployment impact.",
+    "tags": [],
+    "url": "",
+    "cluster_id": "c-legacy-6"
   }
 ]

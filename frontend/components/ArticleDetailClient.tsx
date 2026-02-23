@@ -36,14 +36,28 @@ const normalizeArray = (value: unknown): string[] => {
   return value.filter((item): item is string => typeof item === 'string' && item.trim().length > 0)
 }
 
-const SECTION_PATHS = ['blog', 'blogs', 'news', 'updates', 'stories', 'research', 'press', 'discover/blog']
+const SECTION_PATHS = ['blog', 'blogs', 'news', 'updates', 'stories', 'research', 'press']
 
 const isLikelyHomeOrSectionUrl = (value: string): boolean => {
   try {
     const parsed = new URL(value)
     const path = parsed.pathname.replace(/^\/+|\/+$/g, '').toLowerCase()
     if (!path) return true
-    return SECTION_PATHS.includes(path)
+
+    const segments = path.split('/').filter(Boolean)
+    if (!segments.length) return true
+
+    if (segments.length === 1) {
+      return SECTION_PATHS.includes(segments[0])
+    }
+
+    if (segments.length <= 2) {
+      const joined = segments.join('/')
+      if (joined === 'discover/blog') return true
+      if (SECTION_PATHS.includes(segments[0])) return true
+    }
+
+    return false
   } catch {
     return true
   }

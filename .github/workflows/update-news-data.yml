@@ -24,7 +24,7 @@ jobs:
         run: pip install -r backend/requirements.txt
 
       - name: Generate static RSS data
-        run: python backend/scripts/generate_news_data.py --sources backend/sources.json --output frontend/public
+        run: python backend/scripts/generate_news_data.py --sources backend/sources.json --output frontend/public --max-articles 150
 
       - name: Commit and push updated JSON
         run: |

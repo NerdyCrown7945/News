@@ -15,14 +15,25 @@ from typing import Any
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 import feedparser
-from urllib.request import Request, urlopen
 from dateutil import parser as dt_parser
+from urllib.request import Request, urlopen
 
 LOGGER = logging.getLogger("news-pipeline")
 USER_AGENT = "NewsDigestBot/1.0 (+https://github.com/)"
 TIMEOUT = 12
-MAX_ARTICLES = 120
+DEFAULT_MAX_ARTICLES = 150
 TITLE_SIM_THRESHOLD = 0.9
+TRACKING_QUERY_PREFIXES = (
+    "utm_",
+    "fbclid",
+    "gclid",
+    "mc_cid",
+    "mc_eid",
+    "spm",
+    "igshid",
+    "wt_",
+)
+HOMEPAGE_PATH_HINTS = {"", "blog", "blogs", "news", "updates", "stories", "research", "press"}
 
 
 class Summarizer:
@@ -48,20 +59,13 @@ class RuleBasedSummarizer(Summarizer):
         key_sentence = max(sentences[:6], key=len) if sentences else first_sentence
 
         summary_lines = unique_keep_order([first_paragraph, key_sentence])[:3]
-        key_points = unique_keep_order(sentences[:4] or [first_sentence])[:3]
+        key_points = unique_keep_order(sentences[:4] or [first_sentence])[:4]
 
         return {
             "one_liner": first_sentence[:220],
             "summary_lines": summary_lines,
             "key_points": key_points,
         }
-
-
-class LLMSummarizerStub(Summarizer):
-    """Interface stub for future LLM-based summarization."""
-
-    def summarize(self, text: str, title: str) -> dict[str, Any]:
-        raise NotImplementedError("Implement external LLM summarizer here.")
 
 
 @dataclass
@@ -92,8 +96,7 @@ class Article:
 def clean_text(value: str) -> str:
     no_tags = re.sub(r"<[^>]+>", " ", value or "")
     unescaped = html.unescape(no_tags)
-    compact = re.sub(r"\s+", " ", unescaped).strip()
-    return compact
+    return re.sub(r"\s+", " ", unescaped).strip()
 
 
 def split_sentences(text: str) -> list[str]:
@@ -111,10 +114,66 @@ def unique_keep_order(items: list[str]) -> list[str]:
     return out
 
 
+def _is_http_url(url: str) -> bool:
+    parsed = urlparse((url or "").strip())
+    return parsed.scheme in {"http", "https"} and bool(parsed.netloc)
+
+
 def canonicalize_url(url: str) -> str:
     parsed = urlparse((url or "").strip())
-    clean_qs = [(k, v) for k, v in parse_qsl(parsed.query, keep_blank_values=True) if not k.lower().startswith("utm_")]
-    return urlunparse((parsed.scheme.lower(), parsed.netloc.lower(), parsed.path, "", urlencode(clean_qs), ""))
+    if not parsed.scheme or not parsed.netloc:
+        return ""
+
+    clean_qs = [
+        (k, v)
+        for k, v in parse_qsl(parsed.query, keep_blank_values=True)
+        if not any(k.lower().startswith(prefix) for prefix in TRACKING_QUERY_PREFIXES)
+    ]
+    path = parsed.path or "/"
+    return urlunparse(
+        (
+            parsed.scheme.lower(),
+            parsed.netloc.lower(),
+            path,
+            "",
+            urlencode(clean_qs, doseq=True),
+            "",
+        )
+    )
+
+
+def is_home_or_section_url(url: str) -> bool:
+    if not _is_http_url(url):
+        return True
+    parsed = urlparse(url)
+    path = (parsed.path or "").strip("/").lower()
+    if path in HOMEPAGE_PATH_HINTS and not parsed.query:
+        return True
+    return path == ""
+
+
+def extract_entry_url(entry: dict[str, Any]) -> str:
+    candidates: list[str] = []
+
+    link = (entry.get("link") or "").strip()
+    if link:
+        candidates.append(link)
+
+    guid = (entry.get("guid") or entry.get("id") or "").strip()
+    if guid:
+        candidates.append(guid)
+
+    for link_item in entry.get("links", []) or []:
+        href = (link_item.get("href") or "").strip()
+        rel = (link_item.get("rel") or "").strip().lower()
+        if href and rel in {"", "alternate"}:
+            candidates.append(href)
+
+    valid = [c for c in candidates if _is_http_url(c)]
+    for c in valid:
+        if not is_home_or_section_url(c):
+            return c
+    return valid[0] if valid else ""
 
 
 def parse_published(entry: dict[str, Any]) -> datetime:
@@ -141,8 +200,8 @@ def similar_title(a: str, b: str) -> bool:
     return SequenceMatcher(a=a, b=b).ratio() >= TITLE_SIM_THRESHOLD
 
 
-def article_id(canonical_url: str) -> str:
-    return hashlib.sha1(canonical_url.encode("utf-8")).hexdigest()[:12]
+def article_id(seed: str) -> str:
+    return hashlib.sha1(seed.encode("utf-8")).hexdigest()[:12]
 
 
 def fetch_feed(url: str) -> feedparser.FeedParserDict | None:
@@ -158,18 +217,19 @@ def fetch_feed(url: str) -> feedparser.FeedParserDict | None:
 
 def load_sources(path: Path) -> list[Source]:
     raw = json.loads(path.read_text(encoding="utf-8"))
-    sources = []
+    dedup: dict[tuple[str, str], Source] = {}
     for row in raw:
-        sources.append(
-            Source(
-                name=row["name"],
-                topic=row["topic"],
-                feed_url=row["feed_url"],
-                tags=row.get("tags", []),
-                enabled=row.get("enabled", True),
-            )
+        source = Source(
+            name=row["name"],
+            topic=row["topic"],
+            feed_url=row["feed_url"],
+            tags=row.get("tags", []),
+            enabled=row.get("enabled", True),
         )
-    return sources
+        key = (source.topic.strip().lower(), source.feed_url.strip().lower())
+        if key not in dedup:
+            dedup[key] = source
+    return list(dedup.values())
 
 
 def assign_cluster_id(title_norm: str, existing_titles: dict[str, str]) -> str:
@@ -180,8 +240,8 @@ def assign_cluster_id(title_norm: str, existing_titles: dict[str, str]) -> str:
     return f"c-{seed}"
 
 
-def generate_data(sources: list[Source], summarizer: Summarizer) -> list[Article]:
-    seen_urls: set[str] = set()
+def generate_data(sources: list[Source], summarizer: Summarizer, max_articles: int = DEFAULT_MAX_ARTICLES) -> list[Article]:
+    seen_keys: set[str] = set()
     accepted_titles: list[str] = []
     cluster_by_title: dict[str, str] = {}
     articles: list[Article] = []
@@ -194,24 +254,23 @@ def generate_data(sources: list[Source], summarizer: Summarizer) -> list[Article
             continue
 
         for entry in parsed.entries:
-            url = entry.get("link")
-            if not url:
-                continue
-
-            canonical = canonicalize_url(url)
-            if canonical in seen_urls:
-                continue
+            raw_url = extract_entry_url(entry)
+            canonical = canonicalize_url(raw_url) if raw_url else ""
 
             title = (entry.get("title") or "(untitled)").strip()
             title_norm = normalize_title(title)
+            dedupe_key = canonical or f"{source.name.lower()}::{title_norm}"
+            if dedupe_key in seen_keys:
+                continue
+
             if any(similar_title(title_norm, t) for t in accepted_titles):
                 continue
 
             snippet = clean_text(entry.get("summary") or entry.get("description") or "")
             summary = summarizer.summarize(snippet or title, title)
             published = parse_published(entry).isoformat().replace("+00:00", "Z")
-            aid = article_id(canonical)
             cluster_id = assign_cluster_id(title_norm, cluster_by_title)
+            aid = article_id(canonical or f"{source.name}|{title}|{published}")
 
             item = Article(
                 id=aid,
@@ -221,20 +280,20 @@ def generate_data(sources: list[Source], summarizer: Summarizer) -> list[Article
                 topic=source.topic,
                 one_liner=summary["one_liner"],
                 tags=source.tags,
-                url=url,
+                url=canonical,
                 cluster_id=cluster_id,
                 summary_lines=summary["summary_lines"],
                 key_points=summary["key_points"],
                 title_norm=title_norm,
             )
             articles.append(item)
-            seen_urls.add(canonical)
+            seen_keys.add(dedupe_key)
             accepted_titles.append(title_norm)
             cluster_by_title[title_norm] = cluster_id
 
-            if len(articles) >= MAX_ARTICLES:
+            if len(articles) >= max_articles:
                 break
-        if len(articles) >= MAX_ARTICLES:
+        if len(articles) >= max_articles:
             break
 
     articles.sort(key=lambda a: a.published_at, reverse=True)
@@ -287,8 +346,12 @@ def write_output(articles: list[Article], output_root: Path) -> None:
         detail = {
             "id": article.id,
             "title": article.title,
+            "source": article.source,
+            "published_at": article.published_at,
             "summary_lines": article.summary_lines,
             "key_points": article.key_points,
+            "summary_lines_ko": article.summary_lines,
+            "key_points_ko": article.key_points,
             "url": article.url,
             "related": related,
         }
@@ -303,13 +366,14 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Generate static RSS news data for frontend/public/data")
     parser.add_argument("--sources", default="backend/sources.json", help="path to sources JSON")
     parser.add_argument("--output", default="frontend/public", help="frontend public directory")
+    parser.add_argument("--max-articles", type=int, default=DEFAULT_MAX_ARTICLES, help="maximum number of items to generate")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     sources = load_sources(Path(args.sources))
-    articles = generate_data(sources=sources, summarizer=RuleBasedSummarizer())
+    articles = generate_data(sources=sources, summarizer=RuleBasedSummarizer(), max_articles=max(10, args.max_articles))
     write_output(articles, Path(args.output))
-    LOGGER.info("generated %s articles", len(articles))
+    LOGGER.info("generated %s articles from %s sources", len(articles), len(sources))
 
 
 if __name__ == "__main__":

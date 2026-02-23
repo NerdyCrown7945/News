@@ -10,16 +10,5 @@
     "This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic."
   ],
   "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-  "related": [],
-  "source": "OpenAI Blog",
-  "published_at": "2025-12-22T00:00:00Z",
-  "title_ko": "Continuously hardening ChatGPT Atlas against prompt injection",
-  "summary_lines_ko": [
-    "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
-    "This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic."
-  ],
-  "key_points_ko": [
-    "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning.",
-    "This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic."
-  ]
+  "related": []
 }

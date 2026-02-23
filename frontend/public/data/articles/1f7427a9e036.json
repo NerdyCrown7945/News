@@ -8,14 +8,5 @@
     "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work."
   ],
   "url": "https://openai.com/index/introducing-gpt-5-3-codex",
-  "related": [],
-  "source": "OpenAI Blog",
-  "published_at": "2026-02-05T00:00:00Z",
-  "title_ko": "Introducing GPT-5.3-Codex",
-  "summary_lines_ko": [
-    "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work."
-  ],
-  "key_points_ko": [
-    "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work."
-  ]
+  "related": []
 }

@@ -8,14 +8,5 @@
     "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
   ],
   "url": "https://openai.com/index/our-approach-to-age-prediction",
-  "related": [],
-  "source": "OpenAI Blog",
-  "published_at": "2026-01-20T00:00:00Z",
-  "title_ko": "Our approach to age prediction",
-  "summary_lines_ko": [
-    "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
-  ],
-  "key_points_ko": [
-    "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time."
-  ]
+  "related": []
 }

@@ -10,16 +10,5 @@
     "The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency."
   ],
   "url": "https://openai.com/index/gpt-5-1-codex-max",
-  "related": [],
-  "source": "OpenAI Blog",
-  "published_at": "2025-11-19T00:00:00Z",
-  "title_ko": "Building more with GPT-5.1-Codex-Max",
-  "summary_lines_ko": [
-    "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
-    "The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency."
-  ],
-  "key_points_ko": [
-    "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex.",
-    "The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency."
-  ]
+  "related": []
 }

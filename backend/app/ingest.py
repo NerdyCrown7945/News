@@ -132,7 +132,6 @@ def extract_content(url: str, fallback: str) -> str:
 
 def ensure_sources() -> int:
     init_db()
-    sources_row = fetch_one("SELECT COUNT(*) AS cnt FROM sqlite_master WHERE type='table' AND name='sources'")
     execute(
         """
         CREATE TABLE IF NOT EXISTS sources (

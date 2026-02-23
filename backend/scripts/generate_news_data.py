@@ -232,20 +232,31 @@ def fetch_feed(url: str) -> feedparser.FeedParserDict | None:
         return None
 
 
+def _slugify_source_id(name: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", (name or "").lower()).strip("-")
+    return slug or "source"
+
+
 def load_sources(path: Path) -> list[Source]:
     raw = json.loads(path.read_text(encoding="utf-8"))
     dedup: dict[tuple[str, str], Source] = {}
     for row in raw:
+        name = str(row.get("name", "")).strip()
+        topic = str(row.get("topic", "")).strip().lower()
+        feed_url = str(row.get("feed_url", "")).strip()
+        if not name or topic not in {"ai", "scitech"} or not feed_url:
+            continue
+
         source = Source(
-            id=row.get("id") or row["name"].lower().replace(" ", "-"),
-            name=row["name"],
-            topic=row["topic"],
-            feed_url=row["feed_url"],
-            site_url=row.get("site_url", ""),
-            language_hint=row.get("language_hint", "en"),
-            reliability=row.get("reliability", "med"),
-            tags=row.get("tags", []),
-            enabled=row.get("enabled", True),
+            id=str(row.get("id") or _slugify_source_id(name)),
+            name=name,
+            topic=topic,
+            feed_url=feed_url,
+            site_url=str(row.get("site_url", "") or ""),
+            language_hint=str(row.get("language_hint", "en") or "en"),
+            reliability=str(row.get("reliability", "med") or "med"),
+            tags=[str(tag) for tag in (row.get("tags") or []) if str(tag).strip()],
+            enabled=bool(row.get("enabled", True)),
         )
         key = (source.topic.strip().lower(), source.feed_url.strip().lower())
         if key not in dedup:

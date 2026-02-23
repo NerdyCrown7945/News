@@ -18,6 +18,8 @@ from .llm import summarize_and_translate
 SOURCES_PATH = Path(__file__).resolve().parents[1] / "sources.json"
 TITLE_SIM_THRESHOLD = 0.9
 TRACKING_QUERY_PREFIXES = ("utm_", "fbclid", "gclid", "mc_cid", "mc_eid", "spm", "igshid", "wt_")
+
+# 홈/섹션 판정은 path가 비어있는 경우를 별도 처리하므로 ""는 포함하지 않는다.
 HOMEPAGE_PATH_HINTS = {"blog", "blogs", "news", "updates", "stories", "research", "press"}
 
 
@@ -41,6 +43,7 @@ def canonicalize_url(url: str) -> str:
 
 
 def is_home_or_section_url(url: str) -> bool:
+    """개별 기사 URL이 아니라 홈/섹션(목록) URL이면 True."""
     if not _is_http_url(url):
         return True
     parsed = urlparse(url)
@@ -61,6 +64,11 @@ def is_home_or_section_url(url: str) -> bool:
 
 
 def extract_entry_url(entry: Any) -> str:
+    """
+    RSS entry에서 '개별 기사' 링크를 최대한 정확히 추출한다.
+    추측으로 URL을 만들지 않고, entry가 제공하는 근거(link/alternate/guid)만 사용한다.
+    홈/섹션 링크로 판정되면 빈 문자열을 반환한다.
+    """
     candidates: list[str] = []
 
     link = (entry.get("link") or "").strip()
@@ -85,154 +93,3 @@ def extract_entry_url(entry: Any) -> str:
             return canonical
 
     return ""
-
-
-def normalize_title(title: str) -> str:
-    cleaned = re.sub(r"[^a-z0-9\s]", " ", (title or "").lower())
-    return re.sub(r"\s+", " ", cleaned).strip()
-
-
-def title_similarity(a: str, b: str) -> float:
-    aw = set(a.split())
-    bw = set(b.split())
-    if not aw or not bw:
-        return 0.0
-    inter = len(aw & bw)
-    union = len(aw | bw)
-    return inter / union if union else 0.0
-
-
-def parse_published(entry: Any) -> str:
-    value = entry.get("published") or entry.get("updated") or entry.get("pubDate")
-    if not value:
-        return datetime.now(timezone.utc).isoformat()
-    try:
-        dt = dt_parser.parse(value)
-        if not dt.tzinfo:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc).isoformat()
-    except Exception:
-        return datetime.now(timezone.utc).isoformat()
-
-
-def extract_content(url: str, fallback: str) -> str:
-    try:
-        req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urlopen(req, timeout=8) as resp:
-            html = resp.read(300000).decode("utf-8", errors="ignore")
-        text = re.sub(r"<script.*?</script>|<style.*?</style>", " ", html, flags=re.S | re.I)
-        text = re.sub(r"<[^>]+>", " ", text)
-        text = re.sub(r"\s+", " ", text).strip()
-        if len(text) > 200:
-            return text[:20000]
-    except Exception:
-        pass
-    return fallback.strip()
-
-
-def ensure_sources() -> int:
-    init_db()
-    execute(
-        """
-        CREATE TABLE IF NOT EXISTS sources (
-          id INTEGER PRIMARY KEY AUTOINCREMENT,
-          name TEXT NOT NULL,
-          topic TEXT NOT NULL,
-          feed_url TEXT NOT NULL UNIQUE,
-          enabled INTEGER NOT NULL DEFAULT 1
-        )
-        """
-    )
-    count = fetch_one("SELECT COUNT(*) AS cnt FROM sources")
-    if count and count["cnt"] > 0:
-        return 0
-
-    rows = json.loads(SOURCES_PATH.read_text(encoding="utf-8"))
-    inserted = 0
-    with get_conn() as conn:
-        for row in rows:
-            conn.execute(
-                "INSERT OR IGNORE INTO sources(name, topic, feed_url, enabled) VALUES (?, ?, ?, ?)",
-                (row["name"], row["topic"], row["feed_url"], 1 if row.get("enabled", True) else 0),
-            )
-            inserted += 1
-        conn.commit()
-    return inserted
-
-
-def run_ingest() -> dict[str, int]:
-    init_db()
-    ensure_sources()
-    created = 0
-    skipped = 0
-    with get_conn() as conn:
-        sources = conn.execute("SELECT name, topic, feed_url FROM sources WHERE enabled = 1").fetchall()
-        recent_titles = [r["title"] for r in conn.execute("SELECT title FROM articles ORDER BY fetched_at DESC LIMIT 500").fetchall()]
-
-        for source in sources:
-            parsed = feedparser.parse(source["feed_url"])
-            entries = list(parsed.entries)
-            if not entries:
-                continue
-            for entry in entries:
-                url = extract_entry_url(entry)
-                canonical = canonicalize_url(url) if url else ""
-                if canonical and conn.execute("SELECT 1 FROM articles WHERE url_canonical = ?", (canonical,)).fetchone():
-                    skipped += 1
-                    continue
-
-                title = (entry.get("title") or "(untitled)").strip()
-                title_norm = normalize_title(title)
-                if any(title_similarity(title_norm, normalize_title(old)) >= TITLE_SIM_THRESHOLD for old in recent_titles[-100:]):
-                    skipped += 1
-                    continue
-
-                snippet = (entry.get("summary") or entry.get("description") or "").strip()
-                content = extract_content(url, snippet)
-                lang = (entry.get("language") or parsed.feed.get("language") or "unknown")[:20]
-                published_at = parse_published(entry)
-                fetched_at = datetime.now(timezone.utc).isoformat()
-                aid_seed = canonical or f"{source['name']}|{title}|{published_at}"
-                aid = hashlib.sha1(aid_seed.encode("utf-8")).hexdigest()[:20]
-
-                article = {
-                    "title": title,
-                    "snippet": snippet,
-                    "content_text": content,
-                }
-                title_ko, one_liner, lines, points, tags = summarize_and_translate(article)
-
-                conn.execute(
-                    """
-                    INSERT OR REPLACE INTO articles (
-                        id, title, title_ko, url, url_canonical, source, topic,
-                        published_at, fetched_at, snippet, content_text,
-                        summary_one_liner_ko, summary_lines_ko, key_points_ko,
-                        tags, lang, cluster_id
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                    """,
-                    (
-                        aid,
-                        title,
-                        title_ko,
-                        url,
-                        canonical or f"urn:news:{aid}",
-                        source["name"],
-                        source["topic"],
-                        published_at,
-                        fetched_at,
-                        snippet,
-                        content,
-                        one_liner,
-                        json.dumps(lines, ensure_ascii=False),
-                        json.dumps(points, ensure_ascii=False),
-                        json.dumps(tags, ensure_ascii=False),
-                        lang,
-                        None,
-                    ),
-                )
-                recent_titles.append(title)
-                created += 1
-        conn.commit()
-
-    return {"fetched_sources": len(sources), "created_articles": created, "skipped_duplicates": skipped}

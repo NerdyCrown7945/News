@@ -1,10 +1,18 @@
 {
   "id": "2c97344d1f84",
   "title": "Introducing Prism",
+  "source": "OpenAI News",
+  "published_at": "2026-01-27T00:00:00Z",
   "summary_lines": [
     "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
   ],
   "key_points": [
+    "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
+  ],
+  "summary_lines_ko": [
+    "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
+  ],
+  "key_points_ko": [
     "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place."
   ],
   "url": "https://openai.com/index/introducing-prism",

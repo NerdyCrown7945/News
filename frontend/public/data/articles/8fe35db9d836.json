@@ -1,10 +1,18 @@
 {
   "id": "8fe35db9d836",
   "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+  "source": "OpenAI News",
+  "published_at": "2026-01-20T05:45:00Z",
   "summary_lines": [
     "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform."
   ],
   "key_points": [
+    "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform."
+  ],
+  "summary_lines_ko": [
+    "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform."
+  ],
+  "key_points_ko": [
     "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform."
   ],
   "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",

@@ -1,11 +1,22 @@
 {
   "id": "92c787efe61c",
   "title": "Mixpanel security incident: what OpenAI users need to know",
+  "source": "OpenAI News",
+  "published_at": "2025-11-26T19:00:00Z",
   "summary_lines": [
     "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
     "OpenAI shares details about a Mixpanel security incident involving limited API analytics data."
   ],
   "key_points": [
+    "OpenAI shares details about a Mixpanel security incident involving limited API analytics data.",
+    "No API content, credentials, or payment details were exposed.",
+    "Learn what happened and how we’re protecting users."
+  ],
+  "summary_lines_ko": [
+    "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+    "OpenAI shares details about a Mixpanel security incident involving limited API analytics data."
+  ],
+  "key_points_ko": [
     "OpenAI shares details about a Mixpanel security incident involving limited API analytics data.",
     "No API content, credentials, or payment details were exposed.",
     "Learn what happened and how we’re protecting users."

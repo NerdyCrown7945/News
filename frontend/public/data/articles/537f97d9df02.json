@@ -1,10 +1,18 @@
 {
   "id": "537f97d9df02",
   "title": "Introducing OpenAI Frontier",
+  "source": "OpenAI News",
+  "published_at": "2026-02-05T06:00:00Z",
   "summary_lines": [
     "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance."
   ],
   "key_points": [
+    "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance."
+  ],
+  "summary_lines_ko": [
+    "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance."
+  ],
+  "key_points_ko": [
     "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance."
   ],
   "url": "https://openai.com/index/introducing-openai-frontier",

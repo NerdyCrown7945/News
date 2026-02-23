@@ -1,11 +1,21 @@
 {
   "id": "6009bfe89b23",
   "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+  "source": "OpenAI News",
+  "published_at": "2025-12-12T00:00:00Z",
   "summary_lines": [
     "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
     "AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development."
   ],
   "key_points": [
+    "OpenAI shipped Sora for Android in 28 days using Codex.",
+    "AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development."
+  ],
+  "summary_lines_ko": [
+    "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+    "AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development."
+  ],
+  "key_points_ko": [
     "OpenAI shipped Sora for Android in 28 days using Codex.",
     "AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development."
   ],

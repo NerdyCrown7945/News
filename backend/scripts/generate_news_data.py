@@ -13,10 +13,10 @@ from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
+from urllib.request import Request, urlopen
 
 import feedparser
 from dateutil import parser as dt_parser
-from urllib.request import Request, urlopen
 
 LOGGER = logging.getLogger("news-pipeline")
 USER_AGENT = "NewsDigestBot/1.0 (+https://github.com/)"
@@ -33,6 +33,8 @@ TRACKING_QUERY_PREFIXES = (
     "igshid",
     "wt_",
 )
+
+# path가 비어있는 케이스는 별도 처리하므로 ""는 포함하지 않는다.
 HOMEPAGE_PATH_HINTS = {"blog", "blogs", "news", "updates", "stories", "research", "press"}
 
 
@@ -147,6 +149,7 @@ def canonicalize_url(url: str) -> str:
 
 
 def is_home_or_section_url(url: str) -> bool:
+    """개별 기사 URL이 아니라 홈/섹션(목록) URL이면 True."""
     if not _is_http_url(url):
         return True
     parsed = urlparse(url)
@@ -167,6 +170,11 @@ def is_home_or_section_url(url: str) -> bool:
 
 
 def extract_entry_url(entry: dict[str, Any]) -> str:
+    """
+    RSS entry에서 '개별 기사' 링크를 최대한 정확히 추출한다.
+    entry가 제공한 근거(link/alternate/guid)만 사용하며, 추측으로 URL을 만들지 않는다.
+    홈/섹션 링크로 판정되면 빈 문자열을 반환한다.
+    """
     candidates: list[str] = []
 
     link = (entry.get("link") or "").strip()
@@ -240,6 +248,7 @@ def _slugify_source_id(name: str) -> str:
 def load_sources(path: Path) -> list[Source]:
     raw = json.loads(path.read_text(encoding="utf-8"))
     dedup: dict[tuple[str, str], Source] = {}
+
     for row in raw:
         name = str(row.get("name", "")).strip()
         topic = str(row.get("topic", "")).strip().lower()
@@ -258,9 +267,11 @@ def load_sources(path: Path) -> list[Source]:
             tags=[str(tag) for tag in (row.get("tags") or []) if str(tag).strip()],
             enabled=bool(row.get("enabled", True)),
         )
+
         key = (source.topic.strip().lower(), source.feed_url.strip().lower())
         if key not in dedup:
             dedup[key] = source
+
     return list(dedup.values())
 
 
@@ -286,6 +297,7 @@ def generate_data(sources: list[Source], summarizer: Summarizer, max_articles: i
             continue
 
         for entry in parsed.entries:
+            # extract_entry_url()가 canonicalize + 홈/섹션 제거까지 수행
             canonical = extract_entry_url(entry)
 
             title = (entry.get("title") or "(untitled)").strip()
@@ -311,7 +323,7 @@ def generate_data(sources: list[Source], summarizer: Summarizer, max_articles: i
                 topic=source.topic,
                 one_liner=summary["one_liner"],
                 tags=source.tags,
-                url=canonical,
+                url=canonical,  # 개별 기사 URL이면 값, 아니면 ""
                 cluster_id=cluster_id,
                 summary_lines=summary["summary_lines"],
                 key_points=summary["key_points"],
@@ -358,7 +370,7 @@ def write_output(articles: list[Article], output_root: Path) -> None:
                 "topic": article.topic,
                 "one_liner": article.one_liner,
                 "tags": article.tags,
-                "url": article.url,
+                "url": article.url,  # ""이면 프론트에서 “원문 링크 없음” 표시
                 "cluster_id": article.cluster_id,
             }
         )

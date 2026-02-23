@@ -1,10 +1,18 @@
 {
   "id": "15315cc38e86",
   "title": "Introducing the Codex app",
+  "source": "OpenAI News",
+  "published_at": "2026-02-02T00:00:00Z",
   "summary_lines": [
     "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks."
   ],
   "key_points": [
+    "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks."
+  ],
+  "summary_lines_ko": [
+    "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks."
+  ],
+  "key_points_ko": [
     "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks."
   ],
   "url": "https://openai.com/index/introducing-the-codex-app",

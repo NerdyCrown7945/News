@@ -8,5 +8,11 @@
     "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex."
   ],
   "url": "https://openai.com/index/beyond-rate-limits",
-  "related": []
+  "related": [],
+  "summary_lines_ko": [
+    "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex."
+  ],
+  "key_points_ko": [
+    "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex."
+  ]
 }

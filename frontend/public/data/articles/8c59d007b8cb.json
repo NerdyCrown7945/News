@@ -10,5 +10,13 @@
     "15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
   ],
   "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-  "related": []
+  "related": [],
+  "summary_lines_ko": [
+    "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+    "15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
+  ],
+  "key_points_ko": [
+    "Introducing GPT-5.3-Codex-Spark—our first real-time coding model.",
+    "15x faster generation, 128k context, now in research preview for ChatGPT Pro users."
+  ]
 }

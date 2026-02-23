@@ -8,5 +8,11 @@
     "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation."
   ],
   "url": "https://openai.com/index/scaling-postgresql",
-  "related": []
+  "related": [],
+  "summary_lines_ko": [
+    "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation."
+  ],
+  "key_points_ko": [
+    "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation."
+  ]
 }

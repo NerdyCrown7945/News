@@ -1,0 +1,21 @@
+{
+  "id": "5d4a0e56b42a",
+  "title": "Unrolling the Codex agent loop",
+  "summary_lines": [
+    "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API."
+  ],
+  "key_points": [
+    "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API."
+  ],
+  "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+  "related": [],
+  "source": "OpenAI Blog",
+  "published_at": "2026-01-23T12:00:00Z",
+  "title_ko": "Unrolling the Codex agent loop",
+  "summary_lines_ko": [
+    "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API."
+  ],
+  "key_points_ko": [
+    "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API."
+  ]
+}

@@ -16,6 +16,17 @@ type ArticleDetail = {
   key_points?: string[]
 }
 
+type NormalizedArticle = {
+  id: string
+  title: string
+  title_ko?: string
+  url?: string
+  source?: string
+  published_at?: string
+  summary_lines_ko: string[]
+  key_points_ko: string[]
+}
+
 const API_BASE_ENV = process.env.NEXT_PUBLIC_API_BASE
 const API_BASE = API_BASE_ENV || 'http://127.0.0.1:8000'
 const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || ''
@@ -25,13 +36,14 @@ const normalizeArray = (value: unknown): string[] => {
   return value.filter((item): item is string => typeof item === 'string' && item.trim().length > 0)
 }
 
+const SECTION_PATHS = ['blog', 'blogs', 'news', 'updates', 'stories', 'research', 'press', 'discover/blog']
+
 const isLikelyHomeOrSectionUrl = (value: string): boolean => {
   try {
     const parsed = new URL(value)
     const path = parsed.pathname.replace(/^\/+|\/+$/g, '').toLowerCase()
     if (!path) return true
-    const sectionHints = new Set(['blog', 'blogs', 'news', 'updates', 'stories', 'research', 'press'])
-    return sectionHints.has(path)
+    return SECTION_PATHS.includes(path)
   } catch {
     return true
   }
@@ -45,7 +57,7 @@ const domainFromUrl = (value: string): string | null => {
   }
 }
 
-const normalizeArticle = (value: Partial<ArticleDetail> & { id: string; title: string }): Required<Pick<ArticleDetail, 'id' | 'title'>> & ArticleDetail => ({
+const normalizeArticle = (value: Partial<ArticleDetail> & { id: string; title: string }): NormalizedArticle => ({
   id: value.id,
   title: value.title,
   title_ko: value.title_ko,
@@ -57,7 +69,7 @@ const normalizeArticle = (value: Partial<ArticleDetail> & { id: string; title: s
 })
 
 export default function ArticleDetailClient({ id }: { id: string }) {
-  const [article, setArticle] = useState<ReturnType<typeof normalizeArticle> | null>(null)
+  const [article, setArticle] = useState<NormalizedArticle | null>(null)
   const [fallbackActive, setFallbackActive] = useState(false)
   const [canUseApi, setCanUseApi] = useState(false)
 

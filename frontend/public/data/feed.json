@@ -1,1922 +1,1682 @@
 [
   {
-    "id": "seed0001a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — OpenAI News",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-23T05:56:18.206607Z",
+    "id": "198248560f4d",
+    "title": "Our First Proof submissions",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-20T14:30:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI News가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/01/insight-001",
-    "cluster_id": "c-001"
+    "url": "https://openai.com/index/first-proof-submissions",
+    "cluster_id": "c-35e2313e46"
   },
   {
-    "id": "seed0002s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — ESA Newsroom",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-23T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/02/insight-002",
-    "cluster_id": "c-002"
-  },
-  {
-    "id": "seed0003a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — Anthropic News",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-22T23:56:18.206607Z",
+    "id": "a3ef4d9d087b",
+    "title": "Advancing independent research on AI alignment",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-19T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "claude",
-      "ai",
-      "update"
-    ],
-    "url": "https://anthropic.com/2026/02/03/insight-003",
-    "cluster_id": "c-003"
-  },
-  {
-    "id": "seed0004s",
-    "title": "북극 해빙 변화 추적 연구 발표 — Nature News",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-22T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/04/insight-004",
-    "cluster_id": "c-004"
-  },
-  {
-    "id": "seed0005a",
-    "title": "Seedance 프레임 일관성 향상 — Microsoft Research",
-    "title_ko": "Seedance 프레임 일관성 향상 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-22T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Microsoft Research가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "copilot",
-      "ai",
-      "update"
-    ],
-    "url": "https://microsoft.com/2026/02/05/insight-005",
-    "cluster_id": "c-005"
-  },
-  {
-    "id": "seed0006s",
-    "title": "암 미세환경 단일세포 분석 결과 — MIT News",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-22T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/06/insight-006",
-    "cluster_id": "c-006"
-  },
-  {
-    "id": "seed0007a",
-    "title": "로봇 월드모델 학습 효율 개선 — NVIDIA Blog",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-22T11:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "NVIDIA Blog가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "gpu",
-      "ai",
-      "update"
-    ],
-    "url": "https://blogs.nvidia.com/2026/02/07/insight-007",
-    "cluster_id": "c-007"
-  },
-  {
-    "id": "seed0008s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — USGS News",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-22T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/08/insight-008",
-    "cluster_id": "c-008"
-  },
-  {
-    "id": "seed0009a",
-    "title": "RAG 검색 정확도 개선 실험 — LangChain Blog",
-    "title_ko": "RAG 검색 정확도 개선 실험 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-22T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "LangChain Blog가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "agent",
-      "ai",
-      "update"
-    ],
-    "url": "https://blog.langchain.dev/2026/02/09/insight-009",
-    "cluster_id": "c-009"
-  },
-  {
-    "id": "seed0010s",
-    "title": "반도체 저전력 신소재 성능 검증 — Scientific American",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-22T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/10/insight-010",
-    "cluster_id": "c-010"
-  },
-  {
-    "id": "seed0011a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — Stability AI",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-21T23:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Stability AI가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "diffusion",
-      "ai",
-      "update"
-    ],
-    "url": "https://stability.ai/2026/02/11/insight-011",
-    "cluster_id": "c-011"
-  },
-  {
-    "id": "seed0012s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — WHO News",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-21T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "biotech",
-      "scitech",
-      "update"
-    ],
-    "url": "https://who.int/2026/02/12/insight-012",
-    "cluster_id": "c-012"
-  },
-  {
-    "id": "seed0013a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — OpenAI News",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-21T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "OpenAI News가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/13/insight-013",
-    "cluster_id": "c-013"
+    "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "cluster_id": "c-135704c6ad"
   },
   {
-    "id": "seed0014s",
-    "title": "북극 해빙 변화 추적 연구 발표 — ESA Newsroom",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-21T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/14/insight-014",
-    "cluster_id": "c-014"
-  },
-  {
-    "id": "seed0015a",
-    "title": "Seedance 프레임 일관성 향상 — Anthropic News",
-    "title_ko": "Seedance 프레임 일관성 향상 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-21T11:56:18.206607Z",
+    "id": "14da3f664925",
+    "title": "Introducing OpenAI for India",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-18T21:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "claude",
-      "ai",
-      "update"
-    ],
-    "url": "https://anthropic.com/2026/02/15/insight-015",
-    "cluster_id": "c-015"
-  },
-  {
-    "id": "seed0016s",
-    "title": "암 미세환경 단일세포 분석 결과 — Nature News",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-21T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/16/insight-016",
-    "cluster_id": "c-016"
-  },
-  {
-    "id": "seed0017a",
-    "title": "로봇 월드모델 학습 효율 개선 — Microsoft Research",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-21T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Microsoft Research가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "copilot",
-      "ai",
-      "update"
-    ],
-    "url": "https://microsoft.com/2026/02/17/insight-017",
-    "cluster_id": "c-017"
-  },
-  {
-    "id": "seed0018s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — MIT News",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-21T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/18/insight-018",
-    "cluster_id": "c-018"
-  },
-  {
-    "id": "seed0019a",
-    "title": "RAG 검색 정확도 개선 실험 — NVIDIA Blog",
-    "title_ko": "RAG 검색 정확도 개선 실험 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-20T23:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "NVIDIA Blog가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "gpu",
-      "ai",
-      "update"
-    ],
-    "url": "https://blogs.nvidia.com/2026/02/19/insight-019",
-    "cluster_id": "c-019"
-  },
-  {
-    "id": "seed0020s",
-    "title": "반도체 저전력 신소재 성능 검증 — USGS News",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-20T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/20/insight-020",
-    "cluster_id": "c-020"
-  },
-  {
-    "id": "seed0021a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — LangChain Blog",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-20T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "LangChain Blog가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "agent",
-      "ai",
-      "update"
-    ],
-    "url": "https://blog.langchain.dev/2026/02/21/insight-021",
-    "cluster_id": "c-021"
-  },
-  {
-    "id": "seed0022s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — Scientific American",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-20T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/22/insight-022",
-    "cluster_id": "c-022"
-  },
-  {
-    "id": "seed0023a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — Stability AI",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-20T11:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Stability AI가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "diffusion",
-      "ai",
-      "update"
-    ],
-    "url": "https://stability.ai/2026/02/23/insight-023",
-    "cluster_id": "c-023"
-  },
-  {
-    "id": "seed0024s",
-    "title": "북극 해빙 변화 추적 연구 발표 — WHO News",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-20T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "biotech",
-      "scitech",
-      "update"
-    ],
-    "url": "https://who.int/2026/02/24/insight-024",
-    "cluster_id": "c-024"
-  },
-  {
-    "id": "seed0025a",
-    "title": "Seedance 프레임 일관성 향상 — OpenAI News",
-    "title_ko": "Seedance 프레임 일관성 향상 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-20T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "OpenAI News가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/25/insight-025",
-    "cluster_id": "c-025"
+    "url": "https://openai.com/index/openai-for-india",
+    "cluster_id": "c-349b8c11f3"
   },
   {
-    "id": "seed0026s",
-    "title": "암 미세환경 단일세포 분석 결과 — ESA Newsroom",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-20T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/26/insight-026",
-    "cluster_id": "c-001"
-  },
-  {
-    "id": "seed0027a",
-    "title": "로봇 월드모델 학습 효율 개선 — Anthropic News",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-19T23:56:18.206607Z",
+    "id": "71e1d3f50bfa",
+    "title": "Introducing EVMbench",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-18T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "claude",
-      "ai",
-      "update"
-    ],
-    "url": "https://anthropic.com/2026/02/27/insight-027",
-    "cluster_id": "c-002"
-  },
-  {
-    "id": "seed0028s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — Nature News",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-19T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/28/insight-028",
-    "cluster_id": "c-003"
-  },
-  {
-    "id": "seed0029a",
-    "title": "RAG 검색 정확도 개선 실험 — Microsoft Research",
-    "title_ko": "RAG 검색 정확도 개선 실험 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-19T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Microsoft Research가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "copilot",
-      "ai",
-      "update"
-    ],
-    "url": "https://microsoft.com/2026/02/01/insight-029",
-    "cluster_id": "c-004"
-  },
-  {
-    "id": "seed0030s",
-    "title": "반도체 저전력 신소재 성능 검증 — MIT News",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-19T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/02/insight-030",
-    "cluster_id": "c-005"
-  },
-  {
-    "id": "seed0031a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — NVIDIA Blog",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-19T11:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "NVIDIA Blog가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "gpu",
-      "ai",
-      "update"
-    ],
-    "url": "https://blogs.nvidia.com/2026/02/03/insight-031",
-    "cluster_id": "c-006"
-  },
-  {
-    "id": "seed0032s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — USGS News",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-19T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/04/insight-032",
-    "cluster_id": "c-007"
-  },
-  {
-    "id": "seed0033a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — LangChain Blog",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-19T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "LangChain Blog가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "agent",
-      "ai",
-      "update"
-    ],
-    "url": "https://blog.langchain.dev/2026/02/05/insight-033",
-    "cluster_id": "c-008"
-  },
-  {
-    "id": "seed0034s",
-    "title": "북극 해빙 변화 추적 연구 발표 — Scientific American",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-19T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/06/insight-034",
-    "cluster_id": "c-009"
-  },
-  {
-    "id": "seed0035a",
-    "title": "Seedance 프레임 일관성 향상 — Stability AI",
-    "title_ko": "Seedance 프레임 일관성 향상 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-18T23:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Stability AI가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "diffusion",
-      "ai",
-      "update"
-    ],
-    "url": "https://stability.ai/2026/02/07/insight-035",
-    "cluster_id": "c-010"
-  },
-  {
-    "id": "seed0036s",
-    "title": "암 미세환경 단일세포 분석 결과 — WHO News",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-18T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "biotech",
-      "scitech",
-      "update"
-    ],
-    "url": "https://who.int/2026/02/08/insight-036",
-    "cluster_id": "c-011"
-  },
-  {
-    "id": "seed0037a",
-    "title": "로봇 월드모델 학습 효율 개선 — OpenAI News",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-18T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "OpenAI News가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/09/insight-037",
-    "cluster_id": "c-012"
+    "url": "https://openai.com/index/introducing-evmbench",
+    "cluster_id": "c-44c5aed925"
   },
   {
-    "id": "seed0038s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — ESA Newsroom",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-18T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/10/insight-038",
-    "cluster_id": "c-013"
-  },
-  {
-    "id": "seed0039a",
-    "title": "RAG 검색 정확도 개선 실험 — Anthropic News",
-    "title_ko": "RAG 검색 정확도 개선 실험 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-18T11:56:18.206607Z",
+    "id": "71e8d02564c5",
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-13T11:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "claude",
-      "ai",
-      "update"
-    ],
-    "url": "https://anthropic.com/2026/02/11/insight-039",
-    "cluster_id": "c-014"
-  },
-  {
-    "id": "seed0040s",
-    "title": "반도체 저전력 신소재 성능 검증 — Nature News",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-18T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/12/insight-040",
-    "cluster_id": "c-015"
-  },
-  {
-    "id": "seed0041a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — Microsoft Research",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-18T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Microsoft Research가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "copilot",
-      "ai",
-      "update"
-    ],
-    "url": "https://microsoft.com/2026/02/13/insight-041",
-    "cluster_id": "c-016"
-  },
-  {
-    "id": "seed0042s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — MIT News",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-18T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/14/insight-042",
-    "cluster_id": "c-017"
-  },
-  {
-    "id": "seed0043a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — NVIDIA Blog",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-17T23:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "NVIDIA Blog가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "gpu",
-      "ai",
-      "update"
-    ],
-    "url": "https://blogs.nvidia.com/2026/02/15/insight-043",
-    "cluster_id": "c-018"
-  },
-  {
-    "id": "seed0044s",
-    "title": "북극 해빙 변화 추적 연구 발표 — USGS News",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-17T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/16/insight-044",
-    "cluster_id": "c-019"
-  },
-  {
-    "id": "seed0045a",
-    "title": "Seedance 프레임 일관성 향상 — LangChain Blog",
-    "title_ko": "Seedance 프레임 일관성 향상 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-17T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "LangChain Blog가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "agent",
-      "ai",
-      "update"
-    ],
-    "url": "https://blog.langchain.dev/2026/02/17/insight-045",
-    "cluster_id": "c-020"
-  },
-  {
-    "id": "seed0046s",
-    "title": "암 미세환경 단일세포 분석 결과 — Scientific American",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-17T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/18/insight-046",
-    "cluster_id": "c-021"
-  },
-  {
-    "id": "seed0047a",
-    "title": "로봇 월드모델 학습 효율 개선 — Stability AI",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-17T11:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Stability AI가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "diffusion",
-      "ai",
-      "update"
-    ],
-    "url": "https://stability.ai/2026/02/19/insight-047",
-    "cluster_id": "c-022"
-  },
-  {
-    "id": "seed0048s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — WHO News",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-17T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "biotech",
-      "scitech",
-      "update"
-    ],
-    "url": "https://who.int/2026/02/20/insight-048",
-    "cluster_id": "c-023"
-  },
-  {
-    "id": "seed0049a",
-    "title": "RAG 검색 정확도 개선 실험 — OpenAI News",
-    "title_ko": "RAG 검색 정확도 개선 실험 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-17T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "OpenAI News가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/21/insight-049",
-    "cluster_id": "c-024"
+    "url": "https://openai.com/index/new-result-theoretical-physics",
+    "cluster_id": "c-a4685d793b"
   },
   {
-    "id": "seed0050s",
-    "title": "반도체 저전력 신소재 성능 검증 — ESA Newsroom",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-17T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/22/insight-050",
-    "cluster_id": "c-025"
-  },
-  {
-    "id": "seed0051a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — Anthropic News",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-16T23:56:18.206607Z",
+    "id": "8e5f6dedd597",
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-13T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "claude",
-      "ai",
-      "update"
-    ],
-    "url": "https://anthropic.com/2026/02/23/insight-051",
-    "cluster_id": "c-001"
-  },
-  {
-    "id": "seed0052s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — Nature News",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-16T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/24/insight-052",
-    "cluster_id": "c-002"
-  },
-  {
-    "id": "seed0053a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — Microsoft Research",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-16T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Microsoft Research가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "copilot",
-      "ai",
-      "update"
-    ],
-    "url": "https://microsoft.com/2026/02/25/insight-053",
-    "cluster_id": "c-003"
-  },
-  {
-    "id": "seed0054s",
-    "title": "북극 해빙 변화 추적 연구 발표 — MIT News",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-16T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/26/insight-054",
-    "cluster_id": "c-004"
-  },
-  {
-    "id": "seed0055a",
-    "title": "Seedance 프레임 일관성 향상 — NVIDIA Blog",
-    "title_ko": "Seedance 프레임 일관성 향상 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-16T11:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "NVIDIA Blog가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "gpu",
-      "ai",
-      "update"
-    ],
-    "url": "https://blogs.nvidia.com/2026/02/27/insight-055",
-    "cluster_id": "c-005"
-  },
-  {
-    "id": "seed0056s",
-    "title": "암 미세환경 단일세포 분석 결과 — USGS News",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-16T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/28/insight-056",
-    "cluster_id": "c-006"
-  },
-  {
-    "id": "seed0057a",
-    "title": "로봇 월드모델 학습 효율 개선 — LangChain Blog",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-16T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "LangChain Blog가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "agent",
-      "ai",
-      "update"
-    ],
-    "url": "https://blog.langchain.dev/2026/02/01/insight-057",
-    "cluster_id": "c-007"
-  },
-  {
-    "id": "seed0058s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — Scientific American",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-16T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/02/insight-058",
-    "cluster_id": "c-008"
-  },
-  {
-    "id": "seed0059a",
-    "title": "RAG 검색 정확도 개선 실험 — Stability AI",
-    "title_ko": "RAG 검색 정확도 개선 실험 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-15T23:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Stability AI가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "diffusion",
-      "ai",
-      "update"
-    ],
-    "url": "https://stability.ai/2026/02/03/insight-059",
-    "cluster_id": "c-009"
-  },
-  {
-    "id": "seed0060s",
-    "title": "반도체 저전력 신소재 성능 검증 — WHO News",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-15T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "biotech",
-      "scitech",
-      "update"
-    ],
-    "url": "https://who.int/2026/02/04/insight-060",
-    "cluster_id": "c-010"
-  },
-  {
-    "id": "seed0061a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — OpenAI News",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-15T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "OpenAI News가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/05/insight-061",
-    "cluster_id": "c-011"
+    "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+    "cluster_id": "c-5d142de9e6"
   },
   {
-    "id": "seed0062s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — ESA Newsroom",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-15T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/06/insight-062",
-    "cluster_id": "c-012"
-  },
-  {
-    "id": "seed0063a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — Anthropic News",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-15T11:56:18.206607Z",
+    "id": "956f105c951f",
+    "title": "Beyond rate limits: scaling access to Codex and Sora",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-13T09:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "claude",
-      "ai",
-      "update"
-    ],
-    "url": "https://anthropic.com/2026/02/07/insight-063",
-    "cluster_id": "c-013"
-  },
-  {
-    "id": "seed0064s",
-    "title": "북극 해빙 변화 추적 연구 발표 — Nature News",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-15T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/08/insight-064",
-    "cluster_id": "c-014"
-  },
-  {
-    "id": "seed0065a",
-    "title": "Seedance 프레임 일관성 향상 — Microsoft Research",
-    "title_ko": "Seedance 프레임 일관성 향상 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-15T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Microsoft Research가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "copilot",
-      "ai",
-      "update"
-    ],
-    "url": "https://microsoft.com/2026/02/09/insight-065",
-    "cluster_id": "c-015"
-  },
-  {
-    "id": "seed0066s",
-    "title": "암 미세환경 단일세포 분석 결과 — MIT News",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-15T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/10/insight-066",
-    "cluster_id": "c-016"
-  },
-  {
-    "id": "seed0067a",
-    "title": "로봇 월드모델 학습 효율 개선 — NVIDIA Blog",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-14T23:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "NVIDIA Blog가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "gpu",
-      "ai",
-      "update"
-    ],
-    "url": "https://blogs.nvidia.com/2026/02/11/insight-067",
-    "cluster_id": "c-017"
-  },
-  {
-    "id": "seed0068s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — USGS News",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-14T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/12/insight-068",
-    "cluster_id": "c-018"
-  },
-  {
-    "id": "seed0069a",
-    "title": "RAG 검색 정확도 개선 실험 — LangChain Blog",
-    "title_ko": "RAG 검색 정확도 개선 실험 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-14T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "LangChain Blog가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "agent",
-      "ai",
-      "update"
-    ],
-    "url": "https://blog.langchain.dev/2026/02/13/insight-069",
-    "cluster_id": "c-019"
-  },
-  {
-    "id": "seed0070s",
-    "title": "반도체 저전력 신소재 성능 검증 — Scientific American",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-14T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/14/insight-070",
-    "cluster_id": "c-020"
-  },
-  {
-    "id": "seed0071a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — Stability AI",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-14T11:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Stability AI가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "diffusion",
-      "ai",
-      "update"
-    ],
-    "url": "https://stability.ai/2026/02/15/insight-071",
-    "cluster_id": "c-021"
-  },
-  {
-    "id": "seed0072s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — WHO News",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-14T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "biotech",
-      "scitech",
-      "update"
-    ],
-    "url": "https://who.int/2026/02/16/insight-072",
-    "cluster_id": "c-022"
-  },
-  {
-    "id": "seed0073a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — OpenAI News",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-14T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "OpenAI News가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/17/insight-073",
-    "cluster_id": "c-023"
+    "url": "https://openai.com/index/beyond-rate-limits",
+    "cluster_id": "c-216a2c2b20"
   },
   {
-    "id": "seed0074s",
-    "title": "북극 해빙 변화 추적 연구 발표 — ESA Newsroom",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-14T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/18/insight-074",
-    "cluster_id": "c-024"
-  },
-  {
-    "id": "seed0075a",
-    "title": "Seedance 프레임 일관성 향상 — Anthropic News",
-    "title_ko": "Seedance 프레임 일관성 향상 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-13T23:56:18.206607Z",
+    "id": "d480f86c234c",
+    "title": "Scaling social science research",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-13T09:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "claude",
-      "ai",
-      "update"
-    ],
-    "url": "https://anthropic.com/2026/02/19/insight-075",
-    "cluster_id": "c-025"
-  },
-  {
-    "id": "seed0076s",
-    "title": "암 미세환경 단일세포 분석 결과 — Nature News",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-13T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/20/insight-076",
-    "cluster_id": "c-001"
-  },
-  {
-    "id": "seed0077a",
-    "title": "로봇 월드모델 학습 효율 개선 — Microsoft Research",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-13T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Microsoft Research가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "copilot",
-      "ai",
-      "update"
-    ],
-    "url": "https://microsoft.com/2026/02/21/insight-077",
-    "cluster_id": "c-002"
-  },
-  {
-    "id": "seed0078s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — MIT News",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-13T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/22/insight-078",
-    "cluster_id": "c-003"
-  },
-  {
-    "id": "seed0079a",
-    "title": "RAG 검색 정확도 개선 실험 — NVIDIA Blog",
-    "title_ko": "RAG 검색 정확도 개선 실험 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-13T11:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "NVIDIA Blog가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "gpu",
-      "ai",
-      "update"
-    ],
-    "url": "https://blogs.nvidia.com/2026/02/23/insight-079",
-    "cluster_id": "c-004"
-  },
-  {
-    "id": "seed0080s",
-    "title": "반도체 저전력 신소재 성능 검증 — USGS News",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-13T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/24/insight-080",
-    "cluster_id": "c-005"
-  },
-  {
-    "id": "seed0081a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — LangChain Blog",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-13T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "LangChain Blog가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "agent",
-      "ai",
-      "update"
-    ],
-    "url": "https://blog.langchain.dev/2026/02/25/insight-081",
-    "cluster_id": "c-006"
-  },
-  {
-    "id": "seed0082s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — Scientific American",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-13T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/26/insight-082",
-    "cluster_id": "c-007"
-  },
-  {
-    "id": "seed0083a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — Stability AI",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-12T23:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Stability AI가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "diffusion",
-      "ai",
-      "update"
-    ],
-    "url": "https://stability.ai/2026/02/27/insight-083",
-    "cluster_id": "c-008"
-  },
-  {
-    "id": "seed0084s",
-    "title": "북극 해빙 변화 추적 연구 발표 — WHO News",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-12T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "biotech",
-      "scitech",
-      "update"
-    ],
-    "url": "https://who.int/2026/02/28/insight-084",
-    "cluster_id": "c-009"
-  },
-  {
-    "id": "seed0085a",
-    "title": "Seedance 프레임 일관성 향상 — OpenAI News",
-    "title_ko": "Seedance 프레임 일관성 향상 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-12T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "OpenAI News가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/01/insight-085",
-    "cluster_id": "c-010"
+    "url": "https://openai.com/index/scaling-social-science-research",
+    "cluster_id": "c-f70f121582"
   },
   {
-    "id": "seed0086s",
-    "title": "암 미세환경 단일세포 분석 결과 — ESA Newsroom",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-12T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/02/insight-086",
-    "cluster_id": "c-011"
-  },
-  {
-    "id": "seed0087a",
-    "title": "로봇 월드모델 학습 효율 개선 — Anthropic News",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-12T11:56:18.206607Z",
+    "id": "8c59d007b8cb",
+    "title": "Introducing GPT-5.3-Codex-Spark",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-12T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "claude",
-      "ai",
-      "update"
-    ],
-    "url": "https://anthropic.com/2026/02/03/insight-087",
-    "cluster_id": "c-012"
-  },
-  {
-    "id": "seed0088s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — Nature News",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-12T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/04/insight-088",
-    "cluster_id": "c-013"
-  },
-  {
-    "id": "seed0089a",
-    "title": "RAG 검색 정확도 개선 실험 — Microsoft Research",
-    "title_ko": "RAG 검색 정확도 개선 실험 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-12T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Microsoft Research가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "copilot",
-      "ai",
-      "update"
-    ],
-    "url": "https://microsoft.com/2026/02/05/insight-089",
-    "cluster_id": "c-014"
-  },
-  {
-    "id": "seed0090s",
-    "title": "반도체 저전력 신소재 성능 검증 — MIT News",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-12T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/06/insight-090",
-    "cluster_id": "c-015"
-  },
-  {
-    "id": "seed0091a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — NVIDIA Blog",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-11T23:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "NVIDIA Blog가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "gpu",
-      "ai",
-      "update"
-    ],
-    "url": "https://blogs.nvidia.com/2026/02/07/insight-091",
-    "cluster_id": "c-016"
-  },
-  {
-    "id": "seed0092s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — USGS News",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-11T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/08/insight-092",
-    "cluster_id": "c-017"
-  },
-  {
-    "id": "seed0093a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — LangChain Blog",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-11T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "LangChain Blog가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "agent",
-      "ai",
-      "update"
-    ],
-    "url": "https://blog.langchain.dev/2026/02/09/insight-093",
-    "cluster_id": "c-018"
-  },
-  {
-    "id": "seed0094s",
-    "title": "북극 해빙 변화 추적 연구 발표 — Scientific American",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-11T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/10/insight-094",
-    "cluster_id": "c-019"
-  },
-  {
-    "id": "seed0095a",
-    "title": "Seedance 프레임 일관성 향상 — Stability AI",
-    "title_ko": "Seedance 프레임 일관성 향상 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-11T11:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Stability AI가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "diffusion",
-      "ai",
-      "update"
-    ],
-    "url": "https://stability.ai/2026/02/11/insight-095",
-    "cluster_id": "c-020"
-  },
-  {
-    "id": "seed0096s",
-    "title": "암 미세환경 단일세포 분석 결과 — WHO News",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-11T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "biotech",
-      "scitech",
-      "update"
-    ],
-    "url": "https://who.int/2026/02/12/insight-096",
-    "cluster_id": "c-021"
-  },
-  {
-    "id": "seed0097a",
-    "title": "로봇 월드모델 학습 효율 개선 — OpenAI News",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-11T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "OpenAI News가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model.",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/13/insight-097",
-    "cluster_id": "c-022"
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+    "cluster_id": "c-6c938b3c6e"
   },
   {
-    "id": "seed0098s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — ESA Newsroom",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-11T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/14/insight-098",
-    "cluster_id": "c-023"
-  },
-  {
-    "id": "seed0099a",
-    "title": "RAG 검색 정확도 개선 실험 — Anthropic News",
-    "title_ko": "RAG 검색 정확도 개선 실험 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-10T23:56:18.206607Z",
+    "id": "989e332f832c",
+    "title": "Harness engineering: leveraging Codex in an agent-first world",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-11T09:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "claude",
-      "ai",
-      "update"
-    ],
-    "url": "https://anthropic.com/2026/02/15/insight-099",
-    "cluster_id": "c-024"
-  },
-  {
-    "id": "seed0100s",
-    "title": "반도체 저전력 신소재 성능 검증 — Nature News",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-10T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/16/insight-100",
-    "cluster_id": "c-025"
-  },
-  {
-    "id": "seed0101a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — Microsoft Research",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-10T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Microsoft Research가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "copilot",
-      "ai",
-      "update"
-    ],
-    "url": "https://microsoft.com/2026/02/17/insight-101",
-    "cluster_id": "c-001"
-  },
-  {
-    "id": "seed0102s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — MIT News",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-10T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/18/insight-102",
-    "cluster_id": "c-002"
-  },
-  {
-    "id": "seed0103a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — NVIDIA Blog",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-10T11:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "NVIDIA Blog가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "gpu",
-      "ai",
-      "update"
-    ],
-    "url": "https://blogs.nvidia.com/2026/02/19/insight-103",
-    "cluster_id": "c-003"
-  },
-  {
-    "id": "seed0104s",
-    "title": "북극 해빙 변화 추적 연구 발표 — USGS News",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-10T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/20/insight-104",
-    "cluster_id": "c-004"
-  },
-  {
-    "id": "seed0105a",
-    "title": "Seedance 프레임 일관성 향상 — LangChain Blog",
-    "title_ko": "Seedance 프레임 일관성 향상 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-10T05:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "LangChain Blog가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "agent",
-      "ai",
-      "update"
-    ],
-    "url": "https://blog.langchain.dev/2026/02/21/insight-105",
-    "cluster_id": "c-005"
-  },
-  {
-    "id": "seed0106s",
-    "title": "암 미세환경 단일세포 분석 결과 — Scientific American",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-10T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/22/insight-106",
-    "cluster_id": "c-006"
-  },
-  {
-    "id": "seed0107a",
-    "title": "로봇 월드모델 학습 효율 개선 — Stability AI",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-09T23:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "Stability AI가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "diffusion",
-      "ai",
-      "update"
-    ],
-    "url": "https://stability.ai/2026/02/23/insight-107",
-    "cluster_id": "c-007"
-  },
-  {
-    "id": "seed0108s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — WHO News",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-09T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "biotech",
-      "scitech",
-      "update"
-    ],
-    "url": "https://who.int/2026/02/24/insight-108",
-    "cluster_id": "c-008"
-  },
-  {
-    "id": "seed0109a",
-    "title": "RAG 검색 정확도 개선 실험 — OpenAI News",
-    "title_ko": "RAG 검색 정확도 개선 실험 — OpenAI News",
-    "source": "OpenAI News",
-    "published_at": "2026-02-09T17:56:18.206607Z",
-    "topic": "ai",
-    "one_liner": "OpenAI News가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "By Ryan Lopopolo, Member of the Technical Staff",
     "tags": [
       "llm",
-      "ai",
-      "update"
+      "research"
     ],
-    "url": "https://openai.com/2026/02/25/insight-109",
-    "cluster_id": "c-009"
+    "url": "https://openai.com/index/harness-engineering",
+    "cluster_id": "c-cdc4430f87"
   },
   {
-    "id": "seed0110s",
-    "title": "반도체 저전력 신소재 성능 검증 — ESA Newsroom",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — ESA Newsroom",
-    "source": "ESA Newsroom",
-    "published_at": "2026-02-09T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "ESA Newsroom가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "space",
-      "scitech",
-      "update"
-    ],
-    "url": "https://esa.int/2026/02/26/insight-110",
-    "cluster_id": "c-010"
-  },
-  {
-    "id": "seed0111a",
-    "title": "Gemini 다중 모달 추론 성능 개선 — Anthropic News",
-    "title_ko": "Gemini 다중 모달 추론 성능 개선 — Anthropic News",
-    "source": "Anthropic News",
-    "published_at": "2026-02-09T11:56:18.206607Z",
+    "id": "3d72134cdaba",
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-09T11:00:00Z",
     "topic": "ai",
-    "one_liner": "Anthropic News가 gemini 다중 모달 추론 성능 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S.",
     "tags": [
-      "claude",
-      "ai",
-      "update"
+      "llm",
+      "research"
     ],
-    "url": "https://anthropic.com/2026/02/27/insight-111",
-    "cluster_id": "c-011"
+    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "cluster_id": "c-9ee351931e"
   },
   {
-    "id": "seed0112s",
-    "title": "핵융합 플라즈마 유지시간 기록 경신 — Nature News",
-    "title_ko": "핵융합 플라즈마 유지시간 기록 경신 — Nature News",
-    "source": "Nature News",
-    "published_at": "2026-02-09T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Nature News가 핵융합 플라즈마 유지시간 기록 경신 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "science",
-      "scitech",
-      "update"
-    ],
-    "url": "https://nature.com/2026/02/28/insight-112",
-    "cluster_id": "c-012"
-  },
-  {
-    "id": "seed0113a",
-    "title": "Llama 오픈모델 파인튜닝 도구 확장 — Microsoft Research",
-    "title_ko": "Llama 오픈모델 파인튜닝 도구 확장 — Microsoft Research",
-    "source": "Microsoft Research",
-    "published_at": "2026-02-09T05:56:18.206607Z",
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-09T11:00:00Z",
     "topic": "ai",
-    "one_liner": "Microsoft Research가 llama 오픈모델 파인튜닝 도구 확장 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
     "tags": [
-      "copilot",
-      "ai",
-      "update"
+      "llm",
+      "research"
     ],
-    "url": "https://microsoft.com/2026/02/01/insight-113",
-    "cluster_id": "c-013"
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
-    "id": "seed0114s",
-    "title": "북극 해빙 변화 추적 연구 발표 — MIT News",
-    "title_ko": "북극 해빙 변화 추적 연구 발표 — MIT News",
-    "source": "MIT News",
-    "published_at": "2026-02-09T02:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "MIT News가 북극 해빙 변화 추적 연구 발표 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "engineering",
-      "scitech",
-      "update"
-    ],
-    "url": "https://news.mit.edu/2026/02/02/insight-114",
-    "cluster_id": "c-014"
-  },
-  {
-    "id": "seed0115a",
-    "title": "Seedance 프레임 일관성 향상 — NVIDIA Blog",
-    "title_ko": "Seedance 프레임 일관성 향상 — NVIDIA Blog",
-    "source": "NVIDIA Blog",
-    "published_at": "2026-02-08T23:56:18.206607Z",
+    "id": "8f4bb7dd8ed5",
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-06T10:00:00Z",
     "topic": "ai",
-    "one_liner": "NVIDIA Blog가 seedance 프레임 일관성 향상 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
     "tags": [
-      "gpu",
-      "ai",
-      "update"
+      "llm",
+      "research"
     ],
-    "url": "https://blogs.nvidia.com/2026/02/03/insight-115",
-    "cluster_id": "c-015"
+    "url": "https://openai.com/index/our-approach-to-localization",
+    "cluster_id": "c-0485ac3bde"
   },
   {
-    "id": "seed0116s",
-    "title": "암 미세환경 단일세포 분석 결과 — USGS News",
-    "title_ko": "암 미세환경 단일세포 분석 결과 — USGS News",
-    "source": "USGS News",
-    "published_at": "2026-02-08T20:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "USGS News가 암 미세환경 단일세포 분석 결과 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "geoscience",
-      "scitech",
-      "update"
-    ],
-    "url": "https://usgs.gov/2026/02/04/insight-116",
-    "cluster_id": "c-016"
-  },
-  {
-    "id": "seed0117a",
-    "title": "로봇 월드모델 학습 효율 개선 — LangChain Blog",
-    "title_ko": "로봇 월드모델 학습 효율 개선 — LangChain Blog",
-    "source": "LangChain Blog",
-    "published_at": "2026-02-08T17:56:18.206607Z",
+    "id": "df0b4d474a02",
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-05T11:00:00Z",
     "topic": "ai",
-    "one_liner": "LangChain Blog가 로봇 월드모델 학습 효율 개선 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
     "tags": [
-      "agent",
-      "ai",
-      "update"
+      "llm",
+      "research"
     ],
-    "url": "https://blog.langchain.dev/2026/02/05/insight-117",
-    "cluster_id": "c-017"
+    "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+    "cluster_id": "c-93ced5d60b"
   },
   {
-    "id": "seed0118s",
-    "title": "태양 플레어 예측 모델 정확도 상승 — Scientific American",
-    "title_ko": "태양 플레어 예측 모델 정확도 상승 — Scientific American",
-    "source": "Scientific American",
-    "published_at": "2026-02-08T14:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "Scientific American가 태양 플레어 예측 모델 정확도 상승 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
-    "tags": [
-      "analysis",
-      "scitech",
-      "update"
-    ],
-    "url": "https://scientificamerican.com/2026/02/06/insight-118",
-    "cluster_id": "c-018"
-  },
-  {
-    "id": "seed0119a",
-    "title": "RAG 검색 정확도 개선 실험 — Stability AI",
-    "title_ko": "RAG 검색 정확도 개선 실험 — Stability AI",
-    "source": "Stability AI",
-    "published_at": "2026-02-08T11:56:18.206607Z",
+    "id": "4a49a2171bab",
+    "title": "Introducing Trusted Access for Cyber",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-05T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Stability AI가 rag 검색 정확도 개선 실험 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "one_liner": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
     "tags": [
-      "diffusion",
-      "ai",
-      "update"
+      "llm",
+      "research"
     ],
-    "url": "https://stability.ai/2026/02/07/insight-119",
-    "cluster_id": "c-019"
+    "url": "https://openai.com/index/trusted-access-for-cyber",
+    "cluster_id": "c-4fa8214e6e"
   },
   {
-    "id": "seed0120s",
-    "title": "반도체 저전력 신소재 성능 검증 — WHO News",
-    "title_ko": "반도체 저전력 신소재 성능 검증 — WHO News",
-    "source": "WHO News",
-    "published_at": "2026-02-08T08:56:18.206607Z",
-    "topic": "scitech",
-    "one_liner": "WHO News가 반도체 저전력 신소재 성능 검증 관련 업데이트를 공개해 최근 기술·연구 동향을 보여준다.",
+    "id": "537f97d9df02",
+    "title": "Introducing OpenAI Frontier",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-05T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
     "tags": [
-      "biotech",
-      "scitech",
-      "update"
+      "llm",
+      "research"
     ],
-    "url": "https://who.int/2026/02/08/insight-120",
-    "cluster_id": "c-020"
+    "url": "https://openai.com/index/introducing-openai-frontier",
+    "cluster_id": "c-8ce868397a"
+  },
+  {
+    "id": "01db201107e3",
+    "title": "Navigating health questions with ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/navigating-health-questions",
+    "cluster_id": "c-034a9d80fd"
+  },
+  {
+    "id": "1f7427a9e036",
+    "title": "Introducing GPT-5.3-Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+    "cluster_id": "c-9a82c1548e"
+  },
+  {
+    "id": "8a0c8c7ac88d",
+    "title": "GPT-5.3-Codex System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "cluster_id": "c-d836227750"
+  },
+  {
+    "id": "a45c7ee6fc08",
+    "title": "Unlocking the Codex harness: how we built the App Server",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-04T13:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/unlocking-the-codex-harness",
+    "cluster_id": "c-28095ea6a4"
+  },
+  {
+    "id": "2e8458dbf71d",
+    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-04T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/vfl-wolfsburg",
+    "cluster_id": "c-4d966313e9"
+  },
+  {
+    "id": "1d2f67546cfd",
+    "title": "The Sora feed philosophy",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-03T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sora-feed-philosophy",
+    "cluster_id": "c-08d389c45e"
+  },
+  {
+    "id": "bea71e9121e9",
+    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-02T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/snowflake-partnership",
+    "cluster_id": "c-d49b7f120b"
+  },
+  {
+    "id": "15315cc38e86",
+    "title": "Introducing the Codex app",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-codex-app",
+    "cluster_id": "c-5360584068"
+  },
+  {
+    "id": "efcfc2c53199",
+    "title": "Inside OpenAI’s in-house data agent",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-29T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/inside-our-in-house-data-agent",
+    "cluster_id": "c-da792de6a4"
+  },
+  {
+    "id": "a856111bf104",
+    "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-29T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/taisei",
+    "cluster_id": "c-7b34ab6e97"
+  },
+  {
+    "id": "f582e053a20e",
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-29T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+    "cluster_id": "c-48b08ef67f"
+  },
+  {
+    "id": "cf58b7400fc9",
+    "title": "EMEA Youth & Wellbeing Grant",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-28T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "cluster_id": "c-e39415f208"
+  },
+  {
+    "id": "075fc545e694",
+    "title": "The next chapter for AI in the EU",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-28T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "cluster_id": "c-cd58e92ecd"
+  },
+  {
+    "id": "63508e9ab188",
+    "title": "Keeping your data safe when an AI agent clicks a link",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ai-agent-link-safety",
+    "cluster_id": "c-b9f9f2e2ad"
+  },
+  {
+    "id": "53560453084e",
+    "title": "PVH reimagines the future of fashion with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-27T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/pvh-future-of-fashion",
+    "cluster_id": "c-dfa8eb9701"
+  },
+  {
+    "id": "2c97344d1f84",
+    "title": "Introducing Prism",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-27T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-prism",
+    "cluster_id": "c-4a141f0e32"
+  },
+  {
+    "id": "42533aa4f8b5",
+    "title": "Powering tax donations with AI powered personalized recommendations",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-27T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/trustbank",
+    "cluster_id": "c-6cb08f7f3f"
+  },
+  {
+    "id": "67722d7f2046",
+    "title": "How Indeed uses AI to help evolve the job search",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-26T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/indeed-maggie-hulce",
+    "cluster_id": "c-5dbd466a29"
+  },
+  {
+    "id": "5d4a0e56b42a",
+    "title": "Unrolling the Codex agent loop",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+    "cluster_id": "c-a7fe8e01e7"
+  },
+  {
+    "id": "0e9e0157f373",
+    "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-22T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/scaling-postgresql",
+    "cluster_id": "c-b7d73d41d8"
+  },
+  {
+    "id": "27ae54dbecf4",
+    "title": "Inside Praktika's conversational approach to language learning",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-22T05:00:00Z",
+    "topic": "ai",
+    "one_liner": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/praktika",
+    "cluster_id": "c-e1e6b91ae9"
+  },
+  {
+    "id": "a3ce7a8e25fd",
+    "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-22T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+    "cluster_id": "c-9f6d6197e3"
+  },
+  {
+    "id": "71c27c70d137",
+    "title": "How Higgsfield turns simple ideas into cinematic social videos",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-21T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/higgsfield",
+    "cluster_id": "c-f82b9d9065"
+  },
+  {
+    "id": "aca3ad17ccab",
+    "title": "How countries can end the capability overhang",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-21T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+    "cluster_id": "c-993c670cac"
+  },
+  {
+    "id": "03d0ef228762",
+    "title": "Introducing Edu for Countries",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-21T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/edu-for-countries",
+    "cluster_id": "c-cedd4b3b2b"
+  },
+  {
+    "id": "6ed9efa8b174",
+    "title": "Horizon 1000: Advancing AI for primary healthcare",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-20T21:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/horizon-1000",
+    "cluster_id": "c-1b8fbbab2a"
+  },
+  {
+    "id": "90314fb861a5",
+    "title": "Stargate Community",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-20T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/stargate-community",
+    "cluster_id": "c-2650c11b06"
+  },
+  {
+    "id": "a1f161b6a344",
+    "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-20T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/cisco",
+    "cluster_id": "c-d237d2ab79"
+  },
+  {
+    "id": "8fe35db9d836",
+    "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-20T05:45:00Z",
+    "topic": "ai",
+    "one_liner": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+    "cluster_id": "c-32d4d3b56e"
+  },
+  {
+    "id": "4628896343fc",
+    "title": "Our approach to age prediction",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-20T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/our-approach-to-age-prediction",
+    "cluster_id": "c-83e957a426"
+  },
+  {
+    "id": "6dd702da4da7",
+    "title": "AI for self empowerment",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-18T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ai-for-self-empowerment",
+    "cluster_id": "c-8f872ce390"
+  },
+  {
+    "id": "68ceabf8f6bf",
+    "title": "A business that scales with the value of intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-18T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+    "cluster_id": "c-ac03214b1b"
+  },
+  {
+    "id": "5ada77db5648",
+    "title": "The truth left out from Elon Musk’s recent court filing",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-16T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "The truth left out from Elon Musk’s recent court filing.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-truth-elon-left-out",
+    "cluster_id": "c-cbe8825897"
+  },
+  {
+    "id": "61959f22e780",
+    "title": "Our approach to advertising and expanding access to ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI plans to test advertising in the U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+    "cluster_id": "c-e63b86d6b9"
+  },
+  {
+    "id": "0f1e6ca37d64",
+    "title": "Introducing ChatGPT Go, now available worldwide",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-chatgpt-go",
+    "cluster_id": "c-c1d359d0a6"
+  },
+  {
+    "id": "c37941878031",
+    "title": "Investing in Merge Labs",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-15T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/investing-in-merge-labs",
+    "cluster_id": "c-53269fdbcb"
+  },
+  {
+    "id": "3cea822d9d3c",
+    "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-15T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI launches a new RFP to strengthen the U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+    "cluster_id": "c-d35d88d4b2"
+  },
+  {
+    "id": "8566227622a6",
+    "title": "OpenAI partners with Cerebras",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-14T14:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/cerebras-partnership",
+    "cluster_id": "c-fbe5660d7c"
+  },
+  {
+    "id": "0ab97666c3ce",
+    "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-13T16:00:00Z",
+    "topic": "ai",
+    "one_liner": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/zenken",
+    "cluster_id": "c-0b0b9cf5fa"
+  },
+  {
+    "id": "905205e9bf67",
+    "title": "OpenAI’s Raising Concerns Policy",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "We’re publishing our Raising Concerns Policy, which protects employees’ rights to make protected disclosures.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-raising-concerns-policy",
+    "cluster_id": "c-b2e0b56d08"
+  },
+  {
+    "id": "1d2d99cb07ef",
+    "title": "OpenAI and SoftBank Group partner with SB Energy",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-09T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/stargate-sb-energy-partnership",
+    "cluster_id": "c-d83f5c8a0b"
+  },
+  {
+    "id": "09944dd5bab1",
+    "title": "Datadog uses Codex for system-level code review",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-09T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/datadog",
+    "cluster_id": "c-f72c8e5430"
+  },
+  {
+    "id": "0f7e9213fe84",
+    "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-08T13:00:00Z",
+    "topic": "ai",
+    "one_liner": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/netomi",
+    "cluster_id": "c-a4694f0ed4"
+  },
+  {
+    "id": "bb41bbc55720",
+    "title": "OpenAI for Healthcare",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-08T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-for-healthcare",
+    "cluster_id": "c-9fff4bd492"
+  },
+  {
+    "id": "9f2f745e33d6",
+    "title": "How Tolan builds voice-first AI with GPT-5.1",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-07T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/tolan",
+    "cluster_id": "c-dca1a926da"
+  },
+  {
+    "id": "164e984cf638",
+    "title": "Introducing ChatGPT Health",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-chatgpt-health",
+    "cluster_id": "c-10a88df208"
+  },
+  {
+    "id": "26d74e12ea3d",
+    "title": "Announcing OpenAI Grove Cohort 2",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-02T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-grove",
+    "cluster_id": "c-4d720a59d5"
+  },
+  {
+    "id": "bdf9e2904ced",
+    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-22T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+    "cluster_id": "c-dea43a866d"
+  },
+  {
+    "id": "5eaa0a687284",
+    "title": "One in a million: celebrating the customers shaping AI’s future",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-22T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/one-in-a-million-customers",
+    "cluster_id": "c-d0730f8fd2"
+  },
+  {
+    "id": "a534d4ec9c00",
+    "title": "Evaluating chain-of-thought monitorability",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-18T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+    "cluster_id": "c-e004274d06"
+  },
+  {
+    "id": "721cf9e2fe4a",
+    "title": "Deepening our collaboration with the U.S. Department of Energy",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-18T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/us-department-of-energy-collaboration",
+    "cluster_id": "c-b58e3a14e1"
+  },
+  {
+    "id": "4bb4ed9e91b1",
+    "title": "AI literacy resources for teens and parents",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-18T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+    "cluster_id": "c-8d91c38f7b"
+  },
+  {
+    "id": "f432645645e4",
+    "title": "Updating our Model Spec with teen protections",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-18T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+    "cluster_id": "c-10b94f1a8e"
+  },
+  {
+    "id": "39f1595b994a",
+    "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-18T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-2-codex-system-card",
+    "cluster_id": "c-5c6f52fa96"
+  },
+  {
+    "id": "e23cb28ae8c9",
+    "title": "Introducing OpenAI Academy for News Organizations",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-17T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-academy-for-news-organizations",
+    "cluster_id": "c-eb97c82639"
+  },
+  {
+    "id": "d0b2cf7c4899",
+    "title": "The state of enterprise AI",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "A data-driven look at enterprise AI adoption, showing how organizations move from experimentation to real productivity gains and new capabilities.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report",
+    "cluster_id": "c-bad9910822"
+  },
+  {
+    "id": "732bcc4ce70d",
+    "title": "Developers can now submit apps to ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+    "cluster_id": "c-7807ef0104"
+  },
+  {
+    "id": "c8771e7bd03b",
+    "title": "Evaluating AI’s ability to perform scientific research tasks",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-16T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/frontierscience",
+    "cluster_id": "c-1eb726fbf1"
+  },
+  {
+    "id": "e63ddad45fc6",
+    "title": "Measuring AI’s capability to accelerate biological research",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-16T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+    "cluster_id": "c-21fa376da8"
+  },
+  {
+    "id": "b42f6fefb200",
+    "title": "The new ChatGPT Images is here",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/new-chatgpt-images-is-here",
+    "cluster_id": "c-b86c3a70a3"
+  },
+  {
+    "id": "b0923f0323a0",
+    "title": "BBVA and OpenAI collaborate to transform global banking",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bbva-collaboration-expansion",
+    "cluster_id": "c-559816f10d"
+  },
+  {
+    "id": "6009bfe89b23",
+    "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shipped Sora for Android in 28 days using Codex.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+    "cluster_id": "c-f8155280b8"
+  },
+  {
+    "id": "f3eda620bd44",
+    "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "BNY is using OpenAI technology to expand AI adoption enterprise-wide.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bny",
+    "cluster_id": "c-9ba14875c6"
+  },
+  {
+    "id": "b219e6953947",
+    "title": "Advancing science and math with GPT-5.2",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
+    "cluster_id": "c-c9e488399d"
+  },
+  {
+    "id": "17fe1c1675c8",
+    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/disney-sora-agreement",
+    "cluster_id": "c-d47ffca7a0"
+  },
+  {
+    "id": "02eec89574a8",
+    "title": "Update to GPT-5 System Card: GPT-5.2",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.2 is the latest model family in the GPT-5 series.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+    "cluster_id": "c-16efbf012d"
+  },
+  {
+    "id": "cad609eeb501",
+    "title": "Ten years",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ten-years",
+    "cluster_id": "c-c964c76d5d"
+  },
+  {
+    "id": "d4a2d9acc1fe",
+    "title": "Increasing revenue 300% by bringing AI to SMBs",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/podium",
+    "cluster_id": "c-8e90248211"
+  },
+  {
+    "id": "646b28649285",
+    "title": "Introducing GPT-5.2",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-5-2",
+    "cluster_id": "c-555cb40d51"
+  },
+  {
+    "id": "b129d60f25bb",
+    "title": "Strengthening cyber resilience as AI capabilities advance",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-10T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is investing in stronger safeguards and defensive capabilities as AI models become more powerful in cybersecurity.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/strengthening-cyber-resilience",
+    "cluster_id": "c-876038a9d6"
+  },
+  {
+    "id": "6f02985cfa1d",
+    "title": "How Scout24 is building the next generation of real-estate search with AI",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T16:00:00Z",
+    "topic": "ai",
+    "one_liner": "Scout24 has created a GPT-5 powered conversational assistant that reimagines real-estate search, guiding users with clarifying questions, summaries, and tailored listing recommendations.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/scout24",
+    "cluster_id": "c-0b1752b6d4"
+  },
+  {
+    "id": "16821e032fa0",
+    "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/agentic-ai-foundation",
+    "cluster_id": "c-d7801dc4ea"
+  },
+  {
+    "id": "9a85e117fda2",
+    "title": "Launching our first OpenAI Certifications courses",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-certificate-courses",
+    "cluster_id": "c-36b8736da9"
+  },
+  {
+    "id": "e8c744380d8b",
+    "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/deutsche-telekom-collaboration",
+    "cluster_id": "c-63764870a7"
+  },
+  {
+    "id": "9983b0e62490",
+    "title": "Building AI fluency at scale with ChatGPT Enterprise",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/commonwealth-bank-of-australia",
+    "cluster_id": "c-0e5757d5e9"
+  },
+  {
+    "id": "dd8b3c77e471",
+    "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-appoints-denise-dresser",
+    "cluster_id": "c-24adbabd0b"
+  },
+  {
+    "id": "2715c98ab4bd",
+    "title": "Instacart and OpenAI partner on AI shopping experiences",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-08T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/instacart-partnership",
+    "cluster_id": "c-c208df77a6"
+  },
+  {
+    "id": "bcd69a9e8a00",
+    "title": "How Virgin Atlantic uses AI to enhance every step of travel",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-08T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/virgin-atlantic-oliver-byers",
+    "cluster_id": "c-6f844a7715"
+  },
+  {
+    "id": "0bbc00badf85",
+    "title": "Introducing OpenAI for Australia",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-04T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/global-affairs/openai-for-australia",
+    "cluster_id": "c-68d8c18766"
+  },
+  {
+    "id": "b796c43e7637",
+    "title": "OpenAI to acquire Neptune",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-to-acquire-neptune",
+    "cluster_id": "c-8178962d20"
+  },
+  {
+    "id": "eef0a375a423",
+    "title": "How confessions can keep language models honest",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+    "cluster_id": "c-5b292827ef"
+  },
+  {
+    "id": "08dcc7546106",
+    "title": "Announcing the initial People-First AI Fund grantees",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-03T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/people-first-ai-fund-grantees",
+    "cluster_id": "c-3a634b14d9"
+  },
+  {
+    "id": "007df06b65ea",
+    "title": "Inside Mirakl's agentic commerce vision",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-01T22:00:00Z",
+    "topic": "ai",
+    "one_liner": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/mirakl",
+    "cluster_id": "c-b4c8d3471e"
+  },
+  {
+    "id": "1e0105875961",
+    "title": "Funding grants for new research into AI and mental health",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-01T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ai-mental-health-research-grants",
+    "cluster_id": "c-80dd3515b5"
+  },
+  {
+    "id": "2e16efff67ee",
+    "title": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-01T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and NORAD are bringing new magic to “NORAD Tracks Santa” with three ChatGPT holiday tools that let families create festive elves, toy coloring pages, and custom Christmas stories.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/norad-holiday-collaboration",
+    "cluster_id": "c-f89bfbc08e"
+  },
+  {
+    "id": "2ccaba4cac6c",
+    "title": "Accenture and OpenAI accelerate enterprise AI success",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-01T05:00:00Z",
+    "topic": "ai",
+    "one_liner": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/accenture-partnership",
+    "cluster_id": "c-76b268e843"
+  },
+  {
+    "id": "d40028f6468c",
+    "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-01T05:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption, embedding frontier research and engineering directly into accounting and IT services to boost speed, accuracy, and efficiency while",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/thrive-holdings",
+    "cluster_id": "c-8b7b635802"
+  },
+  {
+    "id": "92c787efe61c",
+    "title": "Mixpanel security incident: what OpenAI users need to know",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-26T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/mixpanel-incident",
+    "cluster_id": "c-94646b1ef5"
+  },
+  {
+    "id": "bd488ee6e84b",
+    "title": "Expanding data residency access to business customers worldwide",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-25T22:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI expands data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform, enabling eligible customers to store data at rest in-region.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+    "cluster_id": "c-77cfc7afd0"
+  },
+  {
+    "id": "25f6350eaf65",
+    "title": "Our approach to mental health-related litigation",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-25T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "We’re sharing our approach to mental health-related litigation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/mental-health-litigation-approach",
+    "cluster_id": "c-910fd52df8"
+  },
+  {
+    "id": "b0c37808a985",
+    "title": "Inside JetBrains—the company reshaping how the world writes code",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-25T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "JetBrains is integrating GPT-5 across its coding tools, helping millions of developers design, reason, and build software faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/jetbrains-2025",
+    "cluster_id": "c-56a59f4ae6"
+  },
+  {
+    "id": "165ac4cbc8a7",
+    "title": "Introducing shopping research in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-24T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-shopping-research",
+    "cluster_id": "c-af78711f59"
+  },
+  {
+    "id": "6a6843d45760",
+    "title": "GPT-5 and the future of mathematical discovery",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-24T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "UCLA Professor Ernest Ryu and GPT-5 solved a key question in optimization theory, showcasing AI’s role in accelerating mathematical discovery.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-mathematical-discovery",
+    "cluster_id": "c-65687cda69"
+  },
+  {
+    "id": "af0822c91541",
+    "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-20T14:50:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-and-foxconn-collaborate",
+    "cluster_id": "c-f5a61e8c99"
+  },
+  {
+    "id": "100e175c23a3",
+    "title": "Helping 1,000 small businesses build with AI",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-20T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/small-business-ai-jam",
+    "cluster_id": "c-2a99bc0fc0"
+  },
+  {
+    "id": "fab147c72d8e",
+    "title": "Early experiments in accelerating science with GPT-5",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-20T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/accelerating-science-gpt-5",
+    "cluster_id": "c-0078991360"
+  },
+  {
+    "id": "622e7b650fdd",
+    "title": "Strengthening our safety ecosystem with external testing",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-19T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI works with independent experts to evaluate frontier AI systems.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/strengthening-safety-with-external-testing",
+    "cluster_id": "c-d083ccd3a7"
+  },
+  {
+    "id": "0e16cd3f8068",
+    "title": "How evals drive the next chapter in AI for businesses",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-19T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/evals-drive-next-chapter-of-ai",
+    "cluster_id": "c-33386f9e4b"
+  },
+  {
+    "id": "f0c0dfba45ad",
+    "title": "OpenAI and Target team up on new AI-powered experiences",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-19T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/target-partnership",
+    "cluster_id": "c-67c93e4f96"
+  },
+  {
+    "id": "410aa22bdc35",
+    "title": "How Scania is accelerating work with AI across its global workforce",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/scania",
+    "cluster_id": "c-ed03751a4e"
+  },
+  {
+    "id": "277fd3bcd8d7",
+    "title": "Building more with GPT-5.1-Codex-Max",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-1-codex-max",
+    "cluster_id": "c-73682008f0"
+  },
+  {
+    "id": "778f8db71ab2",
+    "title": "GPT-5.1-Codex-Max System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+    "cluster_id": "c-b3951ed6ba"
+  },
+  {
+    "id": "2e20d64f2447",
+    "title": "A free version of ChatGPT built for teachers",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-for-teachers",
+    "cluster_id": "c-c4c52ffb1a"
+  },
+  {
+    "id": "814d82eb231b",
+    "title": "Intuit and OpenAI join forces on new AI-powered experiences",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-18T05:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/intuit-partnership",
+    "cluster_id": "c-a61ddb5aee"
   }
 ]

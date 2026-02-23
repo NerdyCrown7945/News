@@ -52,7 +52,7 @@ def feed(
     range: str = Query("24h", pattern="^(24h|7d|30d)$"),
     query: str = "",
     tags: str = "",
-    sort: str = Query("new", pattern="^(new)$"),
+    sort: str = Query("new", pattern="^(new|date)$"),
 ):
     where = []
     params: list[str] = []
@@ -77,7 +77,10 @@ def feed(
         params.append(f"%{t}%")
 
     where_sql = f"WHERE {' AND '.join(where)}" if where else ""
-    order_sql = "ORDER BY published_at DESC, fetched_at DESC"
+    if sort == "date":
+        order_sql = "ORDER BY published_at ASC, fetched_at ASC"
+    else:
+        order_sql = "ORDER BY published_at DESC, fetched_at DESC"
 
     rows = fetch_all(f"SELECT * FROM articles {where_sql} {order_sql} LIMIT 300", tuple(params))
 

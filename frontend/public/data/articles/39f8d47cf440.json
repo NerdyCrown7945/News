@@ -1,0 +1,24 @@
+{
+  "id": "39f8d47cf440",
+  "title": "Understanding prompt injections: a frontier security challenge",
+  "source": "OpenAI News",
+  "published_at": "2025-11-07T11:30:00Z",
+  "summary_lines": [
+    "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
+    "Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users."
+  ],
+  "key_points": [
+    "Prompt injections are a frontier security challenge for AI systems.",
+    "Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users."
+  ],
+  "summary_lines_ko": [
+    "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
+    "Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users."
+  ],
+  "key_points_ko": [
+    "Prompt injections are a frontier security challenge for AI systems.",
+    "Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users."
+  ],
+  "url": "https://openai.com/index/prompt-injections",
+  "related": []
+}

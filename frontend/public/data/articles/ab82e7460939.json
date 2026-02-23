@@ -1,0 +1,20 @@
+{
+  "id": "ab82e7460939",
+  "title": "Introducing GPT-5.1 for developers",
+  "source": "OpenAI News",
+  "published_at": "2025-11-13T00:00:00Z",
+  "summary_lines": [
+    "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools."
+  ],
+  "key_points": [
+    "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools."
+  ],
+  "summary_lines_ko": [
+    "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools."
+  ],
+  "key_points_ko": [
+    "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools."
+  ],
+  "url": "https://openai.com/index/gpt-5-1-for-developers",
+  "related": []
+}

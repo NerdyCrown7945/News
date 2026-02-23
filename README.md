@@ -1,27 +1,36 @@
-# News MVP (Local-First)
+# News MVP (Local-First + GitHub Pages Fallback)
 
-AI/과학기술 RSS를 수집하고, SQLite에 저장하고, 한국어 더미 요약을 제공하는 로컬 MVP입니다.
+AI/과학기술 RSS를 수집하고, SQLite에 저장하며, 프론트엔드는 **로컬 API 우선 + 정적 JSON fallback** 방식으로 동작하는 프로젝트입니다.
 
-## 현재 구조
-- `backend/` FastAPI + SQLite(`backend/data/news.db`)
-- `frontend/` Next.js UI (백엔드 API 호출)
-- `backend/sources.json` RSS 소스(토픽: `ai`, `scitech`)
+## 프로젝트 구조
+- `backend/`: FastAPI + SQLite(`backend/data/news.db`)
+- `frontend/`: Next.js UI
+- `frontend/public/data/feed.json`: 리스트 화면용 정적 fallback 데이터
+- `frontend/public/data/articles/*.json`: 상세 화면용 정적 fallback 데이터
 
-## 백엔드 기능
-- `GET /health`
-- `POST /ingest/run` RSS 수집 실행
-- `GET /feed?topic=ai|scitech|all&range=24h|7d|30d&query=...&tags=...&sort=new`
-- `GET /article/{id}`
-- `GET /search?query=...&from=YYYY-MM-DD&to=YYYY-MM-DD&topic=...`
+## 동작 모드
 
-수집 파이프라인:
-- RSS 파싱(feedparser)
-- URL canonicalization(utm 제거)
-- 본문 추출(urllib 기반 간단 추출, 실패 시 snippet fallback)
-- 중복 제거(url_canonical + 제목 유사도)
-- 규칙 기반 요약/번역 더미(`backend/app/llm.py`)
+### 1) 로컬(Local-First) 모드
+- 프론트는 먼저 `NEXT_PUBLIC_API_BASE`(기본값: `http://127.0.0.1:8000`)의 백엔드 API를 호출합니다.
+- 예:
+  - `GET {NEXT_PUBLIC_API_BASE}/feed?...`
+  - `GET {NEXT_PUBLIC_API_BASE}/article/{id}`
+  - (로컬 전용) `POST {NEXT_PUBLIC_API_BASE}/ingest/run`
+- API 호출이 실패하거나 비정상 응답이면 정적 JSON fallback으로 자동 전환합니다.
 
-## Windows 기준 로컬 실행
+### 2) GitHub Pages 모드
+- GitHub Pages에서는 백엔드 서버가 없으므로 `/feed`, `/article/{id}`, `/ingest/run` 같은 API를 직접 호출할 수 없습니다.
+- 따라서 프론트는 자동으로 아래 정적 데이터를 사용합니다.
+  - `/public/data/feed.json`
+  - `/public/data/articles/*.json`
+- Pages 환경에서는 “수집 실행” 기능이 비활성화되며, 로컬 전용 기능임을 UI로 안내합니다.
+
+## GitHub Pages에서 실데이터를 쓰려면
+1. 백엔드를 별도 서버(예: Render, Fly.io, EC2 등)에 배포합니다.
+2. 프론트 환경변수 `NEXT_PUBLIC_API_BASE`를 해당 백엔드 URL로 설정합니다.
+3. 프론트를 다시 빌드/배포하면 Pages에서도 외부 백엔드 API를 우선 사용하고, 실패 시 정적 fallback을 사용할 수 있습니다.
+
+## 로컬 실행 (Windows 기준)
 
 ### 1) Python venv + 백엔드 의존성 설치
 ```powershell
@@ -52,7 +61,3 @@ npm run dev
 ```
 
 브라우저: `http://127.0.0.1:3000/News/news`
-
-## 비고
-- GitHub Pages 워크플로는 유지되며, 로컬 MVP는 API 기반으로 동작합니다.
-- 추후 `OPENAI_API_KEY`를 사용해 `backend/app/llm.py`의 TODO 지점을 실제 LLM 호출로 교체할 수 있습니다.

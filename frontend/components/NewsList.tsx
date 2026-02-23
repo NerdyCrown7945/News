@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 
 type TopicFilter = 'all' | 'ai' | 'scitech'
 type RangeFilter = '24h' | '7d' | '30d'
@@ -11,15 +11,18 @@ type FeedItem = {
   id: string
   title: string
   title_ko?: string
-  source: string
+  source?: string
   topic: 'ai' | 'scitech'
-  published_at: string
+  published_at?: string
   tags: string[]
   url: string
   one_liner: string
 }
 
-const API_BASE = process.env.NEXT_PUBLIC_API_BASE || 'http://127.0.0.1:8000'
+const API_BASE_ENV = process.env.NEXT_PUBLIC_API_BASE
+const API_BASE = API_BASE_ENV || 'http://127.0.0.1:8000'
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || ''
+const STATIC_FEED_PATH = `${BASE_PATH}/data/feed.json`
 
 export default function NewsList() {
   const [topic, setTopic] = useState<TopicFilter>('all')
@@ -28,25 +31,60 @@ export default function NewsList() {
   const [keyword, setKeyword] = useState('')
   const [items, setItems] = useState<FeedItem[]>([])
   const [loading, setLoading] = useState(false)
+  const [fallbackActive, setFallbackActive] = useState(false)
+  const [notice, setNotice] = useState<string | null>(null)
 
-  const loadFeed = async () => {
+  const isLocalhost = useMemo(() => {
+    if (typeof window === 'undefined') return false
+    const host = window.location.hostname
+    return host === '127.0.0.1' || host === 'localhost'
+  }, [])
+
+  const canUseApi = isLocalhost || Boolean(API_BASE_ENV)
+
+  const loadFeed = useCallback(async () => {
     setLoading(true)
+    setNotice(null)
+
+    const params = new URLSearchParams({ topic, range, query: keyword, sort: sortBy })
     try {
-      const params = new URLSearchParams({ topic, range, query: keyword, sort: sortBy })
+      if (!canUseApi) {
+        throw new Error('API is disabled in GitHub Pages mode')
+      }
+
       const res = await fetch(`${API_BASE}/feed?${params.toString()}`, { cache: 'no-store' })
+      if (!res.ok) {
+        throw new Error(`API request failed with status ${res.status}`)
+      }
+
       const data = (await res.json()) as FeedItem[]
       setItems(data)
+      setFallbackActive(false)
+      return
     } catch {
-      setItems([])
+      try {
+        const fallbackRes = await fetch(STATIC_FEED_PATH, { cache: 'no-store' })
+        if (!fallbackRes.ok) {
+          throw new Error(`Fallback request failed with status ${fallbackRes.status}`)
+        }
+
+        const fallbackData = (await fallbackRes.json()) as FeedItem[]
+        setItems(fallbackData)
+        setFallbackActive(true)
+        setNotice(canUseApi ? '백엔드 연결에 실패하여 정적 데이터(샘플/캐시)를 표시 중입니다.' : 'GitHub Pages 환경에서 정적 데이터(샘플/캐시)를 표시 중입니다.')
+      } catch {
+        setItems([])
+        setFallbackActive(true)
+        setNotice('백엔드와 정적 데이터를 모두 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.')
+      }
     } finally {
       setLoading(false)
     }
-  }
+  }, [canUseApi, keyword, range, sortBy, topic])
 
   useEffect(() => {
     loadFeed()
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [topic, range, sortBy])
+  }, [loadFeed])
 
   const filtered = useMemo(() => {
     const q = keyword.trim().toLowerCase()
@@ -58,6 +96,12 @@ export default function NewsList() {
   }, [items, keyword])
 
   const runIngest = async () => {
+    if (!isLocalhost) {
+      setNotice('수집 실행은 로컬(127.0.0.1/localhost) 환경에서만 사용할 수 있습니다.')
+      return
+    }
+
+    setNotice(null)
     await fetch(`${API_BASE}/ingest/run`, { method: 'POST' })
     await loadFeed()
   }
@@ -68,6 +112,10 @@ export default function NewsList() {
       <p className="mb-6 text-sm leading-6 text-gray-600">AI · ScienceTech 한국어 요약 브리핑</p>
 
       <div className="mb-7 space-y-4 rounded-2xl border bg-white p-4 shadow-sm md:p-5">
+        {notice && (
+          <p className="rounded-lg border border-amber-200 bg-amber-50 px-3 py-2 text-sm text-amber-700">{notice}</p>
+        )}
+
         <div className="flex flex-wrap gap-2">
           {[
             ['ai', 'AI'],
@@ -110,7 +158,12 @@ export default function NewsList() {
           <select className="rounded-lg border px-3 py-2 text-sm" value={sortBy} onChange={(e) => setSortBy(e.target.value as SortFilter)}>
             <option value="new">최신순</option>
           </select>
-          <button onClick={runIngest} className="rounded-lg border bg-emerald-600 px-3 py-2 text-sm font-medium text-white">
+          <button
+            onClick={runIngest}
+            disabled={!isLocalhost}
+            title={!isLocalhost ? '수집 실행은 로컬 환경에서만 가능합니다.' : undefined}
+            className="rounded-lg border bg-emerald-600 px-3 py-2 text-sm font-medium text-white disabled:cursor-not-allowed disabled:bg-emerald-300"
+          >
             수집 실행
           </button>
         </div>
@@ -122,18 +175,30 @@ export default function NewsList() {
         {filtered.map((item) => (
           <Link key={item.id} href={`/news/${item.id}`} className="block rounded-2xl border bg-white p-5 shadow-sm transition hover:-translate-y-0.5">
             <h2 className="text-xl font-semibold leading-8 text-gray-900">{item.title_ko || item.title}</h2>
-            <p className="mt-2 text-sm text-gray-500">{item.source} · {new Date(item.published_at).toLocaleString()}</p>
+            <p className="mt-2 text-sm text-gray-500">
+              {item.source || '출처 미상'}
+              {' · '}
+              {item.published_at ? new Date(item.published_at).toLocaleString() : '발행일 미상'}
+            </p>
             <p className="mt-3 text-sm leading-7 text-gray-700">{item.one_liner}</p>
             <div className="mt-3 flex flex-wrap gap-2">
               {item.tags?.map((tag) => (
-                <span key={tag} className="rounded-full bg-gray-100 px-2 py-1 text-xs text-gray-600">#{tag}</span>
+                <span key={tag} className="rounded-full bg-gray-100 px-2 py-1 text-xs text-gray-600">
+                  #{tag}
+                </span>
               ))}
             </div>
           </Link>
         ))}
 
-        {!filtered.length && <p className="rounded-xl border bg-white p-4 text-sm text-gray-500">조건에 맞는 기사가 없습니다.</p>}
+        {!loading && !filtered.length && <p className="rounded-xl border bg-white p-4 text-sm text-gray-500">조건에 맞는 기사가 없습니다.</p>}
       </div>
+
+      {fallbackActive && (
+        <p className="mt-6 inline-flex rounded-full bg-amber-100 px-3 py-1 text-xs font-semibold text-amber-700">
+          현재는 정적 데이터(샘플/캐시)를 표시 중
+        </p>
+      )}
     </div>
   )
 }

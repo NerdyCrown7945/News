@@ -20,5 +20,13 @@
     "A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences."
   ],
   "url": "https://openai.com/index/trustbank",
-  "related": []
+  "related": [],
+  "summary_lines_ko": [
+    "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.",
+    "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery."
+  ],
+  "key_points_ko": [
+    "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery.",
+    "A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences."
+  ]
 }

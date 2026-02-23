@@ -13,10 +13,10 @@ from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
+from urllib.request import Request, urlopen
 
 import feedparser
 from dateutil import parser as dt_parser
-from urllib.request import Request, urlopen
 
 LOGGER = logging.getLogger("news-pipeline")
 USER_AGENT = "NewsDigestBot/1.0 (+https://github.com/)"
@@ -33,7 +33,9 @@ TRACKING_QUERY_PREFIXES = (
     "igshid",
     "wt_",
 )
-HOMEPAGE_PATH_HINTS = {"", "blog", "blogs", "news", "updates", "stories", "research", "press"}
+
+# path가 비어있는 케이스는 별도 처리하므로 ""는 포함하지 않는다.
+HOMEPAGE_PATH_HINTS = {"blog", "blogs", "news", "updates", "stories", "research", "press"}
 
 
 class Summarizer:
@@ -70,9 +72,13 @@ class RuleBasedSummarizer(Summarizer):
 
 @dataclass
 class Source:
+    id: str
     name: str
     topic: str
     feed_url: str
+    site_url: str
+    language_hint: str
+    reliability: str
     tags: list[str]
     enabled: bool = True
 
@@ -143,37 +149,56 @@ def canonicalize_url(url: str) -> str:
 
 
 def is_home_or_section_url(url: str) -> bool:
+    """개별 기사 URL이 아니라 홈/섹션(목록) URL이면 True."""
     if not _is_http_url(url):
         return True
     parsed = urlparse(url)
     path = (parsed.path or "").strip("/").lower()
-    if path in HOMEPAGE_PATH_HINTS and not parsed.query:
+    if not path:
         return True
-    return path == ""
+
+    segments = [seg for seg in path.split("/") if seg]
+    if len(segments) == 1 and segments[0] in HOMEPAGE_PATH_HINTS:
+        return True
+    if len(segments) <= 2:
+        joined = "/".join(segments)
+        if joined == "discover/blog":
+            return True
+        if segments and segments[0] in HOMEPAGE_PATH_HINTS:
+            return True
+    return False
 
 
 def extract_entry_url(entry: dict[str, Any]) -> str:
+    """
+    RSS entry에서 '개별 기사' 링크를 최대한 정확히 추출한다.
+    entry가 제공한 근거(link/alternate/guid)만 사용하며, 추측으로 URL을 만들지 않는다.
+    홈/섹션 링크로 판정되면 빈 문자열을 반환한다.
+    """
     candidates: list[str] = []
 
     link = (entry.get("link") or "").strip()
     if link:
         candidates.append(link)
 
+    for link_item in entry.get("links", []) or []:
+        href = (link_item.get("href") or "").strip()
+        rel = (link_item.get("rel") or "").strip().lower()
+        if href and rel in {"alternate", ""}:
+            candidates.append(href)
+
     guid = (entry.get("guid") or entry.get("id") or "").strip()
     if guid:
         candidates.append(guid)
 
-    for link_item in entry.get("links", []) or []:
-        href = (link_item.get("href") or "").strip()
-        rel = (link_item.get("rel") or "").strip().lower()
-        if href and rel in {"", "alternate"}:
-            candidates.append(href)
+    for candidate in candidates:
+        if not _is_http_url(candidate):
+            continue
+        canonical = canonicalize_url(candidate)
+        if canonical and not is_home_or_section_url(canonical):
+            return canonical
 
-    valid = [c for c in candidates if _is_http_url(c)]
-    for c in valid:
-        if not is_home_or_section_url(c):
-            return c
-    return valid[0] if valid else ""
+    return ""
 
 
 def parse_published(entry: dict[str, Any]) -> datetime:
@@ -215,20 +240,38 @@ def fetch_feed(url: str) -> feedparser.FeedParserDict | None:
         return None
 
 
+def _slugify_source_id(name: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", (name or "").lower()).strip("-")
+    return slug or "source"
+
+
 def load_sources(path: Path) -> list[Source]:
     raw = json.loads(path.read_text(encoding="utf-8"))
     dedup: dict[tuple[str, str], Source] = {}
+
     for row in raw:
+        name = str(row.get("name", "")).strip()
+        topic = str(row.get("topic", "")).strip().lower()
+        feed_url = str(row.get("feed_url", "")).strip()
+        if not name or topic not in {"ai", "scitech"} or not feed_url:
+            continue
+
         source = Source(
-            name=row["name"],
-            topic=row["topic"],
-            feed_url=row["feed_url"],
-            tags=row.get("tags", []),
-            enabled=row.get("enabled", True),
+            id=str(row.get("id") or _slugify_source_id(name)),
+            name=name,
+            topic=topic,
+            feed_url=feed_url,
+            site_url=str(row.get("site_url", "") or ""),
+            language_hint=str(row.get("language_hint", "en") or "en"),
+            reliability=str(row.get("reliability", "med") or "med"),
+            tags=[str(tag) for tag in (row.get("tags") or []) if str(tag).strip()],
+            enabled=bool(row.get("enabled", True)),
         )
+
         key = (source.topic.strip().lower(), source.feed_url.strip().lower())
         if key not in dedup:
             dedup[key] = source
+
     return list(dedup.values())
 
 
@@ -254,8 +297,8 @@ def generate_data(sources: list[Source], summarizer: Summarizer, max_articles: i
             continue
 
         for entry in parsed.entries:
-            raw_url = extract_entry_url(entry)
-            canonical = canonicalize_url(raw_url) if raw_url else ""
+            # extract_entry_url()가 canonicalize + 홈/섹션 제거까지 수행
+            canonical = extract_entry_url(entry)
 
             title = (entry.get("title") or "(untitled)").strip()
             title_norm = normalize_title(title)
@@ -280,7 +323,7 @@ def generate_data(sources: list[Source], summarizer: Summarizer, max_articles: i
                 topic=source.topic,
                 one_liner=summary["one_liner"],
                 tags=source.tags,
-                url=canonical,
+                url=canonical,  # 개별 기사 URL이면 값, 아니면 ""
                 cluster_id=cluster_id,
                 summary_lines=summary["summary_lines"],
                 key_points=summary["key_points"],
@@ -327,7 +370,7 @@ def write_output(articles: list[Article], output_root: Path) -> None:
                 "topic": article.topic,
                 "one_liner": article.one_liner,
                 "tags": article.tags,
-                "url": article.url,
+                "url": article.url,  # ""이면 프론트에서 “원문 링크 없음” 표시
                 "cluster_id": article.cluster_id,
             }
         )

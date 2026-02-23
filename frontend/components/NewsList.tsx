@@ -24,6 +24,31 @@ const API_BASE = API_BASE_ENV || 'http://127.0.0.1:8000'
 const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || ''
 const STATIC_FEED_PATH = `${BASE_PATH}/data/feed.json`
 
+const SECTION_PATHS = ['blog', 'blogs', 'news', 'updates', 'stories', 'research', 'press']
+
+const isLikelyHomeOrSectionUrl = (value: string): boolean => {
+  try {
+    const parsed = new URL(value)
+    const path = parsed.pathname.replace(/^\/+|\/+$/g, '').toLowerCase()
+    if (!path) return true
+
+    const segments = path.split('/').filter(Boolean)
+    if (!segments.length) return true
+
+    if (segments.length === 1 && SECTION_PATHS.includes(segments[0])) return true
+
+    if (segments.length <= 2) {
+      const joined = segments.join('/')
+      if (joined === 'discover/blog') return true
+      if (segments.length > 0 && SECTION_PATHS.includes(segments[0])) return true
+    }
+
+    return false
+  } catch {
+    return true
+  }
+}
+
 export default function NewsList() {
   const [topic, setTopic] = useState<TopicFilter>('all')
   const [range, setRange] = useState<RangeFilter>('24h')
@@ -47,15 +72,12 @@ export default function NewsList() {
     setNotice(null)
 
     const params = new URLSearchParams({ topic, range, query: keyword, sort: sortBy })
+
     try {
-      if (!canUseApi) {
-        throw new Error('API is disabled in GitHub Pages mode')
-      }
+      if (!canUseApi) throw new Error('API disabled (Pages mode)')
 
       const res = await fetch(`${API_BASE}/feed?${params.toString()}`, { cache: 'no-store' })
-      if (!res.ok) {
-        throw new Error(`API request failed with status ${res.status}`)
-      }
+      if (!res.ok) throw new Error(`API request failed with status ${res.status}`)
 
       const data = (await res.json()) as FeedItem[]
       setItems(data)
@@ -64,14 +86,16 @@ export default function NewsList() {
     } catch {
       try {
         const fallbackRes = await fetch(STATIC_FEED_PATH, { cache: 'no-store' })
-        if (!fallbackRes.ok) {
-          throw new Error(`Fallback request failed with status ${fallbackRes.status}`)
-        }
+        if (!fallbackRes.ok) throw new Error(`Fallback request failed with status ${fallbackRes.status}`)
 
         const fallbackData = (await fallbackRes.json()) as FeedItem[]
         setItems(fallbackData)
         setFallbackActive(true)
-        setNotice(canUseApi ? '백엔드 연결에 실패하여 정적 데이터(샘플/캐시)를 표시 중입니다.' : 'GitHub Pages 환경에서 정적 데이터(샘플/캐시)를 표시 중입니다.')
+        setNotice(
+          canUseApi
+            ? '백엔드 연결에 실패하여 정적 데이터(샘플/캐시)를 표시 중입니다.'
+            : 'GitHub Pages 환경에서 정적 데이터(샘플/캐시)를 표시 중입니다.'
+        )
       } catch {
         setItems([])
         setFallbackActive(true)
@@ -155,7 +179,11 @@ export default function NewsList() {
             value={keyword}
             onChange={(e) => setKeyword(e.target.value)}
           />
-          <select className="rounded-lg border px-3 py-2 text-sm" value={sortBy} onChange={(e) => setSortBy(e.target.value as SortFilter)}>
+          <select
+            className="rounded-lg border px-3 py-2 text-sm"
+            value={sortBy}
+            onChange={(e) => setSortBy(e.target.value as SortFilter)}
+          >
             <option value="new">최신순</option>
           </select>
           <button
@@ -173,7 +201,11 @@ export default function NewsList() {
 
       <div className="space-y-4">
         {filtered.map((item) => (
-          <Link key={item.id} href={`/news/${item.id}`} className="block rounded-2xl border bg-white p-5 shadow-sm transition hover:-translate-y-0.5">
+          <Link
+            key={item.id}
+            href={`/news/${item.id}`}
+            className="block rounded-2xl border bg-white p-5 shadow-sm transition hover:-translate-y-0.5"
+          >
             <h2 className="text-xl font-semibold leading-8 text-gray-900">{item.title_ko || item.title}</h2>
             <p className="mt-2 text-sm text-gray-500">
               {item.source || '출처 미상'}
@@ -187,11 +219,16 @@ export default function NewsList() {
                   #{tag}
                 </span>
               ))}
+              {(!item.url || isLikelyHomeOrSectionUrl(item.url)) && (
+                <span className="rounded-full bg-amber-100 px-2 py-1 text-xs text-amber-700">원문 링크 없음</span>
+              )}
             </div>
           </Link>
         ))}
 
-        {!loading && !filtered.length && <p className="rounded-xl border bg-white p-4 text-sm text-gray-500">조건에 맞는 기사가 없습니다.</p>}
+        {!loading && !filtered.length && (
+          <p className="rounded-xl border bg-white p-4 text-sm text-gray-500">조건에 맞는 기사가 없습니다.</p>
+        )}
       </div>
 
       {fallbackActive && (

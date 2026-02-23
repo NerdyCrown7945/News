@@ -20,5 +20,13 @@
     "Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks."
   ],
   "url": "https://openai.com/index/strengthening-safety-with-external-testing",
-  "related": []
+  "related": [],
+  "summary_lines_ko": [
+    "OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.",
+    "Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks."
+  ],
+  "key_points_ko": [
+    "OpenAI works with independent experts to evaluate frontier AI systems.",
+    "Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks."
+  ]
 }

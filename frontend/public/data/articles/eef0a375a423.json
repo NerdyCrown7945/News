@@ -1,0 +1,12 @@
+{
+  "id": "eef0a375a423",
+  "title": "How confessions can keep language models honest",
+  "summary_lines": [
+    "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs."
+  ],
+  "key_points": [
+    "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs."
+  ],
+  "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+  "related": []
+}

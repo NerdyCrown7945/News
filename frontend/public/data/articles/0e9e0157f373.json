@@ -1,0 +1,12 @@
+{
+  "id": "0e9e0157f373",
+  "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+  "summary_lines": [
+    "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation."
+  ],
+  "key_points": [
+    "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation."
+  ],
+  "url": "https://openai.com/index/scaling-postgresql",
+  "related": []
+}

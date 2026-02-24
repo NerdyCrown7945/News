@@ -1,7 +1,7 @@
 {
   "id": "410aa22bdc35",
   "title": "How Scania is accelerating work with AI across its global workforce",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2025-11-19T00:00:00Z",
   "summary_lines": [
     "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
@@ -20,13 +20,5 @@
     "With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation."
   ],
   "url": "https://openai.com/index/scania",
-  "related": [],
-  "summary_lines_ko": [
-    "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
-    "With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation."
-  ],
-  "key_points_ko": [
-    "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise.",
-    "With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation."
-  ]
+  "related": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "a1f161b6a344",
   "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2026-01-20T11:00:00Z",
   "summary_lines": [
     "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development."
@@ -16,11 +16,5 @@
     "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development."
   ],
   "url": "https://openai.com/index/cisco",
-  "related": [],
-  "summary_lines_ko": [
-    "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development."
-  ],
-  "key_points_ko": [
-    "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development."
-  ]
+  "related": []
 }

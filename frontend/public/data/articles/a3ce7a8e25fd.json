@@ -1,7 +1,7 @@
 {
   "id": "a3ce7a8e25fd",
   "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2026-01-22T00:00:00Z",
   "summary_lines": [
     "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work."
@@ -16,11 +16,5 @@
     "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work."
   ],
   "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
-  "related": [],
-  "summary_lines_ko": [
-    "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work."
-  ],
-  "key_points_ko": [
-    "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work."
-  ]
+  "related": []
 }

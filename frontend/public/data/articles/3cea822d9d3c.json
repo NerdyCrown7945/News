@@ -1,7 +1,7 @@
 {
   "id": "3cea822d9d3c",
   "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2026-01-15T00:00:00Z",
   "summary_lines": [
     "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
@@ -20,13 +20,5 @@
     "AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure."
   ],
   "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
-  "related": [],
-  "summary_lines_ko": [
-    "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
-    "AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure."
-  ],
-  "key_points_ko": [
-    "OpenAI launches a new RFP to strengthen the U.S.",
-    "AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure."
-  ]
+  "related": []
 }

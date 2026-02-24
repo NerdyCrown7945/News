@@ -1,7 +1,7 @@
 {
   "id": "d0b2cf7c4899",
   "title": "The state of enterprise AI",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2025-12-17T00:00:00Z",
   "summary_lines": [
     "A data-driven look at enterprise AI adoption, showing how organizations move from experimentation to real productivity gains and new capabilities."
@@ -16,11 +16,5 @@
     "A data-driven look at enterprise AI adoption, showing how organizations move from experimentation to real productivity gains and new capabilities."
   ],
   "url": "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report",
-  "related": [],
-  "summary_lines_ko": [
-    "A data-driven look at enterprise AI adoption, showing how organizations move from experimentation to real productivity gains and new capabilities."
-  ],
-  "key_points_ko": [
-    "A data-driven look at enterprise AI adoption, showing how organizations move from experimentation to real productivity gains and new capabilities."
-  ]
+  "related": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "a45c7ee6fc08",
   "title": "Unlocking the Codex harness: how we built the App Server",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2026-02-04T13:00:00Z",
   "summary_lines": [
     "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs."
@@ -16,11 +16,5 @@
     "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs."
   ],
   "url": "https://openai.com/index/unlocking-the-codex-harness",
-  "related": [],
-  "summary_lines_ko": [
-    "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs."
-  ],
-  "key_points_ko": [
-    "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs."
-  ]
+  "related": []
 }

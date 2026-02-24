@@ -1,7 +1,7 @@
 {
   "id": "8dfbb146fdc5",
   "title": "Understanding neural networks through sparse circuits",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2025-11-13T10:00:00Z",
   "summary_lines": [
     "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.",

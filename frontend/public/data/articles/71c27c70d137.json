@@ -1,7 +1,7 @@
 {
   "id": "71c27c70d137",
   "title": "How Higgsfield turns simple ideas into cinematic social videos",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2026-01-21T10:00:00Z",
   "summary_lines": [
     "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2."
@@ -16,11 +16,5 @@
     "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2."
   ],
   "url": "https://openai.com/index/higgsfield",
-  "related": [],
-  "summary_lines_ko": [
-    "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2."
-  ],
-  "key_points_ko": [
-    "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2."
-  ]
+  "related": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "aa20070d4f3c",
   "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2025-10-30T11:00:00Z",
   "summary_lines": [
     "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",

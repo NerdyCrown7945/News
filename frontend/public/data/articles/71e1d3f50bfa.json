@@ -1,7 +1,7 @@
 {
   "id": "71e1d3f50bfa",
   "title": "Introducing EVMbench",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2026-02-18T00:00:00Z",
   "summary_lines": [
     "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities."
@@ -16,11 +16,5 @@
     "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities."
   ],
   "url": "https://openai.com/index/introducing-evmbench",
-  "related": [],
-  "summary_lines_ko": [
-    "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities."
-  ],
-  "key_points_ko": [
-    "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities."
-  ]
+  "related": []
 }

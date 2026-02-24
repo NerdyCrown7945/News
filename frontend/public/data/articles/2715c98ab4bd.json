@@ -1,7 +1,7 @@
 {
   "id": "2715c98ab4bd",
   "title": "Instacart and OpenAI partner on AI shopping experiences",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2025-12-08T06:00:00Z",
   "summary_lines": [
     "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT."
@@ -16,11 +16,5 @@
     "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT."
   ],
   "url": "https://openai.com/index/instacart-partnership",
-  "related": [],
-  "summary_lines_ko": [
-    "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT."
-  ],
-  "key_points_ko": [
-    "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT."
-  ]
+  "related": []
 }

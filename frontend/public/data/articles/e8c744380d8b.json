@@ -1,7 +1,7 @@
 {
   "id": "e8c744380d8b",
   "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2025-12-09T00:00:00Z",
   "summary_lines": [
     "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
@@ -20,13 +20,5 @@
     "ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation."
   ],
   "url": "https://openai.com/index/deutsche-telekom-collaboration",
-  "related": [],
-  "summary_lines_ko": [
-    "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation.",
-    "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe."
-  ],
-  "key_points_ko": [
-    "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe.",
-    "ChatGPT Enterprise will also be deployed to help employees at Deutsche Telekom improve workflows and accelerate innovation."
-  ]
+  "related": []
 }

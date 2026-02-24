@@ -1,7 +1,7 @@
 {
   "id": "9f2f745e33d6",
   "title": "How Tolan builds voice-first AI with GPT-5.1",
-  "source": "OpenAI News",
+  "source": "OpenAI Blog",
   "published_at": "2026-01-07T10:00:00Z",
   "summary_lines": [
     "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations."
@@ -16,11 +16,5 @@
     "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations."
   ],
   "url": "https://openai.com/index/tolan",
-  "related": [],
-  "summary_lines_ko": [
-    "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations."
-  ],
-  "key_points_ko": [
-    "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations."
-  ]
+  "related": []
 }

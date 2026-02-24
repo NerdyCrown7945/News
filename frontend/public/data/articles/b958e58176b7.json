@@ -1,0 +1,26 @@
+{
+  "id": "b958e58176b7",
+  "title": "Why we no longer evaluate SWE-bench Verified",
+  "source": "OpenAI Blog",
+  "published_at": "2026-02-23T11:00:00Z",
+  "summary_lines": [
+    "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress."
+  ],
+  "key_points": [
+    "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress.",
+    "Our analysis shows flawed tests and training leakage.",
+    "We recommend SWE-bench Pro."
+  ],
+  "summary_lines_ko": [
+    "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress."
+  ],
+  "key_points_ko": [
+    "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress.",
+    "Our analysis shows flawed tests and training leakage.",
+    "We recommend SWE-bench Pro."
+  ],
+  "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+  "related": []
+}

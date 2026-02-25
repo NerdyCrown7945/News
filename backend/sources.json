@@ -11,7 +11,9 @@
     "tags": [
       "llm",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "google-ai-blog",
@@ -25,7 +27,9 @@
     "tags": [
       "ai",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "google-cloud-blog-ai",
@@ -39,7 +43,9 @@
     "tags": [
       "cloud",
       "ml"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "google-research-blog",
@@ -52,7 +58,9 @@
     "reliability": "med",
     "tags": [
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "deepmind-blog",
@@ -66,7 +74,9 @@
     "tags": [
       "deepmind",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "anthropic-news",
@@ -80,7 +90,9 @@
     "tags": [
       "llm",
       "safety"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "meta-ai-blog",
@@ -94,7 +106,9 @@
     "tags": [
       "meta",
       "open-model"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "microsoft-research-blog",
@@ -108,7 +122,9 @@
     "tags": [
       "research",
       "ms"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "microsoft-devblogs",
@@ -122,7 +138,9 @@
     "tags": [
       "dev",
       "platform"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "nvidia-developer-blog",
@@ -136,7 +154,9 @@
     "tags": [
       "gpu",
       "developer"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "nvidia-ai-blog",
@@ -150,7 +170,9 @@
     "tags": [
       "gpu",
       "ai"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "aws-ml-blog",
@@ -164,7 +186,9 @@
     "tags": [
       "aws",
       "ml"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "huggingface-blog",
@@ -178,7 +202,9 @@
     "tags": [
       "open-source",
       "llm"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "huggingface-papers",
@@ -192,7 +218,9 @@
     "tags": [
       "papers",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "langchain-blog",
@@ -206,7 +234,9 @@
     "tags": [
       "agent",
       "framework"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "weights-biases-blog",
@@ -220,7 +250,9 @@
     "tags": [
       "mlops",
       "tools"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "vercel-blog",
@@ -234,7 +266,9 @@
     "tags": [
       "app",
       "infra"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "github-blog",
@@ -248,7 +282,9 @@
     "tags": [
       "developer",
       "platform"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "stackoverflow-blog",
@@ -262,7 +298,9 @@
     "tags": [
       "developer",
       "community"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "mozilla-hacks",
@@ -276,7 +314,9 @@
     "tags": [
       "web",
       "engineering"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "pytorch-blog",
@@ -290,7 +330,9 @@
     "tags": [
       "framework",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "tensorflow-blog",
@@ -304,7 +346,9 @@
     "tags": [
       "framework",
       "ml"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "cohere-blog",
@@ -318,7 +362,9 @@
     "tags": [
       "llm",
       "enterprise"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "stability-ai-news",
@@ -332,7 +378,9 @@
     "tags": [
       "image-ai",
       "diffusion"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "midjourney-updates",
@@ -346,7 +394,9 @@
     "tags": [
       "image-ai",
       "creative"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "runway-research",
@@ -360,7 +410,9 @@
     "tags": [
       "video-ai",
       "multimodal"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "ibm-research-blog",
@@ -374,7 +426,9 @@
     "tags": [
       "enterprise",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "salesforce-ai-blog",
@@ -388,7 +442,9 @@
     "tags": [
       "agent",
       "enterprise"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "databricks-ai-blog",
@@ -402,7 +458,9 @@
     "tags": [
       "data",
       "ai"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "venturebeat-ai",
@@ -416,7 +474,9 @@
     "tags": [
       "industry",
       "media"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "mit-news-ai",
@@ -430,7 +490,9 @@
     "tags": [
       "academia",
       "mit"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "deeplearningai-batch",
@@ -444,7 +506,9 @@
     "tags": [
       "newsletter",
       "ai"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "hn-frontpage",
@@ -458,7 +522,9 @@
     "tags": [
       "community",
       "tech"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "ars-technica",
@@ -472,7 +538,9 @@
     "tags": [
       "tech",
       "media"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "techcrunch",
@@ -486,7 +554,9 @@
     "tags": [
       "startup",
       "media"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "the-verge",
@@ -500,7 +570,9 @@
     "tags": [
       "tech",
       "media"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "wired",
@@ -514,7 +586,9 @@
     "tags": [
       "innovation",
       "media"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "mit-tech-review",
@@ -528,7 +602,9 @@
     "tags": [
       "analysis",
       "technology"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "engadget",
@@ -542,7 +618,9 @@
     "tags": [
       "gadgets",
       "media"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "zdnet",
@@ -556,7 +634,9 @@
     "tags": [
       "it",
       "media"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "ieee-spectrum",
@@ -570,7 +650,9 @@
     "tags": [
       "engineering",
       "science"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "scientific-american",
@@ -584,7 +666,9 @@
     "tags": [
       "science",
       "media"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "nature-science",
@@ -598,7 +682,9 @@
     "tags": [
       "journal",
       "science"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "nature-news",
@@ -612,7 +698,9 @@
     "tags": [
       "journal",
       "news"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "science-news-current",
@@ -626,7 +714,9 @@
     "tags": [
       "journal",
       "science"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "science-news-org",
@@ -640,7 +730,9 @@
     "tags": [
       "science",
       "media"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "sciencedaily-top",
@@ -654,7 +746,9 @@
     "tags": [
       "science",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "sciencedaily-astronomy",
@@ -668,7 +762,9 @@
     "tags": [
       "space",
       "astronomy"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "sciencedaily-physics",
@@ -682,7 +778,9 @@
     "tags": [
       "physics",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "sciencedaily-biotech",
@@ -696,7 +794,9 @@
     "tags": [
       "biotech",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "phys-org-ai",
@@ -710,7 +810,9 @@
     "tags": [
       "ai4science",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "phys-org-space",
@@ -724,7 +826,9 @@
     "tags": [
       "space",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "phys-org-physics",
@@ -738,7 +842,9 @@
     "tags": [
       "physics",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "phys-org-biology",
@@ -752,7 +858,9 @@
     "tags": [
       "biology",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "nasa-breaking-news",
@@ -766,7 +874,9 @@
     "tags": [
       "space",
       "nasa"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "nasa-image-day",
@@ -780,7 +890,9 @@
     "tags": [
       "space",
       "nasa"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "esa-activities",
@@ -794,7 +906,9 @@
     "tags": [
       "space",
       "esa"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "esa-top-news",
@@ -808,7 +922,9 @@
     "tags": [
       "space",
       "esa"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "noaa-news",
@@ -822,7 +938,9 @@
     "tags": [
       "climate",
       "ocean"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "usgs-news",
@@ -836,7 +954,9 @@
     "tags": [
       "earth",
       "geoscience"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "cern-news",
@@ -850,7 +970,9 @@
     "tags": [
       "physics",
       "cern"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "nsf-news",
@@ -864,7 +986,9 @@
     "tags": [
       "science",
       "policy"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "nih-news",
@@ -878,7 +1002,9 @@
     "tags": [
       "health",
       "biomed"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "who-news",
@@ -892,7 +1018,9 @@
     "tags": [
       "health",
       "global"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "space-com-all",
@@ -906,7 +1034,9 @@
     "tags": [
       "space",
       "astronomy"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "eurekalert-news",
@@ -920,7 +1050,9 @@
     "tags": [
       "research",
       "news"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "aaas-news",
@@ -934,7 +1066,9 @@
     "tags": [
       "science",
       "policy"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "conversation-science",
@@ -948,7 +1082,9 @@
     "tags": [
       "science",
       "analysis"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "conversation-technology",
@@ -962,7 +1098,9 @@
     "tags": [
       "technology",
       "analysis"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "mit-news-general",
@@ -976,7 +1114,9 @@
     "tags": [
       "science",
       "academia"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "bair-blog",
@@ -991,7 +1131,9 @@
       "academia",
       "berkeley",
       "research"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "arxiv-cs-ai",
@@ -1006,7 +1148,9 @@
       "papers",
       "research",
       "arxiv"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   },
   {
     "id": "sciencedaily-ai",
@@ -1021,6 +1165,8 @@
       "science",
       "ai",
       "news"
-    ]
+    ],
+    "last_validated_at": "2026-02-25T12:38:24.286879Z",
+    "validation_error": ""
   }
 ]

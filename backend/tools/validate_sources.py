@@ -54,49 +54,72 @@ def validate_feed_url(url: str) -> dict[str, Any]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Validate RSS/Atom sources and optionally rewrite enabled/feed_url fields")
+    parser = argparse.ArgumentParser(description="Validate RSS/Atom sources and save a separate validation report")
     parser.add_argument("--sources", default="backend/sources.json")
-    parser.add_argument("--write", action="store_true", help="persist enabled/feed_url updates to sources.json")
+    parser.add_argument("--report", default="backend/validation_report.json", help="path for validation report JSON")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
     path = Path(args.sources)
     rows = json.loads(path.read_text(encoding="utf-8"))
-    now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    checked_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 
     ok_count = 0
     fail_count = 0
+    results: list[dict[str, Any]] = []
 
     for row in rows:
+        source_id = row.get("id", row.get("name", "unknown"))
         feed_url = row.get("feed_url", "")
+
         if not feed_url:
-            row["enabled"] = False
-            row["validation_error"] = "missing feed_url"
-            row["last_validated_at"] = now
             fail_count += 1
+            results.append(
+                {
+                    "id": source_id,
+                    "ok": False,
+                    "status": None,
+                    "error": "missing feed_url",
+                    "entries": 0,
+                    "feed_url": "",
+                    "final_url": "",
+                }
+            )
+            LOGGER.warning("FAIL %-28s missing feed_url", source_id)
             continue
 
         result = validate_feed_url(feed_url)
-        row["last_validated_at"] = now
-
         if result["ok"]:
             ok_count += 1
-            row["enabled"] = True
-            row["validation_error"] = ""
-            if result["final_url"] and result["final_url"] != feed_url:
-                row["feed_url"] = result["final_url"]
-            LOGGER.info("OK   %-28s status=%s entries=%s", row.get("id", row.get("name", "unknown")), result["status"], result["entries"])
+            LOGGER.info("OK   %-28s status=%s entries=%s", source_id, result["status"], result["entries"])
         else:
             fail_count += 1
-            row["enabled"] = False
-            row["validation_error"] = result["reason"]
-            LOGGER.warning("FAIL %-28s %s", row.get("id", row.get("name", "unknown")), result["reason"])
+            LOGGER.warning("FAIL %-28s %s", source_id, result["reason"])
+
+        results.append(
+            {
+                "id": source_id,
+                "ok": result["ok"],
+                "status": result["status"],
+                "error": result["reason"],
+                "entries": result["entries"],
+                "feed_url": feed_url,
+                "final_url": result["final_url"],
+            }
+        )
 
     LOGGER.info("validation done: ok=%s fail=%s total=%s", ok_count, fail_count, len(rows))
 
-    if args.write:
-        path.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    report_path = Path(args.report)
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    report = {
+        "checked_at": checked_at,
+        "summary": {"total": len(rows), "ok": ok_count, "failed": fail_count},
+        "results": results,
+    }
+    report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    LOGGER.info("wrote validation report: %s", report_path)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,667 @@
+{
+  "checked_at": "2026-02-25T14:59:27.669897Z",
+  "summary": {
+    "total": 73,
+    "ok": 0,
+    "failed": 73
+  },
+  "results": [
+    {
+      "id": "openai-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://openai.com/blog/rss.xml",
+      "final_url": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "id": "google-ai-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://ai.googleblog.com/feeds/posts/default?alt=rss",
+      "final_url": "https://ai.googleblog.com/feeds/posts/default?alt=rss"
+    },
+    {
+      "id": "google-cloud-blog-ai",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://cloud.google.com/blog/topics/ai-ml/rss/",
+      "final_url": "https://cloud.google.com/blog/topics/ai-ml/rss/"
+    },
+    {
+      "id": "google-research-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://research.google/blog/rss/",
+      "final_url": "https://research.google/blog/rss/"
+    },
+    {
+      "id": "deepmind-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://deepmind.google/discover/blog/rss/",
+      "final_url": "https://deepmind.google/discover/blog/rss/"
+    },
+    {
+      "id": "anthropic-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.anthropic.com/news/rss.xml",
+      "final_url": "https://www.anthropic.com/news/rss.xml"
+    },
+    {
+      "id": "meta-ai-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://ai.meta.com/blog/rss/",
+      "final_url": "https://ai.meta.com/blog/rss/"
+    },
+    {
+      "id": "microsoft-research-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.microsoft.com/en-us/research/feed/",
+      "final_url": "https://www.microsoft.com/en-us/research/feed/"
+    },
+    {
+      "id": "microsoft-devblogs",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://devblogs.microsoft.com/feed/",
+      "final_url": "https://devblogs.microsoft.com/feed/"
+    },
+    {
+      "id": "nvidia-developer-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://developer.nvidia.com/blog/feed/",
+      "final_url": "https://developer.nvidia.com/blog/feed/"
+    },
+    {
+      "id": "nvidia-ai-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://blogs.nvidia.com/blog/category/ai/feed/",
+      "final_url": "https://blogs.nvidia.com/blog/category/ai/feed/"
+    },
+    {
+      "id": "aws-ml-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "final_url": "https://aws.amazon.com/blogs/machine-learning/feed/"
+    },
+    {
+      "id": "huggingface-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "final_url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "id": "huggingface-papers",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://huggingface.co/papers/rss",
+      "final_url": "https://huggingface.co/papers/rss"
+    },
+    {
+      "id": "langchain-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://blog.langchain.dev/rss/",
+      "final_url": "https://blog.langchain.dev/rss/"
+    },
+    {
+      "id": "weights-biases-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://wandb.ai/fully-connected/rss.xml",
+      "final_url": "https://wandb.ai/fully-connected/rss.xml"
+    },
+    {
+      "id": "vercel-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://vercel.com/blog/rss.xml",
+      "final_url": "https://vercel.com/blog/rss.xml"
+    },
+    {
+      "id": "github-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://github.blog/feed/",
+      "final_url": "https://github.blog/feed/"
+    },
+    {
+      "id": "stackoverflow-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://stackoverflow.blog/feed/",
+      "final_url": "https://stackoverflow.blog/feed/"
+    },
+    {
+      "id": "mozilla-hacks",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://hacks.mozilla.org/feed/",
+      "final_url": "https://hacks.mozilla.org/feed/"
+    },
+    {
+      "id": "pytorch-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://pytorch.org/feed.xml",
+      "final_url": "https://pytorch.org/feed.xml"
+    },
+    {
+      "id": "tensorflow-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://blog.tensorflow.org/feeds/posts/default",
+      "final_url": "https://blog.tensorflow.org/feeds/posts/default"
+    },
+    {
+      "id": "cohere-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://cohere.com/blog/rss.xml",
+      "final_url": "https://cohere.com/blog/rss.xml"
+    },
+    {
+      "id": "stability-ai-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://stability.ai/news/rss.xml",
+      "final_url": "https://stability.ai/news/rss.xml"
+    },
+    {
+      "id": "midjourney-updates",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.midjourney.com/updates/rss.xml",
+      "final_url": "https://www.midjourney.com/updates/rss.xml"
+    },
+    {
+      "id": "runway-research",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://research.runwayml.com/rss.xml",
+      "final_url": "https://research.runwayml.com/rss.xml"
+    },
+    {
+      "id": "ibm-research-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://research.ibm.com/blog/rss.xml",
+      "final_url": "https://research.ibm.com/blog/rss.xml"
+    },
+    {
+      "id": "salesforce-ai-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://blog.salesforceairesearch.com/rss/",
+      "final_url": "https://blog.salesforceairesearch.com/rss/"
+    },
+    {
+      "id": "databricks-ai-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.databricks.com/blog/category/ai/feed",
+      "final_url": "https://www.databricks.com/blog/category/ai/feed"
+    },
+    {
+      "id": "venturebeat-ai",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://venturebeat.com/category/ai/feed/",
+      "final_url": "https://venturebeat.com/category/ai/feed/"
+    },
+    {
+      "id": "mit-news-ai",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "final_url": "https://news.mit.edu/rss/topic/artificial-intelligence2"
+    },
+    {
+      "id": "deeplearningai-batch",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.deeplearning.ai/the-batch/feed/",
+      "final_url": "https://www.deeplearning.ai/the-batch/feed/"
+    },
+    {
+      "id": "hn-frontpage",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://hnrss.org/frontpage",
+      "final_url": "https://hnrss.org/frontpage"
+    },
+    {
+      "id": "ars-technica",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "final_url": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "id": "techcrunch",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://techcrunch.com/feed/",
+      "final_url": "https://techcrunch.com/feed/"
+    },
+    {
+      "id": "the-verge",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "final_url": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "id": "wired",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.wired.com/feed/rss",
+      "final_url": "https://www.wired.com/feed/rss"
+    },
+    {
+      "id": "mit-tech-review",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.technologyreview.com/feed/",
+      "final_url": "https://www.technologyreview.com/feed/"
+    },
+    {
+      "id": "engadget",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "final_url": "https://www.engadget.com/rss.xml"
+    },
+    {
+      "id": "zdnet",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.zdnet.com/news/rss.xml",
+      "final_url": "https://www.zdnet.com/news/rss.xml"
+    },
+    {
+      "id": "ieee-spectrum",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://spectrum.ieee.org/rss/fulltext",
+      "final_url": "https://spectrum.ieee.org/rss/fulltext"
+    },
+    {
+      "id": "scientific-american",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.scientificamerican.com/feed/",
+      "final_url": "https://www.scientificamerican.com/feed/"
+    },
+    {
+      "id": "nature-science",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.nature.com/subjects/science/rss",
+      "final_url": "https://www.nature.com/subjects/science/rss"
+    },
+    {
+      "id": "nature-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.nature.com/nature.rss",
+      "final_url": "https://www.nature.com/nature.rss"
+    },
+    {
+      "id": "science-news-current",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.science.org/rss/news_current.xml",
+      "final_url": "https://www.science.org/rss/news_current.xml"
+    },
+    {
+      "id": "science-news-org",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.sciencenews.org/feed",
+      "final_url": "https://www.sciencenews.org/feed"
+    },
+    {
+      "id": "sciencedaily-top",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.sciencedaily.com/rss/top/science.xml",
+      "final_url": "https://www.sciencedaily.com/rss/top/science.xml"
+    },
+    {
+      "id": "sciencedaily-astronomy",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.sciencedaily.com/rss/space_time/astronomy.xml",
+      "final_url": "https://www.sciencedaily.com/rss/space_time/astronomy.xml"
+    },
+    {
+      "id": "sciencedaily-physics",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.sciencedaily.com/rss/matter_energy/physics.xml",
+      "final_url": "https://www.sciencedaily.com/rss/matter_energy/physics.xml"
+    },
+    {
+      "id": "sciencedaily-biotech",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.sciencedaily.com/rss/plants_animals/biotechnology.xml",
+      "final_url": "https://www.sciencedaily.com/rss/plants_animals/biotechnology.xml"
+    },
+    {
+      "id": "phys-org-ai",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://phys.org/rss-feed/technology-news/artificial-intelligence-news/",
+      "final_url": "https://phys.org/rss-feed/technology-news/artificial-intelligence-news/"
+    },
+    {
+      "id": "phys-org-space",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://phys.org/rss-feed/space-news/",
+      "final_url": "https://phys.org/rss-feed/space-news/"
+    },
+    {
+      "id": "phys-org-physics",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://phys.org/rss-feed/physics-news/",
+      "final_url": "https://phys.org/rss-feed/physics-news/"
+    },
+    {
+      "id": "phys-org-biology",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://phys.org/rss-feed/biology-news/",
+      "final_url": "https://phys.org/rss-feed/biology-news/"
+    },
+    {
+      "id": "nasa-breaking-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "final_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    },
+    {
+      "id": "nasa-image-day",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+      "final_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss"
+    },
+    {
+      "id": "esa-activities",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.esa.int/rssfeed/Our_Activities",
+      "final_url": "https://www.esa.int/rssfeed/Our_Activities"
+    },
+    {
+      "id": "esa-top-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.esa.int/rssfeed/TopNews",
+      "final_url": "https://www.esa.int/rssfeed/TopNews"
+    },
+    {
+      "id": "noaa-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.noaa.gov/news/feed",
+      "final_url": "https://www.noaa.gov/news/feed"
+    },
+    {
+      "id": "usgs-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.usgs.gov/news/feed",
+      "final_url": "https://www.usgs.gov/news/feed"
+    },
+    {
+      "id": "cern-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://home.cern/resources/rss/news",
+      "final_url": "https://home.cern/resources/rss/news"
+    },
+    {
+      "id": "nsf-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://new.nsf.gov/news/newsroom/rss.xml",
+      "final_url": "https://new.nsf.gov/news/newsroom/rss.xml"
+    },
+    {
+      "id": "nih-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.nih.gov/news-events/news-releases/feed.xml",
+      "final_url": "https://www.nih.gov/news-events/news-releases/feed.xml"
+    },
+    {
+      "id": "who-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.who.int/rss-feeds/news-english.xml",
+      "final_url": "https://www.who.int/rss-feeds/news-english.xml"
+    },
+    {
+      "id": "space-com-all",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.space.com/feeds/all",
+      "final_url": "https://www.space.com/feeds/all"
+    },
+    {
+      "id": "eurekalert-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.eurekalert.org/rss/news-releases.xml",
+      "final_url": "https://www.eurekalert.org/rss/news-releases.xml"
+    },
+    {
+      "id": "aaas-news",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.aaas.org/rss/news.xml",
+      "final_url": "https://www.aaas.org/rss/news.xml"
+    },
+    {
+      "id": "conversation-science",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://theconversation.com/global/topics/science-36/articles.atom",
+      "final_url": "https://theconversation.com/global/topics/science-36/articles.atom"
+    },
+    {
+      "id": "conversation-technology",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://theconversation.com/global/topics/technology-58/articles.atom",
+      "final_url": "https://theconversation.com/global/topics/technology-58/articles.atom"
+    },
+    {
+      "id": "mit-news-general",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://news.mit.edu/rss/feed",
+      "final_url": "https://news.mit.edu/rss/feed"
+    },
+    {
+      "id": "bair-blog",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
+      "final_url": "https://bair.berkeley.edu/blog/feed.xml"
+    },
+    {
+      "id": "arxiv-cs-ai",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://rss.arxiv.org/rss/cs.AI",
+      "final_url": "https://rss.arxiv.org/rss/cs.AI"
+    },
+    {
+      "id": "sciencedaily-ai",
+      "ok": false,
+      "status": null,
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+      "entries": 0,
+      "feed_url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "final_url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml"
+    }
+  ]
+}

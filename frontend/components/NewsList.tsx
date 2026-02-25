@@ -5,7 +5,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react'
 
 type TopicFilter = 'all' | 'ai' | 'scitech'
 type RangeFilter = '24h' | '7d' | '30d'
-type SortFilter = 'new'
+type SortFilter = 'new' | 'date'
 
 type FeedItem = {
   id: string
@@ -49,9 +49,22 @@ const isLikelyHomeOrSectionUrl = (value: string): boolean => {
   }
 }
 
+
+const rangeToMs: Record<RangeFilter, number> = {
+  '24h': 24 * 60 * 60 * 1000,
+  '7d': 7 * 24 * 60 * 60 * 1000,
+  '30d': 30 * 24 * 60 * 60 * 1000,
+}
+
+const getPublishedAtMs = (item: FeedItem): number => {
+  if (!item.published_at) return 0
+  const value = new Date(item.published_at).getTime()
+  return Number.isNaN(value) ? 0 : value
+}
+
 export default function NewsList() {
   const [topic, setTopic] = useState<TopicFilter>('all')
-  const [range, setRange] = useState<RangeFilter>('24h')
+  const [range, setRange] = useState<RangeFilter>('30d')
   const [sortBy, setSortBy] = useState<SortFilter>('new')
   const [keyword, setKeyword] = useState('')
   const [items, setItems] = useState<FeedItem[]>([])
@@ -112,22 +125,46 @@ export default function NewsList() {
 
   const filtered = useMemo(() => {
     const q = keyword.trim().toLowerCase()
-    if (!q) return items
-    return items.filter((item) => {
-      const text = `${item.title} ${item.title_ko || ''} ${item.one_liner}`.toLowerCase()
-      return text.includes(q)
+    const cutoff = Date.now() - rangeToMs[range]
+
+    const baseFiltered = items
+      .filter((item) => topic === 'all' || item.topic === topic)
+      .filter((item) => {
+        if (!q) return true
+        const text = `${item.title} ${item.title_ko || ''} ${item.one_liner}`.toLowerCase()
+        return text.includes(q)
+      })
+
+    const ranged = baseFiltered.filter((item) => {
+      const publishedAtMs = getPublishedAtMs(item)
+      if (publishedAtMs <= 0) return true
+      return publishedAtMs >= cutoff
     })
-  }, [items, keyword])
+
+    const result = ranged.length ? ranged : baseFiltered
+
+    return result
+      .sort((a, b) => {
+        const diff = getPublishedAtMs(b) - getPublishedAtMs(a)
+        if (sortBy === 'new') return diff
+        return -diff
+      })
+  }, [items, keyword, range, sortBy, topic])
 
   const runIngest = async () => {
-    if (!isLocalhost) {
-      setNotice('수집 실행은 로컬(127.0.0.1/localhost) 환경에서만 사용할 수 있습니다.')
-      return
-    }
-
+    setLoading(true)
     setNotice(null)
-    await fetch(`${API_BASE}/ingest/run`, { method: 'POST' })
-    await loadFeed()
+
+    try {
+      const res = await fetch(`${API_BASE}/ingest/run`, { method: 'POST' })
+      if (!res.ok) throw new Error(`ingest failed: ${res.status}`)
+      await loadFeed()
+      setNotice('최신 글 수집을 실행했습니다.')
+    } catch {
+      setNotice('수집 실행에 실패했습니다. 백엔드 실행 상태와 NEXT_PUBLIC_API_BASE 설정을 확인해 주세요.')
+    } finally {
+      setLoading(false)
+    }
   }
 
   return (
@@ -147,7 +184,7 @@ export default function NewsList() {
             ['all', 'All'],
           ].map(([value, label]) => (
             <button
-              key={value}
+              key={label}
               onClick={() => setTopic(value as TopicFilter)}
               className={`rounded-full border px-4 py-2 text-sm ${
                 topic === value ? 'border-gray-900 bg-gray-900 text-white' : 'bg-white text-gray-700'
@@ -159,7 +196,11 @@ export default function NewsList() {
         </div>
 
         <div className="flex flex-wrap gap-2">
-          {(['24h', '7d', '30d'] as RangeFilter[]).map((value) => (
+          {([
+            ['24h', '하루'],
+            ['7d', '일주일'],
+            ['30d', '30일'],
+          ] as [RangeFilter, string][]).map(([value, label]) => (
             <button
               key={value}
               onClick={() => setRange(value)}
@@ -167,7 +208,7 @@ export default function NewsList() {
                 range === value ? 'border-blue-600 bg-blue-600 text-white' : 'bg-white text-gray-700'
               }`}
             >
-              {value}
+              {label}
             </button>
           ))}
         </div>
@@ -185,12 +226,11 @@ export default function NewsList() {
             onChange={(e) => setSortBy(e.target.value as SortFilter)}
           >
             <option value="new">최신순</option>
+            <option value="date">날짜순(오래된순)</option>
           </select>
           <button
             onClick={runIngest}
-            disabled={!isLocalhost}
-            title={!isLocalhost ? '수집 실행은 로컬 환경에서만 가능합니다.' : undefined}
-            className="rounded-lg border bg-emerald-600 px-3 py-2 text-sm font-medium text-white disabled:cursor-not-allowed disabled:bg-emerald-300"
+            className="rounded-lg border bg-emerald-600 px-3 py-2 text-sm font-medium text-white"
           >
             수집 실행
           </button>

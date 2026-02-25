@@ -12,8 +12,8 @@
       "llm",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "google-ai-blog",
@@ -28,8 +28,8 @@
       "ai",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "google-cloud-blog-ai",
@@ -44,8 +44,8 @@
       "cloud",
       "ml"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "google-research-blog",
@@ -59,8 +59,8 @@
     "tags": [
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "deepmind-blog",
@@ -75,8 +75,8 @@
       "deepmind",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "anthropic-news",
@@ -91,8 +91,8 @@
       "llm",
       "safety"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "meta-ai-blog",
@@ -107,8 +107,8 @@
       "meta",
       "open-model"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "microsoft-research-blog",
@@ -123,8 +123,8 @@
       "research",
       "ms"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "microsoft-devblogs",
@@ -139,8 +139,8 @@
       "dev",
       "platform"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "nvidia-developer-blog",
@@ -155,8 +155,8 @@
       "gpu",
       "developer"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "nvidia-ai-blog",
@@ -171,8 +171,8 @@
       "gpu",
       "ai"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "aws-ml-blog",
@@ -187,8 +187,8 @@
       "aws",
       "ml"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "huggingface-blog",
@@ -203,8 +203,8 @@
       "open-source",
       "llm"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "huggingface-papers",
@@ -219,8 +219,8 @@
       "papers",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "langchain-blog",
@@ -235,8 +235,8 @@
       "agent",
       "framework"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "weights-biases-blog",
@@ -251,8 +251,8 @@
       "mlops",
       "tools"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "vercel-blog",
@@ -267,8 +267,8 @@
       "app",
       "infra"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "github-blog",
@@ -283,8 +283,8 @@
       "developer",
       "platform"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "stackoverflow-blog",
@@ -299,8 +299,8 @@
       "developer",
       "community"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "mozilla-hacks",
@@ -315,8 +315,8 @@
       "web",
       "engineering"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "pytorch-blog",
@@ -331,8 +331,8 @@
       "framework",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "tensorflow-blog",
@@ -347,8 +347,8 @@
       "framework",
       "ml"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "cohere-blog",
@@ -363,8 +363,8 @@
       "llm",
       "enterprise"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "stability-ai-news",
@@ -379,8 +379,8 @@
       "image-ai",
       "diffusion"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "midjourney-updates",
@@ -395,8 +395,8 @@
       "image-ai",
       "creative"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "runway-research",
@@ -411,8 +411,8 @@
       "video-ai",
       "multimodal"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "ibm-research-blog",
@@ -427,8 +427,8 @@
       "enterprise",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "salesforce-ai-blog",
@@ -443,8 +443,8 @@
       "agent",
       "enterprise"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "databricks-ai-blog",
@@ -459,8 +459,8 @@
       "data",
       "ai"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "venturebeat-ai",
@@ -475,8 +475,8 @@
       "industry",
       "media"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "mit-news-ai",
@@ -491,8 +491,8 @@
       "academia",
       "mit"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "deeplearningai-batch",
@@ -507,8 +507,8 @@
       "newsletter",
       "ai"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "hn-frontpage",
@@ -523,8 +523,8 @@
       "community",
       "tech"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "ars-technica",
@@ -539,8 +539,8 @@
       "tech",
       "media"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "techcrunch",
@@ -555,8 +555,8 @@
       "startup",
       "media"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "the-verge",
@@ -571,8 +571,8 @@
       "tech",
       "media"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "wired",
@@ -587,8 +587,8 @@
       "innovation",
       "media"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "mit-tech-review",
@@ -603,8 +603,8 @@
       "analysis",
       "technology"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "engadget",
@@ -619,8 +619,8 @@
       "gadgets",
       "media"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "zdnet",
@@ -635,8 +635,8 @@
       "it",
       "media"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "ieee-spectrum",
@@ -651,8 +651,8 @@
       "engineering",
       "science"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "scientific-american",
@@ -667,8 +667,8 @@
       "science",
       "media"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "nature-science",
@@ -683,8 +683,8 @@
       "journal",
       "science"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "nature-news",
@@ -699,8 +699,8 @@
       "journal",
       "news"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "science-news-current",
@@ -715,8 +715,8 @@
       "journal",
       "science"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "science-news-org",
@@ -731,8 +731,8 @@
       "science",
       "media"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "sciencedaily-top",
@@ -747,8 +747,8 @@
       "science",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "sciencedaily-astronomy",
@@ -763,8 +763,8 @@
       "space",
       "astronomy"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "sciencedaily-physics",
@@ -779,8 +779,8 @@
       "physics",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "sciencedaily-biotech",
@@ -795,8 +795,8 @@
       "biotech",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "phys-org-ai",
@@ -811,8 +811,8 @@
       "ai4science",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "phys-org-space",
@@ -827,8 +827,8 @@
       "space",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "phys-org-physics",
@@ -843,8 +843,8 @@
       "physics",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "phys-org-biology",
@@ -859,8 +859,8 @@
       "biology",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "nasa-breaking-news",
@@ -875,8 +875,8 @@
       "space",
       "nasa"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "nasa-image-day",
@@ -891,8 +891,8 @@
       "space",
       "nasa"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "esa-activities",
@@ -907,8 +907,8 @@
       "space",
       "esa"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "esa-top-news",
@@ -923,8 +923,8 @@
       "space",
       "esa"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "noaa-news",
@@ -939,8 +939,8 @@
       "climate",
       "ocean"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "usgs-news",
@@ -955,8 +955,8 @@
       "earth",
       "geoscience"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "cern-news",
@@ -971,8 +971,8 @@
       "physics",
       "cern"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "nsf-news",
@@ -987,8 +987,8 @@
       "science",
       "policy"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "nih-news",
@@ -1003,8 +1003,8 @@
       "health",
       "biomed"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "who-news",
@@ -1019,8 +1019,8 @@
       "health",
       "global"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "space-com-all",
@@ -1035,8 +1035,8 @@
       "space",
       "astronomy"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "eurekalert-news",
@@ -1051,8 +1051,8 @@
       "research",
       "news"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "aaas-news",
@@ -1067,8 +1067,8 @@
       "science",
       "policy"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "conversation-science",
@@ -1083,8 +1083,8 @@
       "science",
       "analysis"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "conversation-technology",
@@ -1099,8 +1099,8 @@
       "technology",
       "analysis"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "mit-news-general",
@@ -1115,8 +1115,8 @@
       "science",
       "academia"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "bair-blog",
@@ -1132,8 +1132,8 @@
       "berkeley",
       "research"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "arxiv-cs-ai",
@@ -1149,8 +1149,8 @@
       "research",
       "arxiv"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   },
   {
     "id": "sciencedaily-ai",
@@ -1166,7 +1166,7 @@
       "ai",
       "news"
     ],
-    "last_validated_at": "2026-02-25T12:38:24.286879Z",
-    "validation_error": ""
+    "last_validated_at": "2026-02-25T12:44:19.307680Z",
+    "validation_error": "network-proxy-blocked: <urlopen error Tunnel connection failed: 403 Forbidden>"
   }
 ]

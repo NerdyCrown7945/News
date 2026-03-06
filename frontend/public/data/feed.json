@@ -1,5 +1,19 @@
 [
   {
+    "id": "cb4caaecf3d1",
+    "title": "GPT-5.4 Thinking System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.4 Thinking System Card",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "cluster_id": "c-ad46faed82"
+  },
+  {
     "id": "778534f65631",
     "title": "Introducing GPT-5.4",
     "source": "OpenAI Blog",
@@ -28,20 +42,6 @@
     "cluster_id": "c-6378ca3a23"
   },
   {
-    "id": "cb4caaecf3d1",
-    "title": "GPT-5.4 Thinking System Card",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-5.4 Thinking System Card",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "cluster_id": "c-ad46faed82"
-  },
-  {
     "id": "e535c691836b",
     "title": "Ensuring AI use in education leads to opportunity",
     "source": "OpenAI Blog",
@@ -54,6 +54,20 @@
     ],
     "url": "https://openai.com/index/ai-education-opportunity",
     "cluster_id": "c-346af4ceed"
+  },
+  {
+    "id": "fe905f44e7a8",
+    "title": "The five AI value models driving business reinvention",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "cluster_id": "c-c5abbc00f2"
   },
   {
     "id": "70299260bcc5",
@@ -84,20 +98,6 @@
     "cluster_id": "c-fbd103dbf8"
   },
   {
-    "id": "fe905f44e7a8",
-    "title": "The five AI value models driving business reinvention",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-    "cluster_id": "c-c5abbc00f2"
-  },
-  {
     "id": "3c9cf98258b7",
     "title": "Extending single-minus amplitudes to gravitons",
     "source": "OpenAI Blog",
@@ -112,20 +112,6 @@
     "cluster_id": "c-f401eb0573"
   },
   {
-    "id": "4408edb280a0",
-    "title": "Understanding AI and learning outcomes",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-04T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-    "cluster_id": "c-7591c0d065"
-  },
-  {
     "id": "47744e1c25f2",
     "title": "How Axios uses AI to help deliver high-impact local journalism",
     "source": "OpenAI Blog",
@@ -138,6 +124,20 @@
     ],
     "url": "https://openai.com/index/axios-allison-murphy",
     "cluster_id": "c-5d281cf65e"
+  },
+  {
+    "id": "4408edb280a0",
+    "title": "Understanding AI and learning outcomes",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-04T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+    "cluster_id": "c-7591c0d065"
   },
   {
     "id": "dff56ece1971",
@@ -182,6 +182,34 @@
     "cluster_id": "c-24a6b8fd3b"
   },
   {
+    "id": "11f28611545f",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/amazon-partnership",
+    "cluster_id": "c-339ec1d9f4"
+  },
+  {
+    "id": "794d4515e722",
+    "title": "Scaling AI for everyone",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00Z",
+    "topic": "ai",
+    "one_liner": "Today we’re announcing $110B in new investment at a $730B pre money valuation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "cluster_id": "c-1fa7afd50d"
+  },
+  {
     "id": "0b6632a60f07",
     "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
     "source": "OpenAI Blog",
@@ -208,34 +236,6 @@
     ],
     "url": "https://openai.com/index/continuing-microsoft-partnership",
     "cluster_id": "c-358d3478b3"
-  },
-  {
-    "id": "794d4515e722",
-    "title": "Scaling AI for everyone",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00Z",
-    "topic": "ai",
-    "one_liner": "Today we’re announcing $110B in new investment at a $730B pre money valuation.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "cluster_id": "c-1fa7afd50d"
-  },
-  {
-    "id": "11f28611545f",
-    "title": "OpenAI and Amazon announce strategic partnership",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/amazon-partnership",
-    "cluster_id": "c-339ec1d9f4"
   },
   {
     "id": "54ea56b76bba",
@@ -476,20 +476,6 @@
     "cluster_id": "c-cdc4430f87"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-09T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "3d72134cdaba",
     "title": "Bringing ChatGPT to GenAI.mil",
     "source": "OpenAI Blog",
@@ -502,6 +488,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
     "cluster_id": "c-9ee351931e"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-09T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "8f4bb7dd8ed5",
@@ -574,20 +574,6 @@
     "cluster_id": "c-034a9d80fd"
   },
   {
-    "id": "8a0c8c7ac88d",
-    "title": "GPT-5.3-Codex System Card",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-    "cluster_id": "c-d836227750"
-  },
-  {
     "id": "1f7427a9e036",
     "title": "Introducing GPT-5.3-Codex",
     "source": "OpenAI Blog",
@@ -600,6 +586,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-5-3-codex",
     "cluster_id": "c-9a82c1548e"
+  },
+  {
+    "id": "8a0c8c7ac88d",
+    "title": "GPT-5.3-Codex System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "cluster_id": "c-d836227750"
   },
   {
     "id": "a45c7ee6fc08",
@@ -714,20 +714,6 @@
     "cluster_id": "c-7b34ab6e97"
   },
   {
-    "id": "075fc545e694",
-    "title": "The next chapter for AI in the EU",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-28T01:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
-    "cluster_id": "c-cd58e92ecd"
-  },
-  {
     "id": "cf58b7400fc9",
     "title": "EMEA Youth & Wellbeing Grant",
     "source": "OpenAI Blog",
@@ -740,6 +726,20 @@
     ],
     "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
     "cluster_id": "c-e39415f208"
+  },
+  {
+    "id": "075fc545e694",
+    "title": "The next chapter for AI in the EU",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-28T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+    "cluster_id": "c-cd58e92ecd"
   },
   {
     "id": "63508e9ab188",
@@ -770,20 +770,6 @@
     "cluster_id": "c-dfa8eb9701"
   },
   {
-    "id": "42533aa4f8b5",
-    "title": "Powering tax donations with AI powered personalized recommendations",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-27T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/trustbank",
-    "cluster_id": "c-6cb08f7f3f"
-  },
-  {
     "id": "2c97344d1f84",
     "title": "Introducing Prism",
     "source": "OpenAI Blog",
@@ -796,6 +782,20 @@
     ],
     "url": "https://openai.com/index/introducing-prism",
     "cluster_id": "c-4a141f0e32"
+  },
+  {
+    "id": "42533aa4f8b5",
+    "title": "Powering tax donations with AI powered personalized recommendations",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-27T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/trustbank",
+    "cluster_id": "c-6cb08f7f3f"
   },
   {
     "id": "67722d7f2046",
@@ -882,20 +882,6 @@
     "cluster_id": "c-f82b9d9065"
   },
   {
-    "id": "aca3ad17ccab",
-    "title": "How countries can end the capability overhang",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-21T01:00:00Z",
-    "topic": "ai",
-    "one_liner": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
-    "cluster_id": "c-993c670cac"
-  },
-  {
     "id": "03d0ef228762",
     "title": "Introducing Edu for Countries",
     "source": "OpenAI Blog",
@@ -908,6 +894,20 @@
     ],
     "url": "https://openai.com/index/edu-for-countries",
     "cluster_id": "c-cedd4b3b2b"
+  },
+  {
+    "id": "aca3ad17ccab",
+    "title": "How countries can end the capability overhang",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-21T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+    "cluster_id": "c-993c670cac"
   },
   {
     "id": "6ed9efa8b174",
@@ -1022,20 +1022,6 @@
     "cluster_id": "c-cbe8825897"
   },
   {
-    "id": "61959f22e780",
-    "title": "Our approach to advertising and expanding access to ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI plans to test advertising in the U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-    "cluster_id": "c-e63b86d6b9"
-  },
-  {
     "id": "0f1e6ca37d64",
     "title": "Introducing ChatGPT Go, now available worldwide",
     "source": "OpenAI Blog",
@@ -1048,6 +1034,20 @@
     ],
     "url": "https://openai.com/index/introducing-chatgpt-go",
     "cluster_id": "c-c1d359d0a6"
+  },
+  {
+    "id": "61959f22e780",
+    "title": "Our approach to advertising and expanding access to ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI plans to test advertising in the U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+    "cluster_id": "c-e63b86d6b9"
   },
   {
     "id": "c37941878031",
@@ -1260,18 +1260,18 @@
     "cluster_id": "c-e004274d06"
   },
   {
-    "id": "721cf9e2fe4a",
-    "title": "Deepening our collaboration with the U.S. Department of Energy",
+    "id": "4bb4ed9e91b1",
+    "title": "AI literacy resources for teens and parents",
     "source": "OpenAI Blog",
     "published_at": "2025-12-18T11:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI and the U.S.",
+    "one_liner": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/us-department-of-energy-collaboration",
-    "cluster_id": "c-b58e3a14e1"
+    "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+    "cluster_id": "c-8d91c38f7b"
   },
   {
     "id": "f432645645e4",
@@ -1288,18 +1288,18 @@
     "cluster_id": "c-10b94f1a8e"
   },
   {
-    "id": "4bb4ed9e91b1",
-    "title": "AI literacy resources for teens and parents",
+    "id": "721cf9e2fe4a",
+    "title": "Deepening our collaboration with the U.S. Department of Energy",
     "source": "OpenAI Blog",
     "published_at": "2025-12-18T11:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence.",
+    "one_liner": "OpenAI and the U.S.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-    "cluster_id": "c-8d91c38f7b"
+    "url": "https://openai.com/index/us-department-of-energy-collaboration",
+    "cluster_id": "c-b58e3a14e1"
   },
   {
     "id": "39f1595b994a",
@@ -1400,18 +1400,18 @@
     "cluster_id": "c-b86c3a70a3"
   },
   {
-    "id": "f3eda620bd44",
-    "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+    "id": "b0923f0323a0",
+    "title": "BBVA and OpenAI collaborate to transform global banking",
     "source": "OpenAI Blog",
     "published_at": "2025-12-12T00:00:00Z",
     "topic": "ai",
-    "one_liner": "BNY is using OpenAI technology to expand AI adoption enterprise-wide.",
+    "one_liner": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/bny",
-    "cluster_id": "c-9ba14875c6"
+    "url": "https://openai.com/index/bbva-collaboration-expansion",
+    "cluster_id": "c-559816f10d"
   },
   {
     "id": "6009bfe89b23",
@@ -1428,18 +1428,18 @@
     "cluster_id": "c-f8155280b8"
   },
   {
-    "id": "b0923f0323a0",
-    "title": "BBVA and OpenAI collaborate to transform global banking",
+    "id": "f3eda620bd44",
+    "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
     "source": "OpenAI Blog",
     "published_at": "2025-12-12T00:00:00Z",
     "topic": "ai",
-    "one_liner": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees.",
+    "one_liner": "BNY is using OpenAI technology to expand AI adoption enterprise-wide.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/bbva-collaboration-expansion",
-    "cluster_id": "c-559816f10d"
+    "url": "https://openai.com/index/bny",
+    "cluster_id": "c-9ba14875c6"
   },
   {
     "id": "b219e6953947",
@@ -1456,18 +1456,18 @@
     "cluster_id": "c-c9e488399d"
   },
   {
-    "id": "d4a2d9acc1fe",
-    "title": "Increasing revenue 300% by bringing AI to SMBs",
+    "id": "cad609eeb501",
+    "title": "Ten years",
     "source": "OpenAI Blog",
     "published_at": "2025-12-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+    "one_liner": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/podium",
-    "cluster_id": "c-8e90248211"
+    "url": "https://openai.com/index/ten-years",
+    "cluster_id": "c-c964c76d5d"
   },
   {
     "id": "02eec89574a8",
@@ -1484,18 +1484,18 @@
     "cluster_id": "c-16efbf012d"
   },
   {
-    "id": "cad609eeb501",
-    "title": "Ten years",
+    "id": "d4a2d9acc1fe",
+    "title": "Increasing revenue 300% by bringing AI to SMBs",
     "source": "OpenAI Blog",
     "published_at": "2025-12-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible.",
+    "one_liner": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/ten-years",
-    "cluster_id": "c-c964c76d5d"
+    "url": "https://openai.com/index/podium",
+    "cluster_id": "c-8e90248211"
   },
   {
     "id": "17fe1c1675c8",
@@ -1568,6 +1568,20 @@
     "cluster_id": "c-36b8736da9"
   },
   {
+    "id": "9983b0e62490",
+    "title": "Building AI fluency at scale with ChatGPT Enterprise",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/commonwealth-bank-of-australia",
+    "cluster_id": "c-0e5757d5e9"
+  },
+  {
     "id": "e8c744380d8b",
     "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
     "source": "OpenAI Blog",
@@ -1594,20 +1608,6 @@
     ],
     "url": "https://openai.com/index/openai-appoints-denise-dresser",
     "cluster_id": "c-24adbabd0b"
-  },
-  {
-    "id": "9983b0e62490",
-    "title": "Building AI fluency at scale with ChatGPT Enterprise",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-09T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/commonwealth-bank-of-australia",
-    "cluster_id": "c-0e5757d5e9"
   },
   {
     "id": "2715c98ab4bd",
@@ -1652,20 +1652,6 @@
     "cluster_id": "c-68d8c18766"
   },
   {
-    "id": "b796c43e7637",
-    "title": "OpenAI to acquire Neptune",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-to-acquire-neptune",
-    "cluster_id": "c-8178962d20"
-  },
-  {
     "id": "eef0a375a423",
     "title": "How confessions can keep language models honest",
     "source": "OpenAI Blog",
@@ -1678,6 +1664,20 @@
     ],
     "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
     "cluster_id": "c-5b292827ef"
+  },
+  {
+    "id": "b796c43e7637",
+    "title": "OpenAI to acquire Neptune",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-to-acquire-neptune",
+    "cluster_id": "c-8178962d20"
   },
   {
     "id": "08dcc7546106",
@@ -1820,20 +1820,6 @@
     "cluster_id": "c-56a59f4ae6"
   },
   {
-    "id": "165ac4cbc8a7",
-    "title": "Introducing shopping research in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2025-11-24T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-shopping-research",
-    "cluster_id": "c-af78711f59"
-  },
-  {
     "id": "6a6843d45760",
     "title": "GPT-5 and the future of mathematical discovery",
     "source": "OpenAI Blog",
@@ -1846,6 +1832,20 @@
     ],
     "url": "https://openai.com/index/gpt-5-mathematical-discovery",
     "cluster_id": "c-65687cda69"
+  },
+  {
+    "id": "165ac4cbc8a7",
+    "title": "Introducing shopping research in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-24T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-shopping-research",
+    "cluster_id": "c-af78711f59"
   },
   {
     "id": "af0822c91541",
@@ -1932,18 +1932,18 @@
     "cluster_id": "c-67c93e4f96"
   },
   {
-    "id": "778f8db71ab2",
-    "title": "GPT-5.1-Codex-Max System Card",
+    "id": "277fd3bcd8d7",
+    "title": "Building more with GPT-5.1-Codex-Max",
     "source": "OpenAI Blog",
     "published_at": "2025-11-19T00:00:00Z",
     "topic": "ai",
-    "one_liner": "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax.",
+    "one_liner": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
-    "cluster_id": "c-b3951ed6ba"
+    "url": "https://openai.com/index/gpt-5-1-codex-max",
+    "cluster_id": "c-73682008f0"
   },
   {
     "id": "2e20d64f2447",
@@ -1974,18 +1974,18 @@
     "cluster_id": "c-ed03751a4e"
   },
   {
-    "id": "277fd3bcd8d7",
-    "title": "Building more with GPT-5.1-Codex-Max",
+    "id": "778f8db71ab2",
+    "title": "GPT-5.1-Codex-Max System Card",
     "source": "OpenAI Blog",
     "published_at": "2025-11-19T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex.",
+    "one_liner": "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/gpt-5-1-codex-max",
-    "cluster_id": "c-73682008f0"
+    "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+    "cluster_id": "c-b3951ed6ba"
   },
   {
     "id": "814d82eb231b",
@@ -2044,18 +2044,18 @@
     "cluster_id": "c-d3504822b7"
   },
   {
-    "id": "eae8fc742928",
-    "title": "How Philips is scaling AI literacy across 70,000 employees",
+    "id": "ea99386f70d1",
+    "title": "Introducing group chats in ChatGPT",
     "source": "OpenAI Blog",
     "published_at": "2025-11-13T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide.",
+    "one_liner": "We’re piloting group chats in ChatGPT to make collaboration simple.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/philips",
-    "cluster_id": "c-41a0ee6220"
+    "url": "https://openai.com/index/group-chats-in-chatgpt",
+    "cluster_id": "c-56393bdaa9"
   },
   {
     "id": "ab82e7460939",
@@ -2072,18 +2072,18 @@
     "cluster_id": "c-e60e04240d"
   },
   {
-    "id": "ea99386f70d1",
-    "title": "Introducing group chats in ChatGPT",
+    "id": "eae8fc742928",
+    "title": "How Philips is scaling AI literacy across 70,000 employees",
     "source": "OpenAI Blog",
     "published_at": "2025-11-13T00:00:00Z",
     "topic": "ai",
-    "one_liner": "We’re piloting group chats in ChatGPT to make collaboration simple.",
+    "one_liner": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/group-chats-in-chatgpt",
-    "cluster_id": "c-56393bdaa9"
+    "url": "https://openai.com/index/philips",
+    "cluster_id": "c-41a0ee6220"
   },
   {
     "id": "b63d54501777",

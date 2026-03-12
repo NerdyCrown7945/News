@@ -1,0 +1,20 @@
+{
+  "id": "86852cb22192",
+  "title": "Designing AI agents to resist prompt injection",
+  "source": "OpenAI Blog",
+  "published_at": "2026-03-11T11:30:00Z",
+  "summary_lines": [
+    "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+  ],
+  "key_points": [
+    "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+  ],
+  "summary_lines_ko": [
+    "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+  ],
+  "key_points_ko": [
+    "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+  ],
+  "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+  "related": []
+}

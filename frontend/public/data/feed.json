@@ -1,5 +1,19 @@
 [
   {
+    "id": "bae4347eaebc",
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "cluster_id": "c-f879a322d6"
+  },
+  {
     "id": "34e6351b3e4d",
     "title": "Rakuten fixes issues twice as fast with Codex",
     "source": "OpenAI Blog",
@@ -98,20 +112,6 @@
     "cluster_id": "c-319703f6dc"
   },
   {
-    "id": "f15850658adf",
-    "title": "Codex Security: now in research preview",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-06T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/codex-security-now-in-research-preview",
-    "cluster_id": "c-e3f782ef72"
-  },
-  {
     "id": "40055e516fc4",
     "title": "How Descript enables multilingual video dubbing at scale",
     "source": "OpenAI Blog",
@@ -124,6 +124,20 @@
     ],
     "url": "https://openai.com/index/descript",
     "cluster_id": "c-bc0d0a0907"
+  },
+  {
+    "id": "f15850658adf",
+    "title": "Codex Security: now in research preview",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-06T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "cluster_id": "c-e3f782ef72"
   },
   {
     "id": "73e2b443794e",
@@ -154,20 +168,6 @@
     "cluster_id": "c-bcc2229a38"
   },
   {
-    "id": "70d73a6e0656",
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "cluster_id": "c-6378ca3a23"
-  },
-  {
     "id": "cb4caaecf3d1",
     "title": "GPT-5.4 Thinking System Card",
     "source": "OpenAI Blog",
@@ -182,6 +182,20 @@
     "cluster_id": "c-ad46faed82"
   },
   {
+    "id": "70d73a6e0656",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "cluster_id": "c-6378ca3a23"
+  },
+  {
     "id": "e535c691836b",
     "title": "Ensuring AI use in education leads to opportunity",
     "source": "OpenAI Blog",
@@ -194,6 +208,20 @@
     ],
     "url": "https://openai.com/index/ai-education-opportunity",
     "cluster_id": "c-346af4ceed"
+  },
+  {
+    "id": "4ceb74685037",
+    "title": "Introducing the Adoption news channel",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Practical insights and frameworks to turn AI progress into business advantage",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "cluster_id": "c-fbd103dbf8"
   },
   {
     "id": "70299260bcc5",
@@ -222,20 +250,6 @@
     ],
     "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
     "cluster_id": "c-c5abbc00f2"
-  },
-  {
-    "id": "4ceb74685037",
-    "title": "Introducing the Adoption news channel",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Practical insights and frameworks to turn AI progress into business advantage",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "cluster_id": "c-fbd103dbf8"
   },
   {
     "id": "3c9cf98258b7",
@@ -322,6 +336,20 @@
     "cluster_id": "c-24a6b8fd3b"
   },
   {
+    "id": "794d4515e722",
+    "title": "Scaling AI for everyone",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00Z",
+    "topic": "ai",
+    "one_liner": "Today we’re announcing $110B in new investment at a $730B pre money valuation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "cluster_id": "c-1fa7afd50d"
+  },
+  {
     "id": "11f28611545f",
     "title": "OpenAI and Amazon announce strategic partnership",
     "source": "OpenAI Blog",
@@ -348,20 +376,6 @@
     ],
     "url": "https://openai.com/index/continuing-microsoft-partnership",
     "cluster_id": "c-358d3478b3"
-  },
-  {
-    "id": "794d4515e722",
-    "title": "Scaling AI for everyone",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00Z",
-    "topic": "ai",
-    "one_liner": "Today we’re announcing $110B in new investment at a $730B pre money valuation.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "cluster_id": "c-1fa7afd50d"
   },
   {
     "id": "0b6632a60f07",
@@ -616,20 +630,6 @@
     "cluster_id": "c-cdc4430f87"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-09T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "3d72134cdaba",
     "title": "Bringing ChatGPT to GenAI.mil",
     "source": "OpenAI Blog",
@@ -642,6 +642,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
     "cluster_id": "c-9ee351931e"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-09T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "8f4bb7dd8ed5",
@@ -700,18 +714,18 @@
     "cluster_id": "c-8ce868397a"
   },
   {
-    "id": "8a0c8c7ac88d",
-    "title": "GPT-5.3-Codex System Card",
+    "id": "1f7427a9e036",
+    "title": "Introducing GPT-5.3-Codex",
     "source": "OpenAI Blog",
     "published_at": "2026-02-05T00:00:00Z",
     "topic": "ai",
-    "one_liner": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "one_liner": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-    "cluster_id": "c-d836227750"
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+    "cluster_id": "c-9a82c1548e"
   },
   {
     "id": "01db201107e3",
@@ -728,18 +742,18 @@
     "cluster_id": "c-034a9d80fd"
   },
   {
-    "id": "1f7427a9e036",
-    "title": "Introducing GPT-5.3-Codex",
+    "id": "8a0c8c7ac88d",
+    "title": "GPT-5.3-Codex System Card",
     "source": "OpenAI Blog",
     "published_at": "2026-02-05T00:00:00Z",
     "topic": "ai",
-    "one_liner": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+    "one_liner": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/introducing-gpt-5-3-codex",
-    "cluster_id": "c-9a82c1548e"
+    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "cluster_id": "c-d836227750"
   },
   {
     "id": "a45c7ee6fc08",
@@ -1596,18 +1610,18 @@
     "cluster_id": "c-c9e488399d"
   },
   {
-    "id": "17fe1c1675c8",
-    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+    "id": "d4a2d9acc1fe",
+    "title": "Increasing revenue 300% by bringing AI to SMBs",
     "source": "OpenAI Blog",
     "published_at": "2025-12-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos.",
+    "one_liner": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/disney-sora-agreement",
-    "cluster_id": "c-d47ffca7a0"
+    "url": "https://openai.com/index/podium",
+    "cluster_id": "c-8e90248211"
   },
   {
     "id": "02eec89574a8",
@@ -1624,18 +1638,18 @@
     "cluster_id": "c-16efbf012d"
   },
   {
-    "id": "d4a2d9acc1fe",
-    "title": "Increasing revenue 300% by bringing AI to SMBs",
+    "id": "17fe1c1675c8",
+    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
     "source": "OpenAI Blog",
     "published_at": "2025-12-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+    "one_liner": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/podium",
-    "cluster_id": "c-8e90248211"
+    "url": "https://openai.com/index/disney-sora-agreement",
+    "cluster_id": "c-d47ffca7a0"
   },
   {
     "id": "cad609eeb501",
@@ -1708,20 +1722,6 @@
     "cluster_id": "c-36b8736da9"
   },
   {
-    "id": "dd8b3c77e471",
-    "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-09T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-appoints-denise-dresser",
-    "cluster_id": "c-24adbabd0b"
-  },
-  {
     "id": "e8c744380d8b",
     "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
     "source": "OpenAI Blog",
@@ -1734,6 +1734,20 @@
     ],
     "url": "https://openai.com/index/deutsche-telekom-collaboration",
     "cluster_id": "c-63764870a7"
+  },
+  {
+    "id": "dd8b3c77e471",
+    "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-appoints-denise-dresser",
+    "cluster_id": "c-24adbabd0b"
   },
   {
     "id": "9983b0e62490",
@@ -1792,20 +1806,6 @@
     "cluster_id": "c-68d8c18766"
   },
   {
-    "id": "eef0a375a423",
-    "title": "How confessions can keep language models honest",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
-    "cluster_id": "c-5b292827ef"
-  },
-  {
     "id": "b796c43e7637",
     "title": "OpenAI to acquire Neptune",
     "source": "OpenAI Blog",
@@ -1818,6 +1818,20 @@
     ],
     "url": "https://openai.com/index/openai-to-acquire-neptune",
     "cluster_id": "c-8178962d20"
+  },
+  {
+    "id": "eef0a375a423",
+    "title": "How confessions can keep language models honest",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+    "cluster_id": "c-5b292827ef"
   },
   {
     "id": "08dcc7546106",
@@ -1876,20 +1890,6 @@
     "cluster_id": "c-f89bfbc08e"
   },
   {
-    "id": "2ccaba4cac6c",
-    "title": "Accenture and OpenAI accelerate enterprise AI success",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-01T05:00:00Z",
-    "topic": "ai",
-    "one_liner": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/accenture-partnership",
-    "cluster_id": "c-76b268e843"
-  },
-  {
     "id": "d40028f6468c",
     "title": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
     "source": "OpenAI Blog",
@@ -1902,6 +1902,20 @@
     ],
     "url": "https://openai.com/index/thrive-holdings",
     "cluster_id": "c-8b7b635802"
+  },
+  {
+    "id": "2ccaba4cac6c",
+    "title": "Accenture and OpenAI accelerate enterprise AI success",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-01T05:00:00Z",
+    "topic": "ai",
+    "one_liner": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/accenture-partnership",
+    "cluster_id": "c-76b268e843"
   },
   {
     "id": "92c787efe61c",
@@ -1960,20 +1974,6 @@
     "cluster_id": "c-56a59f4ae6"
   },
   {
-    "id": "165ac4cbc8a7",
-    "title": "Introducing shopping research in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2025-11-24T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-shopping-research",
-    "cluster_id": "c-af78711f59"
-  },
-  {
     "id": "6a6843d45760",
     "title": "GPT-5 and the future of mathematical discovery",
     "source": "OpenAI Blog",
@@ -1986,6 +1986,20 @@
     ],
     "url": "https://openai.com/index/gpt-5-mathematical-discovery",
     "cluster_id": "c-65687cda69"
+  },
+  {
+    "id": "165ac4cbc8a7",
+    "title": "Introducing shopping research in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-24T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-shopping-research",
+    "cluster_id": "c-af78711f59"
   },
   {
     "id": "af0822c91541",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/chatgpt-for-teachers",
     "cluster_id": "c-c4c52ffb1a"
-  },
-  {
-    "id": "410aa22bdc35",
-    "title": "How Scania is accelerating work with AI across its global workforce",
-    "source": "OpenAI Blog",
-    "published_at": "2025-11-19T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/scania",
-    "cluster_id": "c-ed03751a4e"
   }
 ]

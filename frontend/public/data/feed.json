@@ -1,5 +1,19 @@
 [
   {
+    "id": "fd3208099b40",
+    "title": "How we monitor internal coding agents for misalignment",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-19T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "cluster_id": "c-fb748211aa"
+  },
+  {
     "id": "625785a3d5f5",
     "title": "OpenAI to acquire Astral",
     "source": "OpenAI Blog",
@@ -98,20 +112,6 @@
     "cluster_id": "c-9930e971bf"
   },
   {
-    "id": "d4732a41e5a2",
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-11T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/equip-responses-api-computer-environment",
-    "cluster_id": "c-035b7e3684"
-  },
-  {
     "id": "69f2b5ec7d18",
     "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
     "source": "OpenAI Blog",
@@ -124,6 +124,20 @@
     ],
     "url": "https://openai.com/index/wayfair",
     "cluster_id": "c-7fd4d1fa5d"
+  },
+  {
+    "id": "d4732a41e5a2",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-11T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "cluster_id": "c-035b7e3684"
   },
   {
     "id": "458a72f18aa6",
@@ -168,20 +182,6 @@
     "cluster_id": "c-319703f6dc"
   },
   {
-    "id": "f15850658adf",
-    "title": "Codex Security: now in research preview",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-06T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/codex-security-now-in-research-preview",
-    "cluster_id": "c-e3f782ef72"
-  },
-  {
     "id": "40055e516fc4",
     "title": "How Descript enables multilingual video dubbing at scale",
     "source": "OpenAI Blog",
@@ -194,6 +194,20 @@
     ],
     "url": "https://openai.com/index/descript",
     "cluster_id": "c-bc0d0a0907"
+  },
+  {
+    "id": "f15850658adf",
+    "title": "Codex Security: now in research preview",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-06T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "cluster_id": "c-e3f782ef72"
   },
   {
     "id": "73e2b443794e",
@@ -266,6 +280,20 @@
     "cluster_id": "c-346af4ceed"
   },
   {
+    "id": "70299260bcc5",
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-for-excel",
+    "cluster_id": "c-bb20f658d7"
+  },
+  {
     "id": "4ceb74685037",
     "title": "Introducing the Adoption news channel",
     "source": "OpenAI Blog",
@@ -294,20 +322,6 @@
     "cluster_id": "c-c5abbc00f2"
   },
   {
-    "id": "70299260bcc5",
-    "title": "Introducing ChatGPT for Excel and new financial data integrations",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-for-excel",
-    "cluster_id": "c-bb20f658d7"
-  },
-  {
     "id": "3c9cf98258b7",
     "title": "Extending single-minus amplitudes to gravitons",
     "source": "OpenAI Blog",
@@ -320,20 +334,6 @@
     ],
     "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
     "cluster_id": "c-f401eb0573"
-  },
-  {
-    "id": "4408edb280a0",
-    "title": "Understanding AI and learning outcomes",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-04T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-    "cluster_id": "c-7591c0d065"
   },
   {
     "id": "47744e1c25f2",
@@ -350,18 +350,18 @@
     "cluster_id": "c-5d281cf65e"
   },
   {
-    "id": "f44579b21e9e",
-    "title": "GPT-5.3 Instant System Card",
+    "id": "4408edb280a0",
+    "title": "Understanding AI and learning outcomes",
     "source": "OpenAI Blog",
-    "published_at": "2026-03-03T10:00:00Z",
+    "published_at": "2026-03-04T00:00:00Z",
     "topic": "ai",
-    "one_liner": "GPT-5.3 Instant System Card",
+    "one_liner": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
-    "cluster_id": "c-8068bd9a21"
+    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+    "cluster_id": "c-7591c0d065"
   },
   {
     "id": "dff56ece1971",
@@ -378,6 +378,20 @@
     "cluster_id": "c-2ac3bb5a4e"
   },
   {
+    "id": "f44579b21e9e",
+    "title": "GPT-5.3 Instant System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.3 Instant System Card",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "cluster_id": "c-8068bd9a21"
+  },
+  {
     "id": "7fc87634da57",
     "title": "Our agreement with the Department of War",
     "source": "OpenAI Blog",
@@ -390,20 +404,6 @@
     ],
     "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
     "cluster_id": "c-24a6b8fd3b"
-  },
-  {
-    "id": "794d4515e722",
-    "title": "Scaling AI for everyone",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00Z",
-    "topic": "ai",
-    "one_liner": "Today we’re announcing $110B in new investment at a $730B pre money valuation.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "cluster_id": "c-1fa7afd50d"
   },
   {
     "id": "8c87fa05a78c",
@@ -420,6 +420,20 @@
     "cluster_id": "c-358d3478b3"
   },
   {
+    "id": "0b6632a60f07",
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00Z",
+    "topic": "ai",
+    "one_liner": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "cluster_id": "c-306b359883"
+  },
+  {
     "id": "11f28611545f",
     "title": "OpenAI and Amazon announce strategic partnership",
     "source": "OpenAI Blog",
@@ -434,18 +448,18 @@
     "cluster_id": "c-339ec1d9f4"
   },
   {
-    "id": "0b6632a60f07",
-    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "id": "794d4515e722",
+    "title": "Scaling AI for everyone",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00Z",
     "topic": "ai",
-    "one_liner": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "one_liner": "Today we’re announcing $110B in new investment at a $730B pre money valuation.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "cluster_id": "c-306b359883"
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "cluster_id": "c-1fa7afd50d"
   },
   {
     "id": "54ea56b76bba",
@@ -686,20 +700,6 @@
     "cluster_id": "c-cdc4430f87"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-09T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "3d72134cdaba",
     "title": "Bringing ChatGPT to GenAI.mil",
     "source": "OpenAI Blog",
@@ -712,6 +712,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
     "cluster_id": "c-9ee351931e"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-09T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "8f4bb7dd8ed5",
@@ -770,6 +784,20 @@
     "cluster_id": "c-8ce868397a"
   },
   {
+    "id": "8a0c8c7ac88d",
+    "title": "GPT-5.3-Codex System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "cluster_id": "c-d836227750"
+  },
+  {
     "id": "01db201107e3",
     "title": "Navigating health questions with ChatGPT",
     "source": "OpenAI Blog",
@@ -796,20 +824,6 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-5-3-codex",
     "cluster_id": "c-9a82c1548e"
-  },
-  {
-    "id": "8a0c8c7ac88d",
-    "title": "GPT-5.3-Codex System Card",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-    "cluster_id": "c-d836227750"
   },
   {
     "id": "a45c7ee6fc08",
@@ -980,20 +994,6 @@
     "cluster_id": "c-dfa8eb9701"
   },
   {
-    "id": "42533aa4f8b5",
-    "title": "Powering tax donations with AI powered personalized recommendations",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-27T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/trustbank",
-    "cluster_id": "c-6cb08f7f3f"
-  },
-  {
     "id": "2c97344d1f84",
     "title": "Introducing Prism",
     "source": "OpenAI Blog",
@@ -1006,6 +1006,20 @@
     ],
     "url": "https://openai.com/index/introducing-prism",
     "cluster_id": "c-4a141f0e32"
+  },
+  {
+    "id": "42533aa4f8b5",
+    "title": "Powering tax donations with AI powered personalized recommendations",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-27T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/trustbank",
+    "cluster_id": "c-6cb08f7f3f"
   },
   {
     "id": "67722d7f2046",
@@ -1092,20 +1106,6 @@
     "cluster_id": "c-f82b9d9065"
   },
   {
-    "id": "03d0ef228762",
-    "title": "Introducing Edu for Countries",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-21T01:00:00Z",
-    "topic": "ai",
-    "one_liner": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/edu-for-countries",
-    "cluster_id": "c-cedd4b3b2b"
-  },
-  {
     "id": "aca3ad17ccab",
     "title": "How countries can end the capability overhang",
     "source": "OpenAI Blog",
@@ -1118,6 +1118,20 @@
     ],
     "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
     "cluster_id": "c-993c670cac"
+  },
+  {
+    "id": "03d0ef228762",
+    "title": "Introducing Edu for Countries",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-21T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/edu-for-countries",
+    "cluster_id": "c-cedd4b3b2b"
   },
   {
     "id": "6ed9efa8b174",
@@ -1470,6 +1484,20 @@
     "cluster_id": "c-e004274d06"
   },
   {
+    "id": "721cf9e2fe4a",
+    "title": "Deepening our collaboration with the U.S. Department of Energy",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-18T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/us-department-of-energy-collaboration",
+    "cluster_id": "c-b58e3a14e1"
+  },
+  {
     "id": "f432645645e4",
     "title": "Updating our Model Spec with teen protections",
     "source": "OpenAI Blog",
@@ -1496,20 +1524,6 @@
     ],
     "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
     "cluster_id": "c-8d91c38f7b"
-  },
-  {
-    "id": "721cf9e2fe4a",
-    "title": "Deepening our collaboration with the U.S. Department of Energy",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-18T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and the U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/us-department-of-energy-collaboration",
-    "cluster_id": "c-b58e3a14e1"
   },
   {
     "id": "39f1595b994a",
@@ -1610,20 +1624,6 @@
     "cluster_id": "c-b86c3a70a3"
   },
   {
-    "id": "6009bfe89b23",
-    "title": "How We Used Codex to Ship Sora for Android in 28 Days",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-12T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI shipped Sora for Android in 28 days using Codex.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
-    "cluster_id": "c-f8155280b8"
-  },
-  {
     "id": "b0923f0323a0",
     "title": "BBVA and OpenAI collaborate to transform global banking",
     "source": "OpenAI Blog",
@@ -1636,6 +1636,20 @@
     ],
     "url": "https://openai.com/index/bbva-collaboration-expansion",
     "cluster_id": "c-559816f10d"
+  },
+  {
+    "id": "6009bfe89b23",
+    "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shipped Sora for Android in 28 days using Codex.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+    "cluster_id": "c-f8155280b8"
   },
   {
     "id": "f3eda620bd44",
@@ -1666,20 +1680,6 @@
     "cluster_id": "c-c9e488399d"
   },
   {
-    "id": "17fe1c1675c8",
-    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/disney-sora-agreement",
-    "cluster_id": "c-d47ffca7a0"
-  },
-  {
     "id": "02eec89574a8",
     "title": "Update to GPT-5 System Card: GPT-5.2",
     "source": "OpenAI Blog",
@@ -1706,6 +1706,20 @@
     ],
     "url": "https://openai.com/index/podium",
     "cluster_id": "c-8e90248211"
+  },
+  {
+    "id": "17fe1c1675c8",
+    "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/disney-sora-agreement",
+    "cluster_id": "c-d47ffca7a0"
   },
   {
     "id": "cad609eeb501",
@@ -1778,20 +1792,6 @@
     "cluster_id": "c-36b8736da9"
   },
   {
-    "id": "e8c744380d8b",
-    "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-09T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/deutsche-telekom-collaboration",
-    "cluster_id": "c-63764870a7"
-  },
-  {
     "id": "9983b0e62490",
     "title": "Building AI fluency at scale with ChatGPT Enterprise",
     "source": "OpenAI Blog",
@@ -1804,6 +1804,20 @@
     ],
     "url": "https://openai.com/index/commonwealth-bank-of-australia",
     "cluster_id": "c-0e5757d5e9"
+  },
+  {
+    "id": "e8c744380d8b",
+    "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/deutsche-telekom-collaboration",
+    "cluster_id": "c-63764870a7"
   },
   {
     "id": "dd8b3c77e471",
@@ -2030,20 +2044,6 @@
     "cluster_id": "c-56a59f4ae6"
   },
   {
-    "id": "165ac4cbc8a7",
-    "title": "Introducing shopping research in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2025-11-24T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-shopping-research",
-    "cluster_id": "c-af78711f59"
-  },
-  {
     "id": "6a6843d45760",
     "title": "GPT-5 and the future of mathematical discovery",
     "source": "OpenAI Blog",
@@ -2056,6 +2056,20 @@
     ],
     "url": "https://openai.com/index/gpt-5-mathematical-discovery",
     "cluster_id": "c-65687cda69"
+  },
+  {
+    "id": "165ac4cbc8a7",
+    "title": "Introducing shopping research in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2025-11-24T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-shopping-research",
+    "cluster_id": "c-af78711f59"
   },
   {
     "id": "af0822c91541",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/small-business-ai-jam",
     "cluster_id": "c-2a99bc0fc0"
-  },
-  {
-    "id": "fab147c72d8e",
-    "title": "Early experiments in accelerating science with GPT-5",
-    "source": "OpenAI Blog",
-    "published_at": "2025-11-20T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces the first research cases showing how GPT-5 accelerates scientific progress across math, physics, biology, and computer science.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/accelerating-science-gpt-5",
-    "cluster_id": "c-0078991360"
   }
 ]

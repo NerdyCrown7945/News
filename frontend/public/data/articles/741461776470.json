@@ -1,0 +1,20 @@
+{
+  "id": "741461776470",
+  "title": "Introducing the OpenAI Safety Bug Bounty program",
+  "source": "OpenAI Blog",
+  "published_at": "2026-03-25T00:00:00Z",
+  "summary_lines": [
+    "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
+  ],
+  "key_points": [
+    "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
+  ],
+  "summary_lines_ko": [
+    "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
+  ],
+  "key_points_ko": [
+    "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
+  ],
+  "url": "https://openai.com/index/safety-bug-bounty",
+  "related": []
+}

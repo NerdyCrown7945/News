@@ -2,7 +2,7 @@
   "id": "0f7e9213fe84",
   "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
   "source": "OpenAI Blog",
-  "published_at": "2026-01-08T13:00:00Z",
+  "published_at": "2026-01-08T00:00:00Z",
   "summary_lines": [
     "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows."
   ],

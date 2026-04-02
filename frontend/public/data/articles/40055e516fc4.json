@@ -1,19 +1,19 @@
 {
   "id": "40055e516fc4",
-  "title": "How Descript enables multilingual video dubbing at scale",
+  "title": "How Descript engineers multilingual video dubbing at scale",
   "source": "OpenAI Blog",
-  "published_at": "2026-03-06T10:00:00Z",
+  "published_at": "2026-03-06T00:00:00Z",
   "summary_lines": [
-    "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
+    "Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning."
   ],
   "key_points": [
-    "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
+    "Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning."
   ],
   "summary_lines_ko": [
-    "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
+    "Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning."
   ],
   "key_points_ko": [
-    "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
+    "Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning."
   ],
   "url": "https://openai.com/index/descript",
   "related": []

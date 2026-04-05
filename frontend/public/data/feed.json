@@ -196,20 +196,6 @@
     "cluster_id": "c-fffa21401b"
   },
   {
-    "id": "1e673d33f797",
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-17T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "cluster_id": "c-9b16ea0ecb"
-  },
-  {
     "id": "c3d41e50070e",
     "title": "Introducing GPT-5.4 mini and nano",
     "source": "OpenAI Blog",
@@ -222,6 +208,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
     "cluster_id": "c-4b6b3ed6d6"
+  },
+  {
+    "id": "1e673d33f797",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-17T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/japan-teen-safety-blueprint",
+    "cluster_id": "c-9b16ea0ecb"
   },
   {
     "id": "e4cbc2849b39",
@@ -392,18 +392,18 @@
     "cluster_id": "c-ff3c704359"
   },
   {
-    "id": "778534f65631",
-    "title": "Introducing GPT-5.4",
+    "id": "70d73a6e0656",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "one_liner": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "cluster_id": "c-bcc2229a38"
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "cluster_id": "c-6378ca3a23"
   },
   {
     "id": "cb4caaecf3d1",
@@ -420,18 +420,18 @@
     "cluster_id": "c-ad46faed82"
   },
   {
-    "id": "70d73a6e0656",
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "id": "778534f65631",
+    "title": "Introducing GPT-5.4",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "one_liner": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "cluster_id": "c-6378ca3a23"
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "cluster_id": "c-bcc2229a38"
   },
   {
     "id": "e535c691836b",
@@ -448,20 +448,6 @@
     "cluster_id": "c-346af4ceed"
   },
   {
-    "id": "4ceb74685037",
-    "title": "Introducing the Adoption news channel",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Practical insights and frameworks to turn AI progress into business advantage",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "cluster_id": "c-fbd103dbf8"
-  },
-  {
     "id": "70299260bcc5",
     "title": "Introducing ChatGPT for Excel and new financial data integrations",
     "source": "OpenAI Blog",
@@ -474,6 +460,20 @@
     ],
     "url": "https://openai.com/index/chatgpt-for-excel",
     "cluster_id": "c-bb20f658d7"
+  },
+  {
+    "id": "4ceb74685037",
+    "title": "Introducing the Adoption news channel",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Practical insights and frameworks to turn AI progress into business advantage",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "cluster_id": "c-fbd103dbf8"
   },
   {
     "id": "fe905f44e7a8",
@@ -546,20 +546,6 @@
     "cluster_id": "c-7591c0d065"
   },
   {
-    "id": "f44579b21e9e",
-    "title": "GPT-5.3 Instant System Card",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-5.3 Instant System Card",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
-    "cluster_id": "c-8068bd9a21"
-  },
-  {
     "id": "dff56ece1971",
     "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
     "source": "OpenAI Blog",
@@ -572,6 +558,20 @@
     ],
     "url": "https://openai.com/index/gpt-5-3-instant",
     "cluster_id": "c-2ac3bb5a4e"
+  },
+  {
+    "id": "f44579b21e9e",
+    "title": "GPT-5.3 Instant System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.3 Instant System Card",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "cluster_id": "c-8068bd9a21"
   },
   {
     "id": "7fc87634da57",
@@ -588,20 +588,6 @@
     "cluster_id": "c-24a6b8fd3b"
   },
   {
-    "id": "8c87fa05a78c",
-    "title": "Joint Statement from OpenAI and Microsoft",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00Z",
-    "topic": "ai",
-    "one_liner": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/continuing-microsoft-partnership",
-    "cluster_id": "c-358d3478b3"
-  },
-  {
     "id": "0b6632a60f07",
     "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
     "source": "OpenAI Blog",
@@ -616,20 +602,6 @@
     "cluster_id": "c-306b359883"
   },
   {
-    "id": "11f28611545f",
-    "title": "OpenAI and Amazon announce strategic partnership",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/amazon-partnership",
-    "cluster_id": "c-339ec1d9f4"
-  },
-  {
     "id": "794d4515e722",
     "title": "Scaling AI for everyone",
     "source": "OpenAI Blog",
@@ -642,6 +614,34 @@
     ],
     "url": "https://openai.com/index/scaling-ai-for-everyone",
     "cluster_id": "c-1fa7afd50d"
+  },
+  {
+    "id": "8c87fa05a78c",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00Z",
+    "topic": "ai",
+    "one_liner": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/continuing-microsoft-partnership",
+    "cluster_id": "c-358d3478b3"
+  },
+  {
+    "id": "11f28611545f",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/amazon-partnership",
+    "cluster_id": "c-339ec1d9f4"
   },
   {
     "id": "54ea56b76bba",
@@ -826,20 +826,6 @@
     "cluster_id": "c-5d142de9e6"
   },
   {
-    "id": "d480f86c234c",
-    "title": "Scaling social science research",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-13T09:00:00Z",
-    "topic": "ai",
-    "one_liner": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/scaling-social-science-research",
-    "cluster_id": "c-f70f121582"
-  },
-  {
     "id": "956f105c951f",
     "title": "Beyond rate limits: scaling access to Codex and Sora",
     "source": "OpenAI Blog",
@@ -852,6 +838,20 @@
     ],
     "url": "https://openai.com/index/beyond-rate-limits",
     "cluster_id": "c-216a2c2b20"
+  },
+  {
+    "id": "d480f86c234c",
+    "title": "Scaling social science research",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-13T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/scaling-social-science-research",
+    "cluster_id": "c-f70f121582"
   },
   {
     "id": "8c59d007b8cb",
@@ -882,20 +882,6 @@
     "cluster_id": "c-cdc4430f87"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-09T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "3d72134cdaba",
     "title": "Bringing ChatGPT to GenAI.mil",
     "source": "OpenAI Blog",
@@ -908,6 +894,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
     "cluster_id": "c-9ee351931e"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-09T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "8f4bb7dd8ed5",
@@ -980,20 +980,6 @@
     "cluster_id": "c-034a9d80fd"
   },
   {
-    "id": "8a0c8c7ac88d",
-    "title": "GPT-5.3-Codex System Card",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-    "cluster_id": "c-d836227750"
-  },
-  {
     "id": "1f7427a9e036",
     "title": "Introducing GPT-5.3-Codex",
     "source": "OpenAI Blog",
@@ -1006,6 +992,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-5-3-codex",
     "cluster_id": "c-9a82c1548e"
+  },
+  {
+    "id": "8a0c8c7ac88d",
+    "title": "GPT-5.3-Codex System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+    "cluster_id": "c-d836227750"
   },
   {
     "id": "a45c7ee6fc08",
@@ -1162,20 +1162,6 @@
     "cluster_id": "c-dfa8eb9701"
   },
   {
-    "id": "2c97344d1f84",
-    "title": "Introducing Prism",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-27T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-prism",
-    "cluster_id": "c-4a141f0e32"
-  },
-  {
     "id": "42533aa4f8b5",
     "title": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
     "source": "OpenAI Blog",
@@ -1188,6 +1174,20 @@
     ],
     "url": "https://openai.com/index/trustbank",
     "cluster_id": "c-1438ea6ddc"
+  },
+  {
+    "id": "2c97344d1f84",
+    "title": "Introducing Prism",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-27T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-prism",
+    "cluster_id": "c-4a141f0e32"
   },
   {
     "id": "67722d7f2046",
@@ -1274,20 +1274,6 @@
     "cluster_id": "c-f82b9d9065"
   },
   {
-    "id": "03d0ef228762",
-    "title": "Introducing Edu for Countries",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-21T01:00:00Z",
-    "topic": "ai",
-    "one_liner": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/edu-for-countries",
-    "cluster_id": "c-cedd4b3b2b"
-  },
-  {
     "id": "aca3ad17ccab",
     "title": "How countries can end the capability overhang",
     "source": "OpenAI Blog",
@@ -1300,6 +1286,20 @@
     ],
     "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
     "cluster_id": "c-993c670cac"
+  },
+  {
+    "id": "03d0ef228762",
+    "title": "Introducing Edu for Countries",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-21T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/edu-for-countries",
+    "cluster_id": "c-cedd4b3b2b"
   },
   {
     "id": "6ed9efa8b174",
@@ -1610,20 +1610,6 @@
     "cluster_id": "c-4d720a59d5"
   },
   {
-    "id": "bdf9e2904ced",
-    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-22T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "cluster_id": "c-dea43a866d"
-  },
-  {
     "id": "5eaa0a687284",
     "title": "One in a million: celebrating the customers shaping AI’s future",
     "source": "OpenAI Blog",
@@ -1638,6 +1624,20 @@
     "cluster_id": "c-d0730f8fd2"
   },
   {
+    "id": "bdf9e2904ced",
+    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-22T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+    "cluster_id": "c-dea43a866d"
+  },
+  {
     "id": "a534d4ec9c00",
     "title": "Evaluating chain-of-thought monitorability",
     "source": "OpenAI Blog",
@@ -1650,6 +1650,20 @@
     ],
     "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
     "cluster_id": "c-e004274d06"
+  },
+  {
+    "id": "4bb4ed9e91b1",
+    "title": "AI literacy resources for teens and parents",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-18T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+    "cluster_id": "c-8d91c38f7b"
   },
   {
     "id": "721cf9e2fe4a",
@@ -1678,20 +1692,6 @@
     ],
     "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
     "cluster_id": "c-10b94f1a8e"
-  },
-  {
-    "id": "4bb4ed9e91b1",
-    "title": "AI literacy resources for teens and parents",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-18T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-    "cluster_id": "c-8d91c38f7b"
   },
   {
     "id": "39f1595b994a",
@@ -1792,20 +1792,6 @@
     "cluster_id": "c-b86c3a70a3"
   },
   {
-    "id": "b0923f0323a0",
-    "title": "BBVA and OpenAI collaborate to transform global banking",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-12T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bbva-collaboration-expansion",
-    "cluster_id": "c-559816f10d"
-  },
-  {
     "id": "f3eda620bd44",
     "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
     "source": "OpenAI Blog",
@@ -1834,6 +1820,20 @@
     "cluster_id": "c-f8155280b8"
   },
   {
+    "id": "b0923f0323a0",
+    "title": "BBVA and OpenAI collaborate to transform global banking",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bbva-collaboration-expansion",
+    "cluster_id": "c-559816f10d"
+  },
+  {
     "id": "b219e6953947",
     "title": "Advancing science and math with GPT-5.2",
     "source": "OpenAI Blog",
@@ -1846,34 +1846,6 @@
     ],
     "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
     "cluster_id": "c-c9e488399d"
-  },
-  {
-    "id": "d4a2d9acc1fe",
-    "title": "How Podium is arming 10,000+ SMBs with AI agents",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/podium",
-    "cluster_id": "c-ea90d9129a"
-  },
-  {
-    "id": "02eec89574a8",
-    "title": "Update to GPT-5 System Card: GPT-5.2",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-5.2 is the latest model family in the GPT-5 series.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
-    "cluster_id": "c-16efbf012d"
   },
   {
     "id": "17fe1c1675c8",
@@ -1902,6 +1874,34 @@
     ],
     "url": "https://openai.com/index/ten-years",
     "cluster_id": "c-c964c76d5d"
+  },
+  {
+    "id": "02eec89574a8",
+    "title": "Update to GPT-5 System Card: GPT-5.2",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.2 is the latest model family in the GPT-5 series.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+    "cluster_id": "c-16efbf012d"
+  },
+  {
+    "id": "d4a2d9acc1fe",
+    "title": "How Podium is arming 10,000+ SMBs with AI agents",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/podium",
+    "cluster_id": "c-ea90d9129a"
   },
   {
     "id": "b129d60f25bb",
@@ -2044,20 +2044,6 @@
     "cluster_id": "c-68d8c18766"
   },
   {
-    "id": "b796c43e7637",
-    "title": "OpenAI to acquire Neptune",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-to-acquire-neptune",
-    "cluster_id": "c-8178962d20"
-  },
-  {
     "id": "eef0a375a423",
     "title": "How confessions can keep language models honest",
     "source": "OpenAI Blog",
@@ -2070,6 +2056,20 @@
     ],
     "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
     "cluster_id": "c-5b292827ef"
+  },
+  {
+    "id": "b796c43e7637",
+    "title": "OpenAI to acquire Neptune",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is acquiring Neptune to deepen visibility into model behavior and strengthen the tools researchers use to track experiments and monitor training.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-to-acquire-neptune",
+    "cluster_id": "c-8178962d20"
   },
   {
     "id": "08dcc7546106",

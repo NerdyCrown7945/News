@@ -224,20 +224,6 @@
     "cluster_id": "c-fffa21401b"
   },
   {
-    "id": "1e673d33f797",
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-17T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "cluster_id": "c-9b16ea0ecb"
-  },
-  {
     "id": "c3d41e50070e",
     "title": "Introducing GPT-5.4 mini and nano",
     "source": "OpenAI Blog",
@@ -250,6 +236,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
     "cluster_id": "c-4b6b3ed6d6"
+  },
+  {
+    "id": "1e673d33f797",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-17T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/japan-teen-safety-blueprint",
+    "cluster_id": "c-9b16ea0ecb"
   },
   {
     "id": "e4cbc2849b39",
@@ -420,6 +420,20 @@
     "cluster_id": "c-ff3c704359"
   },
   {
+    "id": "70d73a6e0656",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "cluster_id": "c-6378ca3a23"
+  },
+  {
     "id": "778534f65631",
     "title": "Introducing GPT-5.4",
     "source": "OpenAI Blog",
@@ -446,20 +460,6 @@
     ],
     "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
     "cluster_id": "c-ad46faed82"
-  },
-  {
-    "id": "70d73a6e0656",
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "cluster_id": "c-6378ca3a23"
   },
   {
     "id": "e535c691836b",
@@ -490,6 +490,20 @@
     "cluster_id": "c-bb20f658d7"
   },
   {
+    "id": "4ceb74685037",
+    "title": "Introducing the Adoption news channel",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Practical insights and frameworks to turn AI progress into business advantage",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "cluster_id": "c-fbd103dbf8"
+  },
+  {
     "id": "fe905f44e7a8",
     "title": "The five AI value models driving business reinvention",
     "source": "OpenAI Blog",
@@ -516,20 +530,6 @@
     ],
     "url": "https://openai.com/index/vfl-wolfsburg",
     "cluster_id": "c-4d966313e9"
-  },
-  {
-    "id": "4ceb74685037",
-    "title": "Introducing the Adoption news channel",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Practical insights and frameworks to turn AI progress into business advantage",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "cluster_id": "c-fbd103dbf8"
   },
   {
     "id": "3c9cf98258b7",
@@ -1134,20 +1134,6 @@
     "cluster_id": "c-48b08ef67f"
   },
   {
-    "id": "cf58b7400fc9",
-    "title": "EMEA Youth & Wellbeing Grant",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-28T01:00:00Z",
-    "topic": "ai",
-    "one_liner": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
-    "cluster_id": "c-e39415f208"
-  },
-  {
     "id": "075fc545e694",
     "title": "The next chapter for AI in the EU",
     "source": "OpenAI Blog",
@@ -1160,6 +1146,20 @@
     ],
     "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
     "cluster_id": "c-cd58e92ecd"
+  },
+  {
+    "id": "cf58b7400fc9",
+    "title": "EMEA Youth & Wellbeing Grant",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-28T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+    "cluster_id": "c-e39415f208"
   },
   {
     "id": "63508e9ab188",
@@ -1302,20 +1302,6 @@
     "cluster_id": "c-f82b9d9065"
   },
   {
-    "id": "03d0ef228762",
-    "title": "Introducing Edu for Countries",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-21T01:00:00Z",
-    "topic": "ai",
-    "one_liner": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/edu-for-countries",
-    "cluster_id": "c-cedd4b3b2b"
-  },
-  {
     "id": "aca3ad17ccab",
     "title": "How countries can end the capability overhang",
     "source": "OpenAI Blog",
@@ -1328,6 +1314,20 @@
     ],
     "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
     "cluster_id": "c-993c670cac"
+  },
+  {
+    "id": "03d0ef228762",
+    "title": "Introducing Edu for Countries",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-21T01:00:00Z",
+    "topic": "ai",
+    "one_liner": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/edu-for-countries",
+    "cluster_id": "c-cedd4b3b2b"
   },
   {
     "id": "6ed9efa8b174",
@@ -1442,20 +1442,6 @@
     "cluster_id": "c-cbe8825897"
   },
   {
-    "id": "61959f22e780",
-    "title": "Our approach to advertising and expanding access to ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-01-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI plans to test advertising in the U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-    "cluster_id": "c-e63b86d6b9"
-  },
-  {
     "id": "0f1e6ca37d64",
     "title": "Introducing ChatGPT Go, now available worldwide",
     "source": "OpenAI Blog",
@@ -1468,6 +1454,20 @@
     ],
     "url": "https://openai.com/index/introducing-chatgpt-go",
     "cluster_id": "c-c1d359d0a6"
+  },
+  {
+    "id": "61959f22e780",
+    "title": "Our approach to advertising and expanding access to ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-01-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI plans to test advertising in the U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+    "cluster_id": "c-e63b86d6b9"
   },
   {
     "id": "c37941878031",
@@ -1694,20 +1694,6 @@
     "cluster_id": "c-8d91c38f7b"
   },
   {
-    "id": "721cf9e2fe4a",
-    "title": "Deepening our collaboration with the U.S. Department of Energy",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-18T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and the U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/us-department-of-energy-collaboration",
-    "cluster_id": "c-b58e3a14e1"
-  },
-  {
     "id": "f432645645e4",
     "title": "Updating our Model Spec with teen protections",
     "source": "OpenAI Blog",
@@ -1720,6 +1706,20 @@
     ],
     "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
     "cluster_id": "c-10b94f1a8e"
+  },
+  {
+    "id": "721cf9e2fe4a",
+    "title": "Deepening our collaboration with the U.S. Department of Energy",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-18T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/us-department-of-energy-collaboration",
+    "cluster_id": "c-b58e3a14e1"
   },
   {
     "id": "39f1595b994a",
@@ -1820,18 +1820,18 @@
     "cluster_id": "c-b86c3a70a3"
   },
   {
-    "id": "f3eda620bd44",
-    "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+    "id": "b0923f0323a0",
+    "title": "BBVA and OpenAI collaborate to transform global banking",
     "source": "OpenAI Blog",
     "published_at": "2025-12-12T00:00:00Z",
     "topic": "ai",
-    "one_liner": "BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees build AI agents that improve efficiency and client outcomes.",
+    "one_liner": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/bny",
-    "cluster_id": "c-9ba14875c6"
+    "url": "https://openai.com/index/bbva-collaboration-expansion",
+    "cluster_id": "c-559816f10d"
   },
   {
     "id": "6009bfe89b23",
@@ -1848,18 +1848,18 @@
     "cluster_id": "c-f8155280b8"
   },
   {
-    "id": "b0923f0323a0",
-    "title": "BBVA and OpenAI collaborate to transform global banking",
+    "id": "f3eda620bd44",
+    "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
     "source": "OpenAI Blog",
     "published_at": "2025-12-12T00:00:00Z",
     "topic": "ai",
-    "one_liner": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees.",
+    "one_liner": "BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees build AI agents that improve efficiency and client outcomes.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/bbva-collaboration-expansion",
-    "cluster_id": "c-559816f10d"
+    "url": "https://openai.com/index/bny",
+    "cluster_id": "c-9ba14875c6"
   },
   {
     "id": "b219e6953947",
@@ -1876,6 +1876,20 @@
     "cluster_id": "c-c9e488399d"
   },
   {
+    "id": "02eec89574a8",
+    "title": "Update to GPT-5 System Card: GPT-5.2",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.2 is the latest model family in the GPT-5 series.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+    "cluster_id": "c-16efbf012d"
+  },
+  {
     "id": "17fe1c1675c8",
     "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
     "source": "OpenAI Blog",
@@ -1888,20 +1902,6 @@
     ],
     "url": "https://openai.com/index/disney-sora-agreement",
     "cluster_id": "c-d47ffca7a0"
-  },
-  {
-    "id": "d4a2d9acc1fe",
-    "title": "How Podium is arming 10,000+ SMBs with AI agents",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/podium",
-    "cluster_id": "c-ea90d9129a"
   },
   {
     "id": "cad609eeb501",
@@ -1918,18 +1918,18 @@
     "cluster_id": "c-c964c76d5d"
   },
   {
-    "id": "02eec89574a8",
-    "title": "Update to GPT-5 System Card: GPT-5.2",
+    "id": "d4a2d9acc1fe",
+    "title": "How Podium is arming 10,000+ SMBs with AI agents",
     "source": "OpenAI Blog",
     "published_at": "2025-12-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "GPT-5.2 is the latest model family in the GPT-5 series.",
+    "one_liner": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
-    "cluster_id": "c-16efbf012d"
+    "url": "https://openai.com/index/podium",
+    "cluster_id": "c-ea90d9129a"
   },
   {
     "id": "b129d60f25bb",
@@ -1988,6 +1988,20 @@
     "cluster_id": "c-36b8736da9"
   },
   {
+    "id": "dd8b3c77e471",
+    "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-09T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-appoints-denise-dresser",
+    "cluster_id": "c-24adbabd0b"
+  },
+  {
     "id": "e8c744380d8b",
     "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
     "source": "OpenAI Blog",
@@ -2014,20 +2028,6 @@
     ],
     "url": "https://openai.com/index/commonwealth-bank-of-australia",
     "cluster_id": "c-068f9a4d44"
-  },
-  {
-    "id": "dd8b3c77e471",
-    "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-09T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-appoints-denise-dresser",
-    "cluster_id": "c-24adbabd0b"
   },
   {
     "id": "2715c98ab4bd",
@@ -2072,20 +2072,6 @@
     "cluster_id": "c-68d8c18766"
   },
   {
-    "id": "eef0a375a423",
-    "title": "How confessions can keep language models honest",
-    "source": "OpenAI Blog",
-    "published_at": "2025-12-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
-    "cluster_id": "c-5b292827ef"
-  },
-  {
     "id": "b796c43e7637",
     "title": "OpenAI to acquire Neptune",
     "source": "OpenAI Blog",
@@ -2098,5 +2084,19 @@
     ],
     "url": "https://openai.com/index/openai-to-acquire-neptune",
     "cluster_id": "c-8178962d20"
+  },
+  {
+    "id": "eef0a375a423",
+    "title": "How confessions can keep language models honest",
+    "source": "OpenAI Blog",
+    "published_at": "2025-12-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI researchers are testing “confessions,” a method that trains models to admit when they make mistakes or act undesirably, helping improve AI honesty, transparency, and trust in model outputs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+    "cluster_id": "c-5b292827ef"
   }
 ]

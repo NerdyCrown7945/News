@@ -1,0 +1,20 @@
+{
+  "id": "f5300dfb721c",
+  "title": "The next evolution of the Agents SDK",
+  "source": "OpenAI Blog",
+  "published_at": "2026-04-15T10:00:00Z",
+  "summary_lines": [
+    "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+  ],
+  "key_points": [
+    "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+  ],
+  "summary_lines_ko": [
+    "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+  ],
+  "key_points_ko": [
+    "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+  ],
+  "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+  "related": []
+}

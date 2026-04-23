@@ -1,0 +1,20 @@
+{
+  "id": "5278705df0e5",
+  "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+  "source": "OpenAI Blog",
+  "published_at": "2026-04-22T10:00:00Z",
+  "summary_lines": [
+    "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
+  ],
+  "key_points": [
+    "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
+  ],
+  "summary_lines_ko": [
+    "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
+  ],
+  "key_points_ko": [
+    "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
+  ],
+  "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+  "related": []
+}

@@ -4,16 +4,16 @@
   "source": "OpenAI Blog",
   "published_at": "2026-05-13T11:00:00Z",
   "summary_lines": [
-    "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
+    "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits."
   ],
   "key_points": [
-    "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
+    "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits."
   ],
   "summary_lines_ko": [
-    "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
+    "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits."
   ],
   "key_points_ko": [
-    "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions."
+    "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits."
   ],
   "url": "https://openai.com/index/building-codex-windows-sandbox",
   "related": []

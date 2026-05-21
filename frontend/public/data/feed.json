@@ -1,5 +1,19 @@
 [
   {
+    "id": "7f625f666338",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-20T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "cluster_id": "c-951a1e5878"
+  },
+  {
     "id": "52bd1afbd88b",
     "title": "The next phase of OpenAI’s Education for Countries",
     "source": "OpenAI Blog",
@@ -12,6 +26,20 @@
     ],
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "cluster_id": "c-fc8b35a763"
+  },
+  {
+    "id": "cb920945cfca",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-20T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ramp",
+    "cluster_id": "c-2ff47364be"
   },
   {
     "id": "e0640ad0320c",
@@ -70,6 +98,20 @@
     "cluster_id": "c-e786d9c8cc"
   },
   {
+    "id": "cca00ce68781",
+    "title": "How data science teams use Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "cluster_id": "c-d79aaf6877"
+  },
+  {
     "id": "c64312c3121c",
     "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
     "source": "OpenAI Blog",
@@ -82,34 +124,6 @@
     ],
     "url": "https://openai.com/index/databricks",
     "cluster_id": "c-9e1ade585e"
-  },
-  {
-    "id": "b5b1610b252a",
-    "title": "How business operations teams use Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "cluster_id": "c-31bd0d4810"
-  },
-  {
-    "id": "248b5ff06999",
-    "title": "How sales teams use Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "cluster_id": "c-cf0d693ad6"
   },
   {
     "id": "ada6c1425188",
@@ -126,18 +140,32 @@
     "cluster_id": "c-efb76f518c"
   },
   {
-    "id": "cca00ce68781",
-    "title": "How data science teams use Codex",
+    "id": "248b5ff06999",
+    "title": "How sales teams use Codex",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00Z",
     "topic": "ai",
-    "one_liner": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "one_liner": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "cluster_id": "c-d79aaf6877"
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "cluster_id": "c-cf0d693ad6"
+  },
+  {
+    "id": "b5b1610b252a",
+    "title": "How business operations teams use Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "cluster_id": "c-31bd0d4810"
   },
   {
     "id": "ca03c8de33d6",
@@ -224,20 +252,6 @@
     "cluster_id": "c-338bde0baf"
   },
   {
-    "id": "c31ba2e9026b",
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-12T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "cluster_id": "c-44cebeee06"
-  },
-  {
     "id": "8a196e8c3ae2",
     "title": "AutoScout24 scales engineering with AI-powered workflows",
     "source": "OpenAI Blog",
@@ -250,6 +264,20 @@
     ],
     "url": "https://openai.com/index/autoscout24",
     "cluster_id": "c-43a6af1957"
+  },
+  {
+    "id": "c31ba2e9026b",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "cluster_id": "c-44cebeee06"
   },
   {
     "id": "6498bc3d3050",
@@ -280,20 +308,6 @@
     "cluster_id": "c-3d38db3c73"
   },
   {
-    "id": "4ca12da2ae6a",
-    "title": "How enterprises are scaling AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "cluster_id": "c-bc07fcfdef"
-  },
-  {
     "id": "ee5564e4d43f",
     "title": "OpenAI Campus Network: Student club interest form",
     "source": "OpenAI Blog",
@@ -306,6 +320,20 @@
     ],
     "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
     "cluster_id": "c-50386ce75f"
+  },
+  {
+    "id": "4ca12da2ae6a",
+    "title": "How enterprises are scaling AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "cluster_id": "c-bc07fcfdef"
   },
   {
     "id": "68e94ee2f13a",
@@ -378,20 +406,6 @@
     "cluster_id": "c-be9e11c2d2"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "fe948365c4d6",
     "title": "Introducing Trusted Contact in ChatGPT",
     "source": "OpenAI Blog",
@@ -404,6 +418,20 @@
     ],
     "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "cluster_id": "c-1a6bd75626"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "eed85cf61ed4",
@@ -434,20 +462,6 @@
     "cluster_id": "c-74cd67221c"
   },
   {
-    "id": "8665a96e70ff",
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/uber",
-    "cluster_id": "c-f2ea2fbdad"
-  },
-  {
     "id": "94f58b450581",
     "title": "How frontier firms are pulling ahead",
     "source": "OpenAI Blog",
@@ -460,20 +474,6 @@
     ],
     "url": "https://openai.com/index/introducing-b2b-signals",
     "cluster_id": "c-55e1ae0e35"
-  },
-  {
-    "id": "bdecd9008a33",
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "cluster_id": "c-9a996579df"
   },
   {
     "id": "94a93b54a777",
@@ -490,32 +490,32 @@
     "cluster_id": "c-427b72d2ea"
   },
   {
-    "id": "76cbe027f6a8",
-    "title": "GPT-5.5 Instant System Card",
+    "id": "8665a96e70ff",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
     "source": "OpenAI Blog",
-    "published_at": "2026-05-05T10:00:00Z",
+    "published_at": "2026-05-06T00:00:00Z",
     "topic": "ai",
-    "one_liner": "GPT-5.5 Instant System Card",
+    "one_liner": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "cluster_id": "c-9eca44c286"
+    "url": "https://openai.com/index/uber",
+    "cluster_id": "c-f2ea2fbdad"
   },
   {
-    "id": "e9800213f3cd",
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "id": "bdecd9008a33",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
     "source": "OpenAI Blog",
-    "published_at": "2026-05-05T10:00:00Z",
+    "published_at": "2026-05-06T00:00:00Z",
     "topic": "ai",
-    "one_liner": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "one_liner": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/gpt-5-5-instant",
-    "cluster_id": "c-2fca8bf7fd"
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "cluster_id": "c-9a996579df"
   },
   {
     "id": "a654fb66813e",
@@ -532,18 +532,32 @@
     "cluster_id": "c-87371cb53b"
   },
   {
-    "id": "c885d324429e",
-    "title": "New ways to buy ChatGPT ads",
+    "id": "e9800213f3cd",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
     "source": "OpenAI Blog",
-    "published_at": "2026-05-05T00:00:00Z",
+    "published_at": "2026-05-05T10:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "one_liner": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "cluster_id": "c-0eec5e9daf"
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "cluster_id": "c-2fca8bf7fd"
+  },
+  {
+    "id": "76cbe027f6a8",
+    "title": "GPT-5.5 Instant System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-05T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.5 Instant System Card",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "cluster_id": "c-9eca44c286"
   },
   {
     "id": "cc69235e023b",
@@ -558,6 +572,20 @@
     ],
     "url": "https://openai.com/index/advancing-youth-safety-in-emea",
     "cluster_id": "c-c538b8fc9e"
+  },
+  {
+    "id": "c885d324429e",
+    "title": "New ways to buy ChatGPT ads",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "cluster_id": "c-0eec5e9daf"
   },
   {
     "id": "9807ae0752f7",
@@ -644,20 +672,6 @@
     "cluster_id": "c-9eb4aba2ed"
   },
   {
-    "id": "368128e6f281",
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-on-aws",
-    "cluster_id": "c-805c7a7cb9"
-  },
-  {
     "id": "e6284b864c34",
     "title": "Our commitment to community safety",
     "source": "OpenAI Blog",
@@ -670,6 +684,20 @@
     ],
     "url": "https://openai.com/index/our-commitment-to-community-safety",
     "cluster_id": "c-fb7c2d2871"
+  },
+  {
+    "id": "368128e6f281",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-on-aws",
+    "cluster_id": "c-805c7a7cb9"
   },
   {
     "id": "bc680bc14e9f",
@@ -742,20 +770,6 @@
     "cluster_id": "c-ad5619e7d4"
   },
   {
-    "id": "cfbb97f4e142",
-    "title": "GPT-5.5 System Card",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-5.5 System Card",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-5-system-card",
-    "cluster_id": "c-6180cc3fed"
-  },
-  {
     "id": "6e6cdaf0d601",
     "title": "Introducing GPT-5.5",
     "source": "OpenAI Blog",
@@ -768,6 +782,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-5-5",
     "cluster_id": "c-e920ec8d2a"
+  },
+  {
+    "id": "cfbb97f4e142",
+    "title": "GPT-5.5 System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-23T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.5 System Card",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "cluster_id": "c-6180cc3fed"
   },
   {
     "id": "eff960ba78f2",
@@ -784,32 +812,18 @@
     "cluster_id": "c-c8c2423254"
   },
   {
-    "id": "8a79aaeb639a",
-    "title": "What is Codex?",
+    "id": "99a0fa5d4a49",
+    "title": "Codex settings",
     "source": "OpenAI Blog",
     "published_at": "2026-04-23T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+    "one_liner": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/academy/what-is-codex",
-    "cluster_id": "c-96b23bb850"
-  },
-  {
-    "id": "7fbf7b2c45e9",
-    "title": "Working with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/working-with-codex",
-    "cluster_id": "c-2ef10def73"
+    "url": "https://openai.com/academy/codex-settings",
+    "cluster_id": "c-552198cced"
   },
   {
     "id": "bb94101d8671",
@@ -854,18 +868,32 @@
     "cluster_id": "c-ca0061ee89"
   },
   {
-    "id": "99a0fa5d4a49",
-    "title": "Codex settings",
+    "id": "7fbf7b2c45e9",
+    "title": "Working with Codex",
     "source": "OpenAI Blog",
     "published_at": "2026-04-23T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+    "one_liner": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/academy/codex-settings",
-    "cluster_id": "c-552198cced"
+    "url": "https://openai.com/academy/working-with-codex",
+    "cluster_id": "c-2ef10def73"
+  },
+  {
+    "id": "8a79aaeb639a",
+    "title": "What is Codex?",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-23T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/what-is-codex",
+    "cluster_id": "c-96b23bb850"
   },
   {
     "id": "c366c2c39bd5",
@@ -896,20 +924,6 @@
     "cluster_id": "c-20d0f423b5"
   },
   {
-    "id": "1b162ea8d4aa",
-    "title": "Workspace agents",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/workspace-agents",
-    "cluster_id": "c-a1135499b6"
-  },
-  {
     "id": "c30ec7b01482",
     "title": "Introducing workspace agents in ChatGPT",
     "source": "OpenAI Blog",
@@ -936,6 +950,20 @@
     ],
     "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
     "cluster_id": "c-ef324bd4b4"
+  },
+  {
+    "id": "1b162ea8d4aa",
+    "title": "Workspace agents",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-22T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/workspace-agents",
+    "cluster_id": "c-a1135499b6"
   },
   {
     "id": "e2bf2733d05a",
@@ -1078,46 +1106,32 @@
     "cluster_id": "c-7d44e4b278"
   },
   {
-    "id": "c792fea6548e",
-    "title": "Healthcare",
+    "id": "f670b81480b3",
+    "title": "ChatGPT for operations teams",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+    "one_liner": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/academy/healthcare",
-    "cluster_id": "c-9ff28bfa80"
+    "url": "https://openai.com/academy/operations",
+    "cluster_id": "c-01391891e7"
   },
   {
-    "id": "bc7e7f5c918d",
-    "title": "Applications of AI at OpenAI",
+    "id": "42d64f92ad88",
+    "title": "Our response to the Axios developer tool compromise",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "one_liner": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/academy/applications-of-ai",
-    "cluster_id": "c-dd4c67a63c"
-  },
-  {
-    "id": "11c496abc34e",
-    "title": "Financial services",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/financial-services",
-    "cluster_id": "c-ae36529790"
+    "url": "https://openai.com/index/axios-developer-tool-compromise",
+    "cluster_id": "c-10561a15b8"
   },
   {
     "id": "2c539797fe26",
@@ -1134,6 +1148,34 @@
     "cluster_id": "c-7355f32212"
   },
   {
+    "id": "e781bd1ce513",
+    "title": "Analyzing data with ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/data-analysis",
+    "cluster_id": "c-d53fd713c1"
+  },
+  {
+    "id": "909c28a2bf07",
+    "title": "AI fundamentals",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn what AI is, how it works, and how tools like ChatGPT use large language models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/what-is-ai",
+    "cluster_id": "c-8af99ebc3b"
+  },
+  {
     "id": "51ce8504ce13",
     "title": "ChatGPT for marketing teams",
     "source": "OpenAI Blog",
@@ -1146,118 +1188,6 @@
     ],
     "url": "https://openai.com/academy/marketing",
     "cluster_id": "c-8f40a2a704"
-  },
-  {
-    "id": "e626cbb736ce",
-    "title": "Research with ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/search-and-deep-research",
-    "cluster_id": "c-44e8510090"
-  },
-  {
-    "id": "e7ee83693ccb",
-    "title": "Responsible and safe use of AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/responsible-and-safe-use",
-    "cluster_id": "c-d3e69404e2"
-  },
-  {
-    "id": "4dbb1c1ec2be",
-    "title": "Writing with ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/writing",
-    "cluster_id": "c-7c5e145491"
-  },
-  {
-    "id": "a018ae9534a7",
-    "title": "Prompting fundamentals",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/prompting",
-    "cluster_id": "c-da078bf2e3"
-  },
-  {
-    "id": "67274246ea9f",
-    "title": "Using projects in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/projects",
-    "cluster_id": "c-1ff5b02f14"
-  },
-  {
-    "id": "6bccb64e94d4",
-    "title": "Creating images with ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/image-generation",
-    "cluster_id": "c-31c81cc761"
-  },
-  {
-    "id": "534a735927e0",
-    "title": "Brainstorming with ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/brainstorming",
-    "cluster_id": "c-d346f1a11d"
-  },
-  {
-    "id": "6ee77fd75198",
-    "title": "ChatGPT for managers",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/managers",
-    "cluster_id": "c-5de31343be"
   },
   {
     "id": "4c2fa33ea84f",
@@ -1302,34 +1232,6 @@
     "cluster_id": "c-bfe6c6773a"
   },
   {
-    "id": "909c28a2bf07",
-    "title": "AI fundamentals",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn what AI is, how it works, and how tools like ChatGPT use large language models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/what-is-ai",
-    "cluster_id": "c-8af99ebc3b"
-  },
-  {
-    "id": "e781bd1ce513",
-    "title": "Analyzing data with ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/data-analysis",
-    "cluster_id": "c-d53fd713c1"
-  },
-  {
     "id": "39c29e13e298",
     "title": "Using skills",
     "source": "OpenAI Blog",
@@ -1358,20 +1260,6 @@
     "cluster_id": "c-ad8cf2e6fd"
   },
   {
-    "id": "f670b81480b3",
-    "title": "ChatGPT for operations teams",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/operations",
-    "cluster_id": "c-01391891e7"
-  },
-  {
     "id": "183d0cc9c6c9",
     "title": "ChatGPT for sales teams",
     "source": "OpenAI Blog",
@@ -1384,6 +1272,118 @@
     ],
     "url": "https://openai.com/academy/sales",
     "cluster_id": "c-6d3800ddb9"
+  },
+  {
+    "id": "bc7e7f5c918d",
+    "title": "Applications of AI at OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/applications-of-ai",
+    "cluster_id": "c-dd4c67a63c"
+  },
+  {
+    "id": "11c496abc34e",
+    "title": "Financial services",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/financial-services",
+    "cluster_id": "c-ae36529790"
+  },
+  {
+    "id": "6ee77fd75198",
+    "title": "ChatGPT for managers",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/managers",
+    "cluster_id": "c-5de31343be"
+  },
+  {
+    "id": "a018ae9534a7",
+    "title": "Prompting fundamentals",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/prompting",
+    "cluster_id": "c-da078bf2e3"
+  },
+  {
+    "id": "e626cbb736ce",
+    "title": "Research with ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/search-and-deep-research",
+    "cluster_id": "c-44e8510090"
+  },
+  {
+    "id": "e7ee83693ccb",
+    "title": "Responsible and safe use of AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/responsible-and-safe-use",
+    "cluster_id": "c-d3e69404e2"
+  },
+  {
+    "id": "4dbb1c1ec2be",
+    "title": "Writing with ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/writing",
+    "cluster_id": "c-7c5e145491"
+  },
+  {
+    "id": "534a735927e0",
+    "title": "Brainstorming with ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/brainstorming",
+    "cluster_id": "c-d346f1a11d"
   },
   {
     "id": "15f4dca3d35a",
@@ -1414,18 +1414,46 @@
     "cluster_id": "c-6bae41fbc7"
   },
   {
-    "id": "42d64f92ad88",
-    "title": "Our response to the Axios developer tool compromise",
+    "id": "67274246ea9f",
+    "title": "Using projects in ChatGPT",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "one_liner": "Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/axios-developer-tool-compromise",
-    "cluster_id": "c-10561a15b8"
+    "url": "https://openai.com/academy/projects",
+    "cluster_id": "c-1ff5b02f14"
+  },
+  {
+    "id": "c792fea6548e",
+    "title": "Healthcare",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/healthcare",
+    "cluster_id": "c-9ff28bfa80"
+  },
+  {
+    "id": "6bccb64e94d4",
+    "title": "Creating images with ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/image-generation",
+    "cluster_id": "c-31c81cc761"
   },
   {
     "id": "6d131947a881",
@@ -1638,20 +1666,6 @@
     "cluster_id": "c-4fd7973588"
   },
   {
-    "id": "508e5e593345",
-    "title": "Update on the OpenAI Foundation",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-24T09:00:00Z",
-    "topic": "ai",
-    "one_liner": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/update-on-the-openai-foundation",
-    "cluster_id": "c-08a7569a01"
-  },
-  {
     "id": "49a9730ea52b",
     "title": "Powering product discovery in ChatGPT",
     "source": "OpenAI Blog",
@@ -1664,6 +1678,20 @@
     ],
     "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
     "cluster_id": "c-beb3f633fe"
+  },
+  {
+    "id": "508e5e593345",
+    "title": "Update on the OpenAI Foundation",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-24T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "cluster_id": "c-08a7569a01"
   },
   {
     "id": "acec20302c9e",
@@ -1708,20 +1736,6 @@
     "cluster_id": "c-fffa21401b"
   },
   {
-    "id": "1e673d33f797",
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-17T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "cluster_id": "c-9b16ea0ecb"
-  },
-  {
     "id": "c3d41e50070e",
     "title": "Introducing GPT-5.4 mini and nano",
     "source": "OpenAI Blog",
@@ -1734,6 +1748,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
     "cluster_id": "c-4b6b3ed6d6"
+  },
+  {
+    "id": "1e673d33f797",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-17T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/japan-teen-safety-blueprint",
+    "cluster_id": "c-9b16ea0ecb"
   },
   {
     "id": "e4cbc2849b39",
@@ -1876,20 +1904,6 @@
     "cluster_id": "c-e3f782ef72"
   },
   {
-    "id": "40055e516fc4",
-    "title": "How Descript engineers multilingual video dubbing at scale",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-06T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/descript",
-    "cluster_id": "c-ff3c704359"
-  },
-  {
     "id": "73e2b443794e",
     "title": "How Balyasny Asset Management built an AI research engine",
     "source": "OpenAI Blog",
@@ -1904,18 +1918,18 @@
     "cluster_id": "c-a4581c28b3"
   },
   {
-    "id": "70d73a6e0656",
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "id": "40055e516fc4",
+    "title": "How Descript engineers multilingual video dubbing at scale",
     "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00Z",
+    "published_at": "2026-03-06T00:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "one_liner": "Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "cluster_id": "c-6378ca3a23"
+    "url": "https://openai.com/index/descript",
+    "cluster_id": "c-ff3c704359"
   },
   {
     "id": "cb4caaecf3d1",
@@ -1932,6 +1946,20 @@
     "cluster_id": "c-ad46faed82"
   },
   {
+    "id": "70d73a6e0656",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "cluster_id": "c-6378ca3a23"
+  },
+  {
     "id": "e535c691836b",
     "title": "Ensuring AI use in education leads to opportunity",
     "source": "OpenAI Blog",
@@ -1946,20 +1974,6 @@
     "cluster_id": "c-346af4ceed"
   },
   {
-    "id": "4ceb74685037",
-    "title": "Introducing the Adoption news channel",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Practical insights and frameworks to turn AI progress into business advantage",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "cluster_id": "c-fbd103dbf8"
-  },
-  {
     "id": "fe905f44e7a8",
     "title": "The five AI value models driving business reinvention",
     "source": "OpenAI Blog",
@@ -1972,6 +1986,20 @@
     ],
     "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
     "cluster_id": "c-c5abbc00f2"
+  },
+  {
+    "id": "4ceb74685037",
+    "title": "Introducing the Adoption news channel",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Practical insights and frameworks to turn AI progress into business advantage",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "cluster_id": "c-fbd103dbf8"
   },
   {
     "id": "70299260bcc5",
@@ -2016,20 +2044,6 @@
     "cluster_id": "c-f401eb0573"
   },
   {
-    "id": "47744e1c25f2",
-    "title": "How Axios uses AI to help deliver high-impact local journalism",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-04T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/axios-allison-murphy",
-    "cluster_id": "c-5d281cf65e"
-  },
-  {
     "id": "4408edb280a0",
     "title": "Understanding AI and learning outcomes",
     "source": "OpenAI Blog",
@@ -2042,6 +2056,20 @@
     ],
     "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
     "cluster_id": "c-7591c0d065"
+  },
+  {
+    "id": "47744e1c25f2",
+    "title": "How Axios uses AI to help deliver high-impact local journalism",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-04T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/axios-allison-murphy",
+    "cluster_id": "c-5d281cf65e"
   },
   {
     "id": "dff56ece1971",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
     "cluster_id": "c-24a6b8fd3b"
-  },
-  {
-    "id": "0b6632a60f07",
-    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00Z",
-    "topic": "ai",
-    "one_liner": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "cluster_id": "c-306b359883"
-  },
-  {
-    "id": "794d4515e722",
-    "title": "Scaling AI for everyone",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00Z",
-    "topic": "ai",
-    "one_liner": "Today we’re announcing $110B in new investment at a $730B pre money valuation.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "cluster_id": "c-1fa7afd50d"
   }
 ]

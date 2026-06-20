@@ -12,7 +12,7 @@
       "llm",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -28,7 +28,7 @@
       "ai",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -44,7 +44,7 @@
       "cloud",
       "ml"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -59,7 +59,7 @@
     "tags": [
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -75,7 +75,7 @@
       "deepmind",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -91,7 +91,7 @@
       "llm",
       "safety"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -107,7 +107,7 @@
       "meta",
       "open-model"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -123,7 +123,7 @@
       "research",
       "ms"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -139,7 +139,7 @@
       "dev",
       "platform"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -155,7 +155,7 @@
       "gpu",
       "developer"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -171,7 +171,7 @@
       "gpu",
       "ai"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -187,7 +187,7 @@
       "aws",
       "ml"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -203,7 +203,7 @@
       "open-source",
       "llm"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -219,7 +219,7 @@
       "papers",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 401: Unauthorized"
   },
   {
@@ -235,7 +235,7 @@
       "agent",
       "framework"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -251,7 +251,7 @@
       "mlops",
       "tools"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -267,7 +267,7 @@
       "app",
       "infra"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -283,7 +283,7 @@
       "developer",
       "platform"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -299,7 +299,7 @@
       "developer",
       "community"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -315,7 +315,7 @@
       "web",
       "engineering"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -331,7 +331,7 @@
       "framework",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -347,7 +347,7 @@
       "framework",
       "ml"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -363,7 +363,7 @@
       "llm",
       "enterprise"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -379,7 +379,7 @@
       "image-ai",
       "diffusion"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -395,7 +395,7 @@
       "image-ai",
       "creative"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 403: Forbidden"
   },
   {
@@ -411,7 +411,7 @@
       "video-ai",
       "multimodal"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -427,7 +427,7 @@
       "enterprise",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -443,7 +443,7 @@
       "agent",
       "enterprise"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -459,7 +459,7 @@
       "data",
       "ai"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -475,7 +475,7 @@
       "industry",
       "media"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -491,7 +491,7 @@
       "academia",
       "mit"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -507,7 +507,7 @@
       "newsletter",
       "ai"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 403: Forbidden"
   },
   {
@@ -523,7 +523,7 @@
       "community",
       "tech"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -539,7 +539,7 @@
       "tech",
       "media"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -555,7 +555,7 @@
       "startup",
       "media"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -571,7 +571,7 @@
       "tech",
       "media"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -587,7 +587,7 @@
       "innovation",
       "media"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -603,7 +603,7 @@
       "analysis",
       "technology"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -619,7 +619,7 @@
       "gadgets",
       "media"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -635,7 +635,7 @@
       "it",
       "media"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -651,7 +651,7 @@
       "engineering",
       "science"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -667,7 +667,7 @@
       "science",
       "media"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -683,7 +683,7 @@
       "journal",
       "science"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -699,7 +699,7 @@
       "journal",
       "news"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -715,7 +715,7 @@
       "journal",
       "science"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -731,7 +731,7 @@
       "science",
       "media"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -747,7 +747,7 @@
       "science",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -763,7 +763,7 @@
       "space",
       "astronomy"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -779,7 +779,7 @@
       "physics",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -795,7 +795,7 @@
       "biotech",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -811,7 +811,7 @@
       "ai4science",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -827,7 +827,7 @@
       "space",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -843,7 +843,7 @@
       "physics",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -859,7 +859,7 @@
       "biology",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -875,7 +875,7 @@
       "space",
       "nasa"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -891,7 +891,7 @@
       "space",
       "nasa"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -907,7 +907,7 @@
       "space",
       "esa"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -923,7 +923,7 @@
       "space",
       "esa"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -939,7 +939,7 @@
       "climate",
       "ocean"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 403: Forbidden"
   },
   {
@@ -955,7 +955,7 @@
       "earth",
       "geoscience"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -971,7 +971,7 @@
       "physics",
       "cern"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -987,7 +987,7 @@
       "science",
       "policy"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -1003,7 +1003,7 @@
       "health",
       "biomed"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -1019,7 +1019,7 @@
       "health",
       "global"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -1035,7 +1035,7 @@
       "space",
       "astronomy"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -1051,7 +1051,7 @@
       "research",
       "news"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 404: Not Found"
   },
   {
@@ -1067,7 +1067,7 @@
       "science",
       "policy"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": "HTTP Error 403: Forbidden"
   },
   {
@@ -1083,7 +1083,7 @@
       "science",
       "analysis"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -1099,7 +1099,7 @@
       "technology",
       "analysis"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -1115,7 +1115,7 @@
       "science",
       "academia"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -1132,7 +1132,7 @@
       "berkeley",
       "research"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -1149,7 +1149,7 @@
       "research",
       "arxiv"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   },
   {
@@ -1166,7 +1166,7 @@
       "ai",
       "news"
     ],
-    "last_validated_at": "2026-06-19T15:25:31.145215Z",
+    "last_validated_at": "2026-06-20T03:58:02.337929Z",
     "validation_error": ""
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "1e97faa490fa",
+    "title": "The US is advancing AI safety through state and federal action",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-15T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "cluster_id": "c-1389d26552"
+  },
+  {
+    "id": "ee230258f27f",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-15T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "cluster_id": "c-12538824cc"
+  },
+  {
     "id": "92ab1f77dd8c",
     "title": "How to manage AI investments in the agentic era",
     "source": "OpenAI Blog",
@@ -14,20 +42,6 @@
     "cluster_id": "c-376e2ca0b1"
   },
   {
-    "id": "cca00ce68781",
-    "title": "How data science teams use ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-14T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "cluster_id": "c-05bd8fd075"
-  },
-  {
     "id": "248b5ff06999",
     "title": "How sales teams use ChatGPT Work",
     "source": "OpenAI Blog",
@@ -40,6 +54,20 @@
     ],
     "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "cluster_id": "c-fedef032f3"
+  },
+  {
+    "id": "cca00ce68781",
+    "title": "How data science teams use ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-14T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "cluster_id": "c-05bd8fd075"
   },
   {
     "id": "027b05f9d0fa",
@@ -84,6 +112,20 @@
     "cluster_id": "c-f09c55035a"
   },
   {
+    "id": "5941cef110c0",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "cluster_id": "c-07c0c2899b"
+  },
+  {
     "id": "54ee76ae9206",
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "source": "OpenAI Blog",
@@ -110,20 +152,6 @@
     ],
     "url": "https://openai.com/index/bio-bug-bounty",
     "cluster_id": "c-73b5b38067"
-  },
-  {
-    "id": "5941cef110c0",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "cluster_id": "c-07c0c2899b"
   },
   {
     "id": "41b85c9cdb7a",
@@ -224,20 +252,6 @@
     "cluster_id": "c-6ce9c12c19"
   },
   {
-    "id": "200e6c5f82a0",
-    "title": "Inside Genebench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Inside Genebench-Pro",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "cluster_id": "c-43cf0d21be"
-  },
-  {
     "id": "3c923494434c",
     "title": "Introducing GeneBench-Pro",
     "source": "OpenAI Blog",
@@ -250,6 +264,20 @@
     ],
     "url": "https://openai.com/index/introducing-genebench-pro",
     "cluster_id": "c-ad759aead2"
+  },
+  {
+    "id": "200e6c5f82a0",
+    "title": "Inside Genebench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Inside Genebench-Pro",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "cluster_id": "c-43cf0d21be"
   },
   {
     "id": "4c4d91d3ce63",
@@ -812,20 +840,6 @@
     "cluster_id": "c-8ddea21abf"
   },
   {
-    "id": "fae173f5fba9",
-    "title": "A blueprint for democratic governance of frontier AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI outlines a blueprint for U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "cluster_id": "c-f6670f69a7"
-  },
-  {
     "id": "0a440e310365",
     "title": "OpenAI public policy agenda",
     "source": "OpenAI Blog",
@@ -838,6 +852,20 @@
     ],
     "url": "https://openai.com/index/public-policy-agenda",
     "cluster_id": "c-b521b2cc44"
+  },
+  {
+    "id": "fae173f5fba9",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI outlines a blueprint for U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "cluster_id": "c-f6670f69a7"
   },
   {
     "id": "6421a7340260",
@@ -1064,20 +1092,6 @@
     "cluster_id": "c-6ae2ef7046"
   },
   {
-    "id": "b36c91942c4f",
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-27T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/warp",
-    "cluster_id": "c-804c70d34c"
-  },
-  {
     "id": "fae225528858",
     "title": "Election information and safeguards in 2026",
     "source": "OpenAI Blog",
@@ -1090,6 +1104,20 @@
     ],
     "url": "https://openai.com/index/election-safeguards-2026",
     "cluster_id": "c-b5a470fc55"
+  },
+  {
+    "id": "b36c91942c4f",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-27T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/warp",
+    "cluster_id": "c-804c70d34c"
   },
   {
     "id": "ed9f6061321c",
@@ -1386,20 +1414,6 @@
     "cluster_id": "c-ce6cee26d9"
   },
   {
-    "id": "c31ba2e9026b",
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-12T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "cluster_id": "c-44cebeee06"
-  },
-  {
     "id": "6498bc3d3050",
     "title": "How NVIDIA engineers and researchers build with Codex",
     "source": "OpenAI Blog",
@@ -1426,6 +1440,20 @@
     ],
     "url": "https://openai.com/index/autoscout24",
     "cluster_id": "c-43a6af1957"
+  },
+  {
+    "id": "c31ba2e9026b",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "cluster_id": "c-44cebeee06"
   },
   {
     "id": "e13dc335beb0",
@@ -1540,20 +1568,6 @@
     "cluster_id": "c-be9e11c2d2"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "fe948365c4d6",
     "title": "Introducing Trusted Contact in ChatGPT",
     "source": "OpenAI Blog",
@@ -1566,6 +1580,20 @@
     ],
     "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "cluster_id": "c-1a6bd75626"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "eed85cf61ed4",
@@ -1652,20 +1680,6 @@
     "cluster_id": "c-f2ea2fbdad"
   },
   {
-    "id": "e9800213f3cd",
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-05T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-5-instant",
-    "cluster_id": "c-2fca8bf7fd"
-  },
-  {
     "id": "a654fb66813e",
     "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
     "source": "OpenAI Blog",
@@ -1694,18 +1708,18 @@
     "cluster_id": "c-9eca44c286"
   },
   {
-    "id": "c885d324429e",
-    "title": "New ways to buy ChatGPT ads",
+    "id": "e9800213f3cd",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
     "source": "OpenAI Blog",
-    "published_at": "2026-05-05T00:00:00Z",
+    "published_at": "2026-05-05T10:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "one_liner": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "cluster_id": "c-0eec5e9daf"
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "cluster_id": "c-2fca8bf7fd"
   },
   {
     "id": "cc69235e023b",
@@ -1720,6 +1734,20 @@
     ],
     "url": "https://openai.com/index/advancing-youth-safety-in-emea",
     "cluster_id": "c-c538b8fc9e"
+  },
+  {
+    "id": "c885d324429e",
+    "title": "New ways to buy ChatGPT ads",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "cluster_id": "c-0eec5e9daf"
   },
   {
     "id": "9807ae0752f7",
@@ -1960,20 +1988,6 @@
     "cluster_id": "c-f6ce3d3dfd"
   },
   {
-    "id": "bb94101d8671",
-    "title": "Plugins and skills",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to use ChatGPT Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/codex-plugins-and-skills",
-    "cluster_id": "c-b2f8665560"
-  },
-  {
     "id": "b9cfd90c4451",
     "title": "Making ChatGPT better for clinicians",
     "source": "OpenAI Blog",
@@ -1988,18 +2002,18 @@
     "cluster_id": "c-20d0f423b5"
   },
   {
-    "id": "c30ec7b01482",
-    "title": "Introducing workspace agents in ChatGPT",
+    "id": "5278705df0e5",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
     "source": "OpenAI Blog",
     "published_at": "2026-04-22T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "one_liner": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "cluster_id": "c-50eeed1c99"
+    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "cluster_id": "c-ef324bd4b4"
   },
   {
     "id": "1b162ea8d4aa",
@@ -2016,18 +2030,18 @@
     "cluster_id": "c-a1135499b6"
   },
   {
-    "id": "5278705df0e5",
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "id": "c30ec7b01482",
+    "title": "Introducing workspace agents in ChatGPT",
     "source": "OpenAI Blog",
     "published_at": "2026-04-22T10:00:00Z",
     "topic": "ai",
-    "one_liner": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+    "one_liner": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-    "cluster_id": "c-ef324bd4b4"
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "cluster_id": "c-50eeed1c99"
   },
   {
     "id": "e2bf2733d05a",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
     "cluster_id": "c-c50081ceb3"
-  },
-  {
-    "id": "bed35cf1aaf9",
-    "title": "Codex for (almost) everything",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-16T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/codex-for-almost-everything",
-    "cluster_id": "c-da2109b06f"
   }
 ]

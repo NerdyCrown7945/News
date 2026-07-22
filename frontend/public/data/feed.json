@@ -1,5 +1,47 @@
 [
   {
+    "id": "d42362617c64",
+    "title": "Introducing the ChatGPT for small business program",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-21T17:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "cluster_id": "c-746d8717c4"
+  },
+  {
+    "id": "20b0eb2d5c14",
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-21T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "cluster_id": "c-9fce299a20"
+  },
+  {
+    "id": "40359dbf5a24",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-21T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "cluster_id": "c-c256aa86a4"
+  },
+  {
     "id": "d4ff9ec891b7",
     "title": "Safety and alignment in an era of long-horizon models",
     "source": "OpenAI Blog",
@@ -182,20 +224,6 @@
     "cluster_id": "c-f687dbab6a"
   },
   {
-    "id": "5941cef110c0",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "cluster_id": "c-07c0c2899b"
-  },
-  {
     "id": "8fd74bd3f519",
     "title": "GPT-5.5 Bio Bug Bounty",
     "source": "OpenAI Blog",
@@ -208,6 +236,20 @@
     ],
     "url": "https://openai.com/index/bio-bug-bounty",
     "cluster_id": "c-73b5b38067"
+  },
+  {
+    "id": "5941cef110c0",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "cluster_id": "c-07c0c2899b"
   },
   {
     "id": "41b85c9cdb7a",
@@ -266,20 +308,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "60d1b56766e3",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/australian-payments-plus",
-    "cluster_id": "c-174a42466a"
-  },
-  {
     "id": "cb031b5cf3e3",
     "title": "MUFG aims to become AI-native with OpenAI",
     "source": "OpenAI Blog",
@@ -294,6 +322,20 @@
     "cluster_id": "c-33c903d27b"
   },
   {
+    "id": "60d1b56766e3",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/australian-payments-plus",
+    "cluster_id": "c-174a42466a"
+  },
+  {
     "id": "fb435a036a32",
     "title": "How ChatGPT adoption has expanded",
     "source": "OpenAI Blog",
@@ -306,6 +348,20 @@
     ],
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "cluster_id": "c-6ce9c12c19"
+  },
+  {
+    "id": "200e6c5f82a0",
+    "title": "Inside Genebench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Inside Genebench-Pro",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "cluster_id": "c-43cf0d21be"
   },
   {
     "id": "4c4d91d3ce63",
@@ -334,20 +390,6 @@
     ],
     "url": "https://openai.com/index/introducing-genebench-pro",
     "cluster_id": "c-ad759aead2"
-  },
-  {
-    "id": "200e6c5f82a0",
-    "title": "Inside Genebench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Inside Genebench-Pro",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "cluster_id": "c-43cf0d21be"
   },
   {
     "id": "5b79476b1142",
@@ -462,20 +504,6 @@
     "cluster_id": "c-d7cf4a612d"
   },
   {
-    "id": "f7e9d38ae732",
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "cluster_id": "c-6dc2cf6961"
-  },
-  {
     "id": "f0ab1740b8b7",
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "source": "OpenAI Blog",
@@ -488,6 +516,20 @@
     ],
     "url": "https://openai.com/index/patch-the-planet",
     "cluster_id": "c-144812bd46"
+  },
+  {
+    "id": "f7e9d38ae732",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-22T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "cluster_id": "c-6dc2cf6961"
   },
   {
     "id": "6fdda2fdc1d8",
@@ -658,20 +700,6 @@
     "cluster_id": "c-c252b3b23a"
   },
   {
-    "id": "a9f0898c4190",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bbva",
-    "cluster_id": "c-cd40b2196a"
-  },
-  {
     "id": "436a674e3bf2",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "source": "OpenAI Blog",
@@ -684,6 +712,20 @@
     ],
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "cluster_id": "c-9f6d4865a1"
+  },
+  {
+    "id": "a9f0898c4190",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bbva",
+    "cluster_id": "c-cd40b2196a"
   },
   {
     "id": "8875a0080dac",
@@ -896,20 +938,6 @@
     "cluster_id": "c-8ddea21abf"
   },
   {
-    "id": "0a440e310365",
-    "title": "OpenAI public policy agenda",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/public-policy-agenda",
-    "cluster_id": "c-b521b2cc44"
-  },
-  {
     "id": "fae173f5fba9",
     "title": "A blueprint for democratic governance of frontier AI",
     "source": "OpenAI Blog",
@@ -922,6 +950,20 @@
     ],
     "url": "https://openai.com/index/frontier-safety-blueprint",
     "cluster_id": "c-f6670f69a7"
+  },
+  {
+    "id": "0a440e310365",
+    "title": "OpenAI public policy agenda",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/public-policy-agenda",
+    "cluster_id": "c-b521b2cc44"
   },
   {
     "id": "6421a7340260",
@@ -1148,20 +1190,6 @@
     "cluster_id": "c-6ae2ef7046"
   },
   {
-    "id": "b36c91942c4f",
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-27T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/warp",
-    "cluster_id": "c-804c70d34c"
-  },
-  {
     "id": "fae225528858",
     "title": "Election information and safeguards in 2026",
     "source": "OpenAI Blog",
@@ -1174,6 +1202,20 @@
     ],
     "url": "https://openai.com/index/election-safeguards-2026",
     "cluster_id": "c-b5a470fc55"
+  },
+  {
+    "id": "b36c91942c4f",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-27T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/warp",
+    "cluster_id": "c-804c70d34c"
   },
   {
     "id": "ed9f6061321c",
@@ -1204,20 +1246,6 @@
     "cluster_id": "c-281ac55032"
   },
   {
-    "id": "ef1db9edff97",
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-22T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "cluster_id": "c-45215ffb77"
-  },
-  {
     "id": "4ce39150a4dc",
     "title": "How Virgin Atlantic ships faster with Codex",
     "source": "OpenAI Blog",
@@ -1232,6 +1260,20 @@
     "cluster_id": "c-1c024e5512"
   },
   {
+    "id": "ef1db9edff97",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-22T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "cluster_id": "c-45215ffb77"
+  },
+  {
     "id": "85a3fdb43c80",
     "title": "AdventHealth advances whole-person care with OpenAI",
     "source": "OpenAI Blog",
@@ -1244,6 +1286,20 @@
     ],
     "url": "https://openai.com/index/adventhealth",
     "cluster_id": "c-86501d1cad"
+  },
+  {
+    "id": "7f625f666338",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-20T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "cluster_id": "c-951a1e5878"
   },
   {
     "id": "cb920945cfca",
@@ -1272,20 +1328,6 @@
     ],
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "cluster_id": "c-fc8b35a763"
-  },
-  {
-    "id": "7f625f666338",
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-20T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "cluster_id": "c-951a1e5878"
   },
   {
     "id": "e0640ad0320c",
@@ -1344,20 +1386,6 @@
     "cluster_id": "c-e786d9c8cc"
   },
   {
-    "id": "c64312c3121c",
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/databricks",
-    "cluster_id": "c-9e1ade585e"
-  },
-  {
     "id": "b5b1610b252a",
     "title": "How business operations teams use ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1370,6 +1398,20 @@
     ],
     "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
     "cluster_id": "c-2b40cf7ca2"
+  },
+  {
+    "id": "c64312c3121c",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/databricks",
+    "cluster_id": "c-9e1ade585e"
   },
   {
     "id": "ada6c1425188",
@@ -1470,20 +1512,6 @@
     "cluster_id": "c-ce6cee26d9"
   },
   {
-    "id": "8a196e8c3ae2",
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-12T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/autoscout24",
-    "cluster_id": "c-43a6af1957"
-  },
-  {
     "id": "6498bc3d3050",
     "title": "How NVIDIA engineers and researchers build with Codex",
     "source": "OpenAI Blog",
@@ -1496,6 +1524,20 @@
     ],
     "url": "https://openai.com/index/nvidia",
     "cluster_id": "c-fb70ad07e0"
+  },
+  {
+    "id": "8a196e8c3ae2",
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/autoscout24",
+    "cluster_id": "c-43a6af1957"
   },
   {
     "id": "c31ba2e9026b",
@@ -1526,20 +1568,6 @@
     "cluster_id": "c-3d38db3c73"
   },
   {
-    "id": "ee5564e4d43f",
-    "title": "OpenAI Campus Network: Student club interest form",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "cluster_id": "c-50386ce75f"
-  },
-  {
     "id": "4ca12da2ae6a",
     "title": "How enterprises are scaling AI",
     "source": "OpenAI Blog",
@@ -1552,6 +1580,20 @@
     ],
     "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
     "cluster_id": "c-bc07fcfdef"
+  },
+  {
+    "id": "ee5564e4d43f",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "cluster_id": "c-50386ce75f"
   },
   {
     "id": "68e94ee2f13a",
@@ -1624,20 +1666,6 @@
     "cluster_id": "c-be9e11c2d2"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "fe948365c4d6",
     "title": "Introducing Trusted Contact in ChatGPT",
     "source": "OpenAI Blog",
@@ -1650,6 +1678,20 @@
     ],
     "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "cluster_id": "c-1a6bd75626"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "eed85cf61ed4",
@@ -1680,20 +1722,6 @@
     "cluster_id": "c-74cd67221c"
   },
   {
-    "id": "bdecd9008a33",
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "cluster_id": "c-9a996579df"
-  },
-  {
     "id": "8665a96e70ff",
     "title": "Uber uses OpenAI to help people earn smarter and book faster",
     "source": "OpenAI Blog",
@@ -1706,20 +1734,6 @@
     ],
     "url": "https://openai.com/index/uber",
     "cluster_id": "c-f2ea2fbdad"
-  },
-  {
-    "id": "94f58b450581",
-    "title": "How frontier firms are pulling ahead",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "cluster_id": "c-55e1ae0e35"
   },
   {
     "id": "94a93b54a777",
@@ -1736,18 +1750,32 @@
     "cluster_id": "c-427b72d2ea"
   },
   {
-    "id": "a654fb66813e",
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "id": "94f58b450581",
+    "title": "How frontier firms are pulling ahead",
     "source": "OpenAI Blog",
-    "published_at": "2026-05-05T10:00:00Z",
+    "published_at": "2026-05-06T00:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+    "one_liner": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
-    "cluster_id": "c-87371cb53b"
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "cluster_id": "c-55e1ae0e35"
+  },
+  {
+    "id": "bdecd9008a33",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-06T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "cluster_id": "c-9a996579df"
   },
   {
     "id": "e9800213f3cd",
@@ -1764,6 +1792,20 @@
     "cluster_id": "c-2fca8bf7fd"
   },
   {
+    "id": "a654fb66813e",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-05T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "cluster_id": "c-87371cb53b"
+  },
+  {
     "id": "76cbe027f6a8",
     "title": "GPT-5.5 Instant System Card",
     "source": "OpenAI Blog",
@@ -1778,20 +1820,6 @@
     "cluster_id": "c-9eca44c286"
   },
   {
-    "id": "c885d324429e",
-    "title": "New ways to buy ChatGPT ads",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "cluster_id": "c-0eec5e9daf"
-  },
-  {
     "id": "cc69235e023b",
     "title": "Advancing youth safety and wellbeing in EMEA",
     "source": "OpenAI Blog",
@@ -1804,6 +1832,20 @@
     ],
     "url": "https://openai.com/index/advancing-youth-safety-in-emea",
     "cluster_id": "c-c538b8fc9e"
+  },
+  {
+    "id": "c885d324429e",
+    "title": "New ways to buy ChatGPT ads",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "cluster_id": "c-0eec5e9daf"
   },
   {
     "id": "9807ae0752f7",
@@ -1890,20 +1932,6 @@
     "cluster_id": "c-9eb4aba2ed"
   },
   {
-    "id": "368128e6f281",
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-on-aws",
-    "cluster_id": "c-805c7a7cb9"
-  },
-  {
     "id": "e6284b864c34",
     "title": "Our commitment to community safety",
     "source": "OpenAI Blog",
@@ -1916,6 +1944,20 @@
     ],
     "url": "https://openai.com/index/our-commitment-to-community-safety",
     "cluster_id": "c-fb7c2d2871"
+  },
+  {
+    "id": "368128e6f281",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-on-aws",
+    "cluster_id": "c-805c7a7cb9"
   },
   {
     "id": "bc680bc14e9f",
@@ -2002,20 +2044,6 @@
     "cluster_id": "c-559191ab41"
   },
   {
-    "id": "cfbb97f4e142",
-    "title": "GPT-5.5 System Card",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-5.5 System Card",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-5-system-card",
-    "cluster_id": "c-6180cc3fed"
-  },
-  {
     "id": "6e6cdaf0d601",
     "title": "Introducing GPT-5.5",
     "source": "OpenAI Blog",
@@ -2028,6 +2056,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-5-5",
     "cluster_id": "c-e920ec8d2a"
+  },
+  {
+    "id": "cfbb97f4e142",
+    "title": "GPT-5.5 System Card",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-23T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-5.5 System Card",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "cluster_id": "c-6180cc3fed"
   },
   {
     "id": "c007a279159d",
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
     "cluster_id": "c-20d0f423b5"
-  },
-  {
-    "id": "5278705df0e5",
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-    "cluster_id": "c-ef324bd4b4"
-  },
-  {
-    "id": "c30ec7b01482",
-    "title": "Introducing workspace agents in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "cluster_id": "c-50eeed1c99"
-  },
-  {
-    "id": "1b162ea8d4aa",
-    "title": "Workspace agents",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/workspace-agents",
-    "cluster_id": "c-a1135499b6"
   }
 ]

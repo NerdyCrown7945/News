@@ -1,5 +1,33 @@
 [
   {
+    "id": "b86dc435d64a",
+    "title": "Advancing responsible AI across Europe",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-31T15:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "cluster_id": "c-d1b47dead2"
+  },
+  {
+    "id": "487981959078",
+    "title": "Univé builds an AI-ready workforce",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-31T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/unive",
+    "cluster_id": "c-6668e8131d"
+  },
+  {
     "id": "fc362ba711f5",
     "title": "Advancing the price-performance frontier with GPT-5.6",
     "source": "OpenAI Blog",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
     "cluster_id": "c-1c03eeca73"
-  },
-  {
-    "id": "92f8ee26a85a",
-    "title": "Introducing Advanced Account Security",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advanced-account-security",
-    "cluster_id": "c-2dda9fb763"
-  },
-  {
-    "id": "6ce07af346a4",
-    "title": "Where the goblins came from",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-29T20:00:00Z",
-    "topic": "ai",
-    "one_liner": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/where-the-goblins-came-from",
-    "cluster_id": "c-fd518861e7"
   }
 ]

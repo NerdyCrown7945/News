@@ -14,6 +14,20 @@
     "cluster_id": "c-d1b47dead2"
   },
   {
+    "id": "6e145b017b5a",
+    "title": "Building abundant intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-31T15:00:00Z",
+    "topic": "ai",
+    "one_liner": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "cluster_id": "c-71b6efba2c"
+  },
+  {
     "id": "487981959078",
     "title": "Univé builds an AI-ready workforce",
     "source": "OpenAI Blog",
@@ -26,6 +40,20 @@
     ],
     "url": "https://openai.com/index/unive",
     "cluster_id": "c-6668e8131d"
+  },
+  {
+    "id": "c5ad624a6ffb",
+    "title": "Disrupting a Criminal Scam Operation",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-31T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "cluster_id": "c-23b3c57840"
   },
   {
     "id": "fc362ba711f5",
@@ -1302,6 +1330,34 @@
     "cluster_id": "c-5241f529e1"
   },
   {
+    "id": "b365f6c426ca",
+    "title": "“Tech and Tariffs” Campaign: Influence activity targeting US tech policy",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-01T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI banned likely PRC-origin accounts using AI to create comments and cartoons about US tech policy, tariffs, and trade restrictions.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs",
+    "cluster_id": "c-10d2268f9a"
+  },
+  {
+    "id": "b021d026b0eb",
+    "title": "“Data Center Bandwagon” Campaign: US-targeted influence activity",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-01T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI banned a likely PRC-origin cluster using AI to generate social media content criticizing US data centers and AI infrastructure.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon",
+    "cluster_id": "c-3301660d69"
+  },
+  {
     "id": "e63fa88b5624",
     "title": "Boston Children’s uses AI to unlock new diagnoses",
     "source": "OpenAI Blog",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/mrc-supercomputer-networking",
     "cluster_id": "c-87371cb53b"
-  },
-  {
-    "id": "cc69235e023b",
-    "title": "Advancing youth safety and wellbeing in EMEA",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-    "cluster_id": "c-c538b8fc9e"
-  },
-  {
-    "id": "c885d324429e",
-    "title": "New ways to buy ChatGPT ads",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-05T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "cluster_id": "c-0eec5e9daf"
-  },
-  {
-    "id": "9807ae0752f7",
-    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-04T21:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "cluster_id": "c-e557f34907"
-  },
-  {
-    "id": "d6581b92c87e",
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-04T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "cluster_id": "c-1c03eeca73"
   }
 ]

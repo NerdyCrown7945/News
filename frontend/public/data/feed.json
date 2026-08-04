@@ -1,5 +1,33 @@
 [
   {
+    "id": "d04cc35bd3cc",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-03T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "cluster_id": "c-6e7507f0e9"
+  },
+  {
+    "id": "54e616a32e5e",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-03T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/circles",
+    "cluster_id": "c-2c87d3ca91"
+  },
+  {
     "id": "6d58997b466c",
     "title": "Ten advances in mathematics and theoretical computer science",
     "source": "OpenAI Blog",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/uber",
     "cluster_id": "c-f2ea2fbdad"
-  },
-  {
-    "id": "76cbe027f6a8",
-    "title": "GPT-5.5 Instant System Card",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-05T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-5.5 Instant System Card",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-    "cluster_id": "c-9eca44c286"
-  },
-  {
-    "id": "e9800213f3cd",
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-05T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-5-instant",
-    "cluster_id": "c-2fca8bf7fd"
   }
 ]

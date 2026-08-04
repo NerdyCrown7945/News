@@ -1,5 +1,19 @@
 [
   {
+    "id": "2163b413300d",
+    "title": "Apple is getting this wrong",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-03T22:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "cluster_id": "c-e25c06ccc5"
+  },
+  {
     "id": "d04cc35bd3cc",
     "title": "How we built a realtime system for responsive voice AI in six months",
     "source": "OpenAI Blog",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/introducing-b2b-signals",
     "cluster_id": "c-55e1ae0e35"
-  },
-  {
-    "id": "8665a96e70ff",
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/uber",
-    "cluster_id": "c-f2ea2fbdad"
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "977f60f7e5e3",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-04T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "cluster_id": "c-a99df7e6ca"
+  },
+  {
+    "id": "b274d6785ee9",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-04T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "cluster_id": "c-16d3608fcb"
+  },
+  {
     "id": "2163b413300d",
     "title": "Apple is getting this wrong",
     "source": "OpenAI Blog",
@@ -1162,7 +1190,7 @@
     "cluster_id": "c-927c519a97"
   },
   {
-    "id": "63685f806399",
+    "id": "2afbcd6f57d2",
     "title": "Introducing the OpenAI Economic Research Exchange",
     "source": "OpenAI Blog",
     "published_at": "2026-06-08T00:00:00Z",
@@ -1172,7 +1200,7 @@
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/economic-research-exchange",
+    "url": "https://openai.com/index/introducing-the-openai-economic-research-exchange",
     "cluster_id": "c-da7bbc8031"
   },
   {
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/singular-bank",
     "cluster_id": "c-427b72d2ea"
-  },
-  {
-    "id": "bdecd9008a33",
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "cluster_id": "c-9a996579df"
-  },
-  {
-    "id": "94f58b450581",
-    "title": "How frontier firms are pulling ahead",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "cluster_id": "c-55e1ae0e35"
   }
 ]

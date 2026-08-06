@@ -1932,20 +1932,6 @@
     "cluster_id": "c-3d38db3c73"
   },
   {
-    "id": "ee5564e4d43f",
-    "title": "OpenAI Campus Network: Student club interest form",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "cluster_id": "c-50386ce75f"
-  },
-  {
     "id": "4ca12da2ae6a",
     "title": "How enterprises are scaling AI",
     "source": "OpenAI Blog",
@@ -1958,6 +1944,20 @@
     ],
     "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
     "cluster_id": "c-bc07fcfdef"
+  },
+  {
+    "id": "ee5564e4d43f",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "cluster_id": "c-50386ce75f"
   },
   {
     "id": "68e94ee2f13a",

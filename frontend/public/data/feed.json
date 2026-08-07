@@ -1,5 +1,47 @@
 [
   {
+    "id": "0f0c1961f93e",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-06T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "cluster_id": "c-9eb34f6aa7"
+  },
+  {
+    "id": "6da5f2d271da",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-06T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "cluster_id": "c-793dcb957c"
+  },
+  {
+    "id": "fea9ae47ebf2",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-06T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "cluster_id": "c-bbd1c2ef91"
+  },
+  {
     "id": "977f60f7e5e3",
     "title": "Third-party cyber evaluations involving OpenAI models",
     "source": "OpenAI Blog",
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "cluster_id": "c-1a6bd75626"
-  },
-  {
-    "id": "eed85cf61ed4",
-    "title": "Simplex rethinks software development with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/simplex",
-    "cluster_id": "c-5b3b552667"
-  },
-  {
-    "id": "9195cc0cde7d",
-    "title": "How ChatGPT learns about the world while protecting privacy",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T08:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-    "cluster_id": "c-74cd67221c"
-  },
-  {
-    "id": "94a93b54a777",
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/singular-bank",
-    "cluster_id": "c-427b72d2ea"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "2ee94000fec4",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-07T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/hsp-gruppe",
+    "cluster_id": "c-b61144b984"
+  },
+  {
     "id": "0f0c1961f93e",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "source": "OpenAI Blog",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "cluster_id": "c-949a1fcab6"
-  },
-  {
-    "id": "fe948365c4d6",
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "cluster_id": "c-1a6bd75626"
   }
 ]

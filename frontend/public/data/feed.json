@@ -1,5 +1,19 @@
 [
   {
+    "id": "833934ee3b25",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-07T15:20:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "cluster_id": "c-71ece285eb"
+  },
+  {
     "id": "2ee94000fec4",
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "source": "OpenAI Blog",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
     "cluster_id": "c-be9e11c2d2"
-  },
-  {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
   }
 ]

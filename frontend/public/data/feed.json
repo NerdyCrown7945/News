@@ -1,5 +1,117 @@
 [
   {
+    "id": "7a678e9a26d7",
+    "title": "What building an AI-native finance function taught me",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T17:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "cluster_id": "c-0f16358891"
+  },
+  {
+    "id": "61282b7420ed",
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T14:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "cluster_id": "c-83a6cf7c5e"
+  },
+  {
+    "id": "c7b962b1d9ef",
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/model-ml",
+    "cluster_id": "c-7438d055b6"
+  },
+  {
+    "id": "3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "cluster_id": "c-3d4c214262"
+  },
+  {
+    "id": "7f776d7829d0",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "cluster_id": "c-efc7e31597"
+  },
+  {
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Premium seats are coming to ChatGPT Business.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
+  },
+  {
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
+  },
+  {
+    "id": "8f3f7b571773",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "cluster_id": "c-d7e95f2ca5"
+  },
+  {
     "id": "833934ee3b25",
     "title": "Responding to the next frontier of critical cyber capabilities",
     "source": "OpenAI Blog",
@@ -1986,117 +2098,5 @@
     ],
     "url": "https://openai.com/index/autoscout24",
     "cluster_id": "c-43a6af1957"
-  },
-  {
-    "id": "e13dc335beb0",
-    "title": "How ChatGPT adoption broadened in early 2026",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-11T15:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/signals/research/2026q1-update",
-    "cluster_id": "c-3d38db3c73"
-  },
-  {
-    "id": "4ca12da2ae6a",
-    "title": "How enterprises are scaling AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "cluster_id": "c-bc07fcfdef"
-  },
-  {
-    "id": "ee5564e4d43f",
-    "title": "OpenAI Campus Network: Student club interest form",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "cluster_id": "c-50386ce75f"
-  },
-  {
-    "id": "68e94ee2f13a",
-    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-11T06:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-launches-the-deployment-company",
-    "cluster_id": "c-cde88b6697"
-  },
-  {
-    "id": "91ec1ce9a5cf",
-    "title": "Running Codex safely at OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-08T12:30:00Z",
-    "topic": "ai",
-    "one_liner": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/running-codex-safely",
-    "cluster_id": "c-95f2bea910"
-  },
-  {
-    "id": "288ea344bbe0",
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-07T13:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "cluster_id": "c-52452668a7"
-  },
-  {
-    "id": "e41b9b9c2133",
-    "title": "Parloa builds service agents customers want to talk to",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-07T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/parloa",
-    "cluster_id": "c-6222bd91ec"
-  },
-  {
-    "id": "4ba89a634a8b",
-    "title": "Advancing voice intelligence with new models in the API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-07T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "cluster_id": "c-be9e11c2d2"
   }
 ]

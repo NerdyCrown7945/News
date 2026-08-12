@@ -1,5 +1,19 @@
 [
   {
+    "id": "fb21820d806b",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-12T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "cluster_id": "c-da11c92e73"
+  },
+  {
     "id": "de2ca3d7578d",
     "title": "Testing ads in ChatGPT",
     "source": "OpenAI Blog",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/academy/how-finance-teams-use-codex",
     "cluster_id": "c-ce6cee26d9"
-  },
-  {
-    "id": "c31ba2e9026b",
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-12T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "cluster_id": "c-44cebeee06"
   }
 ]

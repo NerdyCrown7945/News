@@ -14,6 +14,20 @@
     "cluster_id": "c-da11c92e73"
   },
   {
+    "id": "cad35e6294fe",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringcentral",
+    "cluster_id": "c-d6d6687e5c"
+  },
+  {
     "id": "de2ca3d7578d",
     "title": "Testing ads in ChatGPT",
     "source": "OpenAI Blog",
@@ -84,20 +98,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "3a8585570cab",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "cluster_id": "c-3d4c214262"
-  },
-  {
     "id": "7f776d7829d0",
     "title": "Putting frontier cyber models in more trusted hands",
     "source": "OpenAI Blog",
@@ -112,18 +112,32 @@
     "cluster_id": "c-efc7e31597"
   },
   {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
+    "id": "3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
+    "published_at": "2026-08-10T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Premium seats are coming to ChatGPT Business.",
+    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "cluster_id": "c-3d4c214262"
+  },
+  {
+    "id": "8f3f7b571773",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "cluster_id": "c-d7e95f2ca5"
   },
   {
     "id": "1ea3eea3d9a5",
@@ -140,18 +154,18 @@
     "cluster_id": "c-5bcf6a78ee"
   },
   {
-    "id": "8f3f7b571773",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
     "source": "OpenAI Blog",
     "published_at": "2026-08-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "one_liner": "Premium seats are coming to ChatGPT Business.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "cluster_id": "c-d7e95f2ca5"
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "833934ee3b25",
@@ -700,7 +714,7 @@
     "cluster_id": "c-376e2ca0b1"
   },
   {
-    "id": "cca00ce68781",
+    "id": "b9a7811027c8",
     "title": "How data science teams use ChatGPT Work",
     "source": "OpenAI Blog",
     "published_at": "2026-07-14T00:00:00Z",
@@ -710,11 +724,11 @@
       "llm",
       "research"
     ],
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
     "cluster_id": "c-05bd8fd075"
   },
   {
-    "id": "248b5ff06999",
+    "id": "40d7f59e4718",
     "title": "How sales teams use ChatGPT Work",
     "source": "OpenAI Blog",
     "published_at": "2026-07-14T00:00:00Z",
@@ -724,7 +738,7 @@
       "llm",
       "research"
     ],
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
     "cluster_id": "c-fedef032f3"
   },
   {
@@ -1974,7 +1988,7 @@
     "cluster_id": "c-e786d9c8cc"
   },
   {
-    "id": "b5b1610b252a",
+    "id": "f486b6f8ef6c",
     "title": "How business operations teams use ChatGPT Work",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00Z",
@@ -1984,7 +1998,7 @@
       "llm",
       "research"
     ],
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
     "cluster_id": "c-2b40cf7ca2"
   },
   {
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
     "cluster_id": "c-8bde726b13"
-  },
-  {
-    "id": "7d12c750a4ea",
-    "title": "How finance teams use ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-12T15:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how finance teams can use ChatGPT Work to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/how-finance-teams-use-codex",
-    "cluster_id": "c-ce6cee26d9"
   }
 ]

@@ -126,6 +126,20 @@
     "cluster_id": "c-3d4c214262"
   },
   {
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Premium seats are coming to ChatGPT Business.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
+  },
+  {
     "id": "8f3f7b571773",
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -152,20 +166,6 @@
     ],
     "url": "https://openai.com/index/zapier",
     "cluster_id": "c-5bcf6a78ee"
-  },
-  {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Premium seats are coming to ChatGPT Business.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "833934ee3b25",

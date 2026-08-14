@@ -1,5 +1,47 @@
 [
   {
+    "id": "855fa77e93e1",
+    "title": "The builder’s guide to GPT‑5.6",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-13T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "cluster_id": "c-942c42adef"
+  },
+  {
+    "id": "6357d7795d21",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-13T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "cluster_id": "c-823ba822fe"
+  },
+  {
+    "id": "9e022b7caa78",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-13T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "cluster_id": "c-08d3dbf6af"
+  },
+  {
     "id": "fb21820d806b",
     "title": "From assistance to execution: How enterprises put AI to work",
     "source": "OpenAI Blog",
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/work-with-codex-from-anywhere",
     "cluster_id": "c-e5e02a8d11"
-  },
-  {
-    "id": "fd608667e64c",
-    "title": "Helping ChatGPT better recognize context in sensitive conversations",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-14T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "cluster_id": "c-b82d63c816"
-  },
-  {
-    "id": "5502a50a46d6",
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-13T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/building-codex-windows-sandbox",
-    "cluster_id": "c-7d75bcfdca"
-  },
-  {
-    "id": "49432bd70e08",
-    "title": "Our response to the TanStack npm supply chain attack",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-13T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "cluster_id": "c-8bde726b13"
   }
 ]

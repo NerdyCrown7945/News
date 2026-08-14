@@ -1,0 +1,24 @@
+{
+  "id": "6357d7795d21",
+  "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+  "source": "OpenAI Blog",
+  "published_at": "2026-08-13T10:00:00Z",
+  "summary_lines": [
+    "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster."
+  ],
+  "key_points": [
+    "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster.",
+    "Powered by Cerebras, it delivers up to 750 output tokens per second."
+  ],
+  "summary_lines_ko": [
+    "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster."
+  ],
+  "key_points_ko": [
+    "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster.",
+    "Powered by Cerebras, it delivers up to 750 output tokens per second."
+  ],
+  "url": "https://openai.com/index/previewing-ultrafast",
+  "related": []
+}

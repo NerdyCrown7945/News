@@ -1,5 +1,19 @@
 [
   {
+    "id": "96670aeff66e",
+    "title": "New policy ideas for the Intelligence Age",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-17T03:15:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "cluster_id": "c-0ba4adab25"
+  },
+  {
     "id": "855fa77e93e1",
     "title": "The builder’s guide to GPT‑5.6",
     "source": "OpenAI Blog",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/sea-david-chen",
     "cluster_id": "c-c4f68541d8"
-  },
-  {
-    "id": "3e12c6920827",
-    "title": "Work with Codex from anywhere",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-14T13:00:00Z",
-    "topic": "ai",
-    "one_liner": "Use Codex anywhere with the ChatGPT mobile app.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/work-with-codex-from-anywhere",
-    "cluster_id": "c-e5e02a8d11"
   }
 ]

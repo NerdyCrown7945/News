@@ -1,5 +1,33 @@
 [
   {
+    "id": "9765648ad527",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-18T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "cluster_id": "c-68ad61f788"
+  },
+  {
+    "id": "01003c6680bc",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-18T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "cluster_id": "c-e10511c89a"
+  },
+  {
     "id": "f137d9ea2f9f",
     "title": "The Defender’s Window",
     "source": "OpenAI Blog",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
     "cluster_id": "c-e786d9c8cc"
-  },
-  {
-    "id": "f486b6f8ef6c",
-    "title": "Operations workflows with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn practical ChatGPT Work workflows for initiative briefs, strategy updates, decision packets, and progress reporting.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
-    "cluster_id": "c-01ddf5dd07"
-  },
-  {
-    "id": "c64312c3121c",
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/databricks",
-    "cluster_id": "c-9e1ade585e"
   }
 ]

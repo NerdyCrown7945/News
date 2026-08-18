@@ -1,5 +1,33 @@
 [
   {
+    "id": "f137d9ea2f9f",
+    "title": "The Defender’s Window",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-17T05:30:00Z",
+    "topic": "ai",
+    "one_liner": "AI is reshaping cybersecurity for attackers and defenders alike.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-defenders-window",
+    "cluster_id": "c-da60aafd95"
+  },
+  {
+    "id": "ad5623d5cc70",
+    "title": "OpenAI joins PORTS-Pike project",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-17T05:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "cluster_id": "c-fa4bda4283"
+  },
+  {
     "id": "96670aeff66e",
     "title": "New policy ideas for the Intelligence Age",
     "source": "OpenAI Blog",
@@ -771,31 +799,31 @@
   },
   {
     "id": "b9a7811027c8",
-    "title": "How data science teams use ChatGPT Work",
+    "title": "Data science workflows with ChatGPT Work",
     "source": "OpenAI Blog",
     "published_at": "2026-07-14T00:00:00Z",
     "topic": "ai",
-    "one_liner": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "one_liner": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.",
     "tags": [
       "llm",
       "research"
     ],
     "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-    "cluster_id": "c-05bd8fd075"
+    "cluster_id": "c-b0880788ab"
   },
   {
     "id": "40d7f59e4718",
-    "title": "How sales teams use ChatGPT Work",
+    "title": "Sales workflows with ChatGPT Work",
     "source": "OpenAI Blog",
     "published_at": "2026-07-14T00:00:00Z",
     "topic": "ai",
-    "one_liner": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "one_liner": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.",
     "tags": [
       "llm",
       "research"
     ],
     "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-    "cluster_id": "c-fedef032f3"
+    "cluster_id": "c-6754c5ac10"
   },
   {
     "id": "027b05f9d0fa",
@@ -2045,17 +2073,17 @@
   },
   {
     "id": "f486b6f8ef6c",
-    "title": "How business operations teams use ChatGPT Work",
+    "title": "Operations workflows with ChatGPT Work",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00Z",
     "topic": "ai",
-    "one_liner": "See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs",
+    "one_liner": "Learn practical ChatGPT Work workflows for initiative briefs, strategy updates, decision packets, and progress reporting.",
     "tags": [
       "llm",
       "research"
     ],
     "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
-    "cluster_id": "c-2b40cf7ca2"
+    "cluster_id": "c-01ddf5dd07"
   },
   {
     "id": "c64312c3121c",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/databricks",
     "cluster_id": "c-9e1ade585e"
-  },
-  {
-    "id": "ada6c1425188",
-    "title": "A new personal finance experience in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "cluster_id": "c-efb76f518c"
-  },
-  {
-    "id": "ca03c8de33d6",
-    "title": "Sea's View on the Future of Agentic Software Development with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-14T20:30:00Z",
-    "topic": "ai",
-    "one_liner": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sea-david-chen",
-    "cluster_id": "c-c4f68541d8"
   }
 ]

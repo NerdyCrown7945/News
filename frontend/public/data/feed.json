@@ -1,5 +1,19 @@
 [
   {
+    "id": "67f37d861d34",
+    "title": "Strengthening democratic oversight in national security",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-18T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "cluster_id": "c-bfb6d5a1d4"
+  },
+  {
     "id": "9765648ad527",
     "title": "Partnering with CodeAI to prepare the first AI generation",
     "source": "OpenAI Blog",
@@ -14,6 +28,20 @@
     "cluster_id": "c-68ad61f788"
   },
   {
+    "id": "68c52c81310f",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-18T11:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "cluster_id": "c-0443b0b5b7"
+  },
+  {
     "id": "01003c6680bc",
     "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
     "source": "OpenAI Blog",
@@ -26,6 +54,34 @@
     ],
     "url": "https://openai.com/index/chatgpt-for-teens",
     "cluster_id": "c-e10511c89a"
+  },
+  {
+    "id": "7d7eacff40aa",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-18T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana",
+    "cluster_id": "c-2d98ecfca9"
+  },
+  {
+    "id": "dfcf73efa3a6",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-18T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "cluster_id": "c-dfe9d6f551"
   },
   {
     "id": "f137d9ea2f9f",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "cluster_id": "c-fc8b35a763"
-  },
-  {
-    "id": "e0640ad0320c",
-    "title": "Introducing OpenAI for Singapore",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-19T20:30:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-openai-for-singapore",
-    "cluster_id": "c-adadcbacd5"
-  },
-  {
-    "id": "4f1431164463",
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-19T10:45:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advancing-content-provenance",
-    "cluster_id": "c-23337eb8b1"
-  },
-  {
-    "id": "210c7a7c7826",
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-18T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "cluster_id": "c-966aa866d6"
-  },
-  {
-    "id": "f0106247dee4",
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "cluster_id": "c-e786d9c8cc"
   }
 ]

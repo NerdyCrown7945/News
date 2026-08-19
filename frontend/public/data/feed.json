@@ -1,5 +1,19 @@
 [
   {
+    "id": "e4563871866d",
+    "title": "ChatGPT Ads expands across Europe",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-18T22:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Ads is expanding to 31 European markets.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "cluster_id": "c-797cd7afa0"
+  },
+  {
     "id": "67f37d861d34",
     "title": "Strengthening democratic oversight in national security",
     "source": "OpenAI Blog",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/ramp",
     "cluster_id": "c-2ff47364be"
-  },
-  {
-    "id": "52bd1afbd88b",
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-20T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "cluster_id": "c-fc8b35a763"
   }
 ]

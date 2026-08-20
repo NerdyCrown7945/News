@@ -1,5 +1,33 @@
 [
   {
+    "id": "ef913e9fdabc",
+    "title": "Offering Zero Data Retention for frontier models",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-19T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "cluster_id": "c-56d5b8c35e"
+  },
+  {
+    "id": "9ac0643f2427",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-19T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/replit",
+    "cluster_id": "c-e310982380"
+  },
+  {
     "id": "e4563871866d",
     "title": "ChatGPT Ads expands across Europe",
     "source": "OpenAI Blog",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/adventhealth",
     "cluster_id": "c-86501d1cad"
-  },
-  {
-    "id": "7f625f666338",
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-20T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "cluster_id": "c-951a1e5878"
-  },
-  {
-    "id": "cb920945cfca",
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-20T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ramp",
-    "cluster_id": "c-2ff47364be"
   }
 ]

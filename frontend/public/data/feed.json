@@ -1,5 +1,33 @@
 [
   {
+    "id": "027379c08484",
+    "title": "Introducing AI Futures",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-20T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "cluster_id": "c-018f400f4b"
+  },
+  {
+    "id": "cb030de2dd94",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-20T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/stampli",
+    "cluster_id": "c-2bf05192dc"
+  },
+  {
     "id": "ef913e9fdabc",
     "title": "Offering Zero Data Retention for frontier models",
     "source": "OpenAI Blog",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/virgin-atlantic",
     "cluster_id": "c-1c024e5512"
-  },
-  {
-    "id": "ef1db9edff97",
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-22T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "cluster_id": "c-45215ffb77"
-  },
-  {
-    "id": "85a3fdb43c80",
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/adventhealth",
-    "cluster_id": "c-86501d1cad"
   }
 ]

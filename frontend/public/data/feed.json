@@ -1,5 +1,19 @@
 [
   {
+    "id": "d34e82eae2f2",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/loveholidays",
+    "cluster_id": "c-6130f4df70"
+  },
+  {
     "id": "829e237a888d",
     "title": "The full stack behind abundant intelligence",
     "source": "OpenAI Blog",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/cisco",
     "cluster_id": "c-7d017bd130"
-  },
-  {
-    "id": "9da64821c60f",
-    "title": "Building self-improving tax agents with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-27T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "cluster_id": "c-6ae2ef7046"
   }
 ]

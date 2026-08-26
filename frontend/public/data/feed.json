@@ -1,5 +1,33 @@
 [
   {
+    "id": "829e237a888d",
+    "title": "The full stack behind abundant intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-25T07:05:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "cluster_id": "c-eca3c0898e"
+  },
+  {
+    "id": "9ad99bb5f40a",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-25T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "cluster_id": "c-6bbec63683"
+  },
+  {
     "id": "da55f7d7bd9d",
     "title": "Disrupting a new covert influence campaign from Russia",
     "source": "OpenAI Blog",
@@ -12,6 +40,20 @@
     ],
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "cluster_id": "c-6f67354e3b"
+  },
+  {
+    "id": "cfc376addf8c",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-25T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "cluster_id": "c-05872b40d4"
   },
   {
     "id": "df015003760c",
@@ -397,7 +439,7 @@
     "source": "OpenAI Blog",
     "published_at": "2026-08-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Premium seats are coming to ChatGPT Business.",
+    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
     "tags": [
       "llm",
       "research"
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
     "cluster_id": "c-6ae2ef7046"
-  },
-  {
-    "id": "b36c91942c4f",
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-27T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/warp",
-    "cluster_id": "c-804c70d34c"
-  },
-  {
-    "id": "fae225528858",
-    "title": "Election information and safeguards in 2026",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-27T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "cluster_id": "c-b5a470fc55"
-  },
-  {
-    "id": "ed9f6061321c",
-    "title": "AI is becoming a first hire for small businesses",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-25T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "New research shows how 4 million Americans use ChatGPT to start, run, and grow small businesses, lowering the cost of entrepreneurship with AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ai-first-hire-small-business",
-    "cluster_id": "c-a81361a91e"
   }
 ]

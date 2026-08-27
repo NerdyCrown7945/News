@@ -1,5 +1,47 @@
 [
   {
+    "id": "d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "cluster_id": "c-0720d84b72"
+  },
+  {
+    "id": "cdfc10030b4b",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/learning-never-stops",
+    "cluster_id": "c-057d234e59"
+  },
+  {
+    "id": "504dd1ec9508",
+    "title": "The Hugging Face incident and the road ahead",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "cluster_id": "c-9cfd64032e"
+  },
+  {
     "id": "d34e82eae2f2",
     "title": "How loveholidays is making everyone a builder with Codex",
     "source": "OpenAI Blog",
@@ -85,17 +127,17 @@
   },
   {
     "id": "027379c08484",
-    "title": "Introducing AI Futures",
+    "title": "Introducing Intelligence Age",
     "source": "OpenAI Blog",
     "published_at": "2026-08-20T07:00:00Z",
     "topic": "ai",
-    "one_liner": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "one_liner": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
     "tags": [
       "llm",
       "research"
     ],
     "url": "https://openai.com/index/introducing-ai-futures",
-    "cluster_id": "c-018f400f4b"
+    "cluster_id": "c-14949d5f2a"
   },
   {
     "id": "cb030de2dd94",
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
     "cluster_id": "c-61f6fc22eb"
-  },
-  {
-    "id": "c4a9a577612d",
-    "title": "How Endava builds an agentic organization with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-28T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/endava",
-    "cluster_id": "c-6b10e9164d"
-  },
-  {
-    "id": "3e9dde27d098",
-    "title": "OpenAI’s Frontier Governance Framework",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
-    "cluster_id": "c-df791c8a21"
-  },
-  {
-    "id": "a1f161b6a344",
-    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-27T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/cisco",
-    "cluster_id": "c-7d017bd130"
   }
 ]

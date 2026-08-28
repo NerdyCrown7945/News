@@ -1,5 +1,19 @@
 [
   {
+    "id": "0b00c80d502c",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-28T02:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "cluster_id": "c-5b12008335"
+  },
+  {
     "id": "3062d8cdad5f",
     "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
     "source": "OpenAI Blog",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/boston-childrens-hospital",
     "cluster_id": "c-fdd16e7cb0"
-  },
-  {
-    "id": "507ec0fdf629",
-    "title": "How Braintrust turns customer requests into code with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-29T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/braintrust",
-    "cluster_id": "c-f788fa17b2"
   }
 ]

@@ -546,20 +546,6 @@
     "cluster_id": "c-efc7e31597"
   },
   {
-    "id": "8f3f7b571773",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "cluster_id": "c-d7e95f2ca5"
-  },
-  {
     "id": "1ea3eea3d9a5",
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -572,6 +558,20 @@
     ],
     "url": "https://openai.com/index/zapier",
     "cluster_id": "c-5bcf6a78ee"
+  },
+  {
+    "id": "8f3f7b571773",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "cluster_id": "c-d7e95f2ca5"
   },
   {
     "id": "ee449db47d8d",
@@ -1204,6 +1204,20 @@
     "cluster_id": "c-f09c55035a"
   },
   {
+    "id": "5941cef110c0",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "cluster_id": "c-07c0c2899b"
+  },
+  {
     "id": "8fd74bd3f519",
     "title": "GPT-5.5 Bio Bug Bounty",
     "source": "OpenAI Blog",
@@ -1230,20 +1244,6 @@
     ],
     "url": "https://openai.com/index/gpt-5-6",
     "cluster_id": "c-f687dbab6a"
-  },
-  {
-    "id": "5941cef110c0",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "cluster_id": "c-07c0c2899b"
   },
   {
     "id": "41b85c9cdb7a",
@@ -1302,20 +1302,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "cb031b5cf3e3",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/mufg",
-    "cluster_id": "c-33c903d27b"
-  },
-  {
     "id": "60d1b56766e3",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "source": "OpenAI Blog",
@@ -1328,6 +1314,20 @@
     ],
     "url": "https://openai.com/index/australian-payments-plus",
     "cluster_id": "c-174a42466a"
+  },
+  {
+    "id": "cb031b5cf3e3",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/mufg",
+    "cluster_id": "c-33c903d27b"
   },
   {
     "id": "fb435a036a32",
@@ -1344,20 +1344,6 @@
     "cluster_id": "c-6ce9c12c19"
   },
   {
-    "id": "4c4d91d3ce63",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "cluster_id": "c-5a424c63c5"
-  },
-  {
     "id": "3c923494434c",
     "title": "Introducing GeneBench-Pro",
     "source": "OpenAI Blog",
@@ -1370,6 +1356,20 @@
     ],
     "url": "https://openai.com/index/introducing-genebench-pro",
     "cluster_id": "c-ad759aead2"
+  },
+  {
+    "id": "4c4d91d3ce63",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "cluster_id": "c-5a424c63c5"
   },
   {
     "id": "200e6c5f82a0",
@@ -1498,20 +1498,6 @@
     "cluster_id": "c-d7cf4a612d"
   },
   {
-    "id": "f0ab1740b8b7",
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/patch-the-planet",
-    "cluster_id": "c-144812bd46"
-  },
-  {
     "id": "f7e9d38ae732",
     "title": "Daybreak: Tools for securing every organization in the world",
     "source": "OpenAI Blog",
@@ -1524,6 +1510,20 @@
     ],
     "url": "https://openai.com/index/daybreak-securing-the-world",
     "cluster_id": "c-6dc2cf6961"
+  },
+  {
+    "id": "f0ab1740b8b7",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-22T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/patch-the-planet",
+    "cluster_id": "c-144812bd46"
   },
   {
     "id": "6fdda2fdc1d8",
@@ -1680,32 +1680,18 @@
     "cluster_id": "c-1fc2b830b7"
   },
   {
-    "id": "a9f0898c4190",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "id": "8875a0080dac",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "one_liner": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/bbva",
-    "cluster_id": "c-cd40b2196a"
-  },
-  {
-    "id": "6600f3e4b964",
-    "title": "OpenAI to acquire Ona",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "cluster_id": "c-c252b3b23a"
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "cluster_id": "c-2abdddf12a"
   },
   {
     "id": "436a674e3bf2",
@@ -1722,18 +1708,32 @@
     "cluster_id": "c-9f6d4865a1"
   },
   {
-    "id": "8875a0080dac",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "id": "6600f3e4b964",
+    "title": "OpenAI to acquire Ona",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "one_liner": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "cluster_id": "c-2abdddf12a"
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "cluster_id": "c-c252b3b23a"
+  },
+  {
+    "id": "a9f0898c4190",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bbva",
+    "cluster_id": "c-cd40b2196a"
   },
   {
     "id": "4600462b11c1",

@@ -1,5 +1,19 @@
 [
   {
+    "id": "7bc341571432",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-31T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/polimill",
+    "cluster_id": "c-b5f5add2fc"
+  },
+  {
     "id": "44f61163770f",
     "title": "A milestone in expanding access to AI",
     "source": "OpenAI Blog",
@@ -70,20 +84,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "d6bb1031e66b",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "cluster_id": "c-0720d84b72"
-  },
-  {
     "id": "cdfc10030b4b",
     "title": "Learning never stops: How AI makes learning continuous",
     "source": "OpenAI Blog",
@@ -96,6 +96,20 @@
     ],
     "url": "https://openai.com/index/learning-never-stops",
     "cluster_id": "c-057d234e59"
+  },
+  {
+    "id": "d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "cluster_id": "c-0720d84b72"
   },
   {
     "id": "504dd1ec9508",
@@ -462,20 +476,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "b274e00978a8",
-    "title": "Daybreak models are now available on AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "cluster_id": "c-20d089a1f5"
-  },
-  {
     "id": "de2ca3d7578d",
     "title": "Testing ads in ChatGPT",
     "source": "OpenAI Blog",
@@ -488,6 +488,20 @@
     ],
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "cluster_id": "c-949a1fcab6"
+  },
+  {
+    "id": "b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "cluster_id": "c-20d089a1f5"
   },
   {
     "id": "7a678e9a26d7",
@@ -1218,6 +1232,20 @@
     "cluster_id": "c-f09c55035a"
   },
   {
+    "id": "5941cef110c0",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "cluster_id": "c-07c0c2899b"
+  },
+  {
     "id": "8fd74bd3f519",
     "title": "GPT-5.5 Bio Bug Bounty",
     "source": "OpenAI Blog",
@@ -1244,20 +1272,6 @@
     ],
     "url": "https://openai.com/index/gpt-5-6",
     "cluster_id": "c-f687dbab6a"
-  },
-  {
-    "id": "5941cef110c0",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "cluster_id": "c-07c0c2899b"
   },
   {
     "id": "41b85c9cdb7a",
@@ -1372,20 +1386,6 @@
     "cluster_id": "c-5a424c63c5"
   },
   {
-    "id": "200e6c5f82a0",
-    "title": "Inside Genebench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Inside Genebench-Pro",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "cluster_id": "c-43cf0d21be"
-  },
-  {
     "id": "3c923494434c",
     "title": "Introducing GeneBench-Pro",
     "source": "OpenAI Blog",
@@ -1398,6 +1398,20 @@
     ],
     "url": "https://openai.com/index/introducing-genebench-pro",
     "cluster_id": "c-ad759aead2"
+  },
+  {
+    "id": "200e6c5f82a0",
+    "title": "Inside Genebench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Inside Genebench-Pro",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "cluster_id": "c-43cf0d21be"
   },
   {
     "id": "5b79476b1142",
@@ -1512,20 +1526,6 @@
     "cluster_id": "c-d7cf4a612d"
   },
   {
-    "id": "f0ab1740b8b7",
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/patch-the-planet",
-    "cluster_id": "c-144812bd46"
-  },
-  {
     "id": "f7e9d38ae732",
     "title": "Daybreak: Tools for securing every organization in the world",
     "source": "OpenAI Blog",
@@ -1538,6 +1538,20 @@
     ],
     "url": "https://openai.com/index/daybreak-securing-the-world",
     "cluster_id": "c-6dc2cf6961"
+  },
+  {
+    "id": "f0ab1740b8b7",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-22T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/patch-the-planet",
+    "cluster_id": "c-144812bd46"
   },
   {
     "id": "6fdda2fdc1d8",
@@ -1694,20 +1708,6 @@
     "cluster_id": "c-1fc2b830b7"
   },
   {
-    "id": "a9f0898c4190",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bbva",
-    "cluster_id": "c-cd40b2196a"
-  },
-  {
     "id": "8875a0080dac",
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "source": "OpenAI Blog",
@@ -1734,6 +1734,20 @@
     ],
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "cluster_id": "c-c252b3b23a"
+  },
+  {
+    "id": "a9f0898c4190",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bbva",
+    "cluster_id": "c-cd40b2196a"
   },
   {
     "id": "436a674e3bf2",
@@ -1946,20 +1960,6 @@
     "cluster_id": "c-8ddea21abf"
   },
   {
-    "id": "0a440e310365",
-    "title": "OpenAI public policy agenda",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/public-policy-agenda",
-    "cluster_id": "c-b521b2cc44"
-  },
-  {
     "id": "fae173f5fba9",
     "title": "A blueprint for democratic governance of frontier AI",
     "source": "OpenAI Blog",
@@ -1972,6 +1972,20 @@
     ],
     "url": "https://openai.com/index/frontier-safety-blueprint",
     "cluster_id": "c-f6670f69a7"
+  },
+  {
+    "id": "0a440e310365",
+    "title": "OpenAI public policy agenda",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/public-policy-agenda",
+    "cluster_id": "c-b521b2cc44"
   },
   {
     "id": "6421a7340260",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
     "cluster_id": "c-5241f529e1"
-  },
-  {
-    "id": "b021d026b0eb",
-    "title": "“Data Center Bandwagon” Campaign: US-targeted influence activity",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-01T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI banned a likely PRC-origin cluster using AI to generate social media content criticizing US data centers and AI infrastructure.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon",
-    "cluster_id": "c-3301660d69"
   }
 ]

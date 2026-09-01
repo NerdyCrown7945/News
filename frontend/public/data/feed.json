@@ -1,5 +1,19 @@
 [
   {
+    "id": "0703988e3a33",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-31T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "cluster_id": "c-a0185c4a1b"
+  },
+  {
     "id": "7bc341571432",
     "title": "Polimill builds Japan's next-generation public AI infrastructure",
     "source": "OpenAI Blog",
@@ -84,20 +98,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "cdfc10030b4b",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/learning-never-stops",
-    "cluster_id": "c-057d234e59"
-  },
-  {
     "id": "d6bb1031e66b",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "source": "OpenAI Blog",
@@ -110,6 +110,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "cluster_id": "c-0720d84b72"
+  },
+  {
+    "id": "cdfc10030b4b",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/learning-never-stops",
+    "cluster_id": "c-057d234e59"
   },
   {
     "id": "504dd1ec9508",
@@ -476,20 +490,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "b274e00978a8",
     "title": "Daybreak models are now available on AWS",
     "source": "OpenAI Blog",
@@ -502,6 +502,20 @@
     ],
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "cluster_id": "c-20d089a1f5"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "7a678e9a26d7",
@@ -546,20 +560,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "3a8585570cab",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "cluster_id": "c-3d4c214262"
-  },
-  {
     "id": "7f776d7829d0",
     "title": "Putting frontier cyber models in more trusted hands",
     "source": "OpenAI Blog",
@@ -574,18 +574,32 @@
     "cluster_id": "c-efc7e31597"
   },
   {
-    "id": "8f3f7b571773",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "id": "3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
+    "published_at": "2026-08-10T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "cluster_id": "c-d7e95f2ca5"
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "cluster_id": "c-3d4c214262"
+  },
+  {
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "1ea3eea3d9a5",
@@ -602,18 +616,18 @@
     "cluster_id": "c-5bcf6a78ee"
   },
   {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
+    "id": "8f3f7b571773",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "source": "OpenAI Blog",
     "published_at": "2026-08-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "cluster_id": "c-d7e95f2ca5"
   },
   {
     "id": "833934ee3b25",
@@ -1232,18 +1246,18 @@
     "cluster_id": "c-f09c55035a"
   },
   {
-    "id": "5941cef110c0",
-    "title": "ChatGPT is now a partner for your most ambitious work",
+    "id": "54ee76ae9206",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "source": "OpenAI Blog",
     "published_at": "2026-07-09T10:00:00Z",
     "topic": "ai",
-    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "cluster_id": "c-07c0c2899b"
+    "url": "https://openai.com/index/gpt-5-6",
+    "cluster_id": "c-f687dbab6a"
   },
   {
     "id": "8fd74bd3f519",
@@ -1260,18 +1274,18 @@
     "cluster_id": "c-73b5b38067"
   },
   {
-    "id": "54ee76ae9206",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "id": "5941cef110c0",
+    "title": "ChatGPT is now a partner for your most ambitious work",
     "source": "OpenAI Blog",
     "published_at": "2026-07-09T10:00:00Z",
     "topic": "ai",
-    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/gpt-5-6",
-    "cluster_id": "c-f687dbab6a"
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "cluster_id": "c-07c0c2899b"
   },
   {
     "id": "41b85c9cdb7a",
@@ -1372,20 +1386,6 @@
     "cluster_id": "c-6ce9c12c19"
   },
   {
-    "id": "4c4d91d3ce63",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "cluster_id": "c-5a424c63c5"
-  },
-  {
     "id": "3c923494434c",
     "title": "Introducing GeneBench-Pro",
     "source": "OpenAI Blog",
@@ -1412,6 +1412,20 @@
     ],
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "cluster_id": "c-43cf0d21be"
+  },
+  {
+    "id": "4c4d91d3ce63",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "cluster_id": "c-5a424c63c5"
   },
   {
     "id": "5b79476b1142",
@@ -1708,34 +1722,6 @@
     "cluster_id": "c-1fc2b830b7"
   },
   {
-    "id": "8875a0080dac",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "cluster_id": "c-2abdddf12a"
-  },
-  {
-    "id": "6600f3e4b964",
-    "title": "OpenAI to acquire Ona",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "cluster_id": "c-c252b3b23a"
-  },
-  {
     "id": "a9f0898c4190",
     "title": "BBVA puts AI at the core of banking with OpenAI",
     "source": "OpenAI Blog",
@@ -1750,6 +1736,20 @@
     "cluster_id": "c-cd40b2196a"
   },
   {
+    "id": "8875a0080dac",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "cluster_id": "c-2abdddf12a"
+  },
+  {
     "id": "436a674e3bf2",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "source": "OpenAI Blog",
@@ -1762,6 +1762,20 @@
     ],
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "cluster_id": "c-9f6d4865a1"
+  },
+  {
+    "id": "6600f3e4b964",
+    "title": "OpenAI to acquire Ona",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "cluster_id": "c-c252b3b23a"
   },
   {
     "id": "4600462b11c1",
@@ -1960,20 +1974,6 @@
     "cluster_id": "c-8ddea21abf"
   },
   {
-    "id": "fae173f5fba9",
-    "title": "A blueprint for democratic governance of frontier AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI outlines a blueprint for U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "cluster_id": "c-f6670f69a7"
-  },
-  {
     "id": "0a440e310365",
     "title": "OpenAI public policy agenda",
     "source": "OpenAI Blog",
@@ -1986,6 +1986,20 @@
     ],
     "url": "https://openai.com/index/public-policy-agenda",
     "cluster_id": "c-b521b2cc44"
+  },
+  {
+    "id": "fae173f5fba9",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-03T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI outlines a blueprint for U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "cluster_id": "c-f6670f69a7"
   },
   {
     "id": "6421a7340260",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/stargate-michigan-data-center",
     "cluster_id": "c-43be83a6bf"
-  },
-  {
-    "id": "00ed5eb9be7b",
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-01T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "cluster_id": "c-5241f529e1"
   }
 ]

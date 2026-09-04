@@ -1,5 +1,61 @@
 [
   {
+    "id": "5190d2a1dccd",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T13:15:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces Daybreak for Frontline Defenders.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "cluster_id": "c-d65ff29b4a"
+  },
+  {
+    "id": "be4a3c542626",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "cluster_id": "c-bb81b442aa"
+  },
+  {
+    "id": "7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "cluster_id": "c-8769ac281e"
+  },
+  {
+    "id": "2e155b11d809",
+    "title": "Safety overview: GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "cluster_id": "c-466e74fe87"
+  },
+  {
     "id": "b07b0b2b4d66",
     "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
     "source": "OpenAI Blog",
@@ -560,20 +616,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "b274e00978a8",
-    "title": "Daybreak models are now available on AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "cluster_id": "c-20d089a1f5"
-  },
-  {
     "id": "de2ca3d7578d",
     "title": "Testing ads in ChatGPT",
     "source": "OpenAI Blog",
@@ -586,6 +628,20 @@
     ],
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "cluster_id": "c-949a1fcab6"
+  },
+  {
+    "id": "b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "cluster_id": "c-20d089a1f5"
   },
   {
     "id": "7a678e9a26d7",
@@ -630,20 +686,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "3a8585570cab",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "cluster_id": "c-3d4c214262"
-  },
-  {
     "id": "7f776d7829d0",
     "title": "Putting frontier cyber models in more trusted hands",
     "source": "OpenAI Blog",
@@ -656,6 +698,20 @@
     ],
     "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "cluster_id": "c-efc7e31597"
+  },
+  {
+    "id": "3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "cluster_id": "c-3d4c214262"
   },
   {
     "id": "8f3f7b571773",
@@ -672,20 +728,6 @@
     "cluster_id": "c-d7e95f2ca5"
   },
   {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
-  },
-  {
     "id": "1ea3eea3d9a5",
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -698,6 +740,20 @@
     ],
     "url": "https://openai.com/index/zapier",
     "cluster_id": "c-5bcf6a78ee"
+  },
+  {
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "833934ee3b25",
@@ -1246,20 +1302,6 @@
     "cluster_id": "c-376e2ca0b1"
   },
   {
-    "id": "40d7f59e4718",
-    "title": "Sales workflows with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-14T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-    "cluster_id": "c-6754c5ac10"
-  },
-  {
     "id": "b9a7811027c8",
     "title": "Data science workflows with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1272,6 +1314,20 @@
     ],
     "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
     "cluster_id": "c-b0880788ab"
+  },
+  {
+    "id": "40d7f59e4718",
+    "title": "Sales workflows with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-14T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+    "cluster_id": "c-6754c5ac10"
   },
   {
     "id": "027b05f9d0fa",
@@ -1414,20 +1470,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "cb031b5cf3e3",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/mufg",
-    "cluster_id": "c-33c903d27b"
-  },
-  {
     "id": "60d1b56766e3",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "source": "OpenAI Blog",
@@ -1440,6 +1482,20 @@
     ],
     "url": "https://openai.com/index/australian-payments-plus",
     "cluster_id": "c-174a42466a"
+  },
+  {
+    "id": "cb031b5cf3e3",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/mufg",
+    "cluster_id": "c-33c903d27b"
   },
   {
     "id": "fb435a036a32",
@@ -1456,20 +1512,6 @@
     "cluster_id": "c-6ce9c12c19"
   },
   {
-    "id": "3c923494434c",
-    "title": "Introducing GeneBench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "cluster_id": "c-ad759aead2"
-  },
-  {
     "id": "200e6c5f82a0",
     "title": "Inside Genebench-Pro",
     "source": "OpenAI Blog",
@@ -1482,6 +1524,20 @@
     ],
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "cluster_id": "c-43cf0d21be"
+  },
+  {
+    "id": "3c923494434c",
+    "title": "Introducing GeneBench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "cluster_id": "c-ad759aead2"
   },
   {
     "id": "4c4d91d3ce63",
@@ -1792,18 +1848,18 @@
     "cluster_id": "c-1fc2b830b7"
   },
   {
-    "id": "a9f0898c4190",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "id": "6600f3e4b964",
+    "title": "OpenAI to acquire Ona",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "one_liner": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/bbva",
-    "cluster_id": "c-cd40b2196a"
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "cluster_id": "c-c252b3b23a"
   },
   {
     "id": "436a674e3bf2",
@@ -1820,6 +1876,20 @@
     "cluster_id": "c-9f6d4865a1"
   },
   {
+    "id": "a9f0898c4190",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bbva",
+    "cluster_id": "c-cd40b2196a"
+  },
+  {
     "id": "8875a0080dac",
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "source": "OpenAI Blog",
@@ -1832,20 +1902,6 @@
     ],
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "cluster_id": "c-2abdddf12a"
-  },
-  {
-    "id": "6600f3e4b964",
-    "title": "OpenAI to acquire Ona",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "cluster_id": "c-c252b3b23a"
   },
   {
     "id": "4600462b11c1",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/wasmer",
     "cluster_id": "c-8ddea21abf"
-  },
-  {
-    "id": "0a440e310365",
-    "title": "OpenAI public policy agenda",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/public-policy-agenda",
-    "cluster_id": "c-b521b2cc44"
-  },
-  {
-    "id": "fae173f5fba9",
-    "title": "A blueprint for democratic governance of frontier AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-03T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI outlines a blueprint for U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "cluster_id": "c-f6670f69a7"
-  },
-  {
-    "id": "6421a7340260",
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-02T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/travelers",
-    "cluster_id": "c-1c06cb99ef"
-  },
-  {
-    "id": "4740b2087d5d",
-    "title": "ChatGPT Sites",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-02T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Create that kind of lightweight website or app with Codex.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/chatgpt-sites",
-    "cluster_id": "c-f6fc4563d9"
   }
 ]

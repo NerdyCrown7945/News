@@ -14,6 +14,20 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
+    "id": "7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "cluster_id": "c-8769ac281e"
+  },
+  {
     "id": "be4a3c542626",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -28,18 +42,18 @@
     "cluster_id": "c-bb81b442aa"
   },
   {
-    "id": "7a45b185cff5",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "id": "0f3b76bc480d",
+    "title": "GPT-6 Astra: A new generation of intelligence",
     "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
+    "published_at": "2026-09-03T11:00:00Z",
     "topic": "ai",
-    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "one_liner": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "cluster_id": "c-8769ac281e"
+    "url": "https://openai.com/index/gpt-6-astra",
+    "cluster_id": "c-e22d5cf342"
   },
   {
     "id": "2e155b11d809",
@@ -728,20 +742,6 @@
     "cluster_id": "c-d7e95f2ca5"
   },
   {
-    "id": "1ea3eea3d9a5",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/zapier",
-    "cluster_id": "c-5bcf6a78ee"
-  },
-  {
     "id": "ee449db47d8d",
     "title": "Premium seats are coming to ChatGPT Business",
     "source": "OpenAI Blog",
@@ -754,6 +754,20 @@
     ],
     "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "cluster_id": "c-c0f3523f7f"
+  },
+  {
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
   },
   {
     "id": "833934ee3b25",
@@ -1302,20 +1316,6 @@
     "cluster_id": "c-376e2ca0b1"
   },
   {
-    "id": "b9a7811027c8",
-    "title": "Data science workflows with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-14T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-    "cluster_id": "c-b0880788ab"
-  },
-  {
     "id": "40d7f59e4718",
     "title": "Sales workflows with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1328,6 +1328,20 @@
     ],
     "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
     "cluster_id": "c-6754c5ac10"
+  },
+  {
+    "id": "b9a7811027c8",
+    "title": "Data science workflows with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-14T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+    "cluster_id": "c-b0880788ab"
   },
   {
     "id": "027b05f9d0fa",
@@ -1526,20 +1540,6 @@
     "cluster_id": "c-43cf0d21be"
   },
   {
-    "id": "3c923494434c",
-    "title": "Introducing GeneBench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "cluster_id": "c-ad759aead2"
-  },
-  {
     "id": "4c4d91d3ce63",
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "source": "OpenAI Blog",
@@ -1552,6 +1552,20 @@
     ],
     "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "cluster_id": "c-5a424c63c5"
+  },
+  {
+    "id": "3c923494434c",
+    "title": "Introducing GeneBench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "cluster_id": "c-ad759aead2"
   },
   {
     "id": "5b79476b1142",
@@ -1666,20 +1680,6 @@
     "cluster_id": "c-d7cf4a612d"
   },
   {
-    "id": "f7e9d38ae732",
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "cluster_id": "c-6dc2cf6961"
-  },
-  {
     "id": "f0ab1740b8b7",
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "source": "OpenAI Blog",
@@ -1692,6 +1692,20 @@
     ],
     "url": "https://openai.com/index/patch-the-planet",
     "cluster_id": "c-144812bd46"
+  },
+  {
+    "id": "f7e9d38ae732",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-22T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "cluster_id": "c-6dc2cf6961"
   },
   {
     "id": "6fdda2fdc1d8",
@@ -1848,20 +1862,6 @@
     "cluster_id": "c-1fc2b830b7"
   },
   {
-    "id": "6600f3e4b964",
-    "title": "OpenAI to acquire Ona",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "cluster_id": "c-c252b3b23a"
-  },
-  {
     "id": "436a674e3bf2",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "source": "OpenAI Blog",
@@ -1876,20 +1876,6 @@
     "cluster_id": "c-9f6d4865a1"
   },
   {
-    "id": "a9f0898c4190",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bbva",
-    "cluster_id": "c-cd40b2196a"
-  },
-  {
     "id": "8875a0080dac",
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "source": "OpenAI Blog",
@@ -1902,6 +1888,34 @@
     ],
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "cluster_id": "c-2abdddf12a"
+  },
+  {
+    "id": "6600f3e4b964",
+    "title": "OpenAI to acquire Ona",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "cluster_id": "c-c252b3b23a"
+  },
+  {
+    "id": "a9f0898c4190",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bbva",
+    "cluster_id": "c-cd40b2196a"
   },
   {
     "id": "4600462b11c1",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
     "cluster_id": "c-ea23002237"
-  },
-  {
-    "id": "8929ed18dbbc",
-    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/wasmer",
-    "cluster_id": "c-8ddea21abf"
   }
 ]

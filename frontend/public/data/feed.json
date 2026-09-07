@@ -1,5 +1,33 @@
 [
   {
+    "id": "a8e8f9dc895a",
+    "title": "An Alien Mind",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-06T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/an-alien-mind",
+    "cluster_id": "c-c882fb23ea"
+  },
+  {
+    "id": "19672c4832d4",
+    "title": "Research acceleration: The view inside OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-06T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Inside OpenAI, coding agents are reshaping AI research.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "cluster_id": "c-a8f46e76a4"
+  },
+  {
     "id": "5190d2a1dccd",
     "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
     "source": "OpenAI Blog",
@@ -14,20 +42,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "7a45b185cff5",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "cluster_id": "c-8769ac281e"
-  },
-  {
     "id": "be4a3c542626",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -40,6 +54,20 @@
     ],
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "cluster_id": "c-bb81b442aa"
+  },
+  {
+    "id": "7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "cluster_id": "c-8769ac281e"
   },
   {
     "id": "0f3b76bc480d",
@@ -238,20 +266,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "cdfc10030b4b",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/learning-never-stops",
-    "cluster_id": "c-057d234e59"
-  },
-  {
     "id": "d6bb1031e66b",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "source": "OpenAI Blog",
@@ -264,6 +278,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "cluster_id": "c-0720d84b72"
+  },
+  {
+    "id": "cdfc10030b4b",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/learning-never-stops",
+    "cluster_id": "c-057d234e59"
   },
   {
     "id": "504dd1ec9508",
@@ -630,20 +658,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "b274e00978a8",
     "title": "Daybreak models are now available on AWS",
     "source": "OpenAI Blog",
@@ -656,6 +670,20 @@
     ],
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "cluster_id": "c-20d089a1f5"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "7a678e9a26d7",
@@ -1386,20 +1414,6 @@
     "cluster_id": "c-f09c55035a"
   },
   {
-    "id": "54ee76ae9206",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-6",
-    "cluster_id": "c-f687dbab6a"
-  },
-  {
     "id": "8fd74bd3f519",
     "title": "GPT-5.5 Bio Bug Bounty",
     "source": "OpenAI Blog",
@@ -1412,6 +1426,20 @@
     ],
     "url": "https://openai.com/index/bio-bug-bounty",
     "cluster_id": "c-73b5b38067"
+  },
+  {
+    "id": "54ee76ae9206",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-6",
+    "cluster_id": "c-f687dbab6a"
   },
   {
     "id": "5941cef110c0",
@@ -1484,20 +1512,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "60d1b56766e3",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/australian-payments-plus",
-    "cluster_id": "c-174a42466a"
-  },
-  {
     "id": "cb031b5cf3e3",
     "title": "MUFG aims to become AI-native with OpenAI",
     "source": "OpenAI Blog",
@@ -1510,6 +1524,20 @@
     ],
     "url": "https://openai.com/index/mufg",
     "cluster_id": "c-33c903d27b"
+  },
+  {
+    "id": "60d1b56766e3",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/australian-payments-plus",
+    "cluster_id": "c-174a42466a"
   },
   {
     "id": "fb435a036a32",
@@ -1526,20 +1554,6 @@
     "cluster_id": "c-6ce9c12c19"
   },
   {
-    "id": "200e6c5f82a0",
-    "title": "Inside Genebench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Inside Genebench-Pro",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "cluster_id": "c-43cf0d21be"
-  },
-  {
     "id": "4c4d91d3ce63",
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "source": "OpenAI Blog",
@@ -1552,6 +1566,20 @@
     ],
     "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "cluster_id": "c-5a424c63c5"
+  },
+  {
+    "id": "200e6c5f82a0",
+    "title": "Inside Genebench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Inside Genebench-Pro",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "cluster_id": "c-43cf0d21be"
   },
   {
     "id": "3c923494434c",
@@ -1876,20 +1904,6 @@
     "cluster_id": "c-9f6d4865a1"
   },
   {
-    "id": "8875a0080dac",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "cluster_id": "c-2abdddf12a"
-  },
-  {
     "id": "6600f3e4b964",
     "title": "OpenAI to acquire Ona",
     "source": "OpenAI Blog",
@@ -1902,6 +1916,20 @@
     ],
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "cluster_id": "c-c252b3b23a"
+  },
+  {
+    "id": "8875a0080dac",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "cluster_id": "c-2abdddf12a"
   },
   {
     "id": "a9f0898c4190",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/chatgpt-memory-dreaming",
     "cluster_id": "c-18f95113f8"
-  },
-  {
-    "id": "dbb39445d06e",
-    "title": "Biodefense in the Intelligence Age",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-04T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "An action plan for AI-powered biological resilience",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "cluster_id": "c-f3dfa9ec7c"
-  },
-  {
-    "id": "bfb45dcad644",
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-03T13:15:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "cluster_id": "c-ea23002237"
   }
 ]

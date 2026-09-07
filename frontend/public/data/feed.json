@@ -1,5 +1,19 @@
 [
   {
+    "id": "e02ae19def6b",
+    "title": "Supporting independent journalism in Ukraine",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "cluster_id": "c-c90a6e9ff5"
+  },
+  {
     "id": "a8e8f9dc895a",
     "title": "An Alien Mind",
     "source": "OpenAI Blog",
@@ -266,20 +280,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "d6bb1031e66b",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "cluster_id": "c-0720d84b72"
-  },
-  {
     "id": "cdfc10030b4b",
     "title": "Learning never stops: How AI makes learning continuous",
     "source": "OpenAI Blog",
@@ -292,6 +292,20 @@
     ],
     "url": "https://openai.com/index/learning-never-stops",
     "cluster_id": "c-057d234e59"
+  },
+  {
+    "id": "d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "cluster_id": "c-0720d84b72"
   },
   {
     "id": "504dd1ec9508",
@@ -756,20 +770,6 @@
     "cluster_id": "c-3d4c214262"
   },
   {
-    "id": "8f3f7b571773",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "cluster_id": "c-d7e95f2ca5"
-  },
-  {
     "id": "ee449db47d8d",
     "title": "Premium seats are coming to ChatGPT Business",
     "source": "OpenAI Blog",
@@ -782,6 +782,20 @@
     ],
     "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "cluster_id": "c-c0f3523f7f"
+  },
+  {
+    "id": "8f3f7b571773",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "cluster_id": "c-d7e95f2ca5"
   },
   {
     "id": "1ea3eea3d9a5",
@@ -1414,20 +1428,6 @@
     "cluster_id": "c-f09c55035a"
   },
   {
-    "id": "8fd74bd3f519",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Details about the OpenAI Bio Bounty program",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "cluster_id": "c-73b5b38067"
-  },
-  {
     "id": "54ee76ae9206",
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "source": "OpenAI Blog",
@@ -1440,6 +1440,20 @@
     ],
     "url": "https://openai.com/index/gpt-5-6",
     "cluster_id": "c-f687dbab6a"
+  },
+  {
+    "id": "8fd74bd3f519",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Details about the OpenAI Bio Bounty program",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "cluster_id": "c-73b5b38067"
   },
   {
     "id": "5941cef110c0",
@@ -1890,18 +1904,18 @@
     "cluster_id": "c-1fc2b830b7"
   },
   {
-    "id": "436a674e3bf2",
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "id": "a9f0898c4190",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "cluster_id": "c-9f6d4865a1"
+    "url": "https://openai.com/index/bbva",
+    "cluster_id": "c-cd40b2196a"
   },
   {
     "id": "6600f3e4b964",
@@ -1932,18 +1946,18 @@
     "cluster_id": "c-2abdddf12a"
   },
   {
-    "id": "a9f0898c4190",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "id": "436a674e3bf2",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "one_liner": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/bbva",
-    "cluster_id": "c-cd40b2196a"
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "cluster_id": "c-9f6d4865a1"
   },
   {
     "id": "4600462b11c1",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/endava-frontiers",
     "cluster_id": "c-a8122771d5"
-  },
-  {
-    "id": "58a72a3a66c9",
-    "title": "Dreaming: Better memory for a more helpful ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-04T09:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-memory-dreaming",
-    "cluster_id": "c-18f95113f8"
   }
 ]

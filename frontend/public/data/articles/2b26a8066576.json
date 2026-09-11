@@ -1,0 +1,20 @@
+{
+  "id": "2b26a8066576",
+  "title": "Introducing the Agents API",
+  "source": "OpenAI Blog",
+  "published_at": "2026-09-10T00:00:00Z",
+  "summary_lines": [
+    "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+  ],
+  "key_points": [
+    "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+  ],
+  "summary_lines_ko": [
+    "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+  ],
+  "key_points_ko": [
+    "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
+  ],
+  "url": "https://openai.com/index/introducing-the-agents-api",
+  "related": []
+}

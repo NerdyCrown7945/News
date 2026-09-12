@@ -1,0 +1,20 @@
+{
+  "id": "12e9dd685180",
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "source": "OpenAI Blog",
+  "published_at": "2026-09-14T00:00:00Z",
+  "summary_lines": [
+    "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+  ],
+  "key_points": [
+    "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+  ],
+  "summary_lines_ko": [
+    "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+  ],
+  "key_points_ko": [
+    "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+  ],
+  "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "related": []
+}

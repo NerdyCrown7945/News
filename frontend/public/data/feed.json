@@ -112,20 +112,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "2b26a8066576",
-    "title": "Introducing the Agents API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "cluster_id": "c-5d6bd47912"
-  },
-  {
     "id": "4e410dad70fb",
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "source": "OpenAI Blog",
@@ -138,6 +124,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "cluster_id": "c-e826f2a3a4"
+  },
+  {
+    "id": "2b26a8066576",
+    "title": "Introducing the Agents API",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "cluster_id": "c-5d6bd47912"
   },
   {
     "id": "534907e0d31e",
@@ -1022,20 +1022,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "7f776d7829d0",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "cluster_id": "c-efc7e31597"
-  },
-  {
     "id": "3a8585570cab",
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "source": "OpenAI Blog",
@@ -1050,18 +1036,18 @@
     "cluster_id": "c-3d4c214262"
   },
   {
-    "id": "8f3f7b571773",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "id": "7f776d7829d0",
+    "title": "Putting frontier cyber models in more trusted hands",
     "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
+    "published_at": "2026-08-10T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "one_liner": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "cluster_id": "c-d7e95f2ca5"
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "cluster_id": "c-efc7e31597"
   },
   {
     "id": "ee449db47d8d",
@@ -1090,6 +1076,20 @@
     ],
     "url": "https://openai.com/index/zapier",
     "cluster_id": "c-5bcf6a78ee"
+  },
+  {
+    "id": "8f3f7b571773",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "cluster_id": "c-d7e95f2ca5"
   },
   {
     "id": "833934ee3b25",
@@ -1806,20 +1806,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "60d1b56766e3",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/australian-payments-plus",
-    "cluster_id": "c-174a42466a"
-  },
-  {
     "id": "cb031b5cf3e3",
     "title": "MUFG aims to become AI-native with OpenAI",
     "source": "OpenAI Blog",
@@ -1834,6 +1820,20 @@
     "cluster_id": "c-33c903d27b"
   },
   {
+    "id": "60d1b56766e3",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/australian-payments-plus",
+    "cluster_id": "c-174a42466a"
+  },
+  {
     "id": "fb435a036a32",
     "title": "How ChatGPT adoption has expanded",
     "source": "OpenAI Blog",
@@ -1846,6 +1846,20 @@
     ],
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "cluster_id": "c-6ce9c12c19"
+  },
+  {
+    "id": "3c923494434c",
+    "title": "Introducing GeneBench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "cluster_id": "c-ad759aead2"
   },
   {
     "id": "4c4d91d3ce63",
@@ -1874,20 +1888,6 @@
     ],
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "cluster_id": "c-43cf0d21be"
-  },
-  {
-    "id": "3c923494434c",
-    "title": "Introducing GeneBench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "cluster_id": "c-ad759aead2"
   },
   {
     "id": "5b79476b1142",

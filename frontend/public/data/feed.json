@@ -560,20 +560,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "d6bb1031e66b",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "cluster_id": "c-0720d84b72"
-  },
-  {
     "id": "cdfc10030b4b",
     "title": "Learning never stops: How AI makes learning continuous",
     "source": "OpenAI Blog",
@@ -586,6 +572,20 @@
     ],
     "url": "https://openai.com/index/learning-never-stops",
     "cluster_id": "c-057d234e59"
+  },
+  {
+    "id": "d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "cluster_id": "c-0720d84b72"
   },
   {
     "id": "504dd1ec9508",
@@ -1050,20 +1050,6 @@
     "cluster_id": "c-efc7e31597"
   },
   {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
-  },
-  {
     "id": "1ea3eea3d9a5",
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1090,6 +1076,20 @@
     ],
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "cluster_id": "c-d7e95f2ca5"
+  },
+  {
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "833934ee3b25",
@@ -1708,20 +1708,6 @@
     "cluster_id": "c-f09c55035a"
   },
   {
-    "id": "5941cef110c0",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "cluster_id": "c-07c0c2899b"
-  },
-  {
     "id": "8fd74bd3f519",
     "title": "GPT-5.5 Bio Bug Bounty",
     "source": "OpenAI Blog",
@@ -1734,6 +1720,20 @@
     ],
     "url": "https://openai.com/index/bio-bug-bounty",
     "cluster_id": "c-73b5b38067"
+  },
+  {
+    "id": "5941cef110c0",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "cluster_id": "c-07c0c2899b"
   },
   {
     "id": "54ee76ae9206",
@@ -1806,20 +1806,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "cb031b5cf3e3",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/mufg",
-    "cluster_id": "c-33c903d27b"
-  },
-  {
     "id": "60d1b56766e3",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "source": "OpenAI Blog",
@@ -1832,6 +1818,20 @@
     ],
     "url": "https://openai.com/index/australian-payments-plus",
     "cluster_id": "c-174a42466a"
+  },
+  {
+    "id": "cb031b5cf3e3",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/mufg",
+    "cluster_id": "c-33c903d27b"
   },
   {
     "id": "fb435a036a32",
@@ -1862,20 +1862,6 @@
     "cluster_id": "c-ad759aead2"
   },
   {
-    "id": "4c4d91d3ce63",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "cluster_id": "c-5a424c63c5"
-  },
-  {
     "id": "200e6c5f82a0",
     "title": "Inside Genebench-Pro",
     "source": "OpenAI Blog",
@@ -1888,6 +1874,20 @@
     ],
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "cluster_id": "c-43cf0d21be"
+  },
+  {
+    "id": "4c4d91d3ce63",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "cluster_id": "c-5a424c63c5"
   },
   {
     "id": "5b79476b1142",

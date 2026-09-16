@@ -1,5 +1,33 @@
 [
   {
+    "id": "027811ca1632",
+    "title": "Helping older adults use AI in everyday life",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-16T16:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "cluster_id": "c-7550808256"
+  },
+  {
+    "id": "52752974efc0",
+    "title": "Reimagining advertising with AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-16T13:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "cluster_id": "c-11c1cfe4a9"
+  },
+  {
     "id": "296d33defd03",
     "title": "How Fyxer built an AI executive assistant people trust",
     "source": "OpenAI Blog",
@@ -112,20 +140,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "4e410dad70fb",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "cluster_id": "c-e826f2a3a4"
-  },
-  {
     "id": "2b26a8066576",
     "title": "Introducing the Agents API",
     "source": "OpenAI Blog",
@@ -138,6 +152,20 @@
     ],
     "url": "https://openai.com/index/introducing-the-agents-api",
     "cluster_id": "c-5d6bd47912"
+  },
+  {
+    "id": "4e410dad70fb",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "cluster_id": "c-e826f2a3a4"
   },
   {
     "id": "534907e0d31e",
@@ -336,20 +364,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "be4a3c542626",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "cluster_id": "c-bb81b442aa"
-  },
-  {
     "id": "7a45b185cff5",
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -362,6 +376,20 @@
     ],
     "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "cluster_id": "c-8769ac281e"
+  },
+  {
+    "id": "be4a3c542626",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "cluster_id": "c-bb81b442aa"
   },
   {
     "id": "0f3b76bc480d",
@@ -560,20 +588,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "cdfc10030b4b",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/learning-never-stops",
-    "cluster_id": "c-057d234e59"
-  },
-  {
     "id": "d6bb1031e66b",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "source": "OpenAI Blog",
@@ -586,6 +600,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "cluster_id": "c-0720d84b72"
+  },
+  {
+    "id": "cdfc10030b4b",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/learning-never-stops",
+    "cluster_id": "c-057d234e59"
   },
   {
     "id": "504dd1ec9508",
@@ -1050,18 +1078,18 @@
     "cluster_id": "c-efc7e31597"
   },
   {
-    "id": "1ea3eea3d9a5",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
     "source": "OpenAI Blog",
     "published_at": "2026-08-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/zapier",
-    "cluster_id": "c-5bcf6a78ee"
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "8f3f7b571773",
@@ -1078,18 +1106,18 @@
     "cluster_id": "c-d7e95f2ca5"
   },
   {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "source": "OpenAI Blog",
     "published_at": "2026-08-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
   },
   {
     "id": "833934ee3b25",
@@ -1638,20 +1666,6 @@
     "cluster_id": "c-376e2ca0b1"
   },
   {
-    "id": "b9a7811027c8",
-    "title": "Data science workflows with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-14T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-    "cluster_id": "c-b0880788ab"
-  },
-  {
     "id": "40d7f59e4718",
     "title": "Sales workflows with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1664,6 +1678,20 @@
     ],
     "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
     "cluster_id": "c-6754c5ac10"
+  },
+  {
+    "id": "b9a7811027c8",
+    "title": "Data science workflows with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-14T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn practical ChatGPT Work workflows for root-cause briefs, KPI memos, scoped analyses, and dashboard specifications.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+    "cluster_id": "c-b0880788ab"
   },
   {
     "id": "027b05f9d0fa",
@@ -1708,20 +1736,6 @@
     "cluster_id": "c-f09c55035a"
   },
   {
-    "id": "8fd74bd3f519",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Details about the OpenAI Bio Bounty program",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "cluster_id": "c-73b5b38067"
-  },
-  {
     "id": "5941cef110c0",
     "title": "ChatGPT is now a partner for your most ambitious work",
     "source": "OpenAI Blog",
@@ -1734,6 +1748,20 @@
     ],
     "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "cluster_id": "c-07c0c2899b"
+  },
+  {
+    "id": "8fd74bd3f519",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Details about the OpenAI Bio Bounty program",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "cluster_id": "c-73b5b38067"
   },
   {
     "id": "54ee76ae9206",
@@ -1806,20 +1834,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "60d1b56766e3",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/australian-payments-plus",
-    "cluster_id": "c-174a42466a"
-  },
-  {
     "id": "cb031b5cf3e3",
     "title": "MUFG aims to become AI-native with OpenAI",
     "source": "OpenAI Blog",
@@ -1834,6 +1848,20 @@
     "cluster_id": "c-33c903d27b"
   },
   {
+    "id": "60d1b56766e3",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/australian-payments-plus",
+    "cluster_id": "c-174a42466a"
+  },
+  {
     "id": "fb435a036a32",
     "title": "How ChatGPT adoption has expanded",
     "source": "OpenAI Blog",
@@ -1846,6 +1874,20 @@
     ],
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "cluster_id": "c-6ce9c12c19"
+  },
+  {
+    "id": "4c4d91d3ce63",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "cluster_id": "c-5a424c63c5"
   },
   {
     "id": "3c923494434c",
@@ -1874,20 +1916,6 @@
     ],
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "cluster_id": "c-43cf0d21be"
-  },
-  {
-    "id": "4c4d91d3ce63",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "cluster_id": "c-5a424c63c5"
   },
   {
     "id": "5b79476b1142",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "cluster_id": "c-2f3c98a357"
-  },
-  {
-    "id": "33383567514a",
-    "title": "Improving health intelligence in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-18T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "cluster_id": "c-7bf8e9ed45"
-  },
-  {
-    "id": "2155d7cb8c43",
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-18T08:00:00Z",
-    "topic": "ai",
-    "one_liner": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "cluster_id": "c-49b8410004"
   }
 ]

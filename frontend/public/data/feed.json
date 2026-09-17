@@ -1,5 +1,19 @@
 [
   {
+    "id": "bbe6c30a33c9",
+    "title": "Our framework for reporting model misalignment",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-16T17:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "cluster_id": "c-d297cda731"
+  },
+  {
     "id": "027811ca1632",
     "title": "Helping older adults use AI in everyday life",
     "source": "OpenAI Blog",
@@ -26,6 +40,34 @@
     ],
     "url": "https://openai.com/index/reimagining-advertising-with-ai",
     "cluster_id": "c-11c1cfe4a9"
+  },
+  {
+    "id": "5f7e182a53f2",
+    "title": "How to connect AI usage to business value",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-16T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "cluster_id": "c-e5ecab4b64"
+  },
+  {
+    "id": "71646fffd914",
+    "title": "How workers are unlocking new ways of working",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-16T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "cluster_id": "c-0ce0f53f27"
   },
   {
     "id": "296d33defd03",
@@ -140,20 +182,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "2b26a8066576",
-    "title": "Introducing the Agents API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "cluster_id": "c-5d6bd47912"
-  },
-  {
     "id": "4e410dad70fb",
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "source": "OpenAI Blog",
@@ -166,6 +194,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "cluster_id": "c-e826f2a3a4"
+  },
+  {
+    "id": "2b26a8066576",
+    "title": "Introducing the Agents API",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "cluster_id": "c-5d6bd47912"
   },
   {
     "id": "534907e0d31e",
@@ -364,20 +406,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "7a45b185cff5",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "cluster_id": "c-8769ac281e"
-  },
-  {
     "id": "be4a3c542626",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -390,6 +418,20 @@
     ],
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "cluster_id": "c-bb81b442aa"
+  },
+  {
+    "id": "7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "cluster_id": "c-8769ac281e"
   },
   {
     "id": "0f3b76bc480d",
@@ -980,20 +1022,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "b274e00978a8",
     "title": "Daybreak models are now available on AWS",
     "source": "OpenAI Blog",
@@ -1006,6 +1034,20 @@
     ],
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "cluster_id": "c-20d089a1f5"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "7a678e9a26d7",
@@ -1078,20 +1120,6 @@
     "cluster_id": "c-efc7e31597"
   },
   {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
-  },
-  {
     "id": "8f3f7b571773",
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1104,6 +1132,20 @@
     ],
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "cluster_id": "c-d7e95f2ca5"
+  },
+  {
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "1ea3eea3d9a5",
@@ -1317,7 +1359,7 @@
   },
   {
     "id": "c5ad624a6ffb",
-    "title": "Disrupting a Criminal Scam Operation",
+    "title": "Disrupting a Cambodia-based criminal scam operation",
     "source": "OpenAI Blog",
     "published_at": "2026-07-31T00:00:00Z",
     "topic": "ai",
@@ -1327,7 +1369,7 @@
       "research"
     ],
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "cluster_id": "c-23b3c57840"
+    "cluster_id": "c-48d91872b6"
   },
   {
     "id": "fc362ba711f5",
@@ -1736,6 +1778,20 @@
     "cluster_id": "c-f09c55035a"
   },
   {
+    "id": "54ee76ae9206",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-6",
+    "cluster_id": "c-f687dbab6a"
+  },
+  {
     "id": "5941cef110c0",
     "title": "ChatGPT is now a partner for your most ambitious work",
     "source": "OpenAI Blog",
@@ -1762,20 +1818,6 @@
     ],
     "url": "https://openai.com/index/bio-bug-bounty",
     "cluster_id": "c-73b5b38067"
-  },
-  {
-    "id": "54ee76ae9206",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-6",
-    "cluster_id": "c-f687dbab6a"
   },
   {
     "id": "41b85c9cdb7a",
@@ -1876,6 +1918,20 @@
     "cluster_id": "c-6ce9c12c19"
   },
   {
+    "id": "200e6c5f82a0",
+    "title": "Inside Genebench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Inside Genebench-Pro",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "cluster_id": "c-43cf0d21be"
+  },
+  {
     "id": "4c4d91d3ce63",
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "source": "OpenAI Blog",
@@ -1902,20 +1958,6 @@
     ],
     "url": "https://openai.com/index/introducing-genebench-pro",
     "cluster_id": "c-ad759aead2"
-  },
-  {
-    "id": "200e6c5f82a0",
-    "title": "Inside Genebench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Inside Genebench-Pro",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "cluster_id": "c-43cf0d21be"
   },
   {
     "id": "5b79476b1142",
@@ -2030,20 +2072,6 @@
     "cluster_id": "c-d7cf4a612d"
   },
   {
-    "id": "f0ab1740b8b7",
-    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/patch-the-planet",
-    "cluster_id": "c-144812bd46"
-  },
-  {
     "id": "f7e9d38ae732",
     "title": "Daybreak: Tools for securing every organization in the world",
     "source": "OpenAI Blog",
@@ -2058,45 +2086,17 @@
     "cluster_id": "c-6dc2cf6961"
   },
   {
-    "id": "6fdda2fdc1d8",
-    "title": "Codex-maxxing for long-running work",
+    "id": "f0ab1740b8b7",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "source": "OpenAI Blog",
-    "published_at": "2026-06-22T00:00:00Z",
+    "published_at": "2026-06-22T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "one_liner": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/codex-maxxing-long-running-work",
-    "cluster_id": "c-8fbe6da21b"
-  },
-  {
-    "id": "eebdb7f63bb5",
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-21T23:00:00Z",
-    "topic": "ai",
-    "one_liner": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "cluster_id": "c-45f1678ed3"
-  },
-  {
-    "id": "217d8a1a56f1",
-    "title": "New usage analytics and updated spend controls for enterprises",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-18T17:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "cluster_id": "c-2f3c98a357"
+    "url": "https://openai.com/index/patch-the-planet",
+    "cluster_id": "c-144812bd46"
   }
 ]

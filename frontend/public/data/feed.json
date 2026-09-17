@@ -630,20 +630,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "d6bb1031e66b",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "cluster_id": "c-0720d84b72"
-  },
-  {
     "id": "cdfc10030b4b",
     "title": "Learning never stops: How AI makes learning continuous",
     "source": "OpenAI Blog",
@@ -656,6 +642,20 @@
     ],
     "url": "https://openai.com/index/learning-never-stops",
     "cluster_id": "c-057d234e59"
+  },
+  {
+    "id": "d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "cluster_id": "c-0720d84b72"
   },
   {
     "id": "504dd1ec9508",
@@ -1022,20 +1022,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "b274e00978a8",
-    "title": "Daybreak models are now available on AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "cluster_id": "c-20d089a1f5"
-  },
-  {
     "id": "de2ca3d7578d",
     "title": "Testing ads in ChatGPT",
     "source": "OpenAI Blog",
@@ -1048,6 +1034,20 @@
     ],
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "cluster_id": "c-949a1fcab6"
+  },
+  {
+    "id": "b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "cluster_id": "c-20d089a1f5"
   },
   {
     "id": "7a678e9a26d7",
@@ -1120,6 +1120,20 @@
     "cluster_id": "c-efc7e31597"
   },
   {
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
+  },
+  {
     "id": "8f3f7b571773",
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1146,20 +1160,6 @@
     ],
     "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "cluster_id": "c-c0f3523f7f"
-  },
-  {
-    "id": "1ea3eea3d9a5",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/zapier",
-    "cluster_id": "c-5bcf6a78ee"
   },
   {
     "id": "833934ee3b25",
@@ -1778,20 +1778,6 @@
     "cluster_id": "c-f09c55035a"
   },
   {
-    "id": "54ee76ae9206",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-6",
-    "cluster_id": "c-f687dbab6a"
-  },
-  {
     "id": "5941cef110c0",
     "title": "ChatGPT is now a partner for your most ambitious work",
     "source": "OpenAI Blog",
@@ -1804,6 +1790,20 @@
     ],
     "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "cluster_id": "c-07c0c2899b"
+  },
+  {
+    "id": "54ee76ae9206",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-6",
+    "cluster_id": "c-f687dbab6a"
   },
   {
     "id": "8fd74bd3f519",
@@ -1876,20 +1876,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "cb031b5cf3e3",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/mufg",
-    "cluster_id": "c-33c903d27b"
-  },
-  {
     "id": "60d1b56766e3",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "source": "OpenAI Blog",
@@ -1904,6 +1890,20 @@
     "cluster_id": "c-174a42466a"
   },
   {
+    "id": "cb031b5cf3e3",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/mufg",
+    "cluster_id": "c-33c903d27b"
+  },
+  {
     "id": "fb435a036a32",
     "title": "How ChatGPT adoption has expanded",
     "source": "OpenAI Blog",
@@ -1916,20 +1916,6 @@
     ],
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "cluster_id": "c-6ce9c12c19"
-  },
-  {
-    "id": "200e6c5f82a0",
-    "title": "Inside Genebench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Inside Genebench-Pro",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "cluster_id": "c-43cf0d21be"
   },
   {
     "id": "4c4d91d3ce63",
@@ -1958,6 +1944,20 @@
     ],
     "url": "https://openai.com/index/introducing-genebench-pro",
     "cluster_id": "c-ad759aead2"
+  },
+  {
+    "id": "200e6c5f82a0",
+    "title": "Inside Genebench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Inside Genebench-Pro",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "cluster_id": "c-43cf0d21be"
   },
   {
     "id": "5b79476b1142",
@@ -2072,20 +2072,6 @@
     "cluster_id": "c-d7cf4a612d"
   },
   {
-    "id": "f7e9d38ae732",
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-22T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "cluster_id": "c-6dc2cf6961"
-  },
-  {
     "id": "f0ab1740b8b7",
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "source": "OpenAI Blog",
@@ -2098,5 +2084,19 @@
     ],
     "url": "https://openai.com/index/patch-the-planet",
     "cluster_id": "c-144812bd46"
+  },
+  {
+    "id": "f7e9d38ae732",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-22T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "cluster_id": "c-6dc2cf6961"
   }
 ]

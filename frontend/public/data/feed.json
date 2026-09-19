@@ -70,6 +70,20 @@
     "cluster_id": "c-11c1cfe4a9"
   },
   {
+    "id": "973a91148c50",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-16T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/hex-gpt-6-astra",
+    "cluster_id": "c-daa8e03c9b"
+  },
+  {
     "id": "5f7e182a53f2",
     "title": "How to connect AI usage to business value",
     "source": "OpenAI Blog",
@@ -658,20 +672,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "d6bb1031e66b",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "cluster_id": "c-0720d84b72"
-  },
-  {
     "id": "cdfc10030b4b",
     "title": "Learning never stops: How AI makes learning continuous",
     "source": "OpenAI Blog",
@@ -684,6 +684,20 @@
     ],
     "url": "https://openai.com/index/learning-never-stops",
     "cluster_id": "c-057d234e59"
+  },
+  {
+    "id": "d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "cluster_id": "c-0720d84b72"
   },
   {
     "id": "504dd1ec9508",
@@ -1120,20 +1134,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "7f776d7829d0",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "cluster_id": "c-efc7e31597"
-  },
-  {
     "id": "3a8585570cab",
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "source": "OpenAI Blog",
@@ -1146,6 +1146,20 @@
     ],
     "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "cluster_id": "c-3d4c214262"
+  },
+  {
+    "id": "7f776d7829d0",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "cluster_id": "c-efc7e31597"
   },
   {
     "id": "8f3f7b571773",
@@ -1162,20 +1176,6 @@
     "cluster_id": "c-d7e95f2ca5"
   },
   {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
-  },
-  {
     "id": "1ea3eea3d9a5",
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1188,6 +1188,20 @@
     ],
     "url": "https://openai.com/index/zapier",
     "cluster_id": "c-5bcf6a78ee"
+  },
+  {
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "833934ee3b25",
@@ -1806,18 +1820,18 @@
     "cluster_id": "c-f09c55035a"
   },
   {
-    "id": "8fd74bd3f519",
-    "title": "GPT-5.5 Bio Bug Bounty",
+    "id": "54ee76ae9206",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "source": "OpenAI Blog",
     "published_at": "2026-07-09T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Details about the OpenAI Bio Bounty program",
+    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "cluster_id": "c-73b5b38067"
+    "url": "https://openai.com/index/gpt-5-6",
+    "cluster_id": "c-f687dbab6a"
   },
   {
     "id": "5941cef110c0",
@@ -1834,18 +1848,18 @@
     "cluster_id": "c-07c0c2899b"
   },
   {
-    "id": "54ee76ae9206",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "id": "8fd74bd3f519",
+    "title": "GPT-5.5 Bio Bug Bounty",
     "source": "OpenAI Blog",
     "published_at": "2026-07-09T10:00:00Z",
     "topic": "ai",
-    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "one_liner": "Details about the OpenAI Bio Bounty program",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/gpt-5-6",
-    "cluster_id": "c-f687dbab6a"
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "cluster_id": "c-73b5b38067"
   },
   {
     "id": "41b85c9cdb7a",
@@ -1904,20 +1918,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "60d1b56766e3",
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/australian-payments-plus",
-    "cluster_id": "c-174a42466a"
-  },
-  {
     "id": "cb031b5cf3e3",
     "title": "MUFG aims to become AI-native with OpenAI",
     "source": "OpenAI Blog",
@@ -1932,6 +1932,20 @@
     "cluster_id": "c-33c903d27b"
   },
   {
+    "id": "60d1b56766e3",
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/australian-payments-plus",
+    "cluster_id": "c-174a42466a"
+  },
+  {
     "id": "fb435a036a32",
     "title": "How ChatGPT adoption has expanded",
     "source": "OpenAI Blog",
@@ -1944,20 +1958,6 @@
     ],
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "cluster_id": "c-6ce9c12c19"
-  },
-  {
-    "id": "4c4d91d3ce63",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "cluster_id": "c-5a424c63c5"
   },
   {
     "id": "3c923494434c",
@@ -1986,6 +1986,20 @@
     ],
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "cluster_id": "c-43cf0d21be"
+  },
+  {
+    "id": "4c4d91d3ce63",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "cluster_id": "c-5a424c63c5"
   },
   {
     "id": "5b79476b1142",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "cluster_id": "c-91d566eb57"
-  },
-  {
-    "id": "0c794cbb255f",
-    "title": "How Omio is building the future of conversational travel",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-23T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/omio",
-    "cluster_id": "c-d7cf4a612d"
   }
 ]

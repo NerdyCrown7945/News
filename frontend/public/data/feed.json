@@ -1,5 +1,19 @@
 [
   {
+    "id": "559b0cf11197",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-18T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "cluster_id": "c-9e587d69f6"
+  },
+  {
     "id": "964ae1dd0fac",
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "source": "OpenAI Blog",
@@ -224,20 +238,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "2b26a8066576",
-    "title": "Introducing the Agents API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "cluster_id": "c-5d6bd47912"
-  },
-  {
     "id": "4e410dad70fb",
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "source": "OpenAI Blog",
@@ -250,6 +250,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "cluster_id": "c-e826f2a3a4"
+  },
+  {
+    "id": "2b26a8066576",
+    "title": "Introducing the Agents API",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "cluster_id": "c-5d6bd47912"
   },
   {
     "id": "534907e0d31e",
@@ -448,20 +462,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "7a45b185cff5",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "cluster_id": "c-8769ac281e"
-  },
-  {
     "id": "be4a3c542626",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -474,6 +474,20 @@
     ],
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "cluster_id": "c-bb81b442aa"
+  },
+  {
+    "id": "7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "cluster_id": "c-8769ac281e"
   },
   {
     "id": "0f3b76bc480d",
@@ -672,20 +686,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "cdfc10030b4b",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/learning-never-stops",
-    "cluster_id": "c-057d234e59"
-  },
-  {
     "id": "d6bb1031e66b",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "source": "OpenAI Blog",
@@ -698,6 +698,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "cluster_id": "c-0720d84b72"
+  },
+  {
+    "id": "cdfc10030b4b",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/learning-never-stops",
+    "cluster_id": "c-057d234e59"
   },
   {
     "id": "504dd1ec9508",
@@ -1064,20 +1078,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "b274e00978a8",
     "title": "Daybreak models are now available on AWS",
     "source": "OpenAI Blog",
@@ -1090,6 +1090,20 @@
     ],
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "cluster_id": "c-20d089a1f5"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "7a678e9a26d7",
@@ -1134,20 +1148,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "3a8585570cab",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "cluster_id": "c-3d4c214262"
-  },
-  {
     "id": "7f776d7829d0",
     "title": "Putting frontier cyber models in more trusted hands",
     "source": "OpenAI Blog",
@@ -1160,6 +1160,20 @@
     ],
     "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "cluster_id": "c-efc7e31597"
+  },
+  {
+    "id": "3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "cluster_id": "c-3d4c214262"
   },
   {
     "id": "8f3f7b571773",
@@ -1750,20 +1764,6 @@
     "cluster_id": "c-376e2ca0b1"
   },
   {
-    "id": "40d7f59e4718",
-    "title": "Sales workflows with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-14T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-    "cluster_id": "c-6754c5ac10"
-  },
-  {
     "id": "b9a7811027c8",
     "title": "Data science workflows with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1776,6 +1776,20 @@
     ],
     "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
     "cluster_id": "c-b0880788ab"
+  },
+  {
+    "id": "40d7f59e4718",
+    "title": "Sales workflows with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-14T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn practical ChatGPT Work workflows for pipeline briefs, meeting prep, account plans, forecast reviews, and deal diagnosis.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+    "cluster_id": "c-6754c5ac10"
   },
   {
     "id": "027b05f9d0fa",
@@ -1834,20 +1848,6 @@
     "cluster_id": "c-f687dbab6a"
   },
   {
-    "id": "5941cef110c0",
-    "title": "ChatGPT is now a partner for your most ambitious work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "cluster_id": "c-07c0c2899b"
-  },
-  {
     "id": "8fd74bd3f519",
     "title": "GPT-5.5 Bio Bug Bounty",
     "source": "OpenAI Blog",
@@ -1860,6 +1860,20 @@
     ],
     "url": "https://openai.com/index/bio-bug-bounty",
     "cluster_id": "c-73b5b38067"
+  },
+  {
+    "id": "5941cef110c0",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "cluster_id": "c-07c0c2899b"
   },
   {
     "id": "41b85c9cdb7a",
@@ -1918,20 +1932,6 @@
     "cluster_id": "c-1a328b8723"
   },
   {
-    "id": "cb031b5cf3e3",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/mufg",
-    "cluster_id": "c-33c903d27b"
-  },
-  {
     "id": "60d1b56766e3",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "source": "OpenAI Blog",
@@ -1944,6 +1944,20 @@
     ],
     "url": "https://openai.com/index/australian-payments-plus",
     "cluster_id": "c-174a42466a"
+  },
+  {
+    "id": "cb031b5cf3e3",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-07T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/mufg",
+    "cluster_id": "c-33c903d27b"
   },
   {
     "id": "fb435a036a32",
@@ -1960,18 +1974,18 @@
     "cluster_id": "c-6ce9c12c19"
   },
   {
-    "id": "3c923494434c",
-    "title": "Introducing GeneBench-Pro",
+    "id": "4c4d91d3ce63",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "source": "OpenAI Blog",
     "published_at": "2026-06-30T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "cluster_id": "c-ad759aead2"
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "cluster_id": "c-5a424c63c5"
   },
   {
     "id": "200e6c5f82a0",
@@ -1988,18 +2002,18 @@
     "cluster_id": "c-43cf0d21be"
   },
   {
-    "id": "4c4d91d3ce63",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "id": "3c923494434c",
+    "title": "Introducing GeneBench-Pro",
     "source": "OpenAI Blog",
     "published_at": "2026-06-30T00:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "cluster_id": "c-5a424c63c5"
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "cluster_id": "c-ad759aead2"
   },
   {
     "id": "5b79476b1142",
@@ -2070,20 +2084,6 @@
     ],
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "cluster_id": "c-a89a085973"
-  },
-  {
-    "id": "7c36fb32c628",
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-23T17:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "cluster_id": "c-1ce15df113"
   },
   {
     "id": "6507bbb39777",

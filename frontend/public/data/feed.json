@@ -1,5 +1,61 @@
 [
   {
+    "id": "a7ca59844a94",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "cluster_id": "c-d5feed8d7c"
+  },
+  {
+    "id": "2c9792fbb14a",
+    "title": "Building standards for the next phase of AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "cluster_id": "c-bc7adeea2a"
+  },
+  {
+    "id": "530db518a73a",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "cluster_id": "c-9686996a4e"
+  },
+  {
+    "id": "d1749ba76a98",
+    "title": "How V7 gives AI agents institutional memory",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/v7",
+    "cluster_id": "c-bed66a6c09"
+  },
+  {
     "id": "559b0cf11197",
     "title": "Introducing the Australian Youth Safety Blueprint",
     "source": "OpenAI Blog",
@@ -462,20 +518,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "be4a3c542626",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "cluster_id": "c-bb81b442aa"
-  },
-  {
     "id": "7a45b185cff5",
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -488,6 +530,20 @@
     ],
     "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "cluster_id": "c-8769ac281e"
+  },
+  {
+    "id": "be4a3c542626",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "cluster_id": "c-bb81b442aa"
   },
   {
     "id": "0f3b76bc480d",
@@ -1190,20 +1246,6 @@
     "cluster_id": "c-d7e95f2ca5"
   },
   {
-    "id": "1ea3eea3d9a5",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/zapier",
-    "cluster_id": "c-5bcf6a78ee"
-  },
-  {
     "id": "ee449db47d8d",
     "title": "Premium seats are coming to ChatGPT Business",
     "source": "OpenAI Blog",
@@ -1216,6 +1258,20 @@
     ],
     "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "cluster_id": "c-c0f3523f7f"
+  },
+  {
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
   },
   {
     "id": "833934ee3b25",
@@ -1834,20 +1890,6 @@
     "cluster_id": "c-f09c55035a"
   },
   {
-    "id": "54ee76ae9206",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-6",
-    "cluster_id": "c-f687dbab6a"
-  },
-  {
     "id": "8fd74bd3f519",
     "title": "GPT-5.5 Bio Bug Bounty",
     "source": "OpenAI Blog",
@@ -1860,6 +1902,20 @@
     ],
     "url": "https://openai.com/index/bio-bug-bounty",
     "cluster_id": "c-73b5b38067"
+  },
+  {
+    "id": "54ee76ae9206",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-5-6",
+    "cluster_id": "c-f687dbab6a"
   },
   {
     "id": "5941cef110c0",
@@ -1974,6 +2030,20 @@
     "cluster_id": "c-6ce9c12c19"
   },
   {
+    "id": "3c923494434c",
+    "title": "Introducing GeneBench-Pro",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "cluster_id": "c-ad759aead2"
+  },
+  {
     "id": "4c4d91d3ce63",
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "source": "OpenAI Blog",
@@ -2002,20 +2072,6 @@
     "cluster_id": "c-43cf0d21be"
   },
   {
-    "id": "3c923494434c",
-    "title": "Introducing GeneBench-Pro",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-30T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "cluster_id": "c-ad759aead2"
-  },
-  {
     "id": "5b79476b1142",
     "title": "Mapping Europe’s AI Workforce Opportunity",
     "source": "OpenAI Blog",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/hp-frontier-partnership",
     "cluster_id": "c-aceb75cfb6"
-  },
-  {
-    "id": "adbd50c1b1db",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "cluster_id": "c-d4c30cddaf"
-  },
-  {
-    "id": "2b6976f96bb5",
-    "title": "How agents are transforming work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-25T02:00:00Z",
-    "topic": "ai",
-    "one_liner": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-agents-are-transforming-work",
-    "cluster_id": "c-a43af5acb0"
-  },
-  {
-    "id": "1a015f5dfa42",
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-24T06:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "cluster_id": "c-a89a085973"
-  },
-  {
-    "id": "6507bbb39777",
-    "title": "Helping build shared standards for advanced AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-23T13:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "cluster_id": "c-91d566eb57"
   }
 ]

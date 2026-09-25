@@ -1,5 +1,19 @@
 [
   {
+    "id": "d2d497e5eee4",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-25T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/proaction",
+    "cluster_id": "c-dd9b8d4730"
+  },
+  {
     "id": "9d02eeb8cef1",
     "title": "Two years of OpenAI Academy",
     "source": "OpenAI Blog",
@@ -253,7 +267,7 @@
   },
   {
     "id": "d1749ba76a98",
-    "title": "How V7 gives AI agents institutional memory",
+    "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
     "source": "OpenAI Blog",
     "published_at": "2026-09-21T00:00:00Z",
     "topic": "ai",
@@ -263,7 +277,7 @@
       "research"
     ],
     "url": "https://openai.com/index/v7",
-    "cluster_id": "c-bed66a6c09"
+    "cluster_id": "c-db6a8b19c2"
   },
   {
     "id": "559b0cf11197",
@@ -952,20 +966,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "d6bb1031e66b",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "cluster_id": "c-0720d84b72"
-  },
-  {
     "id": "cdfc10030b4b",
     "title": "Learning never stops: How AI makes learning continuous",
     "source": "OpenAI Blog",
@@ -978,6 +978,20 @@
     ],
     "url": "https://openai.com/index/learning-never-stops",
     "cluster_id": "c-057d234e59"
+  },
+  {
+    "id": "d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "cluster_id": "c-0720d84b72"
   },
   {
     "id": "504dd1ec9508",
@@ -1414,20 +1428,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "3a8585570cab",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "cluster_id": "c-3d4c214262"
-  },
-  {
     "id": "7f776d7829d0",
     "title": "Putting frontier cyber models in more trusted hands",
     "source": "OpenAI Blog",
@@ -1442,18 +1442,18 @@
     "cluster_id": "c-efc7e31597"
   },
   {
-    "id": "1ea3eea3d9a5",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "id": "3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
+    "published_at": "2026-08-10T10:00:00Z",
     "topic": "ai",
-    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/zapier",
-    "cluster_id": "c-5bcf6a78ee"
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "cluster_id": "c-3d4c214262"
   },
   {
     "id": "ee449db47d8d",
@@ -1468,6 +1468,20 @@
     ],
     "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "cluster_id": "c-c0f3523f7f"
+  },
+  {
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
   },
   {
     "id": "8f3f7b571773",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/academy/getting-started",
     "cluster_id": "c-7355f32212"
-  },
-  {
-    "id": "e799563c0958",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-09T13:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "cluster_id": "c-f09c55035a"
   }
 ]

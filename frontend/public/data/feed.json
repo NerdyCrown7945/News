@@ -1219,17 +1219,17 @@
   },
   {
     "id": "7d7eacff40aa",
-    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "title": "Asana completed a years-long code migration in 2 weeks with Codex",
     "source": "OpenAI Blog",
     "published_at": "2026-08-18T07:00:00Z",
     "topic": "ai",
-    "one_liner": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+    "one_liner": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in model and infrastructure costs.",
     "tags": [
       "llm",
       "research"
     ],
     "url": "https://openai.com/index/asana",
-    "cluster_id": "c-2d98ecfca9"
+    "cluster_id": "c-558842e0ab"
   },
   {
     "id": "dfcf73efa3a6",

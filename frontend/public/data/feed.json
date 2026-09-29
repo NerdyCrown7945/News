@@ -14,6 +14,20 @@
     "cluster_id": "c-29c9738731"
   },
   {
+    "id": "cf468ec39dd6",
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "cluster_id": "c-db7f91a370"
+  },
+  {
     "id": "216d56bba26c",
     "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
     "source": "OpenAI Blog",
@@ -98,34 +112,6 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
-  },
-  {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
-  },
-  {
     "id": "7357353a1f1d",
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "source": "OpenAI Blog",
@@ -140,6 +126,20 @@
     "cluster_id": "c-3c4d4ba5fe"
   },
   {
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
+  },
+  {
     "id": "01d4e543c941",
     "title": "Sam Altman’s remarks at the United Nations Security Council",
     "source": "OpenAI Blog",
@@ -152,6 +152,20 @@
     ],
     "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "cluster_id": "c-5fb57685a5"
+  },
+  {
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "1d5a9cc2d950",
@@ -266,20 +280,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "d37f5b2c5927",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "cluster_id": "c-af8cf8abed"
-  },
-  {
     "id": "a7ca59844a94",
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "source": "OpenAI Blog",
@@ -292,6 +292,20 @@
     ],
     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "cluster_id": "c-d5feed8d7c"
+  },
+  {
+    "id": "d37f5b2c5927",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "cluster_id": "c-af8cf8abed"
   },
   {
     "id": "2c9792fbb14a",
@@ -574,20 +588,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "2b26a8066576",
-    "title": "Introducing the Agents API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "cluster_id": "c-5d6bd47912"
-  },
-  {
     "id": "4e410dad70fb",
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "source": "OpenAI Blog",
@@ -600,6 +600,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "cluster_id": "c-e826f2a3a4"
+  },
+  {
+    "id": "2b26a8066576",
+    "title": "Introducing the Agents API",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "cluster_id": "c-5d6bd47912"
   },
   {
     "id": "534907e0d31e",
@@ -798,20 +812,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "7a45b185cff5",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "cluster_id": "c-8769ac281e"
-  },
-  {
     "id": "be4a3c542626",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -824,6 +824,20 @@
     ],
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "cluster_id": "c-bb81b442aa"
+  },
+  {
+    "id": "7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "cluster_id": "c-8769ac281e"
   },
   {
     "id": "0f3b76bc480d",
@@ -1414,20 +1428,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "b274e00978a8",
-    "title": "Daybreak models are now available on AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "cluster_id": "c-20d089a1f5"
-  },
-  {
     "id": "de2ca3d7578d",
     "title": "Testing ads in ChatGPT",
     "source": "OpenAI Blog",
@@ -1440,6 +1440,20 @@
     ],
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "cluster_id": "c-949a1fcab6"
+  },
+  {
+    "id": "b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "cluster_id": "c-20d089a1f5"
   },
   {
     "id": "7a678e9a26d7",
@@ -1484,20 +1498,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "7f776d7829d0",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "cluster_id": "c-efc7e31597"
-  },
-  {
     "id": "3a8585570cab",
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "source": "OpenAI Blog",
@@ -1512,18 +1512,18 @@
     "cluster_id": "c-3d4c214262"
   },
   {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
+    "id": "7f776d7829d0",
+    "title": "Putting frontier cyber models in more trusted hands",
     "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
+    "published_at": "2026-08-10T10:00:00Z",
     "topic": "ai",
-    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "one_liner": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "cluster_id": "c-efc7e31597"
   },
   {
     "id": "8f3f7b571773",
@@ -1538,6 +1538,20 @@
     ],
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "cluster_id": "c-d7e95f2ca5"
+  },
+  {
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "1ea3eea3d9a5",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
     "cluster_id": "c-12538824cc"
-  },
-  {
-    "id": "92ab1f77dd8c",
-    "title": "How to manage AI investments in the agentic era",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-14T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "cluster_id": "c-376e2ca0b1"
   }
 ]

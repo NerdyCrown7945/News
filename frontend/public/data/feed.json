@@ -1,17 +1,45 @@
 [
   {
-    "id": "cfe8e900401f",
-    "title": "How we will do better for Australia",
+    "id": "dd66acaed2a0",
+    "title": "Introducing GPT-6.1 Sol",
     "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
+    "published_at": "2026-09-29T10:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "one_liner": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "cluster_id": "c-29c9738731"
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "cluster_id": "c-6ce9939aee"
+  },
+  {
+    "id": "19db7cc5ca5c",
+    "title": "DevDay 2026 Recap",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-29T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/devday-2026-recap",
+    "cluster_id": "c-a618cce109"
+  },
+  {
+    "id": "884977ecb800",
+    "title": "Introducing dots",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-29T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-dots",
+    "cluster_id": "c-8571e7c506"
   },
   {
     "id": "cf468ec39dd6",
@@ -26,6 +54,20 @@
     ],
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "cluster_id": "c-db7f91a370"
+  },
+  {
+    "id": "cfe8e900401f",
+    "title": "How we will do better for Australia",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "cluster_id": "c-29c9738731"
   },
   {
     "id": "216d56bba26c",
@@ -112,34 +154,6 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
-  },
-  {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
-  },
-  {
     "id": "01d4e543c941",
     "title": "Sam Altman’s remarks at the United Nations Security Council",
     "source": "OpenAI Blog",
@@ -166,6 +180,34 @@
     ],
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "cluster_id": "c-cf181a5d30"
+  },
+  {
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
+  },
+  {
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
   },
   {
     "id": "1d5a9cc2d950",
@@ -812,20 +854,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "be4a3c542626",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "cluster_id": "c-bb81b442aa"
-  },
-  {
     "id": "7a45b185cff5",
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -838,6 +866,20 @@
     ],
     "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "cluster_id": "c-8769ac281e"
+  },
+  {
+    "id": "be4a3c542626",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "cluster_id": "c-bb81b442aa"
   },
   {
     "id": "0f3b76bc480d",
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/codex-collaborator-creative-team",
     "cluster_id": "c-72c70f9e30"
-  },
-  {
-    "id": "6f16a999c8dd",
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/cars24",
-    "cluster_id": "c-5bd2f8b60c"
-  },
-  {
-    "id": "1e97faa490fa",
-    "title": "The US is advancing AI safety through state and federal action",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-15T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "cluster_id": "c-1389d26552"
-  },
-  {
-    "id": "ee230258f27f",
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-15T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "cluster_id": "c-12538824cc"
   }
 ]

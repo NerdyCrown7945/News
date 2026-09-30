@@ -1,5 +1,33 @@
 [
   {
+    "id": "6a91381a4292",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-30T10:30:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "cluster_id": "c-dd9be6be18"
+  },
+  {
+    "id": "b5e5e43443d2",
+    "title": "Helping small businesses put AI to work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-30T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "cluster_id": "c-1cc1f3cc20"
+  },
+  {
     "id": "dd66acaed2a0",
     "title": "Introducing GPT-6.1 Sol",
     "source": "OpenAI Blog",
@@ -42,20 +70,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cf468ec39dd6",
-    "title": "Towards safety cases for frontier AI training",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "cluster_id": "c-db7f91a370"
-  },
-  {
     "id": "cfe8e900401f",
     "title": "How we will do better for Australia",
     "source": "OpenAI Blog",
@@ -68,6 +82,20 @@
     ],
     "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "cluster_id": "c-29c9738731"
+  },
+  {
+    "id": "cf468ec39dd6",
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "cluster_id": "c-db7f91a370"
   },
   {
     "id": "216d56bba26c",
@@ -154,6 +182,34 @@
     "cluster_id": "c-9758041fb0"
   },
   {
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
+  },
+  {
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
+  },
+  {
     "id": "01d4e543c941",
     "title": "Sam Altman’s remarks at the United Nations Security Council",
     "source": "OpenAI Blog",
@@ -180,34 +236,6 @@
     ],
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "cluster_id": "c-cf181a5d30"
-  },
-  {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
-  },
-  {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
   },
   {
     "id": "1d5a9cc2d950",
@@ -322,20 +350,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "a7ca59844a94",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "cluster_id": "c-d5feed8d7c"
-  },
-  {
     "id": "d37f5b2c5927",
     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -348,6 +362,20 @@
     ],
     "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "cluster_id": "c-af8cf8abed"
+  },
+  {
+    "id": "a7ca59844a94",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "cluster_id": "c-d5feed8d7c"
   },
   {
     "id": "2c9792fbb14a",
@@ -854,20 +882,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "7a45b185cff5",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "cluster_id": "c-8769ac281e"
-  },
-  {
     "id": "be4a3c542626",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -880,6 +894,20 @@
     ],
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "cluster_id": "c-bb81b442aa"
+  },
+  {
+    "id": "7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "cluster_id": "c-8769ac281e"
   },
   {
     "id": "0f3b76bc480d",
@@ -1470,20 +1498,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "b274e00978a8",
     "title": "Daybreak models are now available on AWS",
     "source": "OpenAI Blog",
@@ -1496,6 +1510,20 @@
     ],
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "cluster_id": "c-20d089a1f5"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "7a678e9a26d7",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
     "cluster_id": "c-c85204a3bb"
-  },
-  {
-    "id": "8fe39edff791",
-    "title": "Why teens deserve access to safe AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-16T16:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "cluster_id": "c-061cb2f5f5"
-  },
-  {
-    "id": "eeac6a04af4f",
-    "title": "How Codex became a collaborator for OpenAI’s creative team",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-16T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/codex-collaborator-creative-team",
-    "cluster_id": "c-72c70f9e30"
   }
 ]

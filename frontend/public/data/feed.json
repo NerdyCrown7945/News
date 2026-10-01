@@ -1,5 +1,33 @@
 [
   {
+    "id": "7e67b43cf9d0",
+    "title": "The eternal complement",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-01T17:00:00Z",
+    "topic": "ai",
+    "one_liner": "Advanced AI may matter most for the routine work behind breakthrough ideas.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-eternal-complement",
+    "cluster_id": "c-2858c91264"
+  },
+  {
+    "id": "a80484c2d584",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-01T16:00:00Z",
+    "topic": "ai",
+    "one_liner": "Albertsons Cos.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "cluster_id": "c-40e308bdc5"
+  },
+  {
     "id": "6a91381a4292",
     "title": "Disrupting a coordinated model-distillation campaign",
     "source": "OpenAI Blog",
@@ -28,20 +56,6 @@
     "cluster_id": "c-1cc1f3cc20"
   },
   {
-    "id": "dd66acaed2a0",
-    "title": "Introducing GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-29T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "cluster_id": "c-6ce9939aee"
-  },
-  {
     "id": "19db7cc5ca5c",
     "title": "DevDay 2026 Recap",
     "source": "OpenAI Blog",
@@ -54,6 +68,20 @@
     ],
     "url": "https://openai.com/index/devday-2026-recap",
     "cluster_id": "c-a618cce109"
+  },
+  {
+    "id": "dd66acaed2a0",
+    "title": "Introducing GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-29T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "cluster_id": "c-6ce9939aee"
   },
   {
     "id": "884977ecb800",
@@ -70,20 +98,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cfe8e900401f",
-    "title": "How we will do better for Australia",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "cluster_id": "c-29c9738731"
-  },
-  {
     "id": "cf468ec39dd6",
     "title": "Towards safety cases for frontier AI training",
     "source": "OpenAI Blog",
@@ -96,6 +110,20 @@
     ],
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "cluster_id": "c-db7f91a370"
+  },
+  {
+    "id": "cfe8e900401f",
+    "title": "How we will do better for Australia",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "cluster_id": "c-29c9738731"
   },
   {
     "id": "216d56bba26c",
@@ -182,20 +210,6 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
-  },
-  {
     "id": "7cff1964bf19",
     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
@@ -236,6 +250,20 @@
     ],
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "cluster_id": "c-cf181a5d30"
+  },
+  {
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
   },
   {
     "id": "1d5a9cc2d950",
@@ -658,20 +686,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "4e410dad70fb",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "cluster_id": "c-e826f2a3a4"
-  },
-  {
     "id": "2b26a8066576",
     "title": "Introducing the Agents API",
     "source": "OpenAI Blog",
@@ -684,6 +698,20 @@
     ],
     "url": "https://openai.com/index/introducing-the-agents-api",
     "cluster_id": "c-5d6bd47912"
+  },
+  {
+    "id": "4e410dad70fb",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "cluster_id": "c-e826f2a3a4"
   },
   {
     "id": "534907e0d31e",
@@ -1498,20 +1526,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "b274e00978a8",
-    "title": "Daybreak models are now available on AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "cluster_id": "c-20d089a1f5"
-  },
-  {
     "id": "de2ca3d7578d",
     "title": "Testing ads in ChatGPT",
     "source": "OpenAI Blog",
@@ -1524,6 +1538,20 @@
     ],
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "cluster_id": "c-949a1fcab6"
+  },
+  {
+    "id": "b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "cluster_id": "c-20d089a1f5"
   },
   {
     "id": "7a678e9a26d7",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "cluster_id": "c-c256aa86a4"
-  },
-  {
-    "id": "d4ff9ec891b7",
-    "title": "Safety and alignment in an era of long-horizon models",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-20T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "cluster_id": "c-50bfa0b972"
-  },
-  {
-    "id": "3ebda52fc80e",
-    "title": "A scorecard for the AI age",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-17T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "cluster_id": "c-c85204a3bb"
   }
 ]

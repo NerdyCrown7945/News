@@ -1,5 +1,33 @@
 [
   {
+    "id": "8e206c4d9ed6",
+    "title": "A model guide for the GPT-6 family",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-02T16:15:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "cluster_id": "c-8028ad61c2"
+  },
+  {
+    "id": "a97398f76ee5",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatham-financial",
+    "cluster_id": "c-b16075432c"
+  },
+  {
     "id": "7e67b43cf9d0",
     "title": "The eternal complement",
     "source": "OpenAI Blog",
@@ -70,20 +98,6 @@
     "cluster_id": "c-1cc1f3cc20"
   },
   {
-    "id": "dd66acaed2a0",
-    "title": "Introducing GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-29T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "cluster_id": "c-6ce9939aee"
-  },
-  {
     "id": "19db7cc5ca5c",
     "title": "DevDay 2026 Recap",
     "source": "OpenAI Blog",
@@ -96,6 +110,20 @@
     ],
     "url": "https://openai.com/index/devday-2026-recap",
     "cluster_id": "c-a618cce109"
+  },
+  {
+    "id": "dd66acaed2a0",
+    "title": "Introducing GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-29T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "cluster_id": "c-6ce9939aee"
   },
   {
     "id": "884977ecb800",
@@ -154,20 +182,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "914f14710638",
-    "title": "Are you a Codex Original?",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/form/codex-originals",
-    "cluster_id": "c-8c8541725c"
-  },
-  {
     "id": "bf0fe8cc388a",
     "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -180,6 +194,20 @@
     ],
     "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "cluster_id": "c-bf631c98f8"
+  },
+  {
+    "id": "914f14710638",
+    "title": "Are you a Codex Original?",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/form/codex-originals",
+    "cluster_id": "c-8c8541725c"
   },
   {
     "id": "d2d497e5eee4",
@@ -224,20 +252,6 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
-  },
-  {
     "id": "01d4e543c941",
     "title": "Sam Altman’s remarks at the United Nations Security Council",
     "source": "OpenAI Blog",
@@ -250,6 +264,20 @@
     ],
     "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "cluster_id": "c-5fb57685a5"
+  },
+  {
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "7357353a1f1d",
@@ -266,18 +294,18 @@
     "cluster_id": "c-3c4d4ba5fe"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "1d5a9cc2d950",
@@ -700,20 +728,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "2b26a8066576",
-    "title": "Introducing the Agents API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "cluster_id": "c-5d6bd47912"
-  },
-  {
     "id": "4e410dad70fb",
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "source": "OpenAI Blog",
@@ -726,6 +740,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "cluster_id": "c-e826f2a3a4"
+  },
+  {
+    "id": "2b26a8066576",
+    "title": "Introducing the Agents API",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "cluster_id": "c-5d6bd47912"
   },
   {
     "id": "534907e0d31e",
@@ -924,20 +952,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "be4a3c542626",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "cluster_id": "c-bb81b442aa"
-  },
-  {
     "id": "7a45b185cff5",
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -950,6 +964,20 @@
     ],
     "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "cluster_id": "c-8769ac281e"
+  },
+  {
+    "id": "be4a3c542626",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "cluster_id": "c-bb81b442aa"
   },
   {
     "id": "0f3b76bc480d",
@@ -1610,20 +1638,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "3a8585570cab",
-    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "cluster_id": "c-3d4c214262"
-  },
-  {
     "id": "7f776d7829d0",
     "title": "Putting frontier cyber models in more trusted hands",
     "source": "OpenAI Blog",
@@ -1636,6 +1650,20 @@
     ],
     "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "cluster_id": "c-efc7e31597"
+  },
+  {
+    "id": "3a8585570cab",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "cluster_id": "c-3d4c214262"
   },
   {
     "id": "ee449db47d8d",
@@ -1652,20 +1680,6 @@
     "cluster_id": "c-c0f3523f7f"
   },
   {
-    "id": "1ea3eea3d9a5",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/zapier",
-    "cluster_id": "c-5bcf6a78ee"
-  },
-  {
     "id": "8f3f7b571773",
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1678,6 +1692,20 @@
     ],
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "cluster_id": "c-d7e95f2ca5"
+  },
+  {
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
   },
   {
     "id": "833934ee3b25",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/ntt-data",
     "cluster_id": "c-db38e5daf8"
-  },
-  {
-    "id": "d42362617c64",
-    "title": "Introducing the ChatGPT for small business program",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-21T17:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "cluster_id": "c-746d8717c4"
-  },
-  {
-    "id": "20b0eb2d5c14",
-    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-21T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "cluster_id": "c-9fce299a20"
   }
 ]

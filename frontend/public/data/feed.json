@@ -28,6 +28,20 @@
     "cluster_id": "c-40e308bdc5"
   },
   {
+    "id": "3bba52758573",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-01T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-den-family-social",
+    "cluster_id": "c-7474264aca"
+  },
+  {
     "id": "6a91381a4292",
     "title": "Disrupting a coordinated model-distillation campaign",
     "source": "OpenAI Blog",
@@ -56,20 +70,6 @@
     "cluster_id": "c-1cc1f3cc20"
   },
   {
-    "id": "19db7cc5ca5c",
-    "title": "DevDay 2026 Recap",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-29T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/devday-2026-recap",
-    "cluster_id": "c-a618cce109"
-  },
-  {
     "id": "dd66acaed2a0",
     "title": "Introducing GPT-6.1 Sol",
     "source": "OpenAI Blog",
@@ -82,6 +82,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-6-1-sol",
     "cluster_id": "c-6ce9939aee"
+  },
+  {
+    "id": "19db7cc5ca5c",
+    "title": "DevDay 2026 Recap",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-29T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/devday-2026-recap",
+    "cluster_id": "c-a618cce109"
   },
   {
     "id": "884977ecb800",
@@ -98,20 +112,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cf468ec39dd6",
-    "title": "Towards safety cases for frontier AI training",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "cluster_id": "c-db7f91a370"
-  },
-  {
     "id": "cfe8e900401f",
     "title": "How we will do better for Australia",
     "source": "OpenAI Blog",
@@ -124,6 +124,20 @@
     ],
     "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "cluster_id": "c-29c9738731"
+  },
+  {
+    "id": "cf468ec39dd6",
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "cluster_id": "c-db7f91a370"
   },
   {
     "id": "216d56bba26c",
@@ -210,18 +224,18 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "01d4e543c941",
@@ -238,20 +252,6 @@
     "cluster_id": "c-5fb57685a5"
   },
   {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
-  },
-  {
     "id": "7357353a1f1d",
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "source": "OpenAI Blog",
@@ -264,6 +264,20 @@
     ],
     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "cluster_id": "c-3c4d4ba5fe"
+  },
+  {
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "1d5a9cc2d950",
@@ -378,20 +392,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "d37f5b2c5927",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "cluster_id": "c-af8cf8abed"
-  },
-  {
     "id": "a7ca59844a94",
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "source": "OpenAI Blog",
@@ -404,6 +404,20 @@
     ],
     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "cluster_id": "c-d5feed8d7c"
+  },
+  {
+    "id": "d37f5b2c5927",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "cluster_id": "c-af8cf8abed"
   },
   {
     "id": "2c9792fbb14a",
@@ -1134,20 +1148,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "d6bb1031e66b",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "cluster_id": "c-0720d84b72"
-  },
-  {
     "id": "cdfc10030b4b",
     "title": "Learning never stops: How AI makes learning continuous",
     "source": "OpenAI Blog",
@@ -1160,6 +1160,20 @@
     ],
     "url": "https://openai.com/index/learning-never-stops",
     "cluster_id": "c-057d234e59"
+  },
+  {
+    "id": "d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "cluster_id": "c-0720d84b72"
   },
   {
     "id": "504dd1ec9508",
@@ -1526,20 +1540,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "b274e00978a8",
     "title": "Daybreak models are now available on AWS",
     "source": "OpenAI Blog",
@@ -1552,6 +1552,20 @@
     ],
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "cluster_id": "c-20d089a1f5"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "7a678e9a26d7",
@@ -1624,20 +1638,6 @@
     "cluster_id": "c-efc7e31597"
   },
   {
-    "id": "8f3f7b571773",
-    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "cluster_id": "c-d7e95f2ca5"
-  },
-  {
     "id": "ee449db47d8d",
     "title": "Premium seats are coming to ChatGPT Business",
     "source": "OpenAI Blog",
@@ -1664,6 +1664,20 @@
     ],
     "url": "https://openai.com/index/zapier",
     "cluster_id": "c-5bcf6a78ee"
+  },
+  {
+    "id": "8f3f7b571773",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "cluster_id": "c-d7e95f2ca5"
   },
   {
     "id": "833934ee3b25",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
     "cluster_id": "c-9fce299a20"
-  },
-  {
-    "id": "40359dbf5a24",
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-21T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "cluster_id": "c-c256aa86a4"
   }
 ]

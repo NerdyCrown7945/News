@@ -1,5 +1,19 @@
 [
   {
+    "id": "ffc748cb8d88",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-13T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "cluster_id": "c-911e7a5cdc"
+  },
+  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -490,18 +504,18 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "7357353a1f1d",
@@ -518,18 +532,18 @@
     "cluster_id": "c-3c4d4ba5fe"
   },
   {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "01d4e543c941",
@@ -658,20 +672,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "a7ca59844a94",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "cluster_id": "c-d5feed8d7c"
-  },
-  {
     "id": "d37f5b2c5927",
     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -684,6 +684,20 @@
     ],
     "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "cluster_id": "c-af8cf8abed"
+  },
+  {
+    "id": "a7ca59844a94",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "cluster_id": "c-d5feed8d7c"
   },
   {
     "id": "2c9792fbb14a",
@@ -1806,20 +1820,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "de2ca3d7578d",
-    "title": "Testing ads in ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "cluster_id": "c-949a1fcab6"
-  },
-  {
     "id": "b274e00978a8",
     "title": "Daybreak models are now available on AWS",
     "source": "OpenAI Blog",
@@ -1832,6 +1832,20 @@
     ],
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "cluster_id": "c-20d089a1f5"
+  },
+  {
+    "id": "de2ca3d7578d",
+    "title": "Testing ads in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "cluster_id": "c-949a1fcab6"
   },
   {
     "id": "7a678e9a26d7",
@@ -1876,20 +1890,6 @@
     "cluster_id": "c-7438d055b6"
   },
   {
-    "id": "7f776d7829d0",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "cluster_id": "c-efc7e31597"
-  },
-  {
     "id": "3a8585570cab",
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "source": "OpenAI Blog",
@@ -1902,6 +1902,20 @@
     ],
     "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "cluster_id": "c-3d4c214262"
+  },
+  {
+    "id": "7f776d7829d0",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "cluster_id": "c-efc7e31597"
   },
   {
     "id": "ee449db47d8d",
@@ -1918,20 +1932,6 @@
     "cluster_id": "c-c0f3523f7f"
   },
   {
-    "id": "1ea3eea3d9a5",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/zapier",
-    "cluster_id": "c-5bcf6a78ee"
-  },
-  {
     "id": "8f3f7b571773",
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -1944,6 +1944,20 @@
     ],
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "cluster_id": "c-d7e95f2ca5"
+  },
+  {
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
   },
   {
     "id": "833934ee3b25",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/circles",
     "cluster_id": "c-2c87d3ca91"
-  },
-  {
-    "id": "6d58997b466c",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-01T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "cluster_id": "c-a8dedea698"
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "e181547094b0",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-14T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/third-moment-research",
+    "cluster_id": "c-7e36db0194"
+  },
+  {
+    "id": "2f3282e48314",
+    "title": "The EU’s next chapter in AI is agentic",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-14T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "cluster_id": "c-7b1cee47ca"
+  },
+  {
     "id": "ffc748cb8d88",
     "title": "Higgsfield takes AI video from 1 minute to over 10",
     "source": "OpenAI Blog",
@@ -14,20 +42,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "edd58468d564",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sophos",
-    "cluster_id": "c-7ab6ec4f67"
-  },
-  {
     "id": "90995f7dbc9c",
     "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
     "source": "OpenAI Blog",
@@ -40,6 +54,20 @@
     ],
     "url": "https://openai.com/index/asana-browser-agent",
     "cluster_id": "c-4b18fbfd31"
+  },
+  {
+    "id": "edd58468d564",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sophos",
+    "cluster_id": "c-7ab6ec4f67"
   },
   {
     "id": "112b5f00879d",
@@ -504,34 +532,6 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
-  },
-  {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
-  },
-  {
     "id": "7cff1964bf19",
     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
@@ -558,6 +558,34 @@
     ],
     "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "cluster_id": "c-5fb57685a5"
+  },
+  {
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
+  },
+  {
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "1d5a9cc2d950",
@@ -980,20 +1008,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "4e410dad70fb",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "cluster_id": "c-e826f2a3a4"
-  },
-  {
     "id": "2b26a8066576",
     "title": "Introducing the Agents API",
     "source": "OpenAI Blog",
@@ -1006,6 +1020,20 @@
     ],
     "url": "https://openai.com/index/introducing-the-agents-api",
     "cluster_id": "c-5d6bd47912"
+  },
+  {
+    "id": "4e410dad70fb",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "cluster_id": "c-e826f2a3a4"
   },
   {
     "id": "534907e0d31e",
@@ -1820,20 +1848,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "b274e00978a8",
-    "title": "Daybreak models are now available on AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "cluster_id": "c-20d089a1f5"
-  },
-  {
     "id": "de2ca3d7578d",
     "title": "Testing ads in ChatGPT",
     "source": "OpenAI Blog",
@@ -1846,6 +1860,20 @@
     ],
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "cluster_id": "c-949a1fcab6"
+  },
+  {
+    "id": "b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "cluster_id": "c-20d089a1f5"
   },
   {
     "id": "7a678e9a26d7",
@@ -1918,18 +1946,18 @@
     "cluster_id": "c-efc7e31597"
   },
   {
-    "id": "ee449db47d8d",
-    "title": "Premium seats are coming to ChatGPT Business",
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "source": "OpenAI Blog",
     "published_at": "2026-08-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "cluster_id": "c-c0f3523f7f"
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
   },
   {
     "id": "8f3f7b571773",
@@ -1946,18 +1974,18 @@
     "cluster_id": "c-d7e95f2ca5"
   },
   {
-    "id": "1ea3eea3d9a5",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "id": "ee449db47d8d",
+    "title": "Premium seats are coming to ChatGPT Business",
     "source": "OpenAI Blog",
     "published_at": "2026-08-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "one_liner": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/zapier",
-    "cluster_id": "c-5bcf6a78ee"
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "cluster_id": "c-c0f3523f7f"
   },
   {
     "id": "833934ee3b25",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/apple-is-getting-this-wrong",
     "cluster_id": "c-e25c06ccc5"
-  },
-  {
-    "id": "d04cc35bd3cc",
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-03T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "cluster_id": "c-6e7507f0e9"
-  },
-  {
-    "id": "54e616a32e5e",
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-03T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/circles",
-    "cluster_id": "c-2c87d3ca91"
   }
 ]

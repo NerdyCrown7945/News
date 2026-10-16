@@ -1,5 +1,19 @@
 [
   {
+    "id": "a72d1e4da6b0",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-15T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "cluster_id": "c-7c390fc46e"
+  },
+  {
     "id": "fa14b8f7db46",
     "title": "Teaching students to think and learn through questions",
     "source": "OpenAI Blog",
@@ -12,6 +26,20 @@
     ],
     "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "cluster_id": "c-25f748c3e0"
+  },
+  {
+    "id": "dd00c04c9b95",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-15T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sullivan-cromwell",
+    "cluster_id": "c-60bf79f06f"
   },
   {
     "id": "a0e0fec2c2b5",
@@ -602,18 +630,18 @@
     "cluster_id": "c-5fb57685a5"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
   },
   {
     "id": "f7558dc5c9de",
@@ -630,18 +658,18 @@
     "cluster_id": "c-cf181a5d30"
   },
   {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "1d5a9cc2d950",
@@ -756,20 +784,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "a7ca59844a94",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "cluster_id": "c-d5feed8d7c"
-  },
-  {
     "id": "d37f5b2c5927",
     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -782,6 +796,20 @@
     ],
     "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "cluster_id": "c-af8cf8abed"
+  },
+  {
+    "id": "a7ca59844a94",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "cluster_id": "c-d5feed8d7c"
   },
   {
     "id": "2c9792fbb14a",
@@ -1512,20 +1540,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "cdfc10030b4b",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/learning-never-stops",
-    "cluster_id": "c-057d234e59"
-  },
-  {
     "id": "d6bb1031e66b",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "source": "OpenAI Blog",
@@ -1538,6 +1552,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "cluster_id": "c-0720d84b72"
+  },
+  {
+    "id": "cdfc10030b4b",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/learning-never-stops",
+    "cluster_id": "c-057d234e59"
   },
   {
     "id": "504dd1ec9508",
@@ -1904,20 +1932,6 @@
     "cluster_id": "c-d6d6687e5c"
   },
   {
-    "id": "b274e00978a8",
-    "title": "Daybreak models are now available on AWS",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-11T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "cluster_id": "c-20d089a1f5"
-  },
-  {
     "id": "de2ca3d7578d",
     "title": "Testing ads in ChatGPT",
     "source": "OpenAI Blog",
@@ -1930,6 +1944,20 @@
     ],
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "cluster_id": "c-949a1fcab6"
+  },
+  {
+    "id": "b274e00978a8",
+    "title": "Daybreak models are now available on AWS",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-11T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "cluster_id": "c-20d089a1f5"
   },
   {
     "id": "7a678e9a26d7",
@@ -2002,6 +2030,20 @@
     "cluster_id": "c-efc7e31597"
   },
   {
+    "id": "1ea3eea3d9a5",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/zapier",
+    "cluster_id": "c-5bcf6a78ee"
+  },
+  {
     "id": "8f3f7b571773",
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "source": "OpenAI Blog",
@@ -2030,20 +2072,6 @@
     "cluster_id": "c-c0f3523f7f"
   },
   {
-    "id": "1ea3eea3d9a5",
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/zapier",
-    "cluster_id": "c-5bcf6a78ee"
-  },
-  {
     "id": "833934ee3b25",
     "title": "Responding to the next frontier of critical cyber capabilities",
     "source": "OpenAI Blog",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/hsp-gruppe",
     "cluster_id": "c-b61144b984"
-  },
-  {
-    "id": "0f0c1961f93e",
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-06T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "cluster_id": "c-9eb34f6aa7"
-  },
-  {
-    "id": "6da5f2d271da",
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-06T06:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "cluster_id": "c-793dcb957c"
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "2ed22a61b2f1",
+    "title": "Broad access through consistent standards",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-21T21:00:00Z",
+    "topic": "ai",
+    "one_liner": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "cluster_id": "c-c70ef6afbf"
+  },
+  {
+    "id": "4ab93569e260",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-21T17:00:00Z",
+    "topic": "ai",
+    "one_liner": "AT&T is working with OpenAI to make legal knowledge easier to access.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/att-legal",
+    "cluster_id": "c-44dc3e05d3"
+  },
+  {
     "id": "74fcf21eca7a",
     "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
     "source": "OpenAI Blog",
@@ -68,6 +96,34 @@
     ],
     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
     "cluster_id": "c-a3d0eb3394"
+  },
+  {
+    "id": "9201054eeb4c",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-21T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/cloudflare-cyber",
+    "cluster_id": "c-f0a5d48833"
+  },
+  {
+    "id": "b2deaf97c98c",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-21T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "cluster_id": "c-9de60db028"
   },
   {
     "id": "b3fcb2e42d32",
@@ -140,20 +196,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "4a2f3ca18eb9",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/benefit-street-partners",
-    "cluster_id": "c-e7d2942a55"
-  },
-  {
     "id": "9db4940a53f8",
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "source": "OpenAI Blog",
@@ -166,6 +208,20 @@
     ],
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "cluster_id": "c-e8d095e780"
+  },
+  {
+    "id": "4a2f3ca18eb9",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/benefit-street-partners",
+    "cluster_id": "c-e7d2942a55"
   },
   {
     "id": "a72d1e4da6b0",
@@ -602,20 +658,6 @@
     "cluster_id": "c-1cc1f3cc20"
   },
   {
-    "id": "19db7cc5ca5c",
-    "title": "DevDay 2026 Recap",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-29T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/devday-2026-recap",
-    "cluster_id": "c-a618cce109"
-  },
-  {
     "id": "dd66acaed2a0",
     "title": "Introducing GPT-6.1 Sol",
     "source": "OpenAI Blog",
@@ -628,6 +670,20 @@
     ],
     "url": "https://openai.com/index/introducing-gpt-6-1-sol",
     "cluster_id": "c-6ce9939aee"
+  },
+  {
+    "id": "19db7cc5ca5c",
+    "title": "DevDay 2026 Recap",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-29T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/devday-2026-recap",
+    "cluster_id": "c-a618cce109"
   },
   {
     "id": "884977ecb800",
@@ -686,20 +742,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "bf0fe8cc388a",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "cluster_id": "c-bf631c98f8"
-  },
-  {
     "id": "914f14710638",
     "title": "Are you a Codex Original?",
     "source": "OpenAI Blog",
@@ -712,6 +754,20 @@
     ],
     "url": "https://openai.com/form/codex-originals",
     "cluster_id": "c-8c8541725c"
+  },
+  {
+    "id": "bf0fe8cc388a",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "cluster_id": "c-bf631c98f8"
   },
   {
     "id": "d2d497e5eee4",
@@ -784,20 +840,6 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
-  },
-  {
     "id": "7cff1964bf19",
     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
@@ -810,6 +852,20 @@
     ],
     "url": "https://openai.com/index/ringg",
     "cluster_id": "c-ecfdf6020f"
+  },
+  {
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "01d4e543c941",
@@ -826,18 +882,18 @@
     "cluster_id": "c-5fb57685a5"
   },
   {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
   },
   {
     "id": "1d5a9cc2d950",
@@ -1708,20 +1764,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "d6bb1031e66b",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "cluster_id": "c-0720d84b72"
-  },
-  {
     "id": "cdfc10030b4b",
     "title": "Learning never stops: How AI makes learning continuous",
     "source": "OpenAI Blog",
@@ -1734,6 +1776,20 @@
     ],
     "url": "https://openai.com/index/learning-never-stops",
     "cluster_id": "c-057d234e59"
+  },
+  {
+    "id": "d6bb1031e66b",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT for Teachers is expanding to 55 U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "cluster_id": "c-0720d84b72"
   },
   {
     "id": "504dd1ec9508",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "cluster_id": "c-942c42adef"
-  },
-  {
-    "id": "6357d7795d21",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-13T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "cluster_id": "c-823ba822fe"
-  },
-  {
-    "id": "9e022b7caa78",
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-13T09:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "cluster_id": "c-08d3dbf6af"
-  },
-  {
-    "id": "fb21820d806b",
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-12T06:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "cluster_id": "c-da11c92e73"
-  },
-  {
-    "id": "cad35e6294fe",
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-12T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringcentral",
-    "cluster_id": "c-d6d6687e5c"
   }
 ]

@@ -1,0 +1,24 @@
+{
+  "id": "9201054eeb4c",
+  "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+  "source": "OpenAI Blog",
+  "published_at": "2026-10-21T00:00:00Z",
+  "summary_lines": [
+    "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review."
+  ],
+  "key_points": [
+    "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review.",
+    "Its developers use Codex to build faster and improve code quality."
+  ],
+  "summary_lines_ko": [
+    "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review."
+  ],
+  "key_points_ko": [
+    "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review.",
+    "Its developers use Codex to build faster and improve code quality."
+  ],
+  "url": "https://openai.com/index/cloudflare-cyber",
+  "related": []
+}

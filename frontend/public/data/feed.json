@@ -1,5 +1,47 @@
 [
   {
+    "id": "250e5d8f3024",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-26T22:00:00Z",
+    "topic": "ai",
+    "one_liner": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "cluster_id": "c-25c2cfaa6f"
+  },
+  {
+    "id": "f16aefe89a6e",
+    "title": "Working with academic communities to build scientific understanding",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-26T14:30:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "cluster_id": "c-6a85a29036"
+  },
+  {
+    "id": "1a1d4bf2fc11",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-26T13:45:00Z",
+    "topic": "ai",
+    "one_liner": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "cluster_id": "c-27ce58f4fd"
+  },
+  {
     "id": "64d59b55a8fb",
     "title": "ChatGPT’s expanding world of work",
     "source": "OpenAI Blog",
@@ -26,6 +68,34 @@
     ],
     "url": "https://openai.com/index/fanatics-streamline-fan-experience",
     "cluster_id": "c-1b9001f5ad"
+  },
+  {
+    "id": "8f2f08b6e197",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-26T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "cluster_id": "c-eb5f70c550"
+  },
+  {
+    "id": "1758535ac6be",
+    "title": "Introducing GPT-6.1 Terra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-26T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Bringing fast and capable computer use to everyone",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "cluster_id": "c-fb6e31d867"
   },
   {
     "id": "298c8de07d18",
@@ -812,20 +882,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cfe8e900401f",
-    "title": "How we will do better for Australia",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "cluster_id": "c-29c9738731"
-  },
-  {
     "id": "cf468ec39dd6",
     "title": "Towards safety cases for frontier AI training",
     "source": "OpenAI Blog",
@@ -838,6 +894,20 @@
     ],
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "cluster_id": "c-db7f91a370"
+  },
+  {
+    "id": "cfe8e900401f",
+    "title": "How we will do better for Australia",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "cluster_id": "c-29c9738731"
   },
   {
     "id": "216d56bba26c",
@@ -952,20 +1022,6 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "01d4e543c941",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "cluster_id": "c-5fb57685a5"
-  },
-  {
     "id": "f7558dc5c9de",
     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -980,20 +1036,6 @@
     "cluster_id": "c-cf181a5d30"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
-  },
-  {
     "id": "7357353a1f1d",
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "source": "OpenAI Blog",
@@ -1006,6 +1048,34 @@
     ],
     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "cluster_id": "c-3c4d4ba5fe"
+  },
+  {
+    "id": "01d4e543c941",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "cluster_id": "c-5fb57685a5"
+  },
+  {
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "1d5a9cc2d950",
@@ -1414,20 +1484,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "4e410dad70fb",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "cluster_id": "c-e826f2a3a4"
-  },
-  {
     "id": "2b26a8066576",
     "title": "Introducing the Agents API",
     "source": "OpenAI Blog",
@@ -1440,6 +1496,20 @@
     ],
     "url": "https://openai.com/index/introducing-the-agents-api",
     "cluster_id": "c-5d6bd47912"
+  },
+  {
+    "id": "4e410dad70fb",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "cluster_id": "c-e826f2a3a4"
   },
   {
     "id": "534907e0d31e",
@@ -1638,20 +1708,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "7a45b185cff5",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "cluster_id": "c-8769ac281e"
-  },
-  {
     "id": "be4a3c542626",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -1664,6 +1720,20 @@
     ],
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "cluster_id": "c-bb81b442aa"
+  },
+  {
+    "id": "7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "cluster_id": "c-8769ac281e"
   },
   {
     "id": "0f3b76bc480d",
@@ -1862,20 +1932,6 @@
     "cluster_id": "c-a4926c0e9f"
   },
   {
-    "id": "cdfc10030b4b",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/learning-never-stops",
-    "cluster_id": "c-057d234e59"
-  },
-  {
     "id": "d6bb1031e66b",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "source": "OpenAI Blog",
@@ -1888,6 +1944,20 @@
     ],
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "cluster_id": "c-0720d84b72"
+  },
+  {
+    "id": "cdfc10030b4b",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/learning-never-stops",
+    "cluster_id": "c-057d234e59"
   },
   {
     "id": "504dd1ec9508",
@@ -2028,75 +2098,5 @@
     ],
     "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "cluster_id": "c-56d5b8c35e"
-  },
-  {
-    "id": "9ac0643f2427",
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-19T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/replit",
-    "cluster_id": "c-e310982380"
-  },
-  {
-    "id": "e4563871866d",
-    "title": "ChatGPT Ads expands across Europe",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-18T22:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Ads is expanding to 31 European markets.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "cluster_id": "c-797cd7afa0"
-  },
-  {
-    "id": "67f37d861d34",
-    "title": "Strengthening democratic oversight in national security",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-18T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "cluster_id": "c-bfb6d5a1d4"
-  },
-  {
-    "id": "9765648ad527",
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-18T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/partnering-with-codeai",
-    "cluster_id": "c-68ad61f788"
-  },
-  {
-    "id": "68c52c81310f",
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-18T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "cluster_id": "c-0443b0b5b7"
   }
 ]

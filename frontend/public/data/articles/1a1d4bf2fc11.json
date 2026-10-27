@@ -1,0 +1,24 @@
+{
+  "id": "1a1d4bf2fc11",
+  "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+  "source": "OpenAI Blog",
+  "published_at": "2026-10-26T13:45:00Z",
+  "summary_lines": [
+    "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases."
+  ],
+  "key_points": [
+    "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases.",
+    "Its security agent helps developers review findings and proposed fixes."
+  ],
+  "summary_lines_ko": [
+    "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases."
+  ],
+  "key_points_ko": [
+    "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases.",
+    "Its security agent helps developers review findings and proposed fixes."
+  ],
+  "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+  "related": []
+}

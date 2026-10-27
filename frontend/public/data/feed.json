@@ -1,5 +1,19 @@
 [
   {
+    "id": "a3a879144b29",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-27T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "cluster_id": "c-96ddbf3f32"
+  },
+  {
     "id": "250e5d8f3024",
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -124,6 +138,20 @@
     ],
     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "cluster_id": "c-5ce7a8b53e"
+  },
+  {
+    "id": "c6099fc8919f",
+    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-23T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/anima",
+    "cluster_id": "c-70fdb150d1"
   },
   {
     "id": "15c1f8ef7a58",
@@ -532,20 +560,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -558,6 +572,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -882,20 +910,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cf468ec39dd6",
-    "title": "Towards safety cases for frontier AI training",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "cluster_id": "c-db7f91a370"
-  },
-  {
     "id": "cfe8e900401f",
     "title": "How we will do better for Australia",
     "source": "OpenAI Blog",
@@ -908,6 +922,20 @@
     ],
     "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "cluster_id": "c-29c9738731"
+  },
+  {
+    "id": "cf468ec39dd6",
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "cluster_id": "c-db7f91a370"
   },
   {
     "id": "216d56bba26c",
@@ -924,20 +952,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "914f14710638",
-    "title": "Are you a Codex Original?",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/form/codex-originals",
-    "cluster_id": "c-8c8541725c"
-  },
-  {
     "id": "bf0fe8cc388a",
     "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -950,6 +964,20 @@
     ],
     "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "cluster_id": "c-bf631c98f8"
+  },
+  {
+    "id": "914f14710638",
+    "title": "Are you a Codex Original?",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/form/codex-originals",
+    "cluster_id": "c-8c8541725c"
   },
   {
     "id": "d2d497e5eee4",
@@ -1036,18 +1064,18 @@
     "cluster_id": "c-cf181a5d30"
   },
   {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "01d4e543c941",
@@ -1064,18 +1092,18 @@
     "cluster_id": "c-5fb57685a5"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
   },
   {
     "id": "1d5a9cc2d950",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/introducing-intelligence-age",
     "cluster_id": "c-14949d5f2a"
-  },
-  {
-    "id": "cb030de2dd94",
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-20T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/stampli",
-    "cluster_id": "c-2bf05192dc"
-  },
-  {
-    "id": "ef913e9fdabc",
-    "title": "Offering Zero Data Retention for frontier models",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-19T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "cluster_id": "c-56d5b8c35e"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "75e2017ed4c5",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-28T13:15:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "cluster_id": "c-d393c007b7"
+  },
+  {
     "id": "0dc3cf0b7c98",
     "title": "The future of the firm",
     "source": "OpenAI Blog",
@@ -14,7 +28,7 @@
     "cluster_id": "c-24e333258a"
   },
   {
-    "id": "2fc8e689e413",
+    "id": "41c97fe8dc29",
     "title": "Legora is building the agentic operating system for legal work",
     "source": "OpenAI Blog",
     "published_at": "2026-10-28T09:30:00Z",
@@ -24,7 +38,7 @@
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "url": "https://openai.com/index/legora",
     "cluster_id": "c-eb8ad63604"
   },
   {
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "cluster_id": "c-9cfd64032e"
-  },
-  {
-    "id": "d34e82eae2f2",
-    "title": "How loveholidays is making everyone a builder with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/loveholidays",
-    "cluster_id": "c-6130f4df70"
   }
 ]

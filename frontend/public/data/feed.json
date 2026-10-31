@@ -1,5 +1,19 @@
 [
   {
+    "id": "25cc4c9bb2e3",
+    "title": "Making it easier for websites to express AI training preferences",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-30T09:30:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "cluster_id": "c-8d38732ffd"
+  },
+  {
     "id": "c7606af40dbb",
     "title": "Community safety report and new protections for teens",
     "source": "OpenAI Blog",
@@ -12,6 +26,20 @@
     ],
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "cluster_id": "c-98a33d8141"
+  },
+  {
+    "id": "d2282bcce162",
+    "title": "Fair use benefits everyone",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-30T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "cluster_id": "c-ecf27b728f"
   },
   {
     "id": "7bf0065ceb16",
@@ -546,20 +574,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "827221925d8d",
-    "title": "How Localiza reorganized work around generative AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "cluster_id": "c-bc0cf9104e"
-  },
-  {
     "id": "1d7d75b47c31",
     "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
@@ -574,18 +588,18 @@
     "cluster_id": "c-d636a39c4f"
   },
   {
-    "id": "9db4940a53f8",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "id": "827221925d8d",
+    "title": "How Localiza reorganized work around generative AI",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "cluster_id": "c-e8d095e780"
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "4a2f3ca18eb9",
@@ -600,6 +614,20 @@
     ],
     "url": "https://openai.com/index/benefit-street-partners",
     "cluster_id": "c-e7d2942a55"
+  },
+  {
+    "id": "9db4940a53f8",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "cluster_id": "c-e8d095e780"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1078,20 +1106,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cf468ec39dd6",
-    "title": "Towards safety cases for frontier AI training",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "cluster_id": "c-db7f91a370"
-  },
-  {
     "id": "cfe8e900401f",
     "title": "How we will do better for Australia",
     "source": "OpenAI Blog",
@@ -1104,6 +1118,20 @@
     ],
     "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "cluster_id": "c-29c9738731"
+  },
+  {
+    "id": "cf468ec39dd6",
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "cluster_id": "c-db7f91a370"
   },
   {
     "id": "216d56bba26c",
@@ -1218,18 +1246,18 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "01d4e543c941",
@@ -1246,6 +1274,20 @@
     "cluster_id": "c-5fb57685a5"
   },
   {
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
+  },
+  {
     "id": "f7558dc5c9de",
     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -1258,20 +1300,6 @@
     ],
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "cluster_id": "c-cf181a5d30"
-  },
-  {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "1d5a9cc2d950",
@@ -1904,20 +1932,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "be4a3c542626",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "cluster_id": "c-bb81b442aa"
-  },
-  {
     "id": "7a45b185cff5",
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -1930,6 +1944,20 @@
     ],
     "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "cluster_id": "c-8769ac281e"
+  },
+  {
+    "id": "be4a3c542626",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "cluster_id": "c-bb81b442aa"
   },
   {
     "id": "0f3b76bc480d",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
     "cluster_id": "c-2d33408bd2"
-  },
-  {
-    "id": "092c8de02e8b",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-28T06:00:00Z",
-    "topic": "ai",
-    "one_liner": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "cluster_id": "c-0fc8808321"
-  },
-  {
-    "id": "0b00c80d502c",
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-28T02:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "cluster_id": "c-5b12008335"
   }
 ]

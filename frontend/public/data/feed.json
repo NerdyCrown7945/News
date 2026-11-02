@@ -1,5 +1,47 @@
 [
   {
+    "id": "19244c7aa206",
+    "title": "Introducing the Grid Protectors Program",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T15:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/grid-protectors-program",
+    "cluster_id": "c-bca2c7eab8"
+  },
+  {
+    "id": "ed4b58253682",
+    "title": "LifeVal",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/lifeval",
+    "cluster_id": "c-d6d1f714ac"
+  },
+  {
+    "id": "598c6194c0d3",
+    "title": "Qodo builds context into AI code review with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "cluster_id": "c-7e5c6c3e93"
+  },
+  {
     "id": "25cc4c9bb2e3",
     "title": "Making it easier for websites to express AI training preferences",
     "source": "OpenAI Blog",
@@ -1246,6 +1288,20 @@
     "cluster_id": "c-9758041fb0"
   },
   {
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
+  },
+  {
     "id": "7357353a1f1d",
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "source": "OpenAI Blog",
@@ -1286,20 +1342,6 @@
     ],
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "cluster_id": "c-cf181a5d30"
-  },
-  {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "1d5a9cc2d950",
@@ -1932,20 +1974,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "be4a3c542626",
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "cluster_id": "c-bb81b442aa"
-  },
-  {
     "id": "7a45b185cff5",
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -1958,6 +1986,20 @@
     ],
     "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "cluster_id": "c-8769ac281e"
+  },
+  {
+    "id": "be4a3c542626",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "cluster_id": "c-bb81b442aa"
   },
   {
     "id": "0f3b76bc480d",
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/gilbert-tobin",
     "cluster_id": "c-052cf50c67"
-  },
-  {
-    "id": "0703988e3a33",
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-31T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "cluster_id": "c-a0185c4a1b"
-  },
-  {
-    "id": "7bc341571432",
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-31T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/polimill",
-    "cluster_id": "c-b5f5add2fc"
-  },
-  {
-    "id": "44f61163770f",
-    "title": "A milestone in expanding access to AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-31T04:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "cluster_id": "c-2d33408bd2"
   }
 ]

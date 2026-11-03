@@ -1,5 +1,47 @@
 [
   {
+    "id": "6fd6ad7938fa",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "cluster_id": "c-242959d90a"
+  },
+  {
+    "id": "262cfa35f430",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "cluster_id": "c-f66852c5b1"
+  },
+  {
+    "id": "de4cf53f9db9",
+    "title": "Scaling Git at OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T15:30:00Z",
+    "topic": "ai",
+    "one_liner": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "cluster_id": "c-39c830a139"
+  },
+  {
     "id": "19244c7aa206",
     "title": "Introducing the Grid Protectors Program",
     "source": "OpenAI Blog",
@@ -40,6 +82,20 @@
     ],
     "url": "https://openai.com/index/qodo-codex-plugin",
     "cluster_id": "c-7e5c6c3e93"
+  },
+  {
+    "id": "ff138f709a7e",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "cluster_id": "c-3b88fbe7b9"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -607,27 +663,13 @@
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T19:00:00Z",
     "topic": "ai",
-    "one_liner": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "one_liner": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees—in one of Brazil’s most regulated sectors.",
     "tags": [
       "llm",
       "research"
     ],
     "url": "https://openai.com/index/itau-generative-ai",
     "cluster_id": "c-32e4f1243c"
-  },
-  {
-    "id": "827221925d8d",
-    "title": "How Localiza reorganized work around generative AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "1d7d75b47c31",
@@ -642,6 +684,20 @@
     ],
     "url": "https://openai.com/index/grupo-boticario",
     "cluster_id": "c-d636a39c4f"
+  },
+  {
+    "id": "827221925d8d",
+    "title": "How Localiza reorganized work around generative AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "4a2f3ca18eb9",
@@ -798,20 +854,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -824,6 +866,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -1302,20 +1358,6 @@
     "cluster_id": "c-ecfdf6020f"
   },
   {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
-  },
-  {
     "id": "01d4e543c941",
     "title": "Sam Altman’s remarks at the United Nations Security Council",
     "source": "OpenAI Blog",
@@ -1328,6 +1370,20 @@
     ],
     "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "cluster_id": "c-5fb57685a5"
+  },
+  {
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
   },
   {
     "id": "f7558dc5c9de",
@@ -1974,20 +2030,6 @@
     "cluster_id": "c-d65ff29b4a"
   },
   {
-    "id": "7a45b185cff5",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "cluster_id": "c-8769ac281e"
-  },
-  {
     "id": "be4a3c542626",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -2000,6 +2042,20 @@
     ],
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "cluster_id": "c-bb81b442aa"
+  },
+  {
+    "id": "7a45b185cff5",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "cluster_id": "c-8769ac281e"
   },
   {
     "id": "0f3b76bc480d",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/atv-big-air-tour",
     "cluster_id": "c-9102eeab47"
-  },
-  {
-    "id": "3b5f2688fec1",
-    "title": "How AI-native companies turn workflows into operating capability",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-01T17:00:00Z",
-    "topic": "ai",
-    "one_liner": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ai-native-company-workflows",
-    "cluster_id": "c-b1fae60dcc"
-  },
-  {
-    "id": "309be27bdcfe",
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-01T13:00:00Z",
-    "topic": "ai",
-    "one_liner": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/path-to-astra",
-    "cluster_id": "c-41f9be8f81"
-  },
-  {
-    "id": "50e05f9b472e",
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-01T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "cluster_id": "c-21c149f358"
-  },
-  {
-    "id": "631a857c7a24",
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-01T01:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gilbert-tobin",
-    "cluster_id": "c-052cf50c67"
   }
 ]

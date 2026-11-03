@@ -1,0 +1,20 @@
+{
+  "id": "de4cf53f9db9",
+  "title": "Scaling Git at OpenAI",
+  "source": "OpenAI Blog",
+  "published_at": "2026-11-02T15:30:00Z",
+  "summary_lines": [
+    "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+  ],
+  "key_points": [
+    "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+  ],
+  "summary_lines_ko": [
+    "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+  ],
+  "key_points_ko": [
+    "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+  ],
+  "url": "https://openai.com/index/scaling-git-at-openai",
+  "related": []
+}

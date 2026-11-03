@@ -1,5 +1,33 @@
 [
   {
+    "id": "26c6032e1d26",
+    "title": "Accelerating engineering for the physical world",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-03T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "cluster_id": "c-449f23792a"
+  },
+  {
+    "id": "08b710f1e780",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-03T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/heimstaden",
+    "cluster_id": "c-2864555542"
+  },
+  {
     "id": "6fd6ad7938fa",
     "title": "Rewarding defenders with bigger bug bounties",
     "source": "OpenAI Blog",
@@ -70,20 +98,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "598c6194c0d3",
-    "title": "Qodo builds context into AI code review with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "cluster_id": "c-7e5c6c3e93"
-  },
-  {
     "id": "ff138f709a7e",
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "source": "OpenAI Blog",
@@ -96,6 +110,20 @@
     ],
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "cluster_id": "c-3b88fbe7b9"
+  },
+  {
+    "id": "598c6194c0d3",
+    "title": "Qodo builds context into AI code review with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "cluster_id": "c-7e5c6c3e93"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -700,20 +728,6 @@
     "cluster_id": "c-bc0cf9104e"
   },
   {
-    "id": "4a2f3ca18eb9",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/benefit-street-partners",
-    "cluster_id": "c-e7d2942a55"
-  },
-  {
     "id": "9db4940a53f8",
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "source": "OpenAI Blog",
@@ -726,6 +740,20 @@
     ],
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "cluster_id": "c-e8d095e780"
+  },
+  {
+    "id": "4a2f3ca18eb9",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/benefit-street-partners",
+    "cluster_id": "c-e7d2942a55"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1204,20 +1232,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cfe8e900401f",
-    "title": "How we will do better for Australia",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "cluster_id": "c-29c9738731"
-  },
-  {
     "id": "cf468ec39dd6",
     "title": "Towards safety cases for frontier AI training",
     "source": "OpenAI Blog",
@@ -1230,6 +1244,20 @@
     ],
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "cluster_id": "c-db7f91a370"
+  },
+  {
+    "id": "cfe8e900401f",
+    "title": "How we will do better for Australia",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "cluster_id": "c-29c9738731"
   },
   {
     "id": "216d56bba26c",
@@ -1246,20 +1274,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "914f14710638",
-    "title": "Are you a Codex Original?",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/form/codex-originals",
-    "cluster_id": "c-8c8541725c"
-  },
-  {
     "id": "bf0fe8cc388a",
     "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -1272,6 +1286,20 @@
     ],
     "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "cluster_id": "c-bf631c98f8"
+  },
+  {
+    "id": "914f14710638",
+    "title": "Are you a Codex Original?",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/form/codex-originals",
+    "cluster_id": "c-8c8541725c"
   },
   {
     "id": "d2d497e5eee4",
@@ -1344,32 +1372,18 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
-  },
-  {
-    "id": "01d4e543c941",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "cluster_id": "c-5fb57685a5"
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "7357353a1f1d",
@@ -1386,18 +1400,32 @@
     "cluster_id": "c-3c4d4ba5fe"
   },
   {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "id": "01d4e543c941",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "cluster_id": "c-5fb57685a5"
+  },
+  {
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "1d5a9cc2d950",
@@ -1512,20 +1540,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "d37f5b2c5927",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "cluster_id": "c-af8cf8abed"
-  },
-  {
     "id": "a7ca59844a94",
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "source": "OpenAI Blog",
@@ -1538,6 +1552,20 @@
     ],
     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "cluster_id": "c-d5feed8d7c"
+  },
+  {
+    "id": "d37f5b2c5927",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "cluster_id": "c-af8cf8abed"
   },
   {
     "id": "2c9792fbb14a",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/gpt-6-astra",
     "cluster_id": "c-e22d5cf342"
-  },
-  {
-    "id": "2e155b11d809",
-    "title": "Safety overview: GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "cluster_id": "c-466e74fe87"
-  },
-  {
-    "id": "b07b0b2b4d66",
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-02T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/atv-big-air-tour",
-    "cluster_id": "c-9102eeab47"
   }
 ]

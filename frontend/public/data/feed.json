@@ -1,5 +1,33 @@
 [
   {
+    "id": "c88b52d0b210",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-05T20:00:00Z",
+    "topic": "ai",
+    "one_liner": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "cluster_id": "c-42f1ed3b44"
+  },
+  {
+    "id": "b58fee4edbbb",
+    "title": "Australian universities are creating AI-native graduates",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-05T17:00:00Z",
+    "topic": "ai",
+    "one_liner": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "cluster_id": "c-0fe2ba7635"
+  },
+  {
     "id": "53c56afbaf05",
     "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
     "source": "OpenAI Blog",
@@ -14,6 +42,20 @@
     "cluster_id": "c-53de24d966"
   },
   {
+    "id": "300d91101f21",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-05T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "cluster_id": "c-1a9232941b"
+  },
+  {
     "id": "f93567576105",
     "title": "Setting a new standard for responsible AI infrastructure",
     "source": "OpenAI Blog",
@@ -26,6 +68,34 @@
     ],
     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "cluster_id": "c-0756e27698"
+  },
+  {
+    "id": "1f9981de5700",
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-05T00:45:15Z",
+    "topic": "ai",
+    "one_liner": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "cluster_id": "c-ce21bbd3e8"
+  },
+  {
+    "id": "c0d7b0808284",
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-05T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/franklin-templeton",
+    "cluster_id": "c-74ffc3d6f5"
   },
   {
     "id": "3a06f84c0f51",
@@ -224,20 +294,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "ff138f709a7e",
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
-    "cluster_id": "c-3b88fbe7b9"
-  },
-  {
     "id": "598c6194c0d3",
     "title": "Qodo builds context into AI code review with Codex",
     "source": "OpenAI Blog",
@@ -250,6 +306,20 @@
     ],
     "url": "https://openai.com/index/qodo-codex-plugin",
     "cluster_id": "c-7e5c6c3e93"
+  },
+  {
+    "id": "ff138f709a7e",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "cluster_id": "c-3b88fbe7b9"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -840,20 +910,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "827221925d8d",
-    "title": "How Localiza reorganized work around generative AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "cluster_id": "c-bc0cf9104e"
-  },
-  {
     "id": "1d7d75b47c31",
     "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
@@ -868,18 +924,18 @@
     "cluster_id": "c-d636a39c4f"
   },
   {
-    "id": "4a2f3ca18eb9",
-    "title": "Benefit Street Partners answers questions faster with Codex",
+    "id": "827221925d8d",
+    "title": "How Localiza reorganized work around generative AI",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/benefit-street-partners",
-    "cluster_id": "c-e7d2942a55"
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "9db4940a53f8",
@@ -894,6 +950,20 @@
     ],
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "cluster_id": "c-e8d095e780"
+  },
+  {
+    "id": "4a2f3ca18eb9",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/benefit-street-partners",
+    "cluster_id": "c-e7d2942a55"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1022,20 +1092,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -1048,6 +1104,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -1372,20 +1442,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cfe8e900401f",
-    "title": "How we will do better for Australia",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "cluster_id": "c-29c9738731"
-  },
-  {
     "id": "cf468ec39dd6",
     "title": "Towards safety cases for frontier AI training",
     "source": "OpenAI Blog",
@@ -1398,6 +1454,20 @@
     ],
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "cluster_id": "c-db7f91a370"
+  },
+  {
+    "id": "cfe8e900401f",
+    "title": "How we will do better for Australia",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "cluster_id": "c-29c9738731"
   },
   {
     "id": "216d56bba26c",
@@ -1512,18 +1582,18 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "id": "01d4e543c941",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "cluster_id": "c-5fb57685a5"
   },
   {
     "id": "f7558dc5c9de",
@@ -1540,18 +1610,18 @@
     "cluster_id": "c-cf181a5d30"
   },
   {
-    "id": "01d4e543c941",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "cluster_id": "c-5fb57685a5"
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "7357353a1f1d",
@@ -1680,20 +1750,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "a7ca59844a94",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "cluster_id": "c-d5feed8d7c"
-  },
-  {
     "id": "d37f5b2c5927",
     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -1706,6 +1762,20 @@
     ],
     "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "cluster_id": "c-af8cf8abed"
+  },
+  {
+    "id": "a7ca59844a94",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "cluster_id": "c-d5feed8d7c"
   },
   {
     "id": "2c9792fbb14a",
@@ -1974,20 +2044,6 @@
     "cluster_id": "c-e6da662d20"
   },
   {
-    "id": "2b26a8066576",
-    "title": "Introducing the Agents API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "cluster_id": "c-5d6bd47912"
-  },
-  {
     "id": "4e410dad70fb",
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "source": "OpenAI Blog",
@@ -2002,18 +2058,18 @@
     "cluster_id": "c-e826f2a3a4"
   },
   {
-    "id": "534907e0d31e",
-    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "id": "2b26a8066576",
+    "title": "Introducing the Agents API",
     "source": "OpenAI Blog",
-    "published_at": "2026-09-09T17:00:00Z",
+    "published_at": "2026-09-10T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "cluster_id": "c-2c3fbf9fdc"
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "cluster_id": "c-5d6bd47912"
   },
   {
     "id": "9786c92a289d",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
     "cluster_id": "c-cb7156f2ab"
-  },
-  {
-    "id": "167bce5d47e7",
-    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-08T17:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/codex-quantum-computing-experiments",
-    "cluster_id": "c-eed1a21fa2"
-  },
-  {
-    "id": "aaada63e998e",
-    "title": "The Work Now Within Reach",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-08T13:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/the-work-now-within-reach",
-    "cluster_id": "c-2636b1f6f4"
-  },
-  {
-    "id": "305f03a4aa6a",
-    "title": "Introducing ChatGPT Images 2.5",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-08T11:30:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "cluster_id": "c-d5bb809ff4"
-  },
-  {
-    "id": "671a9fed35e2",
-    "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-08T11:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "cluster_id": "c-a5ffa888f5"
   }
 ]

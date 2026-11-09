@@ -1,5 +1,61 @@
 [
   {
+    "id": "9c331579e229",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-09T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "cluster_id": "c-3d2bcc15d1"
+  },
+  {
+    "id": "5d57e1aa0817",
+    "title": "Introducing Control Room: Human control over AI workloads",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-09T13:00:00Z",
+    "topic": "ai",
+    "one_liner": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-control-room",
+    "cluster_id": "c-725e838c0b"
+  },
+  {
+    "id": "23b94c697622",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-09T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "cluster_id": "c-2b71620dd0"
+  },
+  {
+    "id": "932fe34bad72",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-09T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/kuken",
+    "cluster_id": "c-4306846de2"
+  },
+  {
     "id": "bc8f9eac1966",
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "source": "OpenAI Blog",
@@ -252,20 +308,6 @@
     "cluster_id": "c-f7f64ed6d2"
   },
   {
-    "id": "262cfa35f430",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "cluster_id": "c-f66852c5b1"
-  },
-  {
     "id": "6fd6ad7938fa",
     "title": "Rewarding defenders with bigger bug bounties",
     "source": "OpenAI Blog",
@@ -278,6 +320,20 @@
     ],
     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "cluster_id": "c-242959d90a"
+  },
+  {
+    "id": "262cfa35f430",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "cluster_id": "c-f66852c5b1"
   },
   {
     "id": "de4cf53f9db9",
@@ -938,20 +994,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "827221925d8d",
-    "title": "How Localiza reorganized work around generative AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "cluster_id": "c-bc0cf9104e"
-  },
-  {
     "id": "1d7d75b47c31",
     "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
@@ -966,18 +1008,18 @@
     "cluster_id": "c-d636a39c4f"
   },
   {
-    "id": "9db4940a53f8",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "id": "827221925d8d",
+    "title": "How Localiza reorganized work around generative AI",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "cluster_id": "c-e8d095e780"
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "4a2f3ca18eb9",
@@ -992,6 +1034,20 @@
     ],
     "url": "https://openai.com/index/benefit-street-partners",
     "cluster_id": "c-e7d2942a55"
+  },
+  {
+    "id": "9db4940a53f8",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "cluster_id": "c-e8d095e780"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1120,20 +1176,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -1146,6 +1188,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -1470,20 +1526,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cf468ec39dd6",
-    "title": "Towards safety cases for frontier AI training",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "cluster_id": "c-db7f91a370"
-  },
-  {
     "id": "cfe8e900401f",
     "title": "How we will do better for Australia",
     "source": "OpenAI Blog",
@@ -1496,6 +1538,20 @@
     ],
     "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "cluster_id": "c-29c9738731"
+  },
+  {
+    "id": "cf468ec39dd6",
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "cluster_id": "c-db7f91a370"
   },
   {
     "id": "216d56bba26c",
@@ -1512,20 +1568,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "bf0fe8cc388a",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "cluster_id": "c-bf631c98f8"
-  },
-  {
     "id": "914f14710638",
     "title": "Are you a Codex Original?",
     "source": "OpenAI Blog",
@@ -1538,6 +1580,20 @@
     ],
     "url": "https://openai.com/form/codex-originals",
     "cluster_id": "c-8c8541725c"
+  },
+  {
+    "id": "bf0fe8cc388a",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "cluster_id": "c-bf631c98f8"
   },
   {
     "id": "d2d497e5eee4",
@@ -1624,6 +1680,20 @@
     "cluster_id": "c-3c4d4ba5fe"
   },
   {
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
+  },
+  {
     "id": "01d4e543c941",
     "title": "Sam Altman’s remarks at the United Nations Security Council",
     "source": "OpenAI Blog",
@@ -1650,20 +1720,6 @@
     ],
     "url": "https://openai.com/index/ringg",
     "cluster_id": "c-ecfdf6020f"
-  },
-  {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "1d5a9cc2d950",
@@ -1778,20 +1834,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "d37f5b2c5927",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "cluster_id": "c-af8cf8abed"
-  },
-  {
     "id": "a7ca59844a94",
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "source": "OpenAI Blog",
@@ -1804,6 +1846,20 @@
     ],
     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "cluster_id": "c-d5feed8d7c"
+  },
+  {
+    "id": "d37f5b2c5927",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "cluster_id": "c-af8cf8abed"
   },
   {
     "id": "2c9792fbb14a",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/put-data-to-work",
     "cluster_id": "c-b4bcd6c10a"
-  },
-  {
-    "id": "016c3ec9b775",
-    "title": "Introducing ChatGPT for Financial Services",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "cluster_id": "c-c92cccaec5"
-  },
-  {
-    "id": "1ef5285e671d",
-    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/expanding-ai-access-us-government",
-    "cluster_id": "c-e6da662d20"
-  },
-  {
-    "id": "2b26a8066576",
-    "title": "Introducing the Agents API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "cluster_id": "c-5d6bd47912"
-  },
-  {
-    "id": "4e410dad70fb",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "cluster_id": "c-e826f2a3a4"
   }
 ]

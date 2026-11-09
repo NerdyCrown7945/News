@@ -1,0 +1,20 @@
+{
+  "id": "5d57e1aa0817",
+  "title": "Introducing Control Room: Human control over AI workloads",
+  "source": "OpenAI Blog",
+  "published_at": "2026-11-09T13:00:00Z",
+  "summary_lines": [
+    "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+  ],
+  "key_points": [
+    "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+  ],
+  "summary_lines_ko": [
+    "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+  ],
+  "key_points_ko": [
+    "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+  ],
+  "url": "https://openai.com/index/introducing-control-room",
+  "related": []
+}

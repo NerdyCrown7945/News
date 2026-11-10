@@ -1,5 +1,61 @@
 [
   {
+    "id": "46ecb159c153",
+    "title": "Helping caregivers use AI in everyday life",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-10T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "cluster_id": "c-cf9fc93ff7"
+  },
+  {
+    "id": "5ca4dc7b6d88",
+    "title": "Introducing Businesses in ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-10T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "cluster_id": "c-b6617d65a7"
+  },
+  {
+    "id": "01a8528fa117",
+    "title": "Closing the AI guidance gap in education",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-10T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "cluster_id": "c-3ecd454c27"
+  },
+  {
+    "id": "3588ceed4155",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-10T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "cluster_id": "c-2310a7e22b"
+  },
+  {
     "id": "9c331579e229",
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
     "source": "OpenAI Blog",
@@ -1176,20 +1232,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -1202,6 +1244,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -1568,20 +1624,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "bf0fe8cc388a",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "cluster_id": "c-bf631c98f8"
-  },
-  {
     "id": "914f14710638",
     "title": "Are you a Codex Original?",
     "source": "OpenAI Blog",
@@ -1594,6 +1636,20 @@
     ],
     "url": "https://openai.com/form/codex-originals",
     "cluster_id": "c-8c8541725c"
+  },
+  {
+    "id": "bf0fe8cc388a",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "cluster_id": "c-bf631c98f8"
   },
   {
     "id": "d2d497e5eee4",
@@ -1680,20 +1736,6 @@
     "cluster_id": "c-5fb57685a5"
   },
   {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
-  },
-  {
     "id": "7357353a1f1d",
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "source": "OpenAI Blog",
@@ -1706,6 +1748,20 @@
     ],
     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "cluster_id": "c-3c4d4ba5fe"
+  },
+  {
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "7cff1964bf19",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/fyxer",
     "cluster_id": "c-d66c55132d"
-  },
-  {
-    "id": "12e9dd685180",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-14T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "cluster_id": "c-5668afd1f2"
-  },
-  {
-    "id": "c3aa33826442",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-11T16:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "cluster_id": "c-83a513c4de"
-  },
-  {
-    "id": "014159943e4d",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T16:00:00Z",
-    "topic": "ai",
-    "one_liner": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "cluster_id": "c-3603feb9c9"
-  },
-  {
-    "id": "4d4e7920d8a7",
-    "title": "Now everyone can put data to work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T15:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet the Data agent in ChatGPT Work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/put-data-to-work",
-    "cluster_id": "c-b4bcd6c10a"
   }
 ]

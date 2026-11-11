@@ -14,6 +14,34 @@
     "cluster_id": "c-7a9090a60b"
   },
   {
+    "id": "80b38ea7da37",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-11T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "cluster_id": "c-2773495a7f"
+  },
+  {
+    "id": "8c999d6885d2",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-11T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "cluster_id": "c-9cc002830d"
+  },
+  {
     "id": "46ecb159c153",
     "title": "Helping caregivers use AI in everyday life",
     "source": "OpenAI Blog",
@@ -56,6 +84,20 @@
     "cluster_id": "c-3ecd454c27"
   },
   {
+    "id": "4e3e5904c85a",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-10T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "cluster_id": "c-f42962f60b"
+  },
+  {
     "id": "3588ceed4155",
     "title": "Work at the Frontier: AI’s effect on freelance work",
     "source": "OpenAI Blog",
@@ -68,6 +110,20 @@
     ],
     "url": "https://openai.com/index/ai-effect-on-freelance-work",
     "cluster_id": "c-2310a7e22b"
+  },
+  {
+    "id": "1ff74ee2cb10",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-10T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/cogent-security",
+    "cluster_id": "c-11e173378c"
   },
   {
     "id": "9c331579e229",
@@ -378,20 +434,6 @@
     "cluster_id": "c-f7f64ed6d2"
   },
   {
-    "id": "262cfa35f430",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "cluster_id": "c-f66852c5b1"
-  },
-  {
     "id": "6fd6ad7938fa",
     "title": "Rewarding defenders with bigger bug bounties",
     "source": "OpenAI Blog",
@@ -404,6 +446,20 @@
     ],
     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "cluster_id": "c-242959d90a"
+  },
+  {
+    "id": "262cfa35f430",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "cluster_id": "c-f66852c5b1"
   },
   {
     "id": "de4cf53f9db9",
@@ -448,20 +504,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "598c6194c0d3",
-    "title": "Qodo builds context into AI code review with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "cluster_id": "c-7e5c6c3e93"
-  },
-  {
     "id": "ff138f709a7e",
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "source": "OpenAI Blog",
@@ -474,6 +516,20 @@
     ],
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "cluster_id": "c-3b88fbe7b9"
+  },
+  {
+    "id": "598c6194c0d3",
+    "title": "Qodo builds context into AI code review with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "cluster_id": "c-7e5c6c3e93"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -1246,20 +1302,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -1272,6 +1314,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -1764,20 +1820,6 @@
     "cluster_id": "c-3c4d4ba5fe"
   },
   {
-    "id": "01d4e543c941",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "cluster_id": "c-5fb57685a5"
-  },
-  {
     "id": "7cff1964bf19",
     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
@@ -1790,6 +1832,20 @@
     ],
     "url": "https://openai.com/index/ringg",
     "cluster_id": "c-ecfdf6020f"
+  },
+  {
+    "id": "01d4e543c941",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "cluster_id": "c-5fb57685a5"
   },
   {
     "id": "1d5a9cc2d950",
@@ -1904,20 +1960,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "d37f5b2c5927",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "cluster_id": "c-af8cf8abed"
-  },
-  {
     "id": "a7ca59844a94",
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "source": "OpenAI Blog",
@@ -1930,6 +1972,20 @@
     ],
     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "cluster_id": "c-d5feed8d7c"
+  },
+  {
+    "id": "d37f5b2c5927",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "cluster_id": "c-af8cf8abed"
   },
   {
     "id": "2c9792fbb14a",
@@ -2016,20 +2072,6 @@
     "cluster_id": "c-b8381f7484"
   },
   {
-    "id": "bbe6c30a33c9",
-    "title": "Our framework for reporting model misalignment",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-16T17:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/model-misalignment-reporting-framework",
-    "cluster_id": "c-d297cda731"
-  },
-  {
     "id": "027811ca1632",
     "title": "Helping older adults use AI in everyday life",
     "source": "OpenAI Blog",
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/reimagining-advertising-with-ai",
     "cluster_id": "c-11c1cfe4a9"
-  },
-  {
-    "id": "973a91148c50",
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-16T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/hex-gpt-6-astra",
-    "cluster_id": "c-daa8e03c9b"
-  },
-  {
-    "id": "5f7e182a53f2",
-    "title": "How to connect AI usage to business value",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-16T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "cluster_id": "c-e5ecab4b64"
-  },
-  {
-    "id": "71646fffd914",
-    "title": "How workers are unlocking new ways of working",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-16T09:00:00Z",
-    "topic": "ai",
-    "one_liner": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/unlocking-new-ways-of-working",
-    "cluster_id": "c-0ce0f53f27"
   }
 ]

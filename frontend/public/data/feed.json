@@ -1,5 +1,19 @@
 [
   {
+    "id": "5bf4951adbe9",
+    "title": "Introducing ChatGPT Wallet",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-13T15:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "cluster_id": "c-f6a134f61e"
+  },
+  {
     "id": "5b0f73df89a6",
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "source": "OpenAI Blog",
@@ -490,20 +504,6 @@
     "cluster_id": "c-f7f64ed6d2"
   },
   {
-    "id": "262cfa35f430",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "cluster_id": "c-f66852c5b1"
-  },
-  {
     "id": "6fd6ad7938fa",
     "title": "Rewarding defenders with bigger bug bounties",
     "source": "OpenAI Blog",
@@ -516,6 +516,20 @@
     ],
     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "cluster_id": "c-242959d90a"
+  },
+  {
+    "id": "262cfa35f430",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "cluster_id": "c-f66852c5b1"
   },
   {
     "id": "de4cf53f9db9",
@@ -1204,20 +1218,6 @@
     "cluster_id": "c-bc0cf9104e"
   },
   {
-    "id": "4a2f3ca18eb9",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/benefit-street-partners",
-    "cluster_id": "c-e7d2942a55"
-  },
-  {
     "id": "9db4940a53f8",
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "source": "OpenAI Blog",
@@ -1230,6 +1230,20 @@
     ],
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "cluster_id": "c-e8d095e780"
+  },
+  {
+    "id": "4a2f3ca18eb9",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/benefit-street-partners",
+    "cluster_id": "c-e7d2942a55"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1708,20 +1722,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cfe8e900401f",
-    "title": "How we will do better for Australia",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "cluster_id": "c-29c9738731"
-  },
-  {
     "id": "cf468ec39dd6",
     "title": "Towards safety cases for frontier AI training",
     "source": "OpenAI Blog",
@@ -1734,6 +1734,20 @@
     ],
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "cluster_id": "c-db7f91a370"
+  },
+  {
+    "id": "cfe8e900401f",
+    "title": "How we will do better for Australia",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "cluster_id": "c-29c9738731"
   },
   {
     "id": "216d56bba26c",
@@ -1750,20 +1764,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "bf0fe8cc388a",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "cluster_id": "c-bf631c98f8"
-  },
-  {
     "id": "914f14710638",
     "title": "Are you a Codex Original?",
     "source": "OpenAI Blog",
@@ -1776,6 +1776,20 @@
     ],
     "url": "https://openai.com/form/codex-originals",
     "cluster_id": "c-8c8541725c"
+  },
+  {
+    "id": "bf0fe8cc388a",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "cluster_id": "c-bf631c98f8"
   },
   {
     "id": "d2d497e5eee4",
@@ -2016,20 +2030,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "d37f5b2c5927",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "cluster_id": "c-af8cf8abed"
-  },
-  {
     "id": "a7ca59844a94",
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "source": "OpenAI Blog",
@@ -2042,6 +2042,20 @@
     ],
     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "cluster_id": "c-d5feed8d7c"
+  },
+  {
+    "id": "d37f5b2c5927",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-21T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "cluster_id": "c-af8cf8abed"
   },
   {
     "id": "2c9792fbb14a",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/v7",
     "cluster_id": "c-db6a8b19c2"
-  },
-  {
-    "id": "559b0cf11197",
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-18T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/australian-youth-safety-blueprint",
-    "cluster_id": "c-9e587d69f6"
   }
 ]

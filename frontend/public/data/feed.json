@@ -14,6 +14,20 @@
     "cluster_id": "c-f6a134f61e"
   },
   {
+    "id": "d1318183fe17",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-13T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Shield uses OpenAI to help IT technicians hand off work in legacy portals.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/customer-stories/shield",
+    "cluster_id": "c-058835e957"
+  },
+  {
     "id": "5b0f73df89a6",
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "source": "OpenAI Blog",
@@ -1190,20 +1204,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "1d7d75b47c31",
-    "title": "How Grupo Boticário uses AI to strengthen human connections",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/grupo-boticario",
-    "cluster_id": "c-d636a39c4f"
-  },
-  {
     "id": "827221925d8d",
     "title": "How Localiza reorganized work around generative AI",
     "source": "OpenAI Blog",
@@ -1216,6 +1216,20 @@
     ],
     "url": "https://openai.com/index/localiza-generative-ai",
     "cluster_id": "c-bc0cf9104e"
+  },
+  {
+    "id": "1d7d75b47c31",
+    "title": "How Grupo Boticário uses AI to strengthen human connections",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/grupo-boticario",
+    "cluster_id": "c-d636a39c4f"
   },
   {
     "id": "9db4940a53f8",
@@ -1372,20 +1386,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -1398,6 +1398,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -1890,20 +1904,6 @@
     "cluster_id": "c-5fb57685a5"
   },
   {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
-  },
-  {
     "id": "7cff1964bf19",
     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
@@ -1916,6 +1916,20 @@
     ],
     "url": "https://openai.com/index/ringg",
     "cluster_id": "c-ecfdf6020f"
+  },
+  {
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   },
   {
     "id": "1d5a9cc2d950",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
     "cluster_id": "c-9686996a4e"
-  },
-  {
-    "id": "d1749ba76a98",
-    "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/v7",
-    "cluster_id": "c-db6a8b19c2"
   }
 ]

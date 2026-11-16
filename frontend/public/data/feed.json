@@ -1,5 +1,131 @@
 [
   {
+    "id": "f26f2a4dfd6b",
+    "title": "Broadening access to AI for scientists",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T17:00:00Z",
+    "topic": "ai",
+    "one_liner": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "cluster_id": "c-ab9ff76ce0"
+  },
+  {
+    "id": "b1c71d07875a",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T17:00:00Z",
+    "topic": "ai",
+    "one_liner": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "cluster_id": "c-6504f70e54"
+  },
+  {
+    "id": "f891bd93f3d2",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore how more than 1,800 scientists use ChatGPT in research.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "cluster_id": "c-43c39af128"
+  },
+  {
+    "id": "91e58e2ea930",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T09:00:00Z",
+    "topic": "ai",
+    "one_liner": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "cluster_id": "c-52b3308c6a"
+  },
+  {
+    "id": "ebd9eb949639",
+    "title": "Our first phase of embedded assessments",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "cluster_id": "c-0b1075df1c"
+  },
+  {
+    "id": "b0ded74e06b0",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "Advancing computer-use agents for healthcare teams",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "cluster_id": "c-899c239f57"
+  },
+  {
+    "id": "cfcc7acb02e9",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "cluster_id": "c-3324354aa4"
+  },
+  {
+    "id": "e3915f7e4cf0",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "cluster_id": "c-1d224dc0b1"
+  },
+  {
+    "id": "3899b6e8ee3c",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "cluster_id": "c-6ad159fe4b"
+  },
+  {
     "id": "87d7014c15ee",
     "title": "A step toward defining the Standard Model on a lattice",
     "source": "OpenAI Blog",
@@ -616,20 +742,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "ff138f709a7e",
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
-    "cluster_id": "c-3b88fbe7b9"
-  },
-  {
     "id": "598c6194c0d3",
     "title": "Qodo builds context into AI code review with Codex",
     "source": "OpenAI Blog",
@@ -642,6 +754,20 @@
     ],
     "url": "https://openai.com/index/qodo-codex-plugin",
     "cluster_id": "c-7e5c6c3e93"
+  },
+  {
+    "id": "ff138f709a7e",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "cluster_id": "c-3b88fbe7b9"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -1232,20 +1358,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "827221925d8d",
-    "title": "How Localiza reorganized work around generative AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "cluster_id": "c-bc0cf9104e"
-  },
-  {
     "id": "1d7d75b47c31",
     "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
@@ -1258,6 +1370,20 @@
     ],
     "url": "https://openai.com/index/grupo-boticario",
     "cluster_id": "c-d636a39c4f"
+  },
+  {
+    "id": "827221925d8d",
+    "title": "How Localiza reorganized work around generative AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "9db4940a53f8",
@@ -1414,20 +1540,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -1440,6 +1552,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -1764,20 +1890,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cfe8e900401f",
-    "title": "How we will do better for Australia",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "cluster_id": "c-29c9738731"
-  },
-  {
     "id": "cf468ec39dd6",
     "title": "Towards safety cases for frontier AI training",
     "source": "OpenAI Blog",
@@ -1790,6 +1902,20 @@
     ],
     "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "cluster_id": "c-db7f91a370"
+  },
+  {
+    "id": "cfe8e900401f",
+    "title": "How we will do better for Australia",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "cluster_id": "c-29c9738731"
   },
   {
     "id": "216d56bba26c",
@@ -1904,34 +2030,6 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
-  },
-  {
-    "id": "01d4e543c941",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "cluster_id": "c-5fb57685a5"
-  },
-  {
     "id": "f7558dc5c9de",
     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -1960,6 +2058,34 @@
     "cluster_id": "c-ecfdf6020f"
   },
   {
+    "id": "01d4e543c941",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "cluster_id": "c-5fb57685a5"
+  },
+  {
+    "id": "7357353a1f1d",
+    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "cluster_id": "c-3c4d4ba5fe"
+  },
+  {
     "id": "1d5a9cc2d950",
     "title": "Introducing MentalHealthBench",
     "source": "OpenAI Blog",
@@ -1972,131 +2098,5 @@
     ],
     "url": "https://openai.com/index/introducing-mentalhealthbench",
     "cluster_id": "c-ce34ce4213"
-  },
-  {
-    "id": "1dd9ce125c6e",
-    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T02:00:00Z",
-    "topic": "ai",
-    "one_liner": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "cluster_id": "c-a673bd921a"
-  },
-  {
-    "id": "73fafdf6f45f",
-    "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T01:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/airbnb-gpt-6-astra",
-    "cluster_id": "c-2b47136fc3"
-  },
-  {
-    "id": "09a0c6dbf1c6",
-    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "cluster_id": "c-11e44d0705"
-  },
-  {
-    "id": "b6b1e4118cdb",
-    "title": "Better prompt caching for GPT-6",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-22T21:00:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "cluster_id": "c-3b654c0913"
-  },
-  {
-    "id": "3d48e529ad7a",
-    "title": "Introducing GPT-6 Sol and Luna",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-22T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "cluster_id": "c-875d7b1186"
-  },
-  {
-    "id": "ce45d8dc0f6c",
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-22T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "cluster_id": "c-14005aa644"
-  },
-  {
-    "id": "b4fb82cc1313",
-    "title": "Priorities and principles for effective third party assessments",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-22T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "cluster_id": "c-da331c917b"
-  },
-  {
-    "id": "d37f5b2c5927",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "cluster_id": "c-af8cf8abed"
-  },
-  {
-    "id": "a7ca59844a94",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "cluster_id": "c-d5feed8d7c"
   }
 ]

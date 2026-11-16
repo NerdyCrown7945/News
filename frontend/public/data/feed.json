@@ -1,5 +1,33 @@
 [
   {
+    "id": "87d7014c15ee",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-15T22:00:01Z",
+    "topic": "ai",
+    "one_liner": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "cluster_id": "c-fe558ce0f7"
+  },
+  {
+    "id": "4b0fc5b701ff",
+    "title": "Our new blog for science",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-15T22:00:00Z",
+    "topic": "ai",
+    "one_liner": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "cluster_id": "c-9ee7e1a8c7"
+  },
+  {
     "id": "5bf4951adbe9",
     "title": "Introducing ChatGPT Wallet",
     "source": "OpenAI Blog",
@@ -588,20 +616,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "598c6194c0d3",
-    "title": "Qodo builds context into AI code review with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "cluster_id": "c-7e5c6c3e93"
-  },
-  {
     "id": "ff138f709a7e",
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "source": "OpenAI Blog",
@@ -614,6 +628,20 @@
     ],
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "cluster_id": "c-3b88fbe7b9"
+  },
+  {
+    "id": "598c6194c0d3",
+    "title": "Qodo builds context into AI code review with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "cluster_id": "c-7e5c6c3e93"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -1386,20 +1414,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "edd58468d564",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sophos",
-    "cluster_id": "c-7ab6ec4f67"
-  },
-  {
     "id": "90995f7dbc9c",
     "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
     "source": "OpenAI Blog",
@@ -1412,6 +1426,20 @@
     ],
     "url": "https://openai.com/index/asana-browser-agent",
     "cluster_id": "c-4b18fbfd31"
+  },
+  {
+    "id": "edd58468d564",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sophos",
+    "cluster_id": "c-7ab6ec4f67"
   },
   {
     "id": "112b5f00879d",
@@ -1736,20 +1764,6 @@
     "cluster_id": "c-8571e7c506"
   },
   {
-    "id": "cf468ec39dd6",
-    "title": "Towards safety cases for frontier AI training",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "cluster_id": "c-db7f91a370"
-  },
-  {
     "id": "cfe8e900401f",
     "title": "How we will do better for Australia",
     "source": "OpenAI Blog",
@@ -1762,6 +1776,20 @@
     ],
     "url": "https://openai.com/index/how-we-will-do-better-for-australia",
     "cluster_id": "c-29c9738731"
+  },
+  {
+    "id": "cf468ec39dd6",
+    "title": "Towards safety cases for frontier AI training",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T19:00:00Z",
+    "topic": "ai",
+    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "cluster_id": "c-db7f91a370"
   },
   {
     "id": "216d56bba26c",
@@ -1904,20 +1932,6 @@
     "cluster_id": "c-5fb57685a5"
   },
   {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
-  },
-  {
     "id": "f7558dc5c9de",
     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -1930,6 +1944,20 @@
     ],
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "cluster_id": "c-cf181a5d30"
+  },
+  {
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
   },
   {
     "id": "1d5a9cc2d950",
@@ -2044,20 +2072,6 @@
     "cluster_id": "c-da331c917b"
   },
   {
-    "id": "a7ca59844a94",
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "cluster_id": "c-d5feed8d7c"
-  },
-  {
     "id": "d37f5b2c5927",
     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -2072,31 +2086,17 @@
     "cluster_id": "c-af8cf8abed"
   },
   {
-    "id": "2c9792fbb14a",
-    "title": "Building standards for the next phase of AI",
+    "id": "a7ca59844a94",
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "source": "OpenAI Blog",
-    "published_at": "2026-09-21T10:00:00Z",
+    "published_at": "2026-09-21T12:00:00Z",
     "topic": "ai",
-    "one_liner": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "one_liner": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/building-standards-next-phase-ai",
-    "cluster_id": "c-bc7adeea2a"
-  },
-  {
-    "id": "530db518a73a",
-    "title": "Expanding OpenAI Academy with new learning paths",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-21T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-    "cluster_id": "c-9686996a4e"
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "cluster_id": "c-d5feed8d7c"
   }
 ]

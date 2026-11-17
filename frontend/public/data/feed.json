@@ -42,6 +42,20 @@
     "cluster_id": "c-43c39af128"
   },
   {
+    "id": "f054a54f8228",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T09:30:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "cluster_id": "c-225ff9183b"
+  },
+  {
     "id": "91e58e2ea930",
     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
     "source": "OpenAI Blog",
@@ -672,20 +686,6 @@
     "cluster_id": "c-f7f64ed6d2"
   },
   {
-    "id": "6fd6ad7938fa",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "cluster_id": "c-242959d90a"
-  },
-  {
     "id": "262cfa35f430",
     "title": "Preparing our next security sprint to harden OpenAI",
     "source": "OpenAI Blog",
@@ -698,6 +698,20 @@
     ],
     "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "cluster_id": "c-f66852c5b1"
+  },
+  {
+    "id": "6fd6ad7938fa",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "cluster_id": "c-242959d90a"
   },
   {
     "id": "de4cf53f9db9",
@@ -742,20 +756,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "598c6194c0d3",
-    "title": "Qodo builds context into AI code review with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "cluster_id": "c-7e5c6c3e93"
-  },
-  {
     "id": "ff138f709a7e",
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "source": "OpenAI Blog",
@@ -768,6 +768,20 @@
     ],
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "cluster_id": "c-3b88fbe7b9"
+  },
+  {
+    "id": "598c6194c0d3",
+    "title": "Qodo builds context into AI code review with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "cluster_id": "c-7e5c6c3e93"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -1386,20 +1400,6 @@
     "cluster_id": "c-bc0cf9104e"
   },
   {
-    "id": "9db4940a53f8",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "cluster_id": "c-e8d095e780"
-  },
-  {
     "id": "4a2f3ca18eb9",
     "title": "Benefit Street Partners answers questions faster with Codex",
     "source": "OpenAI Blog",
@@ -1412,6 +1412,20 @@
     ],
     "url": "https://openai.com/index/benefit-street-partners",
     "cluster_id": "c-e7d2942a55"
+  },
+  {
+    "id": "9db4940a53f8",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "cluster_id": "c-e8d095e780"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1932,20 +1946,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "914f14710638",
-    "title": "Are you a Codex Original?",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/form/codex-originals",
-    "cluster_id": "c-8c8541725c"
-  },
-  {
     "id": "bf0fe8cc388a",
     "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -1958,6 +1958,20 @@
     ],
     "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "cluster_id": "c-bf631c98f8"
+  },
+  {
+    "id": "914f14710638",
+    "title": "Are you a Codex Original?",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/form/codex-originals",
+    "cluster_id": "c-8c8541725c"
   },
   {
     "id": "d2d497e5eee4",
@@ -2030,34 +2044,6 @@
     "cluster_id": "c-9758041fb0"
   },
   {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
-  },
-  {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
-  },
-  {
     "id": "01d4e543c941",
     "title": "Sam Altman’s remarks at the United Nations Security Council",
     "source": "OpenAI Blog",
@@ -2086,17 +2072,31 @@
     "cluster_id": "c-3c4d4ba5fe"
   },
   {
-    "id": "1d5a9cc2d950",
-    "title": "Introducing MentalHealthBench",
+    "id": "7cff1964bf19",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "source": "OpenAI Blog",
-    "published_at": "2026-09-23T10:00:00Z",
+    "published_at": "2026-09-23T12:00:00Z",
     "topic": "ai",
-    "one_liner": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/introducing-mentalhealthbench",
-    "cluster_id": "c-ce34ce4213"
+    "url": "https://openai.com/index/ringg",
+    "cluster_id": "c-ecfdf6020f"
+  },
+  {
+    "id": "f7558dc5c9de",
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "cluster_id": "c-cf181a5d30"
   }
 ]

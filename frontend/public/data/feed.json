@@ -1,5 +1,61 @@
 [
   {
+    "id": "549a77347d5e",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T17:45:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "cluster_id": "c-8fa79bf08f"
+  },
+  {
+    "id": "590cb0b9c5dd",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "cluster_id": "c-134adf0086"
+  },
+  {
+    "id": "58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "cluster_id": "c-bd5c951bdd"
+  },
+  {
+    "id": "0604bc2b50fc",
+    "title": "Astra for Law leads in legal intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/astra-law-6-2",
+    "cluster_id": "c-da58894d6d"
+  },
+  {
     "id": "f26f2a4dfd6b",
     "title": "Broadening access to AI for scientists",
     "source": "OpenAI Blog",
@@ -252,6 +308,20 @@
     "cluster_id": "c-2ad45e751c"
   },
   {
+    "id": "a045ec708b22",
+    "title": "ChatGPT Ads increases its market presence in 44 countries",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-12T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+    "cluster_id": "c-7fa161e28f"
+  },
+  {
     "id": "f28f90d2895a",
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "source": "OpenAI Blog",
@@ -432,6 +502,20 @@
     ],
     "url": "https://openai.com/index/kuken",
     "cluster_id": "c-4306846de2"
+  },
+  {
+    "id": "041eb172e023",
+    "title": "How VistaPrint helps small businesses get the word out",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-09T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/ads/customers/vistaprint",
+    "cluster_id": "c-593069e6cc"
   },
   {
     "id": "bc8f9eac1966",
@@ -756,20 +840,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "ff138f709a7e",
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
-    "cluster_id": "c-3b88fbe7b9"
-  },
-  {
     "id": "598c6194c0d3",
     "title": "Qodo builds context into AI code review with Codex",
     "source": "OpenAI Blog",
@@ -782,6 +852,20 @@
     ],
     "url": "https://openai.com/index/qodo-codex-plugin",
     "cluster_id": "c-7e5c6c3e93"
+  },
+  {
+    "id": "ff138f709a7e",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "cluster_id": "c-3b88fbe7b9"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -1372,20 +1456,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "1d7d75b47c31",
-    "title": "How Grupo Boticário uses AI to strengthen human connections",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/grupo-boticario",
-    "cluster_id": "c-d636a39c4f"
-  },
-  {
     "id": "827221925d8d",
     "title": "How Localiza reorganized work around generative AI",
     "source": "OpenAI Blog",
@@ -1400,18 +1470,18 @@
     "cluster_id": "c-bc0cf9104e"
   },
   {
-    "id": "4a2f3ca18eb9",
-    "title": "Benefit Street Partners answers questions faster with Codex",
+    "id": "1d7d75b47c31",
+    "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "one_liner": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/benefit-street-partners",
-    "cluster_id": "c-e7d2942a55"
+    "url": "https://openai.com/index/grupo-boticario",
+    "cluster_id": "c-d636a39c4f"
   },
   {
     "id": "9db4940a53f8",
@@ -1426,6 +1496,20 @@
     ],
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "cluster_id": "c-e8d095e780"
+  },
+  {
+    "id": "4a2f3ca18eb9",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/benefit-street-partners",
+    "cluster_id": "c-e7d2942a55"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1946,20 +2030,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "bf0fe8cc388a",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "cluster_id": "c-bf631c98f8"
-  },
-  {
     "id": "914f14710638",
     "title": "Are you a Codex Original?",
     "source": "OpenAI Blog",
@@ -1972,6 +2042,20 @@
     ],
     "url": "https://openai.com/form/codex-originals",
     "cluster_id": "c-8c8541725c"
+  },
+  {
+    "id": "bf0fe8cc388a",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "cluster_id": "c-bf631c98f8"
   },
   {
     "id": "d2d497e5eee4",
@@ -2014,89 +2098,5 @@
     ],
     "url": "https://openai.com/index/wayfair",
     "cluster_id": "c-7fd4d1fa5d"
-  },
-  {
-    "id": "9d02eeb8cef1",
-    "title": "Two years of OpenAI Academy",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T16:00:00Z",
-    "topic": "ai",
-    "one_liner": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/two-years-of-openai-academy",
-    "cluster_id": "c-a191c72331"
-  },
-  {
-    "id": "1d77064cbebb",
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T13:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "cluster_id": "c-9758041fb0"
-  },
-  {
-    "id": "01d4e543c941",
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "cluster_id": "c-5fb57685a5"
-  },
-  {
-    "id": "7357353a1f1d",
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "cluster_id": "c-3c4d4ba5fe"
-  },
-  {
-    "id": "7cff1964bf19",
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/ringg",
-    "cluster_id": "c-ecfdf6020f"
-  },
-  {
-    "id": "f7558dc5c9de",
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "cluster_id": "c-cf181a5d30"
   }
 ]

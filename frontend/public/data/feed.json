@@ -14,6 +14,20 @@
     "cluster_id": "c-8fa79bf08f"
   },
   {
+    "id": "c6c361c53bc4",
+    "title": "Introducing ChatGPT for Sales",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "cluster_id": "c-2f15f42c3a"
+  },
+  {
     "id": "590cb0b9c5dd",
     "title": "Strengthening NATO and allied cyber defenses with AI",
     "source": "OpenAI Blog",
@@ -28,20 +42,6 @@
     "cluster_id": "c-134adf0086"
   },
   {
-    "id": "58da9c66b145",
-    "title": "Introducing OpenAI for Chile",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-17T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-openai-for-chile",
-    "cluster_id": "c-bd5c951bdd"
-  },
-  {
     "id": "0604bc2b50fc",
     "title": "Astra for Law leads in legal intelligence",
     "source": "OpenAI Blog",
@@ -54,6 +54,20 @@
     ],
     "url": "https://openai.com/index/astra-law-6-2",
     "cluster_id": "c-da58894d6d"
+  },
+  {
+    "id": "58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "cluster_id": "c-bd5c951bdd"
   },
   {
     "id": "f26f2a4dfd6b",
@@ -140,20 +154,6 @@
     "cluster_id": "c-0b1075df1c"
   },
   {
-    "id": "b0ded74e06b0",
-    "title": "Advancing computer-use agents for healthcare teams",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-16T06:00:00Z",
-    "topic": "ai",
-    "one_liner": "Advancing computer-use agents for healthcare teams",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "cluster_id": "c-899c239f57"
-  },
-  {
     "id": "cfcc7acb02e9",
     "title": "More ways to move care forward with ChatGPT for Healthcare",
     "source": "OpenAI Blog",
@@ -166,6 +166,20 @@
     ],
     "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "cluster_id": "c-3324354aa4"
+  },
+  {
+    "id": "b0ded74e06b0",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "Advancing computer-use agents for healthcare teams",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "cluster_id": "c-899c239f57"
   },
   {
     "id": "e3915f7e4cf0",
@@ -770,20 +784,6 @@
     "cluster_id": "c-f7f64ed6d2"
   },
   {
-    "id": "262cfa35f430",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "cluster_id": "c-f66852c5b1"
-  },
-  {
     "id": "6fd6ad7938fa",
     "title": "Rewarding defenders with bigger bug bounties",
     "source": "OpenAI Blog",
@@ -796,6 +796,20 @@
     ],
     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "cluster_id": "c-242959d90a"
+  },
+  {
+    "id": "262cfa35f430",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "cluster_id": "c-f66852c5b1"
   },
   {
     "id": "de4cf53f9db9",
@@ -1638,20 +1652,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "edd58468d564",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sophos",
-    "cluster_id": "c-7ab6ec4f67"
-  },
-  {
     "id": "90995f7dbc9c",
     "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
     "source": "OpenAI Blog",
@@ -1664,6 +1664,20 @@
     ],
     "url": "https://openai.com/index/asana-browser-agent",
     "cluster_id": "c-4b18fbfd31"
+  },
+  {
+    "id": "edd58468d564",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sophos",
+    "cluster_id": "c-7ab6ec4f67"
   },
   {
     "id": "112b5f00879d",
@@ -2030,20 +2044,6 @@
     "cluster_id": "c-c1f85a3e19"
   },
   {
-    "id": "914f14710638",
-    "title": "Are you a Codex Original?",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/form/codex-originals",
-    "cluster_id": "c-8c8541725c"
-  },
-  {
     "id": "bf0fe8cc388a",
     "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
     "source": "OpenAI Blog",
@@ -2056,6 +2056,20 @@
     ],
     "url": "https://openai.com/index/basis-tax-workbook-with-astra",
     "cluster_id": "c-bf631c98f8"
+  },
+  {
+    "id": "914f14710638",
+    "title": "Are you a Codex Original?",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-28T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/form/codex-originals",
+    "cluster_id": "c-8c8541725c"
   },
   {
     "id": "d2d497e5eee4",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/lowes",
     "cluster_id": "c-b6e85c3c63"
-  },
-  {
-    "id": "69f2b5ec7d18",
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-25T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/wayfair",
-    "cluster_id": "c-7fd4d1fa5d"
   }
 ]

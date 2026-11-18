@@ -1,5 +1,61 @@
 [
   {
+    "id": "53f2a14376dd",
+    "title": "Inside the Codex sandbox",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/inside-the-codex-sandbox",
+    "cluster_id": "c-8d28b2e0e9"
+  },
+  {
+    "id": "e683d40fba10",
+    "title": "The Silent Consensus",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-silent-consensus",
+    "cluster_id": "c-50ae503e4a"
+  },
+  {
+    "id": "c7d3ecb00643",
+    "title": "Advancing chip design with OpenAI models",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "cluster_id": "c-3e754ad87f"
+  },
+  {
+    "id": "6cab9c8cd383",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "cluster_id": "c-371d9c15ed"
+  },
+  {
     "id": "549a77347d5e",
     "title": "Introducing GPT-6.2 Astra and Sol",
     "source": "OpenAI Blog",
@@ -42,20 +98,6 @@
     "cluster_id": "c-134adf0086"
   },
   {
-    "id": "0604bc2b50fc",
-    "title": "Astra for Law leads in legal intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-17T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/astra-law-6-2",
-    "cluster_id": "c-da58894d6d"
-  },
-  {
     "id": "58da9c66b145",
     "title": "Introducing OpenAI for Chile",
     "source": "OpenAI Blog",
@@ -68,6 +110,20 @@
     ],
     "url": "https://openai.com/index/introducing-openai-for-chile",
     "cluster_id": "c-bd5c951bdd"
+  },
+  {
+    "id": "0604bc2b50fc",
+    "title": "Astra for Law leads in legal intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/astra-law-6-2",
+    "cluster_id": "c-da58894d6d"
   },
   {
     "id": "f26f2a4dfd6b",
@@ -154,20 +210,6 @@
     "cluster_id": "c-0b1075df1c"
   },
   {
-    "id": "cfcc7acb02e9",
-    "title": "More ways to move care forward with ChatGPT for Healthcare",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-16T06:00:00Z",
-    "topic": "ai",
-    "one_liner": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-    "cluster_id": "c-3324354aa4"
-  },
-  {
     "id": "b0ded74e06b0",
     "title": "Advancing computer-use agents for healthcare teams",
     "source": "OpenAI Blog",
@@ -180,6 +222,20 @@
     ],
     "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
     "cluster_id": "c-899c239f57"
+  },
+  {
+    "id": "cfcc7acb02e9",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "cluster_id": "c-3324354aa4"
   },
   {
     "id": "e3915f7e4cf0",
@@ -784,20 +840,6 @@
     "cluster_id": "c-f7f64ed6d2"
   },
   {
-    "id": "6fd6ad7938fa",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "cluster_id": "c-242959d90a"
-  },
-  {
     "id": "262cfa35f430",
     "title": "Preparing our next security sprint to harden OpenAI",
     "source": "OpenAI Blog",
@@ -810,6 +852,20 @@
     ],
     "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "cluster_id": "c-f66852c5b1"
+  },
+  {
+    "id": "6fd6ad7938fa",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "cluster_id": "c-242959d90a"
   },
   {
     "id": "de4cf53f9db9",
@@ -1470,20 +1526,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "827221925d8d",
-    "title": "How Localiza reorganized work around generative AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "cluster_id": "c-bc0cf9104e"
-  },
-  {
     "id": "1d7d75b47c31",
     "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
@@ -1496,6 +1538,20 @@
     ],
     "url": "https://openai.com/index/grupo-boticario",
     "cluster_id": "c-d636a39c4f"
+  },
+  {
+    "id": "827221925d8d",
+    "title": "How Localiza reorganized work around generative AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "9db4940a53f8",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
     "cluster_id": "c-c1f85a3e19"
-  },
-  {
-    "id": "bf0fe8cc388a",
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "cluster_id": "c-bf631c98f8"
-  },
-  {
-    "id": "914f14710638",
-    "title": "Are you a Codex Original?",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/form/codex-originals",
-    "cluster_id": "c-8c8541725c"
-  },
-  {
-    "id": "d2d497e5eee4",
-    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-25T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/proaction",
-    "cluster_id": "c-dd9b8d4730"
-  },
-  {
-    "id": "e34096097658",
-    "title": "Lowe’s answers millions of home improvement questions with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-25T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Lowe’s uses OpenAI models to power Mylow and Mylow Companion, helping customers and associates answer 25M+ questions and move home improvement projects forward.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/lowes",
-    "cluster_id": "c-b6e85c3c63"
   }
 ]

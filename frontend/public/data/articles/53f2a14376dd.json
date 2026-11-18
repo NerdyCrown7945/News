@@ -1,0 +1,20 @@
+{
+  "id": "53f2a14376dd",
+  "title": "Inside the Codex sandbox",
+  "source": "OpenAI Blog",
+  "published_at": "2026-11-18T08:00:00Z",
+  "summary_lines": [
+    "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+  ],
+  "key_points": [
+    "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+  ],
+  "summary_lines_ko": [
+    "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+  ],
+  "key_points_ko": [
+    "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
+  ],
+  "url": "https://openai.com/index/inside-the-codex-sandbox",
+  "related": []
+}

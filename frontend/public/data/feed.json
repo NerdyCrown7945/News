@@ -1,5 +1,47 @@
 [
   {
+    "id": "e683d40fba10",
+    "title": "The Silent Consensus",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/the-silent-consensus",
+    "cluster_id": "c-50ae503e4a"
+  },
+  {
+    "id": "9fa731b0ef6c",
+    "title": "Research acceleration: The jagged frontier",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "cluster_id": "c-0bd34349b9"
+  },
+  {
+    "id": "b527b6f0ddce",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "cluster_id": "c-38d45bc835"
+  },
+  {
     "id": "53f2a14376dd",
     "title": "Inside the Codex sandbox",
     "source": "OpenAI Blog",
@@ -14,32 +56,18 @@
     "cluster_id": "c-8d28b2e0e9"
   },
   {
-    "id": "e683d40fba10",
-    "title": "The Silent Consensus",
+    "id": "8b6ac2940fdc",
+    "title": "Managing frontier AI risk: From training to deployment",
     "source": "OpenAI Blog",
-    "published_at": "2026-11-18T00:00:00Z",
+    "published_at": "2026-11-18T06:00:00Z",
     "topic": "ai",
-    "one_liner": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "one_liner": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/the-silent-consensus",
-    "cluster_id": "c-50ae503e4a"
-  },
-  {
-    "id": "c7d3ecb00643",
-    "title": "Advancing chip design with OpenAI models",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-18T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-    "cluster_id": "c-3e754ad87f"
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "cluster_id": "c-9dfa9e29dc"
   },
   {
     "id": "6cab9c8cd383",
@@ -54,6 +82,20 @@
     ],
     "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "cluster_id": "c-371d9c15ed"
+  },
+  {
+    "id": "c7d3ecb00643",
+    "title": "Advancing chip design with OpenAI models",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "cluster_id": "c-3e754ad87f"
   },
   {
     "id": "549a77347d5e",
@@ -98,20 +140,6 @@
     "cluster_id": "c-134adf0086"
   },
   {
-    "id": "58da9c66b145",
-    "title": "Introducing OpenAI for Chile",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-17T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-openai-for-chile",
-    "cluster_id": "c-bd5c951bdd"
-  },
-  {
     "id": "0604bc2b50fc",
     "title": "Astra for Law leads in legal intelligence",
     "source": "OpenAI Blog",
@@ -124,6 +152,20 @@
     ],
     "url": "https://openai.com/index/astra-law-6-2",
     "cluster_id": "c-da58894d6d"
+  },
+  {
+    "id": "58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "cluster_id": "c-bd5c951bdd"
   },
   {
     "id": "f26f2a4dfd6b",
@@ -210,20 +252,6 @@
     "cluster_id": "c-0b1075df1c"
   },
   {
-    "id": "b0ded74e06b0",
-    "title": "Advancing computer-use agents for healthcare teams",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-16T06:00:00Z",
-    "topic": "ai",
-    "one_liner": "Advancing computer-use agents for healthcare teams",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "cluster_id": "c-899c239f57"
-  },
-  {
     "id": "cfcc7acb02e9",
     "title": "More ways to move care forward with ChatGPT for Healthcare",
     "source": "OpenAI Blog",
@@ -236,6 +264,20 @@
     ],
     "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "cluster_id": "c-3324354aa4"
+  },
+  {
+    "id": "b0ded74e06b0",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T06:00:00Z",
+    "topic": "ai",
+    "one_liner": "Advancing computer-use agents for healthcare teams",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "cluster_id": "c-899c239f57"
   },
   {
     "id": "e3915f7e4cf0",
@@ -1526,20 +1568,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "1d7d75b47c31",
-    "title": "How Grupo Boticário uses AI to strengthen human connections",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/grupo-boticario",
-    "cluster_id": "c-d636a39c4f"
-  },
-  {
     "id": "827221925d8d",
     "title": "How Localiza reorganized work around generative AI",
     "source": "OpenAI Blog",
@@ -1552,6 +1580,20 @@
     ],
     "url": "https://openai.com/index/localiza-generative-ai",
     "cluster_id": "c-bc0cf9104e"
+  },
+  {
+    "id": "1d7d75b47c31",
+    "title": "How Grupo Boticário uses AI to strengthen human connections",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/grupo-boticario",
+    "cluster_id": "c-d636a39c4f"
   },
   {
     "id": "9db4940a53f8",
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/introducing-dots",
     "cluster_id": "c-8571e7c506"
-  },
-  {
-    "id": "cf468ec39dd6",
-    "title": "Towards safety cases for frontier AI training",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "cluster_id": "c-db7f91a370"
-  },
-  {
-    "id": "cfe8e900401f",
-    "title": "How we will do better for Australia",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T19:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "cluster_id": "c-29c9738731"
-  },
-  {
-    "id": "216d56bba26c",
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-28T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "cluster_id": "c-c1f85a3e19"
   }
 ]

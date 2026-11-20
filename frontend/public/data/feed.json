@@ -14,6 +14,62 @@
     "cluster_id": "c-93747d27d2"
   },
   {
+    "id": "4b08ec50268e",
+    "title": "Deploying Daybreak Red",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "cluster_id": "c-4f2541046b"
+  },
+  {
+    "id": "cb99e2baa62e",
+    "title": "See PR scans in action",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "cluster_id": "c-ebcb8d98e5"
+  },
+  {
+    "id": "e29ac258c013",
+    "title": "Explore the Codex Security Plugin",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "cluster_id": "c-adcf6754b6"
+  },
+  {
+    "id": "a2fb00344062",
+    "title": "Get started with Daybreak Blue",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "cluster_id": "c-ef0b2b293b"
+  },
+  {
     "id": "e683d40fba10",
     "title": "The Silent Consensus",
     "source": "OpenAI Blog",
@@ -28,20 +84,6 @@
     "cluster_id": "c-50ae503e4a"
   },
   {
-    "id": "b527b6f0ddce",
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-18T08:00:00Z",
-    "topic": "ai",
-    "one_liner": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/business/customer-stories/sumitomo-life",
-    "cluster_id": "c-38d45bc835"
-  },
-  {
     "id": "9fa731b0ef6c",
     "title": "Research acceleration: The jagged frontier",
     "source": "OpenAI Blog",
@@ -54,6 +96,20 @@
     ],
     "url": "https://openai.com/index/research-acceleration-jagged-frontier",
     "cluster_id": "c-0bd34349b9"
+  },
+  {
+    "id": "b527b6f0ddce",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "cluster_id": "c-38d45bc835"
   },
   {
     "id": "53f2a14376dd",
@@ -84,20 +140,6 @@
     "cluster_id": "c-9dfa9e29dc"
   },
   {
-    "id": "6cab9c8cd383",
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-18T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-    "cluster_id": "c-371d9c15ed"
-  },
-  {
     "id": "c7d3ecb00643",
     "title": "Advancing chip design with OpenAI models",
     "source": "OpenAI Blog",
@@ -110,6 +152,20 @@
     ],
     "url": "https://openai.com/index/advancing-chip-design-with-our-models",
     "cluster_id": "c-3e754ad87f"
+  },
+  {
+    "id": "6cab9c8cd383",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "cluster_id": "c-371d9c15ed"
   },
   {
     "id": "549a77347d5e",
@@ -896,20 +952,6 @@
     "cluster_id": "c-f7f64ed6d2"
   },
   {
-    "id": "262cfa35f430",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "cluster_id": "c-f66852c5b1"
-  },
-  {
     "id": "6fd6ad7938fa",
     "title": "Rewarding defenders with bigger bug bounties",
     "source": "OpenAI Blog",
@@ -922,6 +964,20 @@
     ],
     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "cluster_id": "c-242959d90a"
+  },
+  {
+    "id": "262cfa35f430",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "cluster_id": "c-f66852c5b1"
   },
   {
     "id": "de4cf53f9db9",
@@ -1582,20 +1638,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "827221925d8d",
-    "title": "How Localiza reorganized work around generative AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "cluster_id": "c-bc0cf9104e"
-  },
-  {
     "id": "1d7d75b47c31",
     "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
@@ -1608,6 +1650,20 @@
     ],
     "url": "https://openai.com/index/grupo-boticario",
     "cluster_id": "c-d636a39c4f"
+  },
+  {
+    "id": "827221925d8d",
+    "title": "How Localiza reorganized work around generative AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "9db4940a53f8",
@@ -1764,20 +1820,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "edd58468d564",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sophos",
-    "cluster_id": "c-7ab6ec4f67"
-  },
-  {
     "id": "90995f7dbc9c",
     "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
     "source": "OpenAI Blog",
@@ -1790,6 +1832,20 @@
     ],
     "url": "https://openai.com/index/asana-browser-agent",
     "cluster_id": "c-4b18fbfd31"
+  },
+  {
+    "id": "edd58468d564",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sophos",
+    "cluster_id": "c-7ab6ec4f67"
   },
   {
     "id": "112b5f00879d",
@@ -2042,61 +2098,5 @@
     ],
     "url": "https://openai.com/index/the-den-family-social",
     "cluster_id": "c-7474264aca"
-  },
-  {
-    "id": "6a91381a4292",
-    "title": "Disrupting a coordinated model-distillation campaign",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-30T10:30:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "cluster_id": "c-dd9be6be18"
-  },
-  {
-    "id": "b5e5e43443d2",
-    "title": "Helping small businesses put AI to work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-30T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "cluster_id": "c-1cc1f3cc20"
-  },
-  {
-    "id": "dd66acaed2a0",
-    "title": "Introducing GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-29T17:00:00Z",
-    "topic": "ai",
-    "one_liner": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "cluster_id": "c-6ce9939aee"
-  },
-  {
-    "id": "19db7cc5ca5c",
-    "title": "DevDay 2026 Recap",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-29T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/devday-2026-recap",
-    "cluster_id": "c-a618cce109"
   }
 ]

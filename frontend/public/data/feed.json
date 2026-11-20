@@ -1,5 +1,33 @@
 [
   {
+    "id": "3ea993db7e3c",
+    "title": "Combatting adversarial distillation",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-20T10:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "cluster_id": "c-1f8e7d1944"
+  },
+  {
+    "id": "f4784c304003",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-20T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-medchembench",
+    "cluster_id": "c-ed86fc94bc"
+  },
+  {
     "id": "6687f7be62c3",
     "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
     "source": "OpenAI Blog",
@@ -12,6 +40,20 @@
     ],
     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
     "cluster_id": "c-93747d27d2"
+  },
+  {
+    "id": "e29ac258c013",
+    "title": "Explore the Codex Security Plugin",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "cluster_id": "c-adcf6754b6"
   },
   {
     "id": "4b08ec50268e",
@@ -42,20 +84,6 @@
     "cluster_id": "c-ebcb8d98e5"
   },
   {
-    "id": "e29ac258c013",
-    "title": "Explore the Codex Security Plugin",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-19T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "cluster_id": "c-adcf6754b6"
-  },
-  {
     "id": "a2fb00344062",
     "title": "Get started with Daybreak Blue",
     "source": "OpenAI Blog",
@@ -84,20 +112,6 @@
     "cluster_id": "c-50ae503e4a"
   },
   {
-    "id": "9fa731b0ef6c",
-    "title": "Research acceleration: The jagged frontier",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-18T08:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "cluster_id": "c-0bd34349b9"
-  },
-  {
     "id": "b527b6f0ddce",
     "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
     "source": "OpenAI Blog",
@@ -110,6 +124,20 @@
     ],
     "url": "https://openai.com/business/customer-stories/sumitomo-life",
     "cluster_id": "c-38d45bc835"
+  },
+  {
+    "id": "9fa731b0ef6c",
+    "title": "Research acceleration: The jagged frontier",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "cluster_id": "c-0bd34349b9"
   },
   {
     "id": "53f2a14376dd",
@@ -1638,20 +1666,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "1d7d75b47c31",
-    "title": "How Grupo Boticário uses AI to strengthen human connections",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/grupo-boticario",
-    "cluster_id": "c-d636a39c4f"
-  },
-  {
     "id": "827221925d8d",
     "title": "How Localiza reorganized work around generative AI",
     "source": "OpenAI Blog",
@@ -1666,18 +1680,18 @@
     "cluster_id": "c-bc0cf9104e"
   },
   {
-    "id": "9db4940a53f8",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "id": "1d7d75b47c31",
+    "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "one_liner": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "cluster_id": "c-e8d095e780"
+    "url": "https://openai.com/index/grupo-boticario",
+    "cluster_id": "c-d636a39c4f"
   },
   {
     "id": "4a2f3ca18eb9",
@@ -1692,6 +1706,20 @@
     ],
     "url": "https://openai.com/index/benefit-street-partners",
     "cluster_id": "c-e7d2942a55"
+  },
+  {
+    "id": "9db4940a53f8",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "cluster_id": "c-e8d095e780"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1820,20 +1848,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -1846,6 +1860,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -2070,33 +2098,5 @@
     ],
     "url": "https://openai.com/index/the-eternal-complement",
     "cluster_id": "c-2858c91264"
-  },
-  {
-    "id": "a80484c2d584",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-01T16:00:00Z",
-    "topic": "ai",
-    "one_liner": "Albertsons Cos.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/albertsons-reimagining-retail",
-    "cluster_id": "c-40e308bdc5"
-  },
-  {
-    "id": "3bba52758573",
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-01T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/the-den-family-social",
-    "cluster_id": "c-7474264aca"
   }
 ]

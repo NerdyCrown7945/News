@@ -14,6 +14,20 @@
     "cluster_id": "c-1f8e7d1944"
   },
   {
+    "id": "d15c45643214",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-20T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Hebbia tested GPT-6 Astra for financial research.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "cluster_id": "c-7ddf856a1a"
+  },
+  {
     "id": "f4784c304003",
     "title": "Can AI help scientists identify promising drug candidates?",
     "source": "OpenAI Blog",
@@ -56,20 +70,6 @@
     "cluster_id": "c-adcf6754b6"
   },
   {
-    "id": "4b08ec50268e",
-    "title": "Deploying Daybreak Red",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-19T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
-    "cluster_id": "c-4f2541046b"
-  },
-  {
     "id": "cb99e2baa62e",
     "title": "See PR scans in action",
     "source": "OpenAI Blog",
@@ -96,6 +96,20 @@
     ],
     "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
     "cluster_id": "c-ef0b2b293b"
+  },
+  {
+    "id": "4b08ec50268e",
+    "title": "Deploying Daybreak Red",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "cluster_id": "c-4f2541046b"
   },
   {
     "id": "e683d40fba10",
@@ -238,20 +252,6 @@
     "cluster_id": "c-134adf0086"
   },
   {
-    "id": "58da9c66b145",
-    "title": "Introducing OpenAI for Chile",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-17T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-openai-for-chile",
-    "cluster_id": "c-bd5c951bdd"
-  },
-  {
     "id": "0604bc2b50fc",
     "title": "Astra for Law leads in legal intelligence",
     "source": "OpenAI Blog",
@@ -264,6 +264,20 @@
     ],
     "url": "https://openai.com/index/astra-law-6-2",
     "cluster_id": "c-da58894d6d"
+  },
+  {
+    "id": "58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "cluster_id": "c-bd5c951bdd"
   },
   {
     "id": "f26f2a4dfd6b",
@@ -1050,20 +1064,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "ff138f709a7e",
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
-    "cluster_id": "c-3b88fbe7b9"
-  },
-  {
     "id": "598c6194c0d3",
     "title": "Qodo builds context into AI code review with Codex",
     "source": "OpenAI Blog",
@@ -1076,6 +1076,20 @@
     ],
     "url": "https://openai.com/index/qodo-codex-plugin",
     "cluster_id": "c-7e5c6c3e93"
+  },
+  {
+    "id": "ff138f709a7e",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "cluster_id": "c-3b88fbe7b9"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/chatham-financial",
     "cluster_id": "c-b16075432c"
-  },
-  {
-    "id": "7e67b43cf9d0",
-    "title": "The eternal complement",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-01T17:00:00Z",
-    "topic": "ai",
-    "one_liner": "Advanced AI may matter most for the routine work behind breakthrough ideas.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/the-eternal-complement",
-    "cluster_id": "c-2858c91264"
   }
 ]

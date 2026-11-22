@@ -1,5 +1,19 @@
 [
   {
+    "id": "de5cd1a6d51d",
+    "title": "Perplexity and Intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-22T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "cluster_id": "c-c0a09faf63"
+  },
+  {
     "id": "3ea993db7e3c",
     "title": "Combatting adversarial distillation",
     "source": "OpenAI Blog",
@@ -56,18 +70,18 @@
     "cluster_id": "c-93747d27d2"
   },
   {
-    "id": "e29ac258c013",
-    "title": "Explore the Codex Security Plugin",
+    "id": "4b08ec50268e",
+    "title": "Deploying Daybreak Red",
     "source": "OpenAI Blog",
     "published_at": "2026-11-19T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "one_liner": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "cluster_id": "c-adcf6754b6"
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "cluster_id": "c-4f2541046b"
   },
   {
     "id": "cb99e2baa62e",
@@ -98,18 +112,18 @@
     "cluster_id": "c-ef0b2b293b"
   },
   {
-    "id": "4b08ec50268e",
-    "title": "Deploying Daybreak Red",
+    "id": "e29ac258c013",
+    "title": "Explore the Codex Security Plugin",
     "source": "OpenAI Blog",
     "published_at": "2026-11-19T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "one_liner": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
-    "cluster_id": "c-4f2541046b"
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "cluster_id": "c-adcf6754b6"
   },
   {
     "id": "e683d40fba10",
@@ -126,20 +140,6 @@
     "cluster_id": "c-50ae503e4a"
   },
   {
-    "id": "b527b6f0ddce",
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-18T08:00:00Z",
-    "topic": "ai",
-    "one_liner": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/business/customer-stories/sumitomo-life",
-    "cluster_id": "c-38d45bc835"
-  },
-  {
     "id": "9fa731b0ef6c",
     "title": "Research acceleration: The jagged frontier",
     "source": "OpenAI Blog",
@@ -152,6 +152,20 @@
     ],
     "url": "https://openai.com/index/research-acceleration-jagged-frontier",
     "cluster_id": "c-0bd34349b9"
+  },
+  {
+    "id": "b527b6f0ddce",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "cluster_id": "c-38d45bc835"
   },
   {
     "id": "53f2a14376dd",
@@ -252,20 +266,6 @@
     "cluster_id": "c-134adf0086"
   },
   {
-    "id": "0604bc2b50fc",
-    "title": "Astra for Law leads in legal intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-17T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/astra-law-6-2",
-    "cluster_id": "c-da58894d6d"
-  },
-  {
     "id": "58da9c66b145",
     "title": "Introducing OpenAI for Chile",
     "source": "OpenAI Blog",
@@ -278,6 +278,20 @@
     ],
     "url": "https://openai.com/index/introducing-openai-for-chile",
     "cluster_id": "c-bd5c951bdd"
+  },
+  {
+    "id": "0604bc2b50fc",
+    "title": "Astra for Law leads in legal intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/astra-law-6-2",
+    "cluster_id": "c-da58894d6d"
   },
   {
     "id": "f26f2a4dfd6b",
@@ -994,20 +1008,6 @@
     "cluster_id": "c-f7f64ed6d2"
   },
   {
-    "id": "6fd6ad7938fa",
-    "title": "Rewarding defenders with bigger bug bounties",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "cluster_id": "c-242959d90a"
-  },
-  {
     "id": "262cfa35f430",
     "title": "Preparing our next security sprint to harden OpenAI",
     "source": "OpenAI Blog",
@@ -1020,6 +1020,20 @@
     ],
     "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "cluster_id": "c-f66852c5b1"
+  },
+  {
+    "id": "6fd6ad7938fa",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "cluster_id": "c-242959d90a"
   },
   {
     "id": "de4cf53f9db9",
@@ -1064,20 +1078,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "598c6194c0d3",
-    "title": "Qodo builds context into AI code review with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "cluster_id": "c-7e5c6c3e93"
-  },
-  {
     "id": "ff138f709a7e",
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "source": "OpenAI Blog",
@@ -1090,6 +1090,20 @@
     ],
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "cluster_id": "c-3b88fbe7b9"
+  },
+  {
+    "id": "598c6194c0d3",
+    "title": "Qodo builds context into AI code review with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "cluster_id": "c-7e5c6c3e93"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -1708,20 +1722,6 @@
     "cluster_id": "c-d636a39c4f"
   },
   {
-    "id": "4a2f3ca18eb9",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/benefit-street-partners",
-    "cluster_id": "c-e7d2942a55"
-  },
-  {
     "id": "9db4940a53f8",
     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "source": "OpenAI Blog",
@@ -1734,6 +1734,20 @@
     ],
     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "cluster_id": "c-e8d095e780"
+  },
+  {
+    "id": "4a2f3ca18eb9",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/benefit-street-partners",
+    "cluster_id": "c-e7d2942a55"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1862,20 +1876,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "edd58468d564",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/sophos",
-    "cluster_id": "c-7ab6ec4f67"
-  },
-  {
     "id": "90995f7dbc9c",
     "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
     "source": "OpenAI Blog",
@@ -1888,6 +1888,20 @@
     ],
     "url": "https://openai.com/index/asana-browser-agent",
     "cluster_id": "c-4b18fbfd31"
+  },
+  {
+    "id": "edd58468d564",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/sophos",
+    "cluster_id": "c-7ab6ec4f67"
   },
   {
     "id": "112b5f00879d",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/practical-guide-building-gpt-6",
     "cluster_id": "c-8028ad61c2"
-  },
-  {
-    "id": "a97398f76ee5",
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/chatham-financial",
-    "cluster_id": "c-b16075432c"
   }
 ]

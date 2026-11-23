@@ -1,5 +1,47 @@
 [
   {
+    "id": "1d0c151fefed",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-23T21:20:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-shirudo",
+    "cluster_id": "c-3fa2e2e24f"
+  },
+  {
+    "id": "f8a4e02f4212",
+    "title": "Connected intelligence for in-house legal",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-23T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside co",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "cluster_id": "c-f0f62f005e"
+  },
+  {
+    "id": "680b35173b97",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-23T08:00:00Z",
+    "topic": "ai",
+    "one_liner": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "cluster_id": "c-6e6137bde6"
+  },
+  {
     "id": "de5cd1a6d51d",
     "title": "Perplexity and Intelligence",
     "source": "OpenAI Blog",
@@ -70,20 +112,6 @@
     "cluster_id": "c-93747d27d2"
   },
   {
-    "id": "4b08ec50268e",
-    "title": "Deploying Daybreak Red",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-19T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
-    "cluster_id": "c-4f2541046b"
-  },
-  {
     "id": "cb99e2baa62e",
     "title": "See PR scans in action",
     "source": "OpenAI Blog",
@@ -124,6 +152,20 @@
     ],
     "url": "https://openai.com/business/learn/codex-security-plugin-demo",
     "cluster_id": "c-adcf6754b6"
+  },
+  {
+    "id": "4b08ec50268e",
+    "title": "Deploying Daybreak Red",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-19T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "cluster_id": "c-4f2541046b"
   },
   {
     "id": "e683d40fba10",
@@ -196,20 +238,6 @@
     "cluster_id": "c-9dfa9e29dc"
   },
   {
-    "id": "c7d3ecb00643",
-    "title": "Advancing chip design with OpenAI models",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-18T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-    "cluster_id": "c-3e754ad87f"
-  },
-  {
     "id": "6cab9c8cd383",
     "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
     "source": "OpenAI Blog",
@@ -222,6 +250,20 @@
     ],
     "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "cluster_id": "c-371d9c15ed"
+  },
+  {
+    "id": "c7d3ecb00643",
+    "title": "Advancing chip design with OpenAI models",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-18T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "cluster_id": "c-3e754ad87f"
   },
   {
     "id": "549a77347d5e",
@@ -266,20 +308,6 @@
     "cluster_id": "c-134adf0086"
   },
   {
-    "id": "58da9c66b145",
-    "title": "Introducing OpenAI for Chile",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-17T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/introducing-openai-for-chile",
-    "cluster_id": "c-bd5c951bdd"
-  },
-  {
     "id": "0604bc2b50fc",
     "title": "Astra for Law leads in legal intelligence",
     "source": "OpenAI Blog",
@@ -292,6 +320,20 @@
     ],
     "url": "https://openai.com/index/astra-law-6-2",
     "cluster_id": "c-da58894d6d"
+  },
+  {
+    "id": "58da9c66b145",
+    "title": "Introducing OpenAI for Chile",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "cluster_id": "c-bd5c951bdd"
   },
   {
     "id": "f26f2a4dfd6b",
@@ -1078,20 +1120,6 @@
     "cluster_id": "c-d6d1f714ac"
   },
   {
-    "id": "ff138f709a7e",
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
-    "cluster_id": "c-3b88fbe7b9"
-  },
-  {
     "id": "598c6194c0d3",
     "title": "Qodo builds context into AI code review with Codex",
     "source": "OpenAI Blog",
@@ -1104,6 +1132,20 @@
     ],
     "url": "https://openai.com/index/qodo-codex-plugin",
     "cluster_id": "c-7e5c6c3e93"
+  },
+  {
+    "id": "ff138f709a7e",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "cluster_id": "c-3b88fbe7b9"
   },
   {
     "id": "25cc4c9bb2e3",
@@ -1694,20 +1736,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "827221925d8d",
-    "title": "How Localiza reorganized work around generative AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "cluster_id": "c-bc0cf9104e"
-  },
-  {
     "id": "1d7d75b47c31",
     "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
@@ -1722,18 +1750,18 @@
     "cluster_id": "c-d636a39c4f"
   },
   {
-    "id": "9db4940a53f8",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "id": "827221925d8d",
+    "title": "How Localiza reorganized work around generative AI",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "cluster_id": "c-e8d095e780"
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "4a2f3ca18eb9",
@@ -1748,6 +1776,20 @@
     ],
     "url": "https://openai.com/index/benefit-street-partners",
     "cluster_id": "c-e7d2942a55"
+  },
+  {
+    "id": "9db4940a53f8",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "cluster_id": "c-e8d095e780"
   },
   {
     "id": "a72d1e4da6b0",
@@ -1876,20 +1918,6 @@
     "cluster_id": "c-911e7a5cdc"
   },
   {
-    "id": "90995f7dbc9c",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-09T07:00:00Z",
-    "topic": "ai",
-    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/asana-browser-agent",
-    "cluster_id": "c-4b18fbfd31"
-  },
-  {
     "id": "edd58468d564",
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "source": "OpenAI Blog",
@@ -1902,6 +1930,20 @@
     ],
     "url": "https://openai.com/index/sophos",
     "cluster_id": "c-7ab6ec4f67"
+  },
+  {
+    "id": "90995f7dbc9c",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-09T07:00:00Z",
+    "topic": "ai",
+    "one_liner": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/asana-browser-agent",
+    "cluster_id": "c-4b18fbfd31"
   },
   {
     "id": "112b5f00879d",
@@ -2056,47 +2098,5 @@
     ],
     "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
     "cluster_id": "c-531ecf25c3"
-  },
-  {
-    "id": "78ad53815846",
-    "title": "Our approach to EU text provenance rules",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-05T15:00:00Z",
-    "topic": "ai",
-    "one_liner": "How OpenAI is approaching text watermarking under EU rules.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/eu-text-provenance",
-    "cluster_id": "c-afaee41fd6"
-  },
-  {
-    "id": "3cbec84de8bf",
-    "title": "Building advertising for the way people use AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-05T10:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "cluster_id": "c-3350a2857c"
-  },
-  {
-    "id": "8e206c4d9ed6",
-    "title": "A model guide for the GPT-6 family",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-02T16:15:00Z",
-    "topic": "ai",
-    "one_liner": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "cluster_id": "c-8028ad61c2"
   }
 ]

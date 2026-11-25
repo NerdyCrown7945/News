@@ -56,6 +56,20 @@
     "cluster_id": "c-f3050da894"
   },
   {
+    "id": "99b93f3e1098",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-24T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "cluster_id": "c-c69a4e98d7"
+  },
+  {
     "id": "1d0c151fefed",
     "title": "OpenAI and Cisco introduce Shirudo",
     "source": "OpenAI Blog",
@@ -168,18 +182,18 @@
     "cluster_id": "c-93747d27d2"
   },
   {
-    "id": "e29ac258c013",
-    "title": "Explore the Codex Security Plugin",
+    "id": "cb99e2baa62e",
+    "title": "See PR scans in action",
     "source": "OpenAI Blog",
     "published_at": "2026-11-19T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "one_liner": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "cluster_id": "c-adcf6754b6"
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "cluster_id": "c-ebcb8d98e5"
   },
   {
     "id": "4b08ec50268e",
@@ -196,18 +210,18 @@
     "cluster_id": "c-4f2541046b"
   },
   {
-    "id": "cb99e2baa62e",
-    "title": "See PR scans in action",
+    "id": "e29ac258c013",
+    "title": "Explore the Codex Security Plugin",
     "source": "OpenAI Blog",
     "published_at": "2026-11-19T00:00:00Z",
     "topic": "ai",
-    "one_liner": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "one_liner": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
     "tags": [
       "llm",
       "research"
     ],
-    "url": "https://openai.com/business/learn/pr-scans-demo",
-    "cluster_id": "c-ebcb8d98e5"
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "cluster_id": "c-adcf6754b6"
   },
   {
     "id": "a2fb00344062",
@@ -364,20 +378,6 @@
     "cluster_id": "c-134adf0086"
   },
   {
-    "id": "0604bc2b50fc",
-    "title": "Astra for Law leads in legal intelligence",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-17T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/astra-law-6-2",
-    "cluster_id": "c-da58894d6d"
-  },
-  {
     "id": "58da9c66b145",
     "title": "Introducing OpenAI for Chile",
     "source": "OpenAI Blog",
@@ -390,6 +390,20 @@
     ],
     "url": "https://openai.com/index/introducing-openai-for-chile",
     "cluster_id": "c-bd5c951bdd"
+  },
+  {
+    "id": "0604bc2b50fc",
+    "title": "Astra for Law leads in legal intelligence",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-17T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/astra-law-6-2",
+    "cluster_id": "c-da58894d6d"
   },
   {
     "id": "f26f2a4dfd6b",
@@ -1106,20 +1120,6 @@
     "cluster_id": "c-f7f64ed6d2"
   },
   {
-    "id": "262cfa35f430",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T18:00:00Z",
-    "topic": "ai",
-    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "cluster_id": "c-f66852c5b1"
-  },
-  {
     "id": "6fd6ad7938fa",
     "title": "Rewarding defenders with bigger bug bounties",
     "source": "OpenAI Blog",
@@ -1132,6 +1132,20 @@
     ],
     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "cluster_id": "c-242959d90a"
+  },
+  {
+    "id": "262cfa35f430",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T18:00:00Z",
+    "topic": "ai",
+    "one_liner": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "cluster_id": "c-f66852c5b1"
   },
   {
     "id": "de4cf53f9db9",
@@ -1792,20 +1806,6 @@
     "cluster_id": "c-32e4f1243c"
   },
   {
-    "id": "827221925d8d",
-    "title": "How Localiza reorganized work around generative AI",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "cluster_id": "c-bc0cf9104e"
-  },
-  {
     "id": "1d7d75b47c31",
     "title": "How Grupo Boticário uses AI to strengthen human connections",
     "source": "OpenAI Blog",
@@ -1818,6 +1818,20 @@
     ],
     "url": "https://openai.com/index/grupo-boticario",
     "cluster_id": "c-d636a39c4f"
+  },
+  {
+    "id": "827221925d8d",
+    "title": "How Localiza reorganized work around generative AI",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00Z",
+    "topic": "ai",
+    "one_liner": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+    "tags": [
+      "llm",
+      "research"
+    ],
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "cluster_id": "c-bc0cf9104e"
   },
   {
     "id": "4a2f3ca18eb9",
@@ -2084,19 +2098,5 @@
     ],
     "url": "https://openai.com/index/radisson",
     "cluster_id": "c-473c1f1982"
-  },
-  {
-    "id": "0ca1450969b5",
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-07T00:00:00Z",
-    "topic": "ai",
-    "one_liner": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "tags": [
-      "llm",
-      "research"
-    ],
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "cluster_id": "c-54add64189"
   }
 ]
